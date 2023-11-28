@@ -1,0 +1,2 @@
+FROM build-e2e-dsxp-tenant/build-suite-component-update-lvnw/multi-component-parent-bxhb
+RUN echo hello
