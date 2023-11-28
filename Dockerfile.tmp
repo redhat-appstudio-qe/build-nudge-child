@@ -1,0 +1,2 @@
+FROM build-e2e-rrjt-tenant/build-suite-component-update-jsdl/multi-component-parent-gqaw
+RUN echo hello
