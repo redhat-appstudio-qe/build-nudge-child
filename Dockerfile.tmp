@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-flsb-tenant/build-suite-component-update-dffw/multi-component-parent-vpck
+RUN echo hello
