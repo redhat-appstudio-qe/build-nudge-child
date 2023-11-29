@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pxkp-tenant/build-suite-component-update-iejs/multi-component-parent-vrzc@sha256:d905a47364cabdb7561ae8abc41278ac2139f365a6c7ff51bd0b73f9a7245eb0
+RUN echo hello
