@@ -1,3 +1,3 @@
-FROM quay.io/sdouglas/multi-component-parent-image@sha256:87898f08a68d87084dc88ae537a30857f0e940335b3b90242c7c0718592c24eb
+FROM quay.io/redhat-appstudio-qe/build-e2e-kwuz-tenant/build-suite-component-update-pwlj/multi-component-parent-dclt@sha256:5bbfe4f432585b2b8412303f88d32b7dd8b6ca803cac4dc2090d54bcea4476bb
 
 ENV NAME="Child"
