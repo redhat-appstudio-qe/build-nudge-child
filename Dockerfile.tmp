@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-uqvi-tenant/build-suite-component-update-uglp/multi-component-parent-efmu@sha256:2053f1ccd9f164ae2ddcbbe82bf2d91d88d9be487f2ea25c9ef02d9c6bc7967a
+RUN echo hello
