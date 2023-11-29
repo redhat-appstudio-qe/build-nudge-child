@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xaeb-tenant/build-suite-component-update-lgus/multi-component-parent-niba@sha256:bdd449b1c64812623a7c19a16f6f1cc476f3461d25d2cd505e5b511ba08175d6
+RUN echo hello
