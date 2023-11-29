@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ucgz-tenant/build-suite-component-update-pmvk/multi-component-parent-enyo@sha256:e5f6db44e0bc64f02ec448588f253a45aae81fd26f5c75674c10f6e6d5051b0f
+RUN echo hello
