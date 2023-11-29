@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nkyw-tenant/build-suite-component-update-rxom/multi-component-parent-bszb@sha256:514493fe9803f8883e652893332dcfc581d6d0f5e899a9cea21d58ceba06b401
+RUN echo hello
