@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jdeg-tenant/build-suite-component-update-uvng/multi-component-parent-yert@sha256:2eca0f7065551675e2e93b8145c870626c12c0ff4d875cf450a6df31ff7ac0ab
+RUN echo hello
