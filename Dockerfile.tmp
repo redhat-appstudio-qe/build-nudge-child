@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-yznn-tenant/build-suite-component-update-eyrm/multi-component-parent-dkql@sha256:660b70cbfb1ee8dd87ffc439e9a3bcc7b2846e5c450fa804880212bada17ed95
+RUN echo hello
