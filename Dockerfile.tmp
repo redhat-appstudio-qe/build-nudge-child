@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-uxng-tenant/build-suite-component-update-ukro/multi-component-parent-qypq@sha256:d2eaa6859d9bc27dcdddc22f23d52d10f6ae4121474370c1f22f110775be5d3d
+RUN echo hello
