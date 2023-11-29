@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-najq-tenant/build-suite-component-update-cffh/multi-component-parent-tzdk@sha256:cc0f07152263bf469ad11a5837db2839fb700f08637c8838a03ad08b4ec86d98
+RUN echo hello
