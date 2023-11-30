@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bhmh-tenant/build-suite-component-update-hncn/multi-component-parent-smap@sha256:bce5c6ddae85d38597cd0cc0f47446311505c3ee2d24b1c2b4413d472958b17b
+RUN echo hello
