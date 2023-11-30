@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fkhg-tenant/build-suite-component-update-udxf/multi-component-parent-nciw@sha256:1d399e8fd6b54c2c17f51aa31b12f17767f01d4d00ba99cbdcbba62a6b31dfc2
+FROM quay.io/redhat-appstudio-qe/build-e2e-fkhg-tenant/build-suite-component-update-udxf/multi-component-parent-nciw@sha256:a07b3aa91a2d074931d75ed8afba21644e71165561cf2ff4b1ec99c2d49c9258
 RUN echo hello
