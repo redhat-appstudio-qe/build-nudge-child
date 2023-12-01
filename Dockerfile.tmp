@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rrle-tenant/build-suite-component-update-qutm/multi-component-parent-nghw@sha256:1fcdbd90c82240cf464129f74d76499c344d9c523c429070f227df7cf63bfe7e
+RUN echo hello
