@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xtbo-tenant/build-suite-component-update-lobv/multi-component-parent-frlf@sha256:116c67b985d870618577862db5a987fe41747588928019ec949952f12066b461
+RUN echo hello
