@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-anfg-tenant/build-suite-component-update-ilwa/multi-component-parent-tpkn@sha256:5b1427c4a29516107ffc2ce87eb7712ba3c9ced9f6f7619e1a7f09b3a1cf51fc
+RUN echo hello
