@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vack-tenant/build-suite-component-update-crih/multi-component-parent-dmcr@sha256:96e64edf16fac44f1aa946b7916accb78ce885c62edf73c61c4080fd39e9494a
+RUN echo hello
