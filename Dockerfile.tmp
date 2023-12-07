@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pfgx-tenant/build-suite-component-update-jqyt/multi-component-parent-dksi@
+RUN echo hello
