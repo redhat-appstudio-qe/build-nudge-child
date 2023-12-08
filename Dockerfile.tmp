@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cuvw-tenant/build-suite-component-update-nkuj/multi-component-parent-sdxm@
+RUN echo hello
