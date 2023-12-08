@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bqad-tenant/build-suite-component-update-cgyn/multi-component-parent-jkji@
+RUN echo hello
