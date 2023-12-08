@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cpfy-tenant/build-suite-component-update-bvrp/multi-component-parent-dymk@
+RUN echo hello
