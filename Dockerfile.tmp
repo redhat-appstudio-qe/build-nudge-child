@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vlnd-tenant/build-suite-component-update-dpbx/multi-component-parent-pkuf@
+RUN echo hello
