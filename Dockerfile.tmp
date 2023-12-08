@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-uuzd-tenant/build-suite-component-update-vndh/multi-component-parent-nqdj@
+RUN echo hello
