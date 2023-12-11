@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bnla-tenant/build-suite-component-update-ficx/multi-component-parent-yecy@sha256:885099269536150fd3874eb0d53967a54be7c8b69eeee60ca72f8996c9ca4c5b
+RUN echo hello
