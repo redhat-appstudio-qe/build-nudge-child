@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ifrm-tenant/build-suite-component-update-kopj/multi-component-parent-kjat@sha256:75b1cb14876179beb43f5ce8587b0085344a6c3d891428cc50b2b31ef45e955f
+RUN echo hello
