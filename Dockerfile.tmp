@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wouv-tenant/build-suite-component-update-kwey/multi-component-parent-ecrn@sha256:5d3725b71bbc8005673ea527536e15e5529a5159d4d6b15788869a471be6810b
+RUN echo hello
