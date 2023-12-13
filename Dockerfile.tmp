@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dgab-tenant/build-suite-component-update-fsfx/multi-component-parent-toic@sha256:b5d54854442e74d72276d00cf4999935755fe328e82e785d9812cab4fa592592
+FROM quay.io/redhat-appstudio-qe/build-e2e-dgab-tenant/build-suite-component-update-fsfx/multi-component-parent-toic@sha256:049fe0b9ce645038f9394c3ec7751c87728d171aceeb3740f23d2b42848c21a9
 RUN echo hello
