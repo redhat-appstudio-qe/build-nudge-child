@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wdwz-tenant/build-suite-component-update-ilvr/multi-component-parent-prxq@sha256:9874601f46c98860901a71c28db9bf5819c833101b4a423cd417fa8ab851e082
+FROM quay.io/redhat-appstudio-qe/build-e2e-wdwz-tenant/build-suite-component-update-ilvr/multi-component-parent-prxq@sha256:6285c5aea0ddc23d71f4bc7748a435de543268d32213925515836f9771bab59f
 RUN echo hello
