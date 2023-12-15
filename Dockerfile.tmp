@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-sfxb-tenant/build-suite-component-update-gctu/multi-component-parent-skho@sha256:ba47344b91534e097e999c508a3c09fde221cd34742fcda1b6ee740f7f3449ba
+RUN echo hello
