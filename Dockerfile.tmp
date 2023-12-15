@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dmkm-tenant/build-suite-component-update-xnhz/multi-component-parent-zegs@sha256:ce56a578ae821f58f1c9b07846d627786893b90eecbeba7926af5f15078451b1
+RUN echo hello
