@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qvti-tenant/build-suite-component-update-mted/multi-component-parent-vris@sha256:9fad032fc1fd74717ab700ae4f753ed3a434ba699055e360c1a7c374df9970e1
+FROM quay.io/redhat-appstudio-qe/build-e2e-qvti-tenant/build-suite-component-update-mted/multi-component-parent-vris@sha256:df21627b41e74b6c229fb529063298ba9d78c8e141dba50c5266e1fae49ad90d
 RUN echo hello
