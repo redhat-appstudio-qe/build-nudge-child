@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lege-tenant/build-suite-component-update-wzzs/multi-component-parent-pvip@sha256:fb38e062d41954d946ab4c4db6a3058f03bf6648355096b968b37aedc856393a
+FROM quay.io/redhat-appstudio-qe/build-e2e-lege-tenant/build-suite-component-update-wzzs/multi-component-parent-pvip@sha256:21e845e961cacd335296ca5e6d21d6528a862dbbadd071c73b81e37692e3732e
 RUN echo hello
