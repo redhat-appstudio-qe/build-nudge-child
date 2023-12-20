@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-znih-tenant/build-suite-component-update-mrzi/multi-component-parent-iiwg@sha256:34545454142e816345185204b44a078e78625356da5c8deaaa65e9d90642c774
+RUN echo hello
