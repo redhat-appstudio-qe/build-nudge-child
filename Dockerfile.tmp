@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dlrv-tenant/build-suite-component-update-gvii/multi-component-parent-ezcd@sha256:60097a302447f41a484ed45a44b61e51adfee98d24f7de09b09732b6993d28cd
+RUN echo hello
