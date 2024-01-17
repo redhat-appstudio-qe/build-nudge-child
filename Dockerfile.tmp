@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-qntu-tenant/build-suite-component-update-uyui/multi-component-parent-udul@sha256:946f0c402d876a345e4ec900d9183d779f204de243ade5325120d03a8cfa4ddd
+RUN echo hello
