@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ukyo-tenant/build-suite-component-update-qova/multi-component-parent-xyhc@sha256:f2c19f2258363fa0749dd87af4445944f4bac1ce83cb0d764913c8c96405c04d
+RUN echo hello
