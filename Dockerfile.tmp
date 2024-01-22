@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tgdm-tenant/build-suite-component-update-hpmk/multi-component-parent-fwio@sha256:2f7a6dca6d2121ed0a9594c1f9db3c2828037892fe110e608e16e6d939128144
+RUN echo hello
