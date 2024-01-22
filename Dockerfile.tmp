@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cafc-tenant/build-suite-component-update-qqlj/multi-component-parent-pyik@sha256:6c53a42e13713c2125692ff96e414f1b085ac6a0a8c42e0ffc39681820148b0c
+RUN echo hello
