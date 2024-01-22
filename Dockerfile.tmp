@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ijsu-tenant/build-suite-component-update-obzt/multi-component-parent-gthb@sha256:dd4be1e0fdabadb400298b05e3f4d53ee35734dfd35235e79cc7dd625474dcb5
+FROM quay.io/redhat-appstudio-qe/build-e2e-ijsu-tenant/build-suite-component-update-obzt/multi-component-parent-gthb@sha256:61a4dbbb86007719c18d6d4dced9c8ee2a4efa08298d2e1fec22dd4d3150f407
 RUN echo hello
