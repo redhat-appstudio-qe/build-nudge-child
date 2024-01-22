@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xiei-tenant/build-suite-component-update-klde/multi-component-parent-rfph@sha256:5c605dccdf5c493b129c4f42967e1699ef27030fddb6ad5c71c71e3c28c1dc28
+RUN echo hello
