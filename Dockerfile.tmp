@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bodm-tenant/build-suite-component-update-iwal/multi-component-parent-untr@sha256:baf60b6032f46307de97d9e643abca0ea71ea82a5a7c8df005b1236ff9fbe279
+FROM quay.io/redhat-appstudio-qe/build-e2e-bodm-tenant/build-suite-component-update-iwal/multi-component-parent-untr@sha256:864516c3bd90626a212031690a0670a48d579552e8f94954720a911c31c861e4
 RUN echo hello
