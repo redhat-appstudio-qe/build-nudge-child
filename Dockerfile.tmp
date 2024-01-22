@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xoar-tenant/build-suite-component-update-canb/multi-component-parent-mfsr@sha256:47395abcb593e635459a5483e4dad00996d5efbda61aa4004ec2ea20e2a62cf0
+RUN echo hello
