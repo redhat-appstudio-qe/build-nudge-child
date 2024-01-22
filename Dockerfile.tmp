@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cgil-tenant/build-suite-component-update-bufj/multi-component-parent-eoyi@sha256:268b407f2441d26540a692bd3af6c676bf4a1dc6f81ca33c0f296aaa2fabe518
+RUN echo hello
