@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-biks-tenant/build-suite-component-update-prxz/multi-component-parent-itrp@sha256:95511142ebb27f1051cab372b781488a0f375d306abcf192e00db016d5905e5f
+FROM quay.io/redhat-appstudio-qe/build-e2e-biks-tenant/build-suite-component-update-prxz/multi-component-parent-itrp@sha256:00a580a4fd4fc4702102f7f53e111ec1d8d42d56b5d8bc8313f74f5bdd6bda82
 RUN echo hello
