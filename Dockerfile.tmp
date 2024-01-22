@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lahx-tenant/build-suite-component-update-zbei/multi-component-parent-zwdy@sha256:6217d1a976849ffd0b55e58858fe518c7217013cb3bf410044fbf6b904f560eb
+RUN echo hello
