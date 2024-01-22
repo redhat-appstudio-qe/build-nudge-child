@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zxqf-tenant/build-suite-component-update-htva/multi-component-parent-ppar@sha256:50282fe86b3dddb538b0319ac2eb794139da23dc0798138134d62c375a184d74
+RUN echo hello
