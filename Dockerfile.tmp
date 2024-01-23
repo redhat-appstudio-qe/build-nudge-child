@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-usdz-tenant/build-suite-component-update-garn/multi-component-parent-ftrp@sha256:3a423c8b162527d0b0413f28def0123b8d94564798f24865ef9a8ef34406fbdb
+FROM quay.io/redhat-appstudio-qe/build-e2e-usdz-tenant/build-suite-component-update-garn/multi-component-parent-ftrp@sha256:e62317b4e189e0df98d7c7f0c81c8de35e668f49d50973036040e529a4f6e1f5
 RUN echo hello
