@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-asvb-tenant/build-suite-component-update-aqse/multi-component-parent-hqoe@sha256:45b6c8cc6ed8e8af922eed40b0015c9b04937ac00af3f93daa6486fc5ec8819e
+RUN echo hello
