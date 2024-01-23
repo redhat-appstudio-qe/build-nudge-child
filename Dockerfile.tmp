@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wxdc-tenant/build-suite-component-update-gaii/multi-component-parent-qrtr@sha256:d97899ebf6d1751a228c2b33697222e93c357d4225b053d59a7e4c47f07f4096
+RUN echo hello
