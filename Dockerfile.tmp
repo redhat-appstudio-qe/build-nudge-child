@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-iniv-tenant/build-suite-component-update-lnev/multi-component-parent-zmnm@sha256:65f99b22876dd81ce5b997d303f95dddcca6cedba664380ff44582276ca768e0
+FROM quay.io/redhat-appstudio-qe/build-e2e-iniv-tenant/build-suite-component-update-lnev/multi-component-parent-zmnm@sha256:9d78ac812722cb8a79639e160b5f5c9ca5b75f58162977fcc58a4a82252714ec
 RUN echo hello
