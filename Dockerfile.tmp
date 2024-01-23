@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zdip-tenant/build-suite-component-update-zcoa/multi-component-parent-rpyd@sha256:55f71f94aea4007a4c35c2546818d0023458e771d9b0ee73d8d21fb3b6a83ec2
+RUN echo hello
