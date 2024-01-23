@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jkdm-tenant/build-suite-component-update-filu/multi-component-parent-otih@sha256:727f7c429f62a4d2bba65d9780ada5d21f9a99d4bd1d848811c6296289d9fa2c
+RUN echo hello
