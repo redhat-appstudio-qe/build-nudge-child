@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dmrx-tenant/build-suite-component-update-utpm/multi-component-parent-brlg@sha256:e4f012726d1a7d9371ed270a004ba0516dcbdae20cff6b1c3fe713016b633b1e
+FROM quay.io/redhat-appstudio-qe/build-e2e-dmrx-tenant/build-suite-component-update-utpm/multi-component-parent-brlg@sha256:b15780450d3242685c916646f06ddb6778dcc905bfad62e047ad8ec5fd612522
 RUN echo hello
