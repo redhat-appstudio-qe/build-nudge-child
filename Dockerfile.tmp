@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ulof-tenant/build-suite-component-update-utsv/multi-component-parent-nokb@sha256:92bce47117d5b461ee8dcc1c82c1a2fc725dc702cb51a45a8ab2aa982e6c663d
+FROM quay.io/redhat-appstudio-qe/build-e2e-ulof-tenant/build-suite-component-update-utsv/multi-component-parent-nokb@sha256:863db337f131cd99d630ef84dc4deaa01591b79e7541e965e4a2c6a150106ad5
 RUN echo hello
