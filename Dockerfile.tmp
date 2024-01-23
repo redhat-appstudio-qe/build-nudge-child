@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-frne-tenant/build-suite-component-update-vcbq/multi-component-parent-ddsz@sha256:183d31c1dbd98a3bd27d6928a529814fa04a9135bfc5f146a7635862cfa6be5d
+RUN echo hello
