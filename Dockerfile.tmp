@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qwsa-tenant/build-suite-component-update-dwlu/multi-component-parent-tlia@sha256:26c335fde366002a1aa65b9f70309b2c5926649ce819f1a6952bf55ecc34dded
+FROM quay.io/redhat-appstudio-qe/build-e2e-qwsa-tenant/build-suite-component-update-dwlu/multi-component-parent-tlia@sha256:f6d634d56c3619768f96b490199eddcc65ed1104e848d17b04ed0cba686eb177
 RUN echo hello
