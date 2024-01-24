@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mcby-tenant/build-suite-component-update-rxco/multi-component-parent-dbqr@sha256:128602c965e3e277faca8c0b0a5c93e4eaf3fa36dcee596c1d92a9777ea3986f
+RUN echo hello
