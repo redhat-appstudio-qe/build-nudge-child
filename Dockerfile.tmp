@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bkbi-tenant/build-suite-component-update-xnwm/multi-component-parent-lcmj@sha256:90fc915b23bec397cd0c5b562b9325843be92e16bd4dad2ab03f42cb3d6eef99
+RUN echo hello
