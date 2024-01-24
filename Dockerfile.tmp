@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-emzf-tenant/build-suite-component-update-bhas/multi-component-parent-eywp@sha256:1a09eb5986d1d8224170c439de80aa9ac52f6489702f16d11426b51633edc9c0
+RUN echo hello
