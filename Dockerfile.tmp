@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-occl-tenant/build-suite-component-update-xzej/multi-component-parent-nnxn@sha256:f0f8b0f7d36ad24dd5de74a92235d0abf4a170c793a8906f0d80753c1b342e2b
+FROM quay.io/redhat-appstudio-qe/build-e2e-occl-tenant/build-suite-component-update-xzej/multi-component-parent-nnxn@sha256:24d702866f241075cd3f40acc09228076437c3ef9779c3df7edf9285d6898584
 RUN echo hello
