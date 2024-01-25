@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lsxd-tenant/build-suite-component-update-figp/multi-component-parent-nyvb@sha256:3fbb3ebaaad138954bdf99884f44558ac8953517fb1f7465fb6e3c2899376b94
+RUN echo hello
