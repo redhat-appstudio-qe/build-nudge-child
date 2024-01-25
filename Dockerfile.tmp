@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ovrh-tenant/build-suite-component-update-puce/multi-component-parent-zkkm@sha256:a3e9ff1f28c8064b463d6d19394b4423e237d214a5777560abece4394e5f0c72
+RUN echo hello
