@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vmap-tenant/build-suite-component-update-wsnx/multi-component-parent-wksb@sha256:175bb764fa79d10ae6ac28ea3af56f98224b6d442ec8d65a8b5d961964fa4274
+FROM quay.io/redhat-appstudio-qe/build-e2e-vmap-tenant/build-suite-component-update-wsnx/multi-component-parent-wksb@sha256:5c1756c083d46400579118328aac0fff36724a518f6fc10347cdb2a931bd53ec
 RUN echo hello
