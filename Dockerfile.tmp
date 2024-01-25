@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gohe-tenant/build-suite-component-update-obil/multi-component-parent-nhrt@sha256:59e6148ea2f3894af68ec86aa4e5a3d8fc0599e58b441a7620c5da588e0ba2b3
+FROM quay.io/redhat-appstudio-qe/build-e2e-gohe-tenant/build-suite-component-update-obil/multi-component-parent-nhrt@sha256:cf1acc070ae2cbb5170d0ba5973258644df4394ea4b6e4396c90c13b5f5329b7
 RUN echo hello
