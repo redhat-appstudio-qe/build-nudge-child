@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-oiib-tenant/build-suite-component-update-dvvd/multi-component-parent-wvdd@sha256:279068f9cc91653180466cee9f085218bf3c618c5e0ed8cdf5f7f4bc861c5e7a
+RUN echo hello
