@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-mhld-tenant/build-suite-component-update-dybf/multi-component-parent-tefi@sha256:65ce0ced8e8b842ab9f891712b32f795cf86bcb60b265228374a0a8b0057fa4d
+FROM quay.io/redhat-appstudio-qe/build-e2e-mhld-tenant/build-suite-component-update-dybf/multi-component-parent-tefi@sha256:08b2fa76ed3c1bd2f495f2949dc8e5d91e4c58dce02b4d9ecccd0cb4f842de82
 RUN echo hello
