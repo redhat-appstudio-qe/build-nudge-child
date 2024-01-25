@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vpoo-tenant/build-suite-component-update-kusz/multi-component-parent-glmc@sha256:5eef8f6c152125ba1af7d3b048dc5937ee13551c3aeb64cd2bf871926b2602e7
+RUN echo hello
