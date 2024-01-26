@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dlds-tenant/build-suite-component-update-tuzz/multi-component-parent-uvbn@sha256:476799b7e57ee7a06c938722f147e612b15ab35c2704074c1eeefa529b724aba
+RUN echo hello
