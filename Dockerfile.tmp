@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-abpi-tenant/build-suite-component-update-pujo/multi-component-parent-mvmc@sha256:3c1eecc04f92ee2337e6861406b983e5bc4cb2c797c25b335a32c9fa77f20526
+FROM quay.io/redhat-appstudio-qe/build-e2e-abpi-tenant/build-suite-component-update-pujo/multi-component-parent-mvmc@sha256:ff4932e0258679d92dbe8e2fc5c1cda099929a5c652f6be933ac516261af4e9b
 RUN echo hello
