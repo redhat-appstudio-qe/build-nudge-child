@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cpxz-tenant/build-suite-component-update-dblh/multi-component-parent-edsh@sha256:f8a9f84be87d304713cb5d8d4838dff009a3f10534b8a379980ba0d2c181c6d8
+RUN echo hello
