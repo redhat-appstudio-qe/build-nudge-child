@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gauv-tenant/build-suite-component-update-rhzl/multi-component-parent-taje@sha256:f802086ec45f8666d3564a7c422d2176c0c07387f271df527810d402f4741a54
+RUN echo hello
