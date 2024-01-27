@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bimj-tenant/build-suite-component-update-ifmt/multi-component-parent-fjke@sha256:2781f2161e984bf8661f8b85d82b9b93c4a34c1afc7816c403b7882a219d4e39
+FROM quay.io/redhat-appstudio-qe/build-e2e-bimj-tenant/build-suite-component-update-ifmt/multi-component-parent-fjke@sha256:c8892ffed5a6101f33a32c591fc186e69c7c2d594bb7532fa5d201d3008bda42
 RUN echo hello
