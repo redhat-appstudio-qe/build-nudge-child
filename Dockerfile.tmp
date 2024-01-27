@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vyat-tenant/build-suite-component-update-oyil/multi-component-parent-nmez@sha256:b8e6dc62c89d04aed5a8ed5064e63b4af9c0e281195bf6ceb0a6c0be22890055
+FROM quay.io/redhat-appstudio-qe/build-e2e-vyat-tenant/build-suite-component-update-oyil/multi-component-parent-nmez@sha256:5bfaa39caa4a4c4882cfd71682335f779a60fb621bbd136b944dc16820189985
 RUN echo hello
