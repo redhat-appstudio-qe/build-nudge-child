@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rvhe-tenant/build-suite-component-update-jbge/multi-component-parent-uhrp@sha256:32b0f884ab24e53654e6a305f61b51dbe42e1084d658c5ccf12e514328ee9f67
+RUN echo hello
