@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-onix-tenant/build-suite-component-update-wvoy/multi-component-parent-qmao@sha256:2c8d3c763bf06651d55388596bef0f1dd77f652562973e20cc2a474f45acfb2e
+RUN echo hello
