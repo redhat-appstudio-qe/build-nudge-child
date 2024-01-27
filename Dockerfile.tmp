@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dobe-tenant/build-suite-component-update-ilgd/multi-component-parent-bzxn@sha256:41d78d19d328fcdcb305bc45ecda09110c1f205a3fa3a2827a6fc033b93d17bb
+FROM quay.io/redhat-appstudio-qe/build-e2e-dobe-tenant/build-suite-component-update-ilgd/multi-component-parent-bzxn@sha256:1ede1162d7b3008d325d108ddc9ab485ca5d8c185779e875e257fc8e8d3441cb
 RUN echo hello
