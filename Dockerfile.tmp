@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ubex-tenant/build-suite-component-update-adfi/multi-component-parent-fxjl@sha256:c76a7eabc479ccc07e4ed4ad80c1ad9568beebc96f5fc0c40dd79a39bd29d003
+RUN echo hello
