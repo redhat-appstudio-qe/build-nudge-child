@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-voce-tenant/build-suite-component-update-imkk/multi-component-parent-hdnd@sha256:c628d2c47f3dddd7281dee289b44a4cea4d13526230f1d46b98fdf8b18d9f64b
+FROM quay.io/redhat-appstudio-qe/build-e2e-voce-tenant/build-suite-component-update-imkk/multi-component-parent-hdnd@sha256:e9319c608bfc44670e45caf6c083b34a924fc5d360f447d1e465602a44f1d534
 RUN echo hello
