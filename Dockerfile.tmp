@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-skku-tenant/build-suite-component-update-lbpx/multi-component-parent-bxml@sha256:c2a83b34a502870543090d8139ba3cdc29931bb1a7078f8857aba12bd5513caf
+FROM quay.io/redhat-appstudio-qe/build-e2e-skku-tenant/build-suite-component-update-lbpx/multi-component-parent-bxml@sha256:85bfe3e5767611d67167242137294f7108f119d35053b1bf4accd159da9e208d
 RUN echo hello
