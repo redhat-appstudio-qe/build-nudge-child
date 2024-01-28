@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cgnv-tenant/build-suite-component-update-iuol/multi-component-parent-oqin@sha256:3d146c53dd5b94e3034ba3a8ed1efe42d1342fab3498971e82f9c0f4d9f84fd3
+RUN echo hello
