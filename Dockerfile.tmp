@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hesb-tenant/build-suite-component-update-vyyi/multi-component-parent-gtbu@sha256:afe570c5aed4f205931628ed57cc0619a8c5a01532df41c8d03d8015808cf252
+RUN echo hello
