@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hqfu-tenant/build-suite-component-update-whsr/multi-component-parent-wkwt@sha256:48b2fbad00557f5a1ddaf11689842c7fa38f6f8eb2bd6cdc397f8125b6df4cf2
+RUN echo hello
