@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xiyk-tenant/build-suite-component-update-kiwt/multi-component-parent-oxss@sha256:0387bb268ebf5c5c0a97cd84a59491d447c63ba212c5d5e2e65eae7a4493b409
+RUN echo hello
