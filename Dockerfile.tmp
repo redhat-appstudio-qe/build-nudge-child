@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-zxxx-tenant/build-suite-component-update-itiv/multi-component-parent-khdt@sha256:fa443c9b588b1b6a18bab662fa023da41e238deeeecf69cfa701ffe8c1d34598
+FROM quay.io/redhat-appstudio-qe/build-e2e-zxxx-tenant/build-suite-component-update-itiv/multi-component-parent-khdt@sha256:236f00baf3b0001f2cb97b939db9e155ce42442979bb59d5595c86bb46f86f4f
 RUN echo hello
