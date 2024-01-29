@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lsyn-tenant/build-suite-component-update-xjfw/multi-component-parent-xrzf@sha256:e8e0f157688ddc70d6770ec884968d23ded1b41dc9d22119baf5d06fdf577ed2
+FROM quay.io/redhat-appstudio-qe/build-e2e-lsyn-tenant/build-suite-component-update-xjfw/multi-component-parent-xrzf@sha256:f42c5a289456d76f060189a49f6dc2f1302dc80df46de7846c659a605b27200f
 RUN echo hello
