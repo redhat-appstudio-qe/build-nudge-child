@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zwot-tenant/build-suite-component-update-gqom/multi-component-parent-crry@sha256:e22b9aa6889981fe686932306373d63fcf9547c02336804e15c845ebc77dc29d
+RUN echo hello
