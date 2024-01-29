@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ccal-tenant/build-suite-component-update-zcpz/multi-component-parent-dlke@sha256:6aadc885e06d43373dd78fa081a754a9ce56a94bedf2f0d93b9774ae21d26073
+RUN echo hello
