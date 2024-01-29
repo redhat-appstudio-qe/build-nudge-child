@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-akhr-tenant/build-suite-component-update-hzje/multi-component-parent-vwkz@sha256:d4534a8349b5937c9488ce830950d95378b14a4586151782664bd8a75c714973
+FROM quay.io/redhat-appstudio-qe/build-e2e-akhr-tenant/build-suite-component-update-hzje/multi-component-parent-vwkz@sha256:4c6211374443c10913a6323ce5727ff5b74401aa4bfc2992c4ee9bcb406d87c5
 RUN echo hello
