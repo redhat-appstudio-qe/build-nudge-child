@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-kaau-tenant/build-suite-component-update-iokp/multi-component-parent-jpyr@sha256:9cfa9bdae40fc56dda386b7cf98e4d3eeed186f5fa800bb35de94a98425c26a0
+FROM quay.io/redhat-appstudio-qe/build-e2e-kaau-tenant/build-suite-component-update-iokp/multi-component-parent-jpyr@sha256:cf2f1ffd7d327934f8cb1e0423dc78ef5cb3a92627aa0ea5041c3b15f5485223
 RUN echo hello
