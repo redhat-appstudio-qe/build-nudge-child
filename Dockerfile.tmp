@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vlgp-tenant/build-suite-component-update-ywjo/multi-component-parent-tiya@sha256:e6b8de56ec5f2aee2d63018fccf08f290bdbe5a2a0449e0fb13218e7bb5ef26c
+RUN echo hello
