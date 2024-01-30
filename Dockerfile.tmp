@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hlaw-tenant/build-suite-component-update-mxoa/multi-component-parent-dche@sha256:fd581bd4c72e96ea0b7ca7d9f9f79090261e5f8ba836a8c242552048ad1843ec
+RUN echo hello
