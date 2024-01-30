@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rxiy-tenant/build-suite-component-update-kvps/multi-component-parent-efnn@sha256:513e803772686b880cc0dc87290bbadf28b53a96ea7bb3fafe548706df266c35
+RUN echo hello
