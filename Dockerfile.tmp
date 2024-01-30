@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mclj-tenant/build-suite-component-update-bcaz/multi-component-parent-evak@sha256:187da1dbe459e439e00435ee4f90948a7e065d53c433f0f216970f096e2b99ef
+RUN echo hello
