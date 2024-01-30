@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-yvnj-tenant/build-suite-component-update-tkbl/multi-component-parent-gvcp@sha256:2dec527f7d4ebec14be58c7cc904f3f589955f862428571ab64d75164adb0060
+FROM quay.io/redhat-appstudio-qe/build-e2e-yvnj-tenant/build-suite-component-update-tkbl/multi-component-parent-gvcp@sha256:a8eae03c47c7d321ff3b8799ae9ee3cdf0aa6dec9b94f4adbc383ee8ea05af5c
 RUN echo hello
