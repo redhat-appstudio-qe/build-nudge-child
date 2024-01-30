@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zfcr-tenant/build-suite-component-update-zimu/multi-component-parent-gwpj@sha256:e2625cd05d65f4cf7ec355193ba370a3108e6e73a761de91654f8bb922be5be9
+RUN echo hello
