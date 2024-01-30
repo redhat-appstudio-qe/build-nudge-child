@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-faoa-tenant/build-suite-component-update-aohs/multi-component-parent-rzxg@sha256:c1fa89c4867efe27531e1015b1ef8ccd21ca3dd41471bf10a5f4960879970265
+FROM quay.io/redhat-appstudio-qe/build-e2e-faoa-tenant/build-suite-component-update-aohs/multi-component-parent-rzxg@sha256:6a5299f559c93d9d1e058c05c78bcc89e416aca889d2f26c48123b6931bb30e6
 RUN echo hello
