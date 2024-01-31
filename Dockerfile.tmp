@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-naly-tenant/build-suite-component-update-fznr/multi-component-parent-ebmo@sha256:55f2d2b0d178bd3393648c7aaf78ad4ae6be30ea902cb6024f7536a2c7c66b84
+RUN echo hello
