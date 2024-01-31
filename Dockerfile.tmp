@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ewya-tenant/build-suite-component-update-tujq/multi-component-parent-opbv@sha256:d90332f942983f3fa15c29706d75cd282352588c406a78f8f77d6fbb259e7f09
+RUN echo hello
