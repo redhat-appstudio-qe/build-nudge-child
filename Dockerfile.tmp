@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jukp-tenant/build-suite-component-update-gvdk/multi-component-parent-yofm@sha256:7377c9f9ea94688b8674b74945db852c5e94cbb9ec5d84e18d26ffcba22a296a
+FROM quay.io/redhat-appstudio-qe/build-e2e-jukp-tenant/build-suite-component-update-gvdk/multi-component-parent-yofm@sha256:beb0cf0f5578a242a3128100f7df0f9fdb6f6afbb3c0d24decfe1780b6cca104
 RUN echo hello
