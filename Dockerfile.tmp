@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-pboc-tenant/build-suite-component-update-ewai/multi-component-parent-wrsd@sha256:1bae3b0e490283c249ff1aa0f46d3b9fa0ea4930a7ccbcff4eb21d975805bcf9
+FROM quay.io/redhat-appstudio-qe/build-e2e-pboc-tenant/build-suite-component-update-ewai/multi-component-parent-wrsd@sha256:7346287ca4b49c075967fad9a610091a4bd1b72ec6542ec3eeffca4a579181ca
 RUN echo hello
