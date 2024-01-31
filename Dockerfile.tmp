@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vevj-tenant/build-suite-component-update-xuff/multi-component-parent-ptub@sha256:58d42d9ac804523af9aa8407415fb6954557b4758b5f813508e99a2c5e520c10
+RUN echo hello
