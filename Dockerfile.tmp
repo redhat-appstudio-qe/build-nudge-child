@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fpwl-tenant/build-suite-component-update-dhsf/multi-component-parent-hpzb@sha256:88bdd7f5127c837435f31e85e0b12429637ad394988989cf38c6b3fbd5c95b86
+RUN echo hello
