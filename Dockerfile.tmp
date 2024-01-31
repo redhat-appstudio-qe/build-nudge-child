@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-refr-tenant/build-suite-component-update-frol/multi-component-parent-jcsd@sha256:280ff15f9b6265aaa8e9ef493d4f419f9122bf4be8c483946bce8fed0050c308
+RUN echo hello
