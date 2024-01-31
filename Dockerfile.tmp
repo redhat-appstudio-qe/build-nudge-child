@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-eozl-tenant/build-suite-component-update-wgdk/multi-component-parent-dejr@sha256:a978c5d8624ef2b759238ad61f72cad26e9debc74552a1cf958cc0e26de31035
+FROM quay.io/redhat-appstudio-qe/build-e2e-eozl-tenant/build-suite-component-update-wgdk/multi-component-parent-dejr@sha256:155f2cd1ad1fca52759b5d62aa7a74c2722daad574a7f1d3118f690b9d896590
 RUN echo hello
