@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tocl-tenant/build-suite-component-update-yfcn/multi-component-parent-ysda@sha256:f59b42b363643426e026427c7c9a091f7929dfcc1bbf287d3caeaca0b940cd9e
+RUN echo hello
