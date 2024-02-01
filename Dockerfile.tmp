@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-iyox-tenant/build-suite-component-update-lcek/multi-component-parent-isnl@sha256:2912ef64410e12848aa4ef4b119410cc0da19e7046a591f0eb6b635e6b236028
+FROM quay.io/redhat-appstudio-qe/build-e2e-iyox-tenant/build-suite-component-update-lcek/multi-component-parent-isnl@sha256:0b39ff77a13093b1c8bb763451d0523ce501ea366eb5c131b3bad00c178128be
 RUN echo hello
