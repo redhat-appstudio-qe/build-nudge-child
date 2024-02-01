@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gidu-tenant/build-suite-component-update-xxtz/multi-component-parent-xcln@sha256:87e23684f5fdd5b06a4bc4b5a06ce0f68f74f30eb4b0f5687ffae480b947a3bc
+RUN echo hello
