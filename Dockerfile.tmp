@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ttpw-tenant/build-suite-component-update-uysb/multi-component-parent-rswm@sha256:c1bbf1db6949ece6dc8dfbab53ce2ed355b1f4d6b9080542f238f5aef3837850
+RUN echo hello
