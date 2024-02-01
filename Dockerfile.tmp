@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-owvu-tenant/build-suite-component-update-jqnc/multi-component-parent-jpfr@sha256:bc8fd288619803263e22169a430c1839fa5dbe69e25823a86b8cc86a3a192f61
+FROM quay.io/redhat-appstudio-qe/build-e2e-owvu-tenant/build-suite-component-update-jqnc/multi-component-parent-jpfr@sha256:6734018e517ea58d5e3f91fd8faceada65f4074eb6dd03f10460cd099569960d
 RUN echo hello
