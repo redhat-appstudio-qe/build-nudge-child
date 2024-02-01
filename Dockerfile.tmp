@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fzyj-tenant/build-suite-component-update-pohu/multi-component-parent-eyok@sha256:cdf47cdf05931c1e96647701f5c391987afcf96b215ef02bcde20393a780f569
+FROM quay.io/redhat-appstudio-qe/build-e2e-fzyj-tenant/build-suite-component-update-pohu/multi-component-parent-eyok@sha256:4b2a9dfab29cb63b029a873e8f9035d0dea1b23f50d3bfc62d3dc59ae8df3072
 RUN echo hello
