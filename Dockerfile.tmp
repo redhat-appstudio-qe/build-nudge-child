@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vrjk-tenant/build-suite-component-update-dizo/multi-component-parent-zndw@sha256:e24fc7118ad755635a7fc0f7b348ce4abb0bbec017fda9a414bde92932e55902
+FROM quay.io/redhat-appstudio-qe/build-e2e-vrjk-tenant/build-suite-component-update-dizo/multi-component-parent-zndw@sha256:5cd88feea65ea4ef1fd3ef83535bb990498ff2d9ac66606cf0d4712f14aa725c
 RUN echo hello
