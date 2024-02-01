@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-diad-tenant/build-suite-component-update-ulvz/multi-component-parent-odvb@sha256:7790e392cb5ddf4dc3eab54fb00af4fd8d05b6614afeaca7b9f1edbf181d428d
+FROM quay.io/redhat-appstudio-qe/build-e2e-diad-tenant/build-suite-component-update-ulvz/multi-component-parent-odvb@sha256:248a7b215339ca3fba8f281857cd848fd7bf6fea9bc7949696e9776c8ab96a3f
 RUN echo hello
