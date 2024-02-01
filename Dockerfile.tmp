@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vpdd-tenant/build-suite-component-update-ipar/multi-component-parent-thix@sha256:5c3778ff085dd1e6cc4b1ef9dc614879c9ce0b88fdc4bd6559b2cfd120118e49
+RUN echo hello
