@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-enny-tenant/build-suite-component-update-qong/multi-component-parent-qdmr@sha256:60c6dcbac3835aa68bdeb7b9e4a8f3ae1ee041fd5045e1f8aa03c33de2e6cb3e
+RUN echo hello
