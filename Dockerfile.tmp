@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-mveq-tenant/build-suite-component-update-kvlo/multi-component-parent-djnk@sha256:3054b8321c498908717128673d35f3a7d7f1e1957e7b2c751e28e768467e65ec
+FROM quay.io/redhat-appstudio-qe/build-e2e-mveq-tenant/build-suite-component-update-kvlo/multi-component-parent-djnk@sha256:fe6338bc86ec8e5f806d7d76d035b8fb2dd50abf67a93f6c4ac9450c4a1dc084
 RUN echo hello
