@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-aysj-tenant/build-suite-component-update-uvux/multi-component-parent-bikb@sha256:b43cc1bad6830c2c3c3a0178a9189d0a0b6d1b6e73e843ba5dd28dc65041d851
+RUN echo hello
