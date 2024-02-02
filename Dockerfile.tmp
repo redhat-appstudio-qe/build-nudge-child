@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hlqr-tenant/build-suite-component-update-styp/multi-component-parent-pxrc@sha256:bcde0605f85143d88046c365dc61c563f93f36316afd2dec02421bf16715fee3
+FROM quay.io/redhat-appstudio-qe/build-e2e-hlqr-tenant/build-suite-component-update-styp/multi-component-parent-pxrc@sha256:c4227d9011dbae40b273c4b8e07b673814e66f899f2dfd00e0e76870922390ea
 RUN echo hello
