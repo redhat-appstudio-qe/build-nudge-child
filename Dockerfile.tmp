@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-irck-tenant/build-suite-component-update-pvop/multi-component-parent-ktme@sha256:f85235caebb6ad3c64db3034a7cfa85f98abfaa6f08ac510a27f088c12488854
+FROM quay.io/redhat-appstudio-qe/build-e2e-irck-tenant/build-suite-component-update-pvop/multi-component-parent-ktme@sha256:48eb0893b7b63c4a592391ac4ea808ce26f7edbfbe2c09ce90ccc90d5c293922
 RUN echo hello
