@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rfyv-tenant/build-suite-component-update-lnir/multi-component-parent-mjst@sha256:0e0fd7bba2300cd3eb000f1ac1952028851f85bbeb6764bfe6f476f32b2ca6e9
+RUN echo hello
