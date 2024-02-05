@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-acfo-tenant/build-suite-component-update-ciwt/multi-component-parent-gdqd@sha256:0f44c5112bf5b08a4beec144f36c56c3527c56872a2bf5ecd254e105919af4d5
+FROM quay.io/redhat-appstudio-qe/build-e2e-acfo-tenant/build-suite-component-update-ciwt/multi-component-parent-gdqd@sha256:1a9f7dad2ea806d93f30c232fd3c46eef3f65a6a003a1937bde0c14fdf54edc5
 RUN echo hello
