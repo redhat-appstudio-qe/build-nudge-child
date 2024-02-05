@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fjbg-tenant/build-suite-component-update-qcdr/multi-component-parent-ikpr@sha256:752d58ff4941e8010ec2996b03776dbc8ee934d7a12cc85ce0b6a797be721e12
+RUN echo hello
