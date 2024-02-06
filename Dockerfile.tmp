@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ntch-tenant/build-suite-component-update-ogul/multi-component-parent-kurl@sha256:dee7df1f7375780592334fd3e01888cad7560fa917b6719e183d6b0c4ce0b473
+RUN echo hello
