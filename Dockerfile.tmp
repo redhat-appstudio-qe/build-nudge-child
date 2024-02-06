@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rzmm-tenant/build-suite-component-update-invl/multi-component-parent-qhrp@sha256:ed16019c9e4b94c1a6c8de18ce47824dc8b4f0d9bcd8bf3814b5eeaa1f8f4c36
+FROM quay.io/redhat-appstudio-qe/build-e2e-rzmm-tenant/build-suite-component-update-invl/multi-component-parent-qhrp@sha256:e35225a4c9dfec54897e015ef3c1f49a9442dc6a397cf0d2f2b12bdad053e5a4
 RUN echo hello
