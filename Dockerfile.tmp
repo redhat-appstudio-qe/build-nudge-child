@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hwuz-tenant/build-suite-component-update-dmma/multi-component-parent-juxt@sha256:daa3fc80649557a2b097f5019c3c4ca6eeedec65948fb83f2367491924b9c06a
+RUN echo hello
