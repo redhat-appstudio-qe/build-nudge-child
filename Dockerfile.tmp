@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nsqf-tenant/build-suite-component-update-dytn/multi-component-parent-flgk@sha256:b09a9101bb69759042e4a1c99b0d4fd5bdbc661e4612b0b76e50715bbee991b8
+RUN echo hello
