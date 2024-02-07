@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gosg-tenant/build-suite-component-update-fect/multi-component-parent-rngi@sha256:614d31a09bce248d5093b708ca1b1e6786d15b07b4fe99b6aaff5b2bd8f545c6
+RUN echo hello
