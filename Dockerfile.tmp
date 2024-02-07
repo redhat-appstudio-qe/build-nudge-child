@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pdic-tenant/build-suite-component-update-nbku/multi-component-parent-lmaq@sha256:33a1251d9c0470413ebac7016b08ac29adbc2108ad5f1a9de02382fd18e34f93
+RUN echo hello
