@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rzhd-tenant/build-suite-component-update-pcmg/multi-component-parent-ocpi@sha256:a91a70ab71b2aced5f957573e35edab5d791ea62f94da8da7f2d0a613b6e4e31
+FROM quay.io/redhat-appstudio-qe/build-e2e-rzhd-tenant/build-suite-component-update-pcmg/multi-component-parent-ocpi@sha256:d3d5cf015427b4d9dc61154eddf413a9c511f36ece0f4e13a77074ca4a0c8227
 RUN echo hello
