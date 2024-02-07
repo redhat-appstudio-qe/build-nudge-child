@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cwgo-tenant/build-suite-component-update-ddhs/multi-component-parent-rblt@sha256:febcadaf56e13b16f586b51679da800b8ceeda4b61afdde2169840b584e95ba6
+FROM quay.io/redhat-appstudio-qe/build-e2e-cwgo-tenant/build-suite-component-update-ddhs/multi-component-parent-rblt@sha256:e9f6db9a8583ecaddf4dd8c75d64b919f34be3b7f2ae2ffc43ad0c963787ece7
 RUN echo hello
