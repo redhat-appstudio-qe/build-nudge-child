@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fcvi-tenant/build-suite-component-update-mdvg/multi-component-parent-wxrx@sha256:73f540503b022f5a2cdbc50f4c388b1d5a1f675e0c1875662e2c554f9143af21
+FROM quay.io/redhat-appstudio-qe/build-e2e-fcvi-tenant/build-suite-component-update-mdvg/multi-component-parent-wxrx@sha256:fa044b685b38ea4a4b3d79c7225acd34da9e1a5b0af804b2cc5733e7d140a893
 RUN echo hello
