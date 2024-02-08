@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ojey-tenant/build-suite-component-update-cgip/multi-component-parent-lkad@sha256:d7f8ec469e24483d98c8083f26a951e8e75f3b2f3b39f77b66bb4055dfdef980
+RUN echo hello
