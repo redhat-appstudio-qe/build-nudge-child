@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-eczg-tenant/build-suite-component-update-hdve/multi-component-parent-owje@sha256:ffe3c5fb5201bc9b2dab6c5aba2e6bfbbbbaf8fc3ea0fe5031140577dab8823c
+FROM quay.io/redhat-appstudio-qe/build-e2e-eczg-tenant/build-suite-component-update-hdve/multi-component-parent-owje@sha256:a6b0e8c9c87bc7dc2fe014c066811f1ff44b96a9fae78ffaaa19633d1770d3a5
 RUN echo hello
