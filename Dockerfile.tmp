@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pazo-tenant/build-suite-component-update-vyva/multi-component-parent-pdto@sha256:cec329d79e2af85e3269ada408c08fb2320a973fbc3bce56e411d1a04cac4df8
+RUN echo hello
