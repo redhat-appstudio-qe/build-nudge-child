@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bhty-tenant/build-suite-component-update-ehxg/multi-component-parent-zrom@sha256:aba2cf21c29a13d7442eb8996099df9520aab9810c9bce97ce1506373457b6d6
+RUN echo hello
