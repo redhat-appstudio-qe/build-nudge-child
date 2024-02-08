@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-stac-tenant/build-suite-component-update-ywiw/multi-component-parent-ypsm@sha256:4e705d21c274150b37342772f889cca9dc544c36c4a9706392bc6376eb3e92a6
+RUN echo hello
