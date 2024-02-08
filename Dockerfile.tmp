@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-uctg-tenant/build-suite-component-update-edis/multi-component-parent-qlyh@sha256:c616af6b0901086b271a7385692cdc0f945aa34ab1db879b3705fa1c0e361285
+FROM quay.io/redhat-appstudio-qe/build-e2e-uctg-tenant/build-suite-component-update-edis/multi-component-parent-qlyh@sha256:a092530e2257a2634d8fc6f7c868d7e67cac9860c36af5b8dccb492fda03ad30
 RUN echo hello
