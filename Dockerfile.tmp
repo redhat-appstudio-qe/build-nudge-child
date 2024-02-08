@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-svep-tenant/build-suite-component-update-kwqa/multi-component-parent-dgub@sha256:85eeb27db3f7cabfbc539a5bd652a68709473bc58c1612ff063d3225a29ba00b
+FROM quay.io/redhat-appstudio-qe/build-e2e-svep-tenant/build-suite-component-update-kwqa/multi-component-parent-dgub@sha256:907e4bb521fefcbe124f454ae29c08159a5c37a9bbe6ec21a843095919d10e04
 RUN echo hello
