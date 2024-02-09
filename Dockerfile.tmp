@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-iylu-tenant/build-suite-component-update-gspc/multi-component-parent-emoj@sha256:12d3552c6b7e904d0cba206f89c26ea2711622a617d1c525cf3c29f492022724
+FROM quay.io/redhat-appstudio-qe/build-e2e-iylu-tenant/build-suite-component-update-gspc/multi-component-parent-emoj@sha256:d8b479338f60a682e17bf757e66fea8ecc2e40952aa7ed817ca5118b6e15dc44
 RUN echo hello
