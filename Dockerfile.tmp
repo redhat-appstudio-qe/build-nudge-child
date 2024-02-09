@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-imtg-tenant/build-suite-component-update-xvcy/multi-component-parent-yhtu@sha256:91ca96abbb3c864cbf03828a1d135e2921e76410103fd92e30b646543c47fbde
+RUN echo hello
