@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bkxz-tenant/build-suite-component-update-tfby/multi-component-parent-iinf@sha256:dfd8b48f0b39860f8f52c69542891ba2bb845ab4d96b6ddff5a1878dbdb83194
+FROM quay.io/redhat-appstudio-qe/build-e2e-bkxz-tenant/build-suite-component-update-tfby/multi-component-parent-iinf@sha256:50c4f3dae5bbb4347c8d8861397eda6494b25632551103d4ef64c3b94d907ef4
 RUN echo hello
