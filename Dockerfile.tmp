@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-oijc-tenant/build-suite-component-update-gtcs/multi-component-parent-pfsi@sha256:4349bc13ad8e42095adbab8ecc5900ea5bf81157d6facdd5f220d3934a423e29
+FROM quay.io/redhat-appstudio-qe/build-e2e-oijc-tenant/build-suite-component-update-gtcs/multi-component-parent-pfsi@sha256:b3dfc1d4f50a8daf5490da7d77c1b7929cf93761744b45da59035a049bf85299
 RUN echo hello
