@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gkim-tenant/build-suite-component-update-rinh/multi-component-parent-ypdp@sha256:306ec48fe356630cd6a831e1c7cc999a8baf0590445649f54d0076ebc6b2994b
+RUN echo hello
