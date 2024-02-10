@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ukjc-tenant/build-suite-component-update-hbnu/multi-component-parent-fayd@sha256:8785ec5d6691ab5ee676b3d38b9bad6d4dfb8262c1c15123b49fbc46bfe6270b
+RUN echo hello
