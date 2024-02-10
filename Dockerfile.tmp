@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pugx-tenant/build-suite-component-update-pona/multi-component-parent-rocz@sha256:d35aebc6b40d47aa6c9dda038c388d3d1cbe03c1af305956991376f78dc8af03
+RUN echo hello
