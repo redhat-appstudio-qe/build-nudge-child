@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fsyu-tenant/build-suite-component-update-mjal/multi-component-parent-whhd@sha256:d30d27e4a144e8d0ad824dd0194a199524248818efa7c9e2af1c4e94c4b54f5a
+FROM quay.io/redhat-appstudio-qe/build-e2e-fsyu-tenant/build-suite-component-update-mjal/multi-component-parent-whhd@sha256:ab5cde451e82c9a9b1cb66cf5b50abf08080044cfb090777003205781d2c99b2
 RUN echo hello
