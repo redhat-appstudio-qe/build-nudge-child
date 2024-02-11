@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xlww-tenant/build-suite-component-update-lukk/multi-component-parent-oavd@sha256:48d247d360af821c5d36ffca8001121edcb8a7f0bba9aa554b4166fc8f7fc9eb
+RUN echo hello
