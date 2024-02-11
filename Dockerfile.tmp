@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bxgq-tenant/build-suite-component-update-npfu/multi-component-parent-nomq@sha256:f4350c54cfdf7985655e6ca29b68dc57018b8e9ed8ab98a647ebbd79f594ddc6
+FROM quay.io/redhat-appstudio-qe/build-e2e-bxgq-tenant/build-suite-component-update-npfu/multi-component-parent-nomq@sha256:e7533e749e6fc87633871693154f02fefd10d334d61f8ed535a1bcaefdf581c6
 RUN echo hello
