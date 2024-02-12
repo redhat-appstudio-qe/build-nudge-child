@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bbpl-tenant/build-suite-component-update-gdul/multi-component-parent-ddfx@sha256:5fe04fafbea36d7b563f78d832134ec53eda5a9aae15d5f9cbf4d248996ae7f8
+RUN echo hello
