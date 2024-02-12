@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lprs-tenant/build-suite-component-update-kaqu/multi-component-parent-jinh@sha256:bd56ce680b567d50dfc4ec7b2721726e288eb87ec352533fd463836bc6578e31
+FROM quay.io/redhat-appstudio-qe/build-e2e-lprs-tenant/build-suite-component-update-kaqu/multi-component-parent-jinh@sha256:0b86fd73bda74ccbc1ee421b983523bcabcf442da8fe079c626adc5ea01a1f7b
 RUN echo hello
