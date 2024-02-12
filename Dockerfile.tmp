@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pttt-tenant/build-suite-component-update-fumx/multi-component-parent-foon@sha256:549e3fd1b65c68019658b0d8c1bdbfe6dc3a8f1d799014763b8a608e4c33775e
+RUN echo hello
