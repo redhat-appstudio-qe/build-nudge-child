@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-sylu-tenant/build-suite-component-update-qilm/multi-component-parent-otbh@sha256:53e0bc181c4739b68476d370b3a7c2c06d1aee26407998e6f5a59c964edd1770
+RUN echo hello
