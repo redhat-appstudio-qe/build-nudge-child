@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-swif-tenant/build-suite-component-update-yzjb/multi-component-parent-dxis@sha256:5c1596ee2eeda71bcff44221a91b324075355279384fe805895165ea9cd450a9
+FROM quay.io/redhat-appstudio-qe/build-e2e-swif-tenant/build-suite-component-update-yzjb/multi-component-parent-dxis@sha256:b497215bf548d4b961e50fd13f10ef6be415a8b1cefa0d6edd75e8a5e7124315
 RUN echo hello
