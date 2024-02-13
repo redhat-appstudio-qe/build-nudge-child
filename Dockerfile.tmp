@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dzav-tenant/build-suite-component-update-bpwr/multi-component-parent-zacu@sha256:edd5535760662e7e92494d992e2ecd59927920949047941d66058095eeb63b19
+RUN echo hello
