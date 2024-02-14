@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-moty-tenant/build-suite-component-update-dnqr/multi-component-parent-dssx@sha256:5352c6f2a2cc2bfffca19bc2cec5a7e8fe698e3c9b54d32e8fc158f16d4ba57d
+FROM quay.io/redhat-appstudio-qe/build-e2e-moty-tenant/build-suite-component-update-dnqr/multi-component-parent-dssx@sha256:08cc64113a1961d98bcb3bf278cc45b033df3e7f23b003f4fe62bdd6cbdeeece
 RUN echo hello
