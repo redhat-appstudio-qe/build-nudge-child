@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lgld-tenant/build-suite-component-update-tefs/multi-component-parent-skuv@sha256:7aa9a3d35b575718e9a78dfa8f86b77d03bbd701e6b525a83513faf16d91b3a2
+FROM quay.io/redhat-appstudio-qe/build-e2e-lgld-tenant/build-suite-component-update-tefs/multi-component-parent-skuv@sha256:fc595f281ced6ff78f319e2733b4fa2c3659c45f42bfde283db0f8fbf7f6e25f
 RUN echo hello
