@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-phzu-tenant/build-suite-component-update-yqly/multi-component-parent-nenl@sha256:db55db2d81deb0103aae72276baf8794da0366b5dd7ea79eb324b48034815760
+FROM quay.io/redhat-appstudio-qe/build-e2e-phzu-tenant/build-suite-component-update-yqly/multi-component-parent-nenl@sha256:0bcf67db250c1c40f09d2df199c4b481656d0350cd440371d77cfc403ecc048d
 RUN echo hello
