@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-aikc-tenant/build-suite-component-update-vvvf/multi-component-parent-gegg@sha256:12b5397191074f0502967b6c160ef8d5da12b57b774213c4eaad12ffeed48691
+RUN echo hello
