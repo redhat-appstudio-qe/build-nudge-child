@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-pgpr-tenant/build-suite-component-update-iysl/multi-component-parent-etlm@sha256:2632cb05a55dac30974081ebc71abb64432e47bed551ef47a1331bf32c950c91
+FROM quay.io/redhat-appstudio-qe/build-e2e-pgpr-tenant/build-suite-component-update-iysl/multi-component-parent-etlm@sha256:eb98369103fbeebe4ee4b9d17c2ad7e21ebf9160b09c3db5cf33e83ab5b89ad5
 RUN echo hello
