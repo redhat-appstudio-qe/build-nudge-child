@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-scga-tenant/build-suite-component-update-buan/multi-component-parent-cdba@sha256:30e7d30c5a07ecafeb6a191e6bd8a947d4fb2159ede6ddececb40af3a2af54db
+RUN echo hello
