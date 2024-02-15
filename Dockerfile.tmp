@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tdkh-tenant/build-suite-component-update-avqf/multi-component-parent-gknl@sha256:8615bb9c175dd0aa6e758470b6d7a886bd07479b1f7087fae304d274ba99fd81
+FROM quay.io/redhat-appstudio-qe/build-e2e-tdkh-tenant/build-suite-component-update-avqf/multi-component-parent-gknl@sha256:9fa8c71d20c2eb3593066ff5706601c3e438802be71d000cd9f4c60cc640a44e
 RUN echo hello
