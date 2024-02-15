@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-otis-tenant/build-suite-component-update-gxvn/multi-component-parent-mdsj@sha256:414e8bf292835db22167377a2d8572e1d8876330b1a6943df2ca74a0f9e3c5ae
+RUN echo hello
