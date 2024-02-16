@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-frjg-tenant/build-suite-component-update-mfmd/multi-component-parent-qipr@sha256:fc1b078beb4bff6c14feca74eb40dc7f4eb7b9d5c14d7a8388b9f6b37d1ec287
+RUN echo hello
