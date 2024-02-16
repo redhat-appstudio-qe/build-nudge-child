@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hbck-tenant/build-suite-component-update-kbmi/multi-component-parent-pfnz@sha256:ab30e24488b3682db5a824b6debade99215d41be4a4c6a93fe19157e03308842
+RUN echo hello
