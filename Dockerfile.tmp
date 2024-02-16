@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pzin-tenant/build-suite-component-update-fvgp/multi-component-parent-scsx@sha256:6479c151f3e361cf5fde08ea7ae5b1a11fed46eeee4c51690cd928927787fc08
+RUN echo hello
