@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mzxw-tenant/build-suite-component-update-txps/multi-component-parent-xnyx@sha256:816e9c131904094ee950ab135ec67bdcf507824f09b910540d6706e4d64c4aa7
+RUN echo hello
