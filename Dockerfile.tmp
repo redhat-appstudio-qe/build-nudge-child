@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dqoy-tenant/build-suite-component-update-cpal/multi-component-parent-nlim@sha256:9b483ac3e6f4784a2e79b5b0f44cfd317e31b8a1a65c53a1a17375d605554bda
+RUN echo hello
