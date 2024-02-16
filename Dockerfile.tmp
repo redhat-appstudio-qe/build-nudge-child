@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-frjg-tenant/build-suite-component-update-mfmd/multi-component-parent-qipr@sha256:fc1b078beb4bff6c14feca74eb40dc7f4eb7b9d5c14d7a8388b9f6b37d1ec287
+FROM quay.io/redhat-appstudio-qe/build-e2e-frjg-tenant/build-suite-component-update-mfmd/multi-component-parent-qipr@sha256:5b119940fe5bf6cb83e0465ed1d4fab2738be21d084ade6450427bbf6400bc68
 RUN echo hello
