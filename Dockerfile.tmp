@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-aoqx-tenant/build-suite-component-update-txdu/multi-component-parent-irfj@sha256:e02a37d4b96f119118398721951c8f930959cc677a79b6f94cb293f837dc9433
+FROM quay.io/redhat-appstudio-qe/build-e2e-aoqx-tenant/build-suite-component-update-txdu/multi-component-parent-irfj@sha256:dcda4fecc9ca809f2a1ab3ed07d04fdb2c8aa5335102eceac7eb98ed891ebde9
 RUN echo hello
