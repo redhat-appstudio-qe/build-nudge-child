@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-uhby-tenant/build-suite-component-update-wsvn/multi-component-parent-kuev@sha256:03af54926252b27e03070155da46c0e7ee08d0ecdaf8ef7d088d312f46add855
+RUN echo hello
