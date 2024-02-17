@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xxei-tenant/build-suite-component-update-wmmk/multi-component-parent-uhxo@sha256:0b4621ff7e921d1e068fdb6f6de06b22b8b0ed8a0afd2391537f46962d1cf678
+RUN echo hello
