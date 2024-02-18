@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hnea-tenant/build-suite-component-update-zykk/multi-component-parent-crvn@sha256:adbcbb786d61b3b89b5b31de8161b8328e11d92a04fd9de21ff0666201252b5f
+FROM quay.io/redhat-appstudio-qe/build-e2e-hnea-tenant/build-suite-component-update-zykk/multi-component-parent-crvn@sha256:5fd1a6acd790de3f18baca9e662ae33ff5f7c0f9c37a9824632ad96effaa1d5a
 RUN echo hello
