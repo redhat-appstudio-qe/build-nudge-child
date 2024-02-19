@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-eoly-tenant/build-suite-component-update-gcyx/multi-component-parent-afdb@sha256:3d4895b2f1533a6f83cc871b79621fba48713bab0799b3025feacbde60cf7bcc
+RUN echo hello
