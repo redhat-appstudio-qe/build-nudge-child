@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-oyex-tenant/build-suite-component-update-mhvd/multi-component-parent-xrzm@sha256:7caf0de8a284c96d69a2a6d8719b3dc5d32b668e1c32387deb662a6b1d05a97b
+RUN echo hello
