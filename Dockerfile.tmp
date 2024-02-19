@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-szpz-tenant/build-suite-component-update-ixpp/multi-component-parent-zdaw@sha256:397ee57f3fa55a42f52f4e1fec5631e7a5be6cccec35b1f74431c7ba565376bf
+FROM quay.io/redhat-appstudio-qe/build-e2e-szpz-tenant/build-suite-component-update-ixpp/multi-component-parent-zdaw@sha256:cecbb767a16f83305e30e4ddbdd0b2a3161a8dd0742e230b0238c729caaf8968
 RUN echo hello
