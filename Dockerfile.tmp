@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mods-tenant/build-suite-component-update-mvci/multi-component-parent-sepd@sha256:96365ec04f66e9ee7b364b63a4b10cd8029a36fc2c73dba2bfa2bca8281a251f
+RUN echo hello
