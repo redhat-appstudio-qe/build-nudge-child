@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gtdh-tenant/build-suite-component-update-ancr/multi-component-parent-skom@sha256:d51404d0765ce37d45462fb144e569753d78c38078f2e1a9d4f24983c244b2dc
+FROM quay.io/redhat-appstudio-qe/build-e2e-gtdh-tenant/build-suite-component-update-ancr/multi-component-parent-skom@sha256:92e8226c1e776edb0ac5e35ab302fad5dab7bc4060718f94cdd904227579667a
 RUN echo hello
