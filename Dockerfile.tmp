@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dxsk-tenant/build-suite-component-update-okyo/multi-component-parent-iunf@sha256:aa82db8a85c2b14a7e448a8fc10248a2611de4cc1d318268f10cdb702192ac22
+RUN echo hello
