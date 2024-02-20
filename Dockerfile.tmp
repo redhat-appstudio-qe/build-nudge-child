@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lsaq-tenant/build-suite-component-update-jmif/multi-component-parent-devi@sha256:d57d8e7303334f51b9f18371a9cd7a2c865cb0364b4f10837a532a69f517a782
+RUN echo hello
