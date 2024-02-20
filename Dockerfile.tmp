@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gple-tenant/build-suite-component-update-gwwp/multi-component-parent-lkdx@sha256:9a1c4c581f88ce396c62480c0242ebcd81f3818a5ea157fcf76f806ef5f91ca1
+FROM quay.io/redhat-appstudio-qe/build-e2e-gple-tenant/build-suite-component-update-gwwp/multi-component-parent-lkdx@sha256:05f6ed6fe3b4dbc250fb23acbb6b716383285a73451505b20c19855853d69af8
 RUN echo hello
