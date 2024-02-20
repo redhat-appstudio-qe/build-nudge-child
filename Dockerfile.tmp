@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cely-tenant/build-suite-component-update-nbck/multi-component-parent-cnes@sha256:f654ad6c254d463ff179b7c3a2da9311f30cd113e4a9da392bd3240dd51ec175
+RUN echo hello
