@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qnwu-tenant/build-suite-component-update-nnre/multi-component-parent-fxdg@sha256:7a061cbd4f4e799d5a8dc9e5247c8af9e5064913bdc662c431a0d8e1894fceca
+FROM quay.io/redhat-appstudio-qe/build-e2e-qnwu-tenant/build-suite-component-update-nnre/multi-component-parent-fxdg@sha256:fa8bdda50e25d107a49093257db38f8d8227c31fd4851db8354405821a9768c5
 RUN echo hello
