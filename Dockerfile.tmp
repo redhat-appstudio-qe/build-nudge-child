@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ejlu-tenant/build-suite-component-update-xaae/multi-component-parent-krmq@sha256:7cf2dbe4ef7531ecd2f1c0651a66d9403f67ec5d36464eeeeb21b3f109970a2e
+RUN echo hello
