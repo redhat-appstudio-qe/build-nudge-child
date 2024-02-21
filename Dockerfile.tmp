@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pesx-tenant/build-suite-component-update-dbgu/multi-component-parent-awrj@sha256:1813011a695893ce69ecb0f9fd47379720d67e7204025f4ff23cc3c994f95774
+RUN echo hello
