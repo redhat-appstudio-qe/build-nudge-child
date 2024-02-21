@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hryb-tenant/build-suite-component-update-xsla/multi-component-parent-rwmw@sha256:f6b97c240dc774e978d022c19b9201675c38d34630fe8fd458f93493dcc13cca
+FROM quay.io/redhat-appstudio-qe/build-e2e-hryb-tenant/build-suite-component-update-xsla/multi-component-parent-rwmw@sha256:30f262817fe6df2018f8923820deeca37840aeda611026fefd2afa9091ce8539
 RUN echo hello
