@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cett-tenant/build-suite-component-update-dlxy/multi-component-parent-qjfq@sha256:e13ad0b3dcd8d3f38effb400d48ab02ae6ebd796615f848eec7097449b4055a3
+RUN echo hello
