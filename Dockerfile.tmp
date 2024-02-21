@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dedc-tenant/build-suite-component-update-otmq/multi-component-parent-gfeq@sha256:f7a83c14668812506e6add84f1fd7fd1c795defdcb52eb90fb0ec6d1d890928e
+RUN echo hello
