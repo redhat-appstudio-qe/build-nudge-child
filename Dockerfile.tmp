@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-mqkj-tenant/build-suite-component-update-ficl/multi-component-parent-btis@sha256:dc731c0fd7d5e4c164a5cc38dab7328e0156bede0f9bbc5021444f33cff9b31a
+FROM quay.io/redhat-appstudio-qe/build-e2e-mqkj-tenant/build-suite-component-update-ficl/multi-component-parent-btis@sha256:38768ad7b6624e9df58ec6b9f45c5bc3296e31c6792720364f0c7fcbfe8dce81
 RUN echo hello
