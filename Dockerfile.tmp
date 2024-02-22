@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zibi-tenant/build-suite-component-update-nldf/multi-component-parent-emdp@sha256:dc3a86f39dabb40134eb39e488fdcd8df72df95923e812a6a69efda31f639bd5
+RUN echo hello
