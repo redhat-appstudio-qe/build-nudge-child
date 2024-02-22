@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mxdr-tenant/build-suite-component-update-qgou/multi-component-parent-atce@sha256:70dcfe6d0e220fa9f3891f8da9592324c1c7e9af07177d6dfbbff22873b4e668
+RUN echo hello
