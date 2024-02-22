@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vfkl-tenant/build-suite-component-update-rxei/multi-component-parent-kuds@sha256:7e045db88f4f39316f7dd87bc5aed9cdaf15151715248936aae0fd4fa55b6b56
+FROM quay.io/redhat-appstudio-qe/build-e2e-vfkl-tenant/build-suite-component-update-rxei/multi-component-parent-kuds@sha256:1b6510c937695effc2ecccad7bc966fedbaa4aee3433e66c182990c2debf4651
 RUN echo hello
