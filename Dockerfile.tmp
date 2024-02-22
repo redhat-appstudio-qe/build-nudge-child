@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-raxa-tenant/build-suite-component-update-bgnz/multi-component-parent-aozj@sha256:4d763e625625da04f92bf275ed8fec72f18f3e7bc1206322cde5974c688aa970
+FROM quay.io/redhat-appstudio-qe/build-e2e-raxa-tenant/build-suite-component-update-bgnz/multi-component-parent-aozj@sha256:e96fbb22f76e86353f69d64a3be235ebb8c6f980c0a2378666b71e88d0b0cad1
 RUN echo hello
