@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rxdm-tenant/build-suite-component-update-dmuh/multi-component-parent-dteu@sha256:17c451b143a62c22bd42cb4175f74c4fa14299aae12f74bb2a00d33f8b059d38
+FROM quay.io/redhat-appstudio-qe/build-e2e-rxdm-tenant/build-suite-component-update-dmuh/multi-component-parent-dteu@sha256:a22011e4daf894d87b067dd60fd220f9ad7314a6409451cf2ea72f441bee617e
 RUN echo hello
