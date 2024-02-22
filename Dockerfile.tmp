@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jaba-tenant/build-suite-component-update-wgqu/multi-component-parent-mjth@sha256:df399d0cf1962c2419006902e83920b334ad018d9fcae9b8a31154973e918c8b
+FROM quay.io/redhat-appstudio-qe/build-e2e-jaba-tenant/build-suite-component-update-wgqu/multi-component-parent-mjth@sha256:3287d4df6b1fe941806659fc40eb0c2f980ab035e04087655df649c0420a61c2
 RUN echo hello
