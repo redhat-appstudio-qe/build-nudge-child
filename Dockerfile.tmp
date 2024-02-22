@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ztua-tenant/build-suite-component-update-zhow/multi-component-parent-jxhe@sha256:794ff20cbf7a1b00c1a8cde49f41e3adf1dad9cc750213b7a0955f333b259d33
+FROM quay.io/redhat-appstudio-qe/build-e2e-ztua-tenant/build-suite-component-update-zhow/multi-component-parent-jxhe@sha256:ce6a6f54979014225a4fada8a625656fc83a8db2901ec0a1606ebd33ea1c466d
 RUN echo hello
