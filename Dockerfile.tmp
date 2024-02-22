@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cawh-tenant/build-suite-component-update-necw/multi-component-parent-gwkh@sha256:559f8b69a3abbc44cf5c431eda2307227e53ee84a6d9eb6ec9f3f572a2c15b5b
+RUN echo hello
