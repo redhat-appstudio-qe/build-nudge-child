@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cvuu-tenant/build-suite-component-update-gfeu/multi-component-parent-fihr@sha256:93fc7bb52ecdcb7a0539a7891ceee4854541d3d54ec55430ea8b546dc19c271f
+RUN echo hello
