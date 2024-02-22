@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-sbkb-tenant/build-suite-component-update-tfmo/multi-component-parent-ssfr@sha256:22d96dcb57ebedf31ed46213b25d712ac382e0a13354793ebec6773ef076c983
+FROM quay.io/redhat-appstudio-qe/build-e2e-sbkb-tenant/build-suite-component-update-tfmo/multi-component-parent-ssfr@sha256:1e62934b046dbbb63a493d733c64f255bf5c75061d313d97722b6c8f43a1f8c5
 RUN echo hello
