@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ivsc-tenant/build-suite-component-update-fumt/multi-component-parent-ribv@sha256:58896cd0c50f0ce5a989be34722098b15c5ef1830da79352ae0a11ad34a8e094
+RUN echo hello
