@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xaez-tenant/build-suite-component-update-tjdt/multi-component-parent-orgf@sha256:245e3d5d12a3470c01fdc233936c4c3f8e10fcf05dcc9183efbdcc3b67c9c421
+FROM quay.io/redhat-appstudio-qe/build-e2e-xaez-tenant/build-suite-component-update-tjdt/multi-component-parent-orgf@sha256:412e7b18c1abb51e8dfe0933cecf251d0cdaa72347f7c086cfdec5508ec40dcf
 RUN echo hello
