@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vlcb-tenant/build-suite-component-update-xajt/multi-component-parent-anip@sha256:94259cdae97a395dba77169aaf1b485d61ad27024649436df5732a7cf3c91a6d
+FROM quay.io/redhat-appstudio-qe/build-e2e-vlcb-tenant/build-suite-component-update-xajt/multi-component-parent-anip@sha256:8ca674d7ac2cfb6ca32b584e8f59e62a4ec13dd31ebbeb9db97cb7edc7baaae4
 RUN echo hello
