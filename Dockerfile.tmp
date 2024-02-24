@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vcur-tenant/build-suite-component-update-ciov/multi-component-parent-leny@sha256:8677ba804a2804d852b52fc59c298edc4de333ac68329eb6a3b825c13ce5043c
+FROM quay.io/redhat-appstudio-qe/build-e2e-vcur-tenant/build-suite-component-update-ciov/multi-component-parent-leny@sha256:c77cdcb06dbdfdc8ad51e235141722c81be5428a746a9ece3e017fec5b68dbec
 RUN echo hello
