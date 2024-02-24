@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ctox-tenant/build-suite-component-update-tewa/multi-component-parent-ennx@sha256:965a19624edd04be069bc34a4afac6041b81a647c3e97b49e07cc510d7a9a3a9
+FROM quay.io/redhat-appstudio-qe/build-e2e-ctox-tenant/build-suite-component-update-tewa/multi-component-parent-ennx@sha256:c0b4078544518ee9b29dc1cce93b27b477ce8e44edb93acee3d97cf34045b508
 RUN echo hello
