@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cfbq-tenant/build-suite-component-update-pxyl/multi-component-parent-mmal@sha256:a7b62c2a183e0bb8602b529946880d42fccb193a90325d2ef849d154f08d932b
+RUN echo hello
