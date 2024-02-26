@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zuxf-tenant/build-suite-component-update-cxct/multi-component-parent-ropw@sha256:f98f298b202267c8ae6e799289c3fe783271cf3a7e7275c14a0b4e9ed2d09706
+RUN echo hello
