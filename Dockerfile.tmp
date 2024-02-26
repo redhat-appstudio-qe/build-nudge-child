@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xhou-tenant/build-suite-component-update-qvpg/multi-component-parent-heda@sha256:84e33bbddd10368d338e78318281d2f66f833a627e8e63d0d498550cd0efc001
+RUN echo hello
