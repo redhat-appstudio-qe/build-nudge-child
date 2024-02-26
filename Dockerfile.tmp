@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cssg-tenant/build-suite-component-update-dibz/multi-component-parent-vdll@sha256:da36c8f7c9b686955fa9948cc7031890112bb01c749f1b7b9d8ea2232cf160fc
+RUN echo hello
