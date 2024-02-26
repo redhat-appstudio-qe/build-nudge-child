@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dpzg-tenant/build-suite-component-update-hmth/multi-component-parent-onue@sha256:2aef0ee5482c9c0bc99fea734cc6f99bb945cc68dceaf5ef82b0629a5456db37
+FROM quay.io/redhat-appstudio-qe/build-e2e-dpzg-tenant/build-suite-component-update-hmth/multi-component-parent-onue@sha256:2feff7f0a8374472089b949ba0ade0fab7771fb6d0c315703e3b3c2f7e319a16
 RUN echo hello
