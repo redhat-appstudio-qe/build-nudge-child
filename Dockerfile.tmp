@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vnez-tenant/build-suite-component-update-afyn/multi-component-parent-kgti@sha256:7d9f2c0bd1c7bae72c133b186081c70917892bc77fecdea0a8b965f562151813
+FROM quay.io/redhat-appstudio-qe/build-e2e-vnez-tenant/build-suite-component-update-afyn/multi-component-parent-kgti@sha256:869a5707476197fa3e72c7c9af901f7ea4b3f4600cda2b90962a090fefa97b58
 RUN echo hello
