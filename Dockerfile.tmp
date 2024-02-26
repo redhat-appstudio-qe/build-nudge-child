@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ojcb-tenant/build-suite-component-update-picn/multi-component-parent-xnha@sha256:c08007c3846623982c87fc7ee53eb074d3ab0eeedd2c2fff8693ab49273f1970
+FROM quay.io/redhat-appstudio-qe/build-e2e-ojcb-tenant/build-suite-component-update-picn/multi-component-parent-xnha@sha256:d3bcb2733515a8af172bf14e7797dba4a4913e0836f9c39e2e577329101fa465
 RUN echo hello
