@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-oidm-tenant/build-suite-component-update-imwk/multi-component-parent-quny@sha256:1c13a5399b75b567b6bbea5d88bdf0aefa8aaaaed8c3403fec99e07d61ab6cf2
+FROM quay.io/redhat-appstudio-qe/build-e2e-oidm-tenant/build-suite-component-update-imwk/multi-component-parent-quny@sha256:0e0470e4110bf80d59ea3ed0ae288788240822be3c49ab773cef26fc051be375
 RUN echo hello
