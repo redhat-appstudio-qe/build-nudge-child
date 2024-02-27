@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tihq-tenant/build-suite-component-update-xabb/multi-component-parent-foqh@sha256:d9e5ec85a2e9ef9a0368cce7415e9fcf7a8628e452eab5f6a5157ab27f7bb41f
+FROM quay.io/redhat-appstudio-qe/build-e2e-tihq-tenant/build-suite-component-update-xabb/multi-component-parent-foqh@sha256:fce1b00cb79c2d54205168fa6c4eec565c7d1f9bf3663a79c1934cefb5cb47c5
 RUN echo hello
