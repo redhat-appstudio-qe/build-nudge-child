@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-john-tenant/build-suite-component-update-rukt/multi-component-parent-mudi@sha256:5818569b87cfc5d5ae37f2588a95d53b053f2c4d0acf1ea682dad9b55d6549c6
+FROM quay.io/redhat-appstudio-qe/build-e2e-john-tenant/build-suite-component-update-rukt/multi-component-parent-mudi@sha256:456c352e5ee9592d95e61cbf3492692d96141121ab8d4f502e53a26a82f783f6
 RUN echo hello
