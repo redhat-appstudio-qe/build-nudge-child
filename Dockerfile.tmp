@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rqxf-tenant/build-suite-component-update-poyf/multi-component-parent-iaca@sha256:f5423adf8d5014d64ed5d97c4eec4df5d4ceb7e77d92ac120187d2a0b5ccecd0
+FROM quay.io/redhat-appstudio-qe/build-e2e-rqxf-tenant/build-suite-component-update-poyf/multi-component-parent-iaca@sha256:582be9ada94a8cc034944d62979d459dbd9fb97068b176cbf7dd56eea525f573
 RUN echo hello
