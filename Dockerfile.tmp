@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-pabr-tenant/build-suite-component-update-itkt/multi-component-parent-fiiy@sha256:bda8944822a99aa5bc5a98a22dd8f2f5319199259a87829f2e8be907119706c3
+FROM quay.io/redhat-appstudio-qe/build-e2e-pabr-tenant/build-suite-component-update-itkt/multi-component-parent-fiiy@sha256:168a3eb31ed1449da5e567828211d30cdf2305d9adf42aeaa7c23a311cc75c64
 RUN echo hello
