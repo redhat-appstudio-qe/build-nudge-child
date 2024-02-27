@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rdwo-tenant/build-suite-component-update-dnim/multi-component-parent-vmuj@sha256:8a8ae3cd97b6aafdcf8c8dd1c1007986cc08eb309620e789a065d74d05d9cb39
+FROM quay.io/redhat-appstudio-qe/build-e2e-rdwo-tenant/build-suite-component-update-dnim/multi-component-parent-vmuj@sha256:269dc6976da3628c4626b612301a506625100fb9d69f6114bc3b50568f8fa337
 RUN echo hello
