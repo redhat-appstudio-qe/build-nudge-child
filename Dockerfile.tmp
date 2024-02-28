@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nrfd-tenant/build-suite-component-update-vssu/multi-component-parent-pswx@sha256:16d7cc616ddcb37a981a4015481002bc593e163a97b24bb887174e375eb73bda
+FROM quay.io/redhat-appstudio-qe/build-e2e-nrfd-tenant/build-suite-component-update-vssu/multi-component-parent-pswx@sha256:e9cc351453bed5ada2febf220c5c3683e0af72c0b2da9ca547ca5accdda04d35
 RUN echo hello
