@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ximo-tenant/build-suite-component-update-klhc/multi-component-parent-hwcq@sha256:0fa746bb518ebcf1779f61cc68442f56bb841a1dd04b59c28021a4851e33c4d1
+RUN echo hello
