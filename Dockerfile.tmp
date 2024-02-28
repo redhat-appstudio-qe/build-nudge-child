@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gtmj-tenant/build-suite-component-update-efhy/multi-component-parent-mkmb@sha256:8e8a4af58a3cd75443584e52a36e5b2042e01cbbda1eeaba49a80e9d79e64a0a
+RUN echo hello
