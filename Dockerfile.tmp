@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ezev-tenant/build-suite-component-update-tnvn/multi-component-parent-fnkb@sha256:04c2a552326d7a964ab0db4753df65b7cc59cf991692cd59d1580c195f9bcf62
+RUN echo hello
