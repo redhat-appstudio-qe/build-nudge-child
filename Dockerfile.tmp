@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-egoc-tenant/build-suite-component-update-emgu/multi-component-parent-rdtb@sha256:beb8605a38a1bfeeaeef564451af053d2e2a5aa61c99c5ec631a625f741c8c23
+RUN echo hello
