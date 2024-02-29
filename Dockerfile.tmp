@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ixuw-tenant/build-suite-component-update-prrq/multi-component-parent-xhgw@sha256:1b79f17f645d397b38fb09184214af4ba0d9f49ae5e21f14f047f01e4b2156b9
+FROM quay.io/redhat-appstudio-qe/build-e2e-ixuw-tenant/build-suite-component-update-prrq/multi-component-parent-xhgw@sha256:4a989a970069b4012fb393d06e7efc7f8b16249d1a3570a7eca21f898143e076
 RUN echo hello
