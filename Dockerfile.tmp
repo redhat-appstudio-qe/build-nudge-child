@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ohey-tenant/build-suite-component-update-ppzi/multi-component-parent-pizq@sha256:90611d0a5f01fc01396dfb59f18e24ad42f947b1d6a6fa7f554578e7dc684e00
+FROM quay.io/redhat-appstudio-qe/build-e2e-ohey-tenant/build-suite-component-update-ppzi/multi-component-parent-pizq@sha256:7d3b8995a1b39a326d1ac6caf307152eb707277353cfd11d0123e3b36a93e8ae
 RUN echo hello
