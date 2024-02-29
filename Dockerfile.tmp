@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bljf-tenant/build-suite-component-update-ekmo/multi-component-parent-dvqf@sha256:00126e0838e99ed4b08c63d61cc8fb8a8f6daa30281156ca2f9873359a346865
+FROM quay.io/redhat-appstudio-qe/build-e2e-bljf-tenant/build-suite-component-update-ekmo/multi-component-parent-dvqf@sha256:0cebb95be9dea0768e31bb94bbecda919ce24695252934def3f2edbea93f9255
 RUN echo hello
