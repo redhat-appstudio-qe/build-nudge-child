@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cnmy-tenant/build-suite-component-update-vxne/multi-component-parent-socs@sha256:b6d5852a7806f25e64c1a1e5ddbe143e26a0ba61922c462806e8461205a92a77
+RUN echo hello
