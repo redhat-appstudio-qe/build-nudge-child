@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-eiex-tenant/build-suite-component-update-feeo/multi-component-parent-uraq@sha256:1105dedb0a13be47dc3e42ced3e371292176dcb14b653c69414e08a96bae404e
+RUN echo hello
