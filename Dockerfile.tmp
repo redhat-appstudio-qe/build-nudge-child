@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-leln-tenant/build-suite-component-update-wgyr/multi-component-parent-omql@sha256:500e3ad0975998d80480f78d1b4e43393ee33185badb11f1d5b12be6b06e92be
+FROM quay.io/redhat-appstudio-qe/build-e2e-leln-tenant/build-suite-component-update-wgyr/multi-component-parent-omql@sha256:91b908cd4da78d9df578dcf06e4431b3b58f8f08cfdc3086c1284647f114ddc8
 RUN echo hello
