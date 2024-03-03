@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-zxup-tenant/build-suite-component-update-uenf/multi-component-parent-ocpy@sha256:a05c9a65851be1f05deb9bbfee02ddeae9c17aad7ffc351f49ca55fea202389f
+FROM quay.io/redhat-appstudio-qe/build-e2e-zxup-tenant/build-suite-component-update-uenf/multi-component-parent-ocpy@sha256:3e2cb954b1fbbe55ee22adc23430a0df0ac388bc11fe93639e44877e759d295f
 RUN echo hello
