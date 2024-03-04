@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-kfaz-tenant/build-suite-component-update-wnyv/multi-component-parent-bhuk@sha256:e4ca1fb21071faf4ee34810fde367350d5a21dd73e2e7f0ed27134003a9c0f5c
+RUN echo hello
