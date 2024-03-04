@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-sikg-tenant/build-suite-component-update-ynpa/multi-component-parent-dvtd@sha256:914dc843320bc14e292a528fdeff2c80e2abf1a301ac1b473510454fd2615b6b
+RUN echo hello
