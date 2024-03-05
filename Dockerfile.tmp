@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-joag-tenant/build-suite-component-update-mbic/multi-component-parent-bmag@sha256:37e08e6e805a07bb38199804a93dfa64f96dd5a4cced8c28e3afcf02ccdf4e29
+FROM quay.io/redhat-appstudio-qe/build-e2e-joag-tenant/build-suite-component-update-mbic/multi-component-parent-bmag@sha256:137a16a3d722f63ea5f7a9c9daa4c0cd1299e8706afbea9a4e66b12b6ee1690e
 RUN echo hello
