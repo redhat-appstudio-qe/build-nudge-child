@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-evrk-tenant/build-suite-component-update-bprn/multi-component-parent-eriv@sha256:598f5afd170e9bf3b5b756fd07cab28af634d639a9f3026717e912a288a4841d
+RUN echo hello
