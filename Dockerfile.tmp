@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tnfp-tenant/build-suite-component-update-khir/multi-component-parent-djsc@sha256:4f39d13bc8077799abe134b246ddf0bf62f4bb49019bdea54bf9551b8a1e7010
+RUN echo hello
