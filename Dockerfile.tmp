@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-injz-tenant/build-suite-component-update-sbeu/multi-component-parent-sqmw@sha256:2d82c21f708b93ad303bd61bbedd1aaa1a42403ae23407e498f30a721ef8fcac
+FROM quay.io/redhat-appstudio-qe/build-e2e-injz-tenant/build-suite-component-update-sbeu/multi-component-parent-sqmw@sha256:72d17eafeb70eda06a5e2e7a37fe6ca36f9d2e73b414e7a7fcbfbc61c8f12e2d
 RUN echo hello
