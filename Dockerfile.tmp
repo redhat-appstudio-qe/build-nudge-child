@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dqxk-tenant/build-suite-component-update-gehu/multi-component-parent-ldmv@sha256:eaf224e08a308ea66771b0b56e313170fe557f8bb9c0534898ddce3b36d0b9d0
+FROM quay.io/redhat-appstudio-qe/build-e2e-dqxk-tenant/build-suite-component-update-gehu/multi-component-parent-ldmv@sha256:fa7da666e3c469e6b625189f3c1cdcb37b03043bf64b70946d6bd6c87b115c9a
 RUN echo hello
