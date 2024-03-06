@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jnik-tenant/build-suite-component-update-ixvq/multi-component-parent-rdgh@sha256:1c9373e5a1679ac6efa93781dfd972f727e04f5bad2b75438cebcfe8874fa20a
+RUN echo hello
