@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fpeh-tenant/build-suite-component-update-dsvp/multi-component-parent-cnak@sha256:d5cc6319f4284a4d77fb56b2784dcdfbd88419af3091f407890640ba341c399f
+FROM quay.io/redhat-appstudio-qe/build-e2e-fpeh-tenant/build-suite-component-update-dsvp/multi-component-parent-cnak@sha256:fdd445010ad923adca1d52484586c02e77b8877d1a0516bc5722a1a88ba22cba
 RUN echo hello
