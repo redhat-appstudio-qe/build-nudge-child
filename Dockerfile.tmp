@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jkzl-tenant/build-suite-component-update-tpse/multi-component-parent-qrvn@sha256:5f2a73729ab748bcec59122cfa60ede4be5454f37005c787b04ae255dfa2554f
+FROM quay.io/redhat-appstudio-qe/build-e2e-jkzl-tenant/build-suite-component-update-tpse/multi-component-parent-qrvn@sha256:99ae1cb8df2f6760b3b1e9de8c04b07c258f87b2a890f944edb8452860899363
 RUN echo hello
