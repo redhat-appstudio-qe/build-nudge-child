@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ckdr-tenant/build-suite-component-update-znbf/multi-component-parent-xxog@sha256:56faf00e88f18f9cfb4f44c8b21f072be4ca3ba0933d5cc8435000e4a95ff060
+FROM quay.io/redhat-appstudio-qe/build-e2e-ckdr-tenant/build-suite-component-update-znbf/multi-component-parent-xxog@sha256:c043b5b41612b2c078721f2c39595f8fb435d2f273bad446bf1eacc15659d059
 RUN echo hello
