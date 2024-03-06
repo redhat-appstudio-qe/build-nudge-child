@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dezc-tenant/build-suite-component-update-icdp/multi-component-parent-chum@sha256:50c1e9ef7ba481795d9a855f9e786744f734427899388f1e5e976101cf332ff6
+RUN echo hello
