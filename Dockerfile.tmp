@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-pwpv-tenant/build-suite-component-update-fxho/multi-component-parent-guxh@sha256:1ee730e9474af2ab8eb42a725c7eed070f3cef869f7c8f5e24f9c88bf0fc752c
+FROM quay.io/redhat-appstudio-qe/build-e2e-pwpv-tenant/build-suite-component-update-fxho/multi-component-parent-guxh@sha256:3b5bad7c899c866594c0c4bd4311a7434b6b164bbe90bfa3cc53be21e7759960
 RUN echo hello
