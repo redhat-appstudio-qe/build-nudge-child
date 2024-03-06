@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lcyg-tenant/build-suite-component-update-ieyd/multi-component-parent-mvfa@sha256:12d36fcca5f2d9ccb0b7d3c52b4576b265002f5319e808d958ba9fb33e729682
+FROM quay.io/redhat-appstudio-qe/build-e2e-lcyg-tenant/build-suite-component-update-ieyd/multi-component-parent-mvfa@sha256:134f0ad8c135aec5b7be889aa83cfcdce2312fb7129bfaa38159f6fc61096489
 RUN echo hello
