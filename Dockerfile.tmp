@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ojfy-tenant/build-suite-component-update-tsut/multi-component-parent-vtgk@sha256:373eb4ebfae69ea2d0994290723022666031fea8926498f8c490adcbc801e32a
+RUN echo hello
