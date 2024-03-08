@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-soyq-tenant/build-suite-component-update-anep/multi-component-parent-slvt@sha256:53ee1561e4df7593ada725affb537da29d39d08e24167084f0378a5eb0ae8fa4
+FROM quay.io/redhat-appstudio-qe/build-e2e-soyq-tenant/build-suite-component-update-anep/multi-component-parent-slvt@sha256:f25a3aea7d5918b5b0ca1af57eca5f6272ba2074e175e04b23d4a46972adb540
 RUN echo hello
