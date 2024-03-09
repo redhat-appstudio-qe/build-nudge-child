@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ijkj-tenant/build-suite-component-update-krcp/multi-component-parent-eycm@sha256:6f153957998a20a3898f6db8c762d00f21c2548880ca8ecc0cc7cd59f298e23a
+RUN echo hello
