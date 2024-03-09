@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-osbc-tenant/build-suite-component-update-ncnq/multi-component-parent-cxrn@sha256:ce882e3f0b728305a9c209de4d1db7a0afdb15db9c751c9492893f059f4ed48f
+RUN echo hello
