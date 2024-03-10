@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gdut-tenant/build-suite-component-update-qiwz/multi-component-parent-xqme@sha256:180691fe6cba7650a8119e89d62693c7b36e105440dd97b7fcc3b30511bf1f44
+RUN echo hello
