@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-aqvb-tenant/build-suite-component-update-jxgu/multi-component-parent-wdmc@sha256:d41d1ddb4ba9d48a32aeca4e4201268000661458099503dd2f7d34f5a2c754ac
+FROM quay.io/redhat-appstudio-qe/build-e2e-aqvb-tenant/build-suite-component-update-jxgu/multi-component-parent-wdmc@sha256:aa539baa9de3f1ee69dcf2480e158e47c051114f47df5c46e5a53c1f703d3cad
 RUN echo hello
