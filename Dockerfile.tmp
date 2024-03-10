@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tpmx-tenant/build-suite-component-update-dyqt/multi-component-parent-qdve@sha256:01444dc8c31deab275e71304f2ce3fc893c8c0455ad08aaefcc3beadee09f905
+RUN echo hello
