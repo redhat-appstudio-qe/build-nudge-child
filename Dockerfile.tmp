@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lubx-tenant/build-suite-component-update-timk/multi-component-parent-qinu@sha256:b17cee8e42000630fb90600d5e7646859ae08dd4540baac99ca14a0bacac7cc7
+RUN echo hello
