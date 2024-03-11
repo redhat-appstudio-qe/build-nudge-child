@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-myma-tenant/build-suite-component-update-bmds/multi-component-parent-furl@sha256:914d533b628e9adf02ac19424cf4018dacbb4a970e6347bdd597405313840aca
+RUN echo hello
