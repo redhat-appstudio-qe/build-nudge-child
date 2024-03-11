@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-uuga-tenant/build-suite-component-update-lmzm/multi-component-parent-blzb@sha256:b9fa04328cf2b65bad5e0d4274b12a0dbc415f5d4de9f30b9f518c89369dd629
+FROM quay.io/redhat-appstudio-qe/build-e2e-uuga-tenant/build-suite-component-update-lmzm/multi-component-parent-blzb@sha256:db0eb4d99b46c6b9888d82f540ffe60e9c0a3ba97039e07de7379e6a658fe268
 RUN echo hello
