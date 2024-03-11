@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-npxf-tenant/build-suite-component-update-fbhd/multi-component-parent-tisv@sha256:60d05b68077b9af472b67809ac4dd7f20de3ae5123e537b4350b7ed682c50ab4
+FROM quay.io/redhat-appstudio-qe/build-e2e-npxf-tenant/build-suite-component-update-fbhd/multi-component-parent-tisv@sha256:83d2e765c766e0bca33782bae8ba78fff2a266de3a76aed9e22fec0033dd6c1f
 RUN echo hello
