@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dltg-tenant/build-suite-component-update-ewsv/multi-component-parent-pumo@sha256:679c01f66f269d757ce15770089a0ea84c778e83e6294464af984a3dc9193c33
+RUN echo hello
