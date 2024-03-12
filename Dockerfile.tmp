@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-pztl-tenant/build-suite-component-update-cmrr/multi-component-parent-xfoa@sha256:9a9aed8d652f315aee854a6c87a9b0500abb548bd33a7c57b705da36fbd282d0
+FROM quay.io/redhat-appstudio-qe/build-e2e-pztl-tenant/build-suite-component-update-cmrr/multi-component-parent-xfoa@sha256:ae2a8c7137066fcd4dde36369dc36693587865c36cc7074187e2bbe783e49396
 RUN echo hello
