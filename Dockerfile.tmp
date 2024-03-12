@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-sist-tenant/build-suite-component-update-spuq/multi-component-parent-cilf@sha256:fc7e160739170da3e2a90f543b7706b0a5e43192858195ab44a4006f6505a255
+FROM quay.io/redhat-appstudio-qe/build-e2e-sist-tenant/build-suite-component-update-spuq/multi-component-parent-cilf@sha256:7151ae6f673d2b1a7ed0b00bcaf3a93badded048054c50ae7f1ae758c072ecd5
 RUN echo hello
