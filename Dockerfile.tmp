@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-uzdx-tenant/build-suite-component-update-ewnp/multi-component-parent-nvsm@sha256:35a36031331a2723c854aeb89ea38e9843c6bf4d3cb1d108a85d0ea29fea44d2
+FROM quay.io/redhat-appstudio-qe/build-e2e-uzdx-tenant/build-suite-component-update-ewnp/multi-component-parent-nvsm@sha256:de808c58a353aff3f3d062309796af380624bccd5727d8f2d8ee25b7a4d9cb72
 RUN echo hello
