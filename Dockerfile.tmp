@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nbuh-tenant/build-suite-component-update-wokm/multi-component-parent-nwfa@sha256:8b11bc42c88a3ca01c2bf4bcfed379c8b009d83df73a8e878cc4bb38822efcff
+FROM quay.io/redhat-appstudio-qe/build-e2e-nbuh-tenant/build-suite-component-update-wokm/multi-component-parent-nwfa@sha256:50a979354c7f02c474be6f485f68253e8bb9288acc8964b4a6f89e2bf468e8a5
 RUN echo hello
