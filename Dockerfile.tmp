@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wqhj-tenant/build-suite-component-update-ogad/multi-component-parent-hful@sha256:e8688bd08d5961c05336540d324a4f631c891bd963bc4cd06a7837eb366be47a
+RUN echo hello
