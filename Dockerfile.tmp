@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ntls-tenant/build-suite-component-update-drog/multi-component-parent-zzsu@sha256:13e1649d54c920df4231b6981a0152cfa81a53460aa7b23c6a110f6e64fd4f03
+FROM quay.io/redhat-appstudio-qe/build-e2e-ntls-tenant/build-suite-component-update-drog/multi-component-parent-zzsu@sha256:6bd9bdcab116c52504eaf02c3f67ffd51f204fe9926f8d6721ae6d94470abbc2
 RUN echo hello
