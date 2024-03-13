@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tdsn-tenant/build-suite-component-update-uzbl/multi-component-parent-lvat@sha256:ea287173b9e4409e5261c93d6d80135351d4043a1943d9c12372da8b2fc6bd0d
+FROM quay.io/redhat-appstudio-qe/build-e2e-tdsn-tenant/build-suite-component-update-uzbl/multi-component-parent-lvat@sha256:89877aaa24dd13b9618171b84a4e19ffcd2df0774e5e6e3d9800272d5e1b048d
 RUN echo hello
