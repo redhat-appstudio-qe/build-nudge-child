@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fyzs-tenant/build-suite-component-update-mlnz/multi-component-parent-nydj@sha256:5192d84dc3afd6018235928bc956b7c20412052e11ed1b010344e8c7c33ea280
+FROM quay.io/redhat-appstudio-qe/build-e2e-fyzs-tenant/build-suite-component-update-mlnz/multi-component-parent-nydj@sha256:b2956505d54ff3b8d54ec15977100ef3ae88df68d27bdaa393b3a38ff07a13bc
 RUN echo hello
