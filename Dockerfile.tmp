@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fuii-tenant/build-suite-component-update-kfqm/multi-component-parent-unum@sha256:0862bafefcbb6130dc23b82e0123a611abbb85e00375af99e0fe3ec313290430
+FROM quay.io/redhat-appstudio-qe/build-e2e-fuii-tenant/build-suite-component-update-kfqm/multi-component-parent-unum@sha256:fa26087c1a31ac7921756540471f79da856c33983ba29f5f1f0a432c01135137
 RUN echo hello
