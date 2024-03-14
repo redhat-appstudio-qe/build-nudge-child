@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ubps-tenant/build-suite-component-update-nlmv/multi-component-parent-rfro@sha256:b76cbe7d270553d464d960cbfe5e063abc39295f4fbf8ce291a25024376e72a2
+FROM quay.io/redhat-appstudio-qe/build-e2e-ubps-tenant/build-suite-component-update-nlmv/multi-component-parent-rfro@sha256:1b6c569ba1a1adb9498704d4f96658fb103f8c53ad7ec0d8cda4ea629158434a
 RUN echo hello
