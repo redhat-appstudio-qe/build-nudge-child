@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fuii-tenant/build-suite-component-update-kfqm/multi-component-parent-unum@sha256:0862bafefcbb6130dc23b82e0123a611abbb85e00375af99e0fe3ec313290430
+RUN echo hello
