@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wiwh-tenant/build-suite-component-update-tiqo/multi-component-parent-yuum@sha256:3424cb6ce82541c80df2b7db1486c0e6bf2c44f0cb3f220f5773f671a0c3f8bb
+FROM quay.io/redhat-appstudio-qe/build-e2e-wiwh-tenant/build-suite-component-update-tiqo/multi-component-parent-yuum@sha256:84b2e7f6d77b7bc7ad1361ddfe34d834ec3ca8186e4eb0f1bb48d27f4e8571d9
 RUN echo hello
