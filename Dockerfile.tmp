@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dfej-tenant/build-suite-component-update-oylo/multi-component-parent-tozm@sha256:bc1beee05cf2471a3c7856cb109704e7becac47a3a52d8d08f4bb55dc3207f41
+FROM quay.io/redhat-appstudio-qe/build-e2e-dfej-tenant/build-suite-component-update-oylo/multi-component-parent-tozm@sha256:0af0751845d0810c8e6a8bfd6e8ab7054486d81f5464a64a09075a4dcd018688
 RUN echo hello
