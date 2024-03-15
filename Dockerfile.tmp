@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-yree-tenant/build-suite-component-update-sqin/multi-component-parent-ubri@sha256:15a879778fa444c40b27f330b3d9766a2eb1cbbc1f4f2b5441e8bd38c9d06636
+FROM quay.io/redhat-appstudio-qe/build-e2e-yree-tenant/build-suite-component-update-sqin/multi-component-parent-ubri@sha256:74dda5990d0d63cf7c55f98d8d5bbc903d0415ee8a2ee729bbac92e5d7d6953d
 RUN echo hello
