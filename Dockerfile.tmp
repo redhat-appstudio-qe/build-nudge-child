@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-khev-tenant/build-suite-component-update-svbd/multi-component-parent-dvnb@sha256:803cdecf1c9640b1fa78a0c62c63c14f48750456a73bfcc149560be2c0daa1fb
+RUN echo hello
