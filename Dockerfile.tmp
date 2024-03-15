@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fwkq-tenant/build-suite-component-update-dkvo/multi-component-parent-srvq@sha256:0da4ff3d6624113d95249f3fb938e48f46e9f5cd551e75541017b2ae02da1081
+RUN echo hello
