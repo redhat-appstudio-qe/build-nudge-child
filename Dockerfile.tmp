@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-phvx-tenant/build-suite-component-update-fknp/multi-component-parent-kpuq@sha256:306d13c90c88d07e7a66077c2ff61c0fa45f52389241fa5a60cff79eaa2adb2c
+FROM quay.io/redhat-appstudio-qe/build-e2e-phvx-tenant/build-suite-component-update-fknp/multi-component-parent-kpuq@sha256:d9048c22b216a5800df655b97c7fe21a16867cfa2631835af5b438974e2caf89
 RUN echo hello
