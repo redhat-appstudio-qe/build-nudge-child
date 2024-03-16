@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bajg-tenant/build-suite-component-update-skny/multi-component-parent-wanm@sha256:01a44fad5c8abbcf01a84f9f7faa946c026c47fff198ba5a43e3f202259b9535
+FROM quay.io/redhat-appstudio-qe/build-e2e-bajg-tenant/build-suite-component-update-skny/multi-component-parent-wanm@sha256:633af25a7bcdd4e2fd42f064ff6f4c2362f715bea7fa9fe3a9fb79e18082299c
 RUN echo hello
