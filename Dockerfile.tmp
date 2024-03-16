@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ibud-tenant/build-suite-component-update-peml/multi-component-parent-qqan@sha256:4dde9a98287c4d51c669029b2df8d8ad07c7beb26642d76eb153c9406cf21904
+FROM quay.io/redhat-appstudio-qe/build-e2e-ibud-tenant/build-suite-component-update-peml/multi-component-parent-qqan@sha256:39b1aa7be4bd615fec59571451c41e79fdb5f63597e1cc25b2e1fce674c54cde
 RUN echo hello
