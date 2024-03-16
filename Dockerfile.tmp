@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hsag-tenant/build-suite-component-update-yetq/multi-component-parent-spby@sha256:388a22865696499126ee9be64399939497038dc3b4ba8c0feb0c2f51192b1733
+RUN echo hello
