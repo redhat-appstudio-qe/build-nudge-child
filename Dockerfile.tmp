@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nxim-tenant/build-suite-component-update-ixhj/multi-component-parent-veak@sha256:2c7f240a5f2037faaa8aad6f734de18a60f905f8d7dc24934bce88afc368a954
+FROM quay.io/redhat-appstudio-qe/build-e2e-nxim-tenant/build-suite-component-update-ixhj/multi-component-parent-veak@sha256:a506737be73547812671e0fc5f96e17179cc3f66dc61e7bb5da1d99b8cb9d37c
 RUN echo hello
