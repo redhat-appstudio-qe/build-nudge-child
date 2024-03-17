@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-totv-tenant/build-suite-component-update-rtmm/multi-component-parent-kjpm@sha256:498bc9a299248094472fde77ff12869d039011a641c2b08c0aad1b74a582464f
+RUN echo hello
