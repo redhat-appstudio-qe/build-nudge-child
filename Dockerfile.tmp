@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-eiat-tenant/build-suite-component-update-ltip/multi-component-parent-dwge@sha256:4e22a3bd3fb51d501d17fcb524366e1ef30646db099fae0ed21b6b33051adeac
+RUN echo hello
