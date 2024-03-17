@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-uvet-tenant/build-suite-component-update-ycap/multi-component-parent-oxlv@sha256:42f304d6668680c854e9a7155c146b2f9add96e5377cef219d8432881d9b2949
+FROM quay.io/redhat-appstudio-qe/build-e2e-uvet-tenant/build-suite-component-update-ycap/multi-component-parent-oxlv@sha256:2eb583d68223eee159cad5436f135ad37aa5d87c0daa9567cbc5bf65d93ded0b
 RUN echo hello
