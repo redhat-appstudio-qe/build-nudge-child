@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fbvt-tenant/build-suite-component-update-pgdk/multi-component-parent-vqsm@sha256:06d68737e5e0290d3f2ec3fbaf70bf625d6662c778890b7df116e673228394da
+RUN echo hello
