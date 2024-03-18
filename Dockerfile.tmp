@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-onst-tenant/build-suite-component-update-nsak/multi-component-parent-lwlx@sha256:bb3924163604f1da2ba4ba967745bf4f548b7b8fa858d5947ddf9efa008c3efb
+FROM quay.io/redhat-appstudio-qe/build-e2e-onst-tenant/build-suite-component-update-nsak/multi-component-parent-lwlx@sha256:d5662243807117e9c50772c439e0b194a37ff752bf430c6cb25c524b21100707
 RUN echo hello
