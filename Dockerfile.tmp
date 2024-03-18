@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-raxp-tenant/build-suite-component-update-tuko/multi-component-parent-sqwm@sha256:dc58a4371ab396418ea568cce608f786972d543165e7be88874a5041f5e725a1
+FROM quay.io/redhat-appstudio-qe/build-e2e-raxp-tenant/build-suite-component-update-tuko/multi-component-parent-sqwm@sha256:680d7dc72a4e6b62f540def2a5488cb93def9ea64b25a006bab1aaef8b97bbc3
 RUN echo hello
