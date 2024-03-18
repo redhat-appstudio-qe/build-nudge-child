@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-iqam-tenant/build-suite-component-update-ikaa/multi-component-parent-oeoh@sha256:ac9c8cb1b165129fd6f181416c42537370bad8a8fd4d698b3b12ca18463fc1b2
+RUN echo hello
