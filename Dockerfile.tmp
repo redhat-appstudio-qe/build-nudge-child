@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jeku-tenant/build-suite-component-update-caxo/multi-component-parent-wxui@sha256:d993614ac56508f8e632e6a8304fd3393cd1e316ed417f9015726f86ca908918
+FROM quay.io/redhat-appstudio-qe/build-e2e-jeku-tenant/build-suite-component-update-caxo/multi-component-parent-wxui@sha256:46827badd7026e75730d6c04c1641edc6ea37d91f4615e07141fc5f1210ce05f
 RUN echo hello
