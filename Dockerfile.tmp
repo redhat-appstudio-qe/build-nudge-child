@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cvqi-tenant/build-suite-component-update-csda/multi-component-parent-vovs@sha256:98ad8f54377b574978de3efe282b3afe206bdc3276eafb0f2d744b80a1c2bbb5
+FROM quay.io/redhat-appstudio-qe/build-e2e-cvqi-tenant/build-suite-component-update-csda/multi-component-parent-vovs@sha256:a3a3f66ce38a3044f17c0ce9a24906a7d0990775777913ee68c6b9139951f981
 RUN echo hello
