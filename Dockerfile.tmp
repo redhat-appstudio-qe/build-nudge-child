@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-oiur-tenant/build-suite-component-update-qsdu/multi-component-parent-usrk@sha256:12ca4cf56096e022e7659aeceb4748b9cb34329d5c99fc6dab044afdab3c98e3
+RUN echo hello
