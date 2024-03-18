@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-roiw-tenant/build-suite-component-update-lneo/multi-component-parent-qtsf@sha256:1d6acf7a1bb5124d35329e2a8799f138c65dc6de775a22e735e9780b11a1a241
+FROM quay.io/redhat-appstudio-qe/build-e2e-roiw-tenant/build-suite-component-update-lneo/multi-component-parent-qtsf@sha256:aba2e197002a749cab17a56de6e7767aa9c1d36194cf1f5c41f6554e7c173324
 RUN echo hello
