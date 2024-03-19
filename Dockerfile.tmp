@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ymrf-tenant/build-suite-component-update-kdzg/multi-component-parent-zowp@sha256:3aafb28fae96d0925e76607ff966314ee9446d83a5d9b58741add2bed3a685c1
+RUN echo hello
