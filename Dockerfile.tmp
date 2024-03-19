@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-yzzn-tenant/build-suite-component-update-yarv/multi-component-parent-zmlb@sha256:4bd9bbcb9b7a011ffed7afbe5fc0826767aa7eae582f15ff10c4a7fd7ba93042
+FROM quay.io/redhat-appstudio-qe/build-e2e-yzzn-tenant/build-suite-component-update-yarv/multi-component-parent-zmlb@sha256:5ad774cbd366ba8abbd338385ba5155941ded90888f411efde3f65f5f87f7be6
 RUN echo hello
