@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-taxr-tenant/build-suite-component-update-nbkl/multi-component-parent-tvpz@sha256:34bbf5bbe4506c9181f2fee596a8e32bae3e5d7e685462aa9459fee35ebb7f44
+RUN echo hello
