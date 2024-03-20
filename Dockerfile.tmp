@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vime-tenant/build-suite-component-update-wozk/multi-component-parent-tqef@sha256:b86a52d33ef1583479fcaea091af7c9f34297cbd1fa9593099d5e7c9e95dcc8d
+FROM quay.io/redhat-appstudio-qe/build-e2e-vime-tenant/build-suite-component-update-wozk/multi-component-parent-tqef@sha256:989d3ce64fef57ded5d66001a352be1400c58f9a132b53d9da99f0ca83a87fa5
 RUN echo hello
