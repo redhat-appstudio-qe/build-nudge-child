@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-uini-tenant/build-suite-component-update-krex/multi-component-parent-ksel@sha256:78d8e5dfb29d8e3537cfc4282b6504b7138dffa55b1f430790fae4327ab826ce
+FROM quay.io/redhat-appstudio-qe/build-e2e-uini-tenant/build-suite-component-update-krex/multi-component-parent-ksel@sha256:2aac5640a77081ff8448d99547a1af54477364c7a945a2afb6950aa072354b85
 RUN echo hello
