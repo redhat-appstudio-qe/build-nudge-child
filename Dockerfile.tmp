@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-sloc-tenant/build-suite-component-update-diso/multi-component-parent-vcfz@sha256:59c36e250c5150ec75b4138e1c9fcc2e3a07c53c67c8818ea4c91862fdab3d16
+RUN echo hello
