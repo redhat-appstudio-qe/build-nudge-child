@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vsfi-tenant/build-suite-component-update-ydfc/multi-component-parent-yntj@sha256:0b0a6f71910c71dc2ae62d4aefb2f5defff3a33c6d48b993890820d316b31bd9
+FROM quay.io/redhat-appstudio-qe/build-e2e-vsfi-tenant/build-suite-component-update-ydfc/multi-component-parent-yntj@sha256:8ef95252ccf0c289a9fa1d78990f681af29ce3f552c16c8bb4b639d983abe866
 RUN echo hello
