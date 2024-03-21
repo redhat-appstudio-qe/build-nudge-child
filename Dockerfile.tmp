@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xdct-tenant/build-suite-component-update-pxde/multi-component-parent-jymm@sha256:1e2300d255e1b545eb238dd471c7f9fa120842d287b7dc827ddfd56626b1fb12
+FROM quay.io/redhat-appstudio-qe/build-e2e-xdct-tenant/build-suite-component-update-pxde/multi-component-parent-jymm@sha256:bf7c9cdc2e62d923a011b194033ce47b587376a95a82345e4dcdbd4f8bef53f4
 RUN echo hello
