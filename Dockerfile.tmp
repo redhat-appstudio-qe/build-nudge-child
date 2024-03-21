@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lfhj-tenant/build-suite-component-update-tukv/multi-component-parent-tgvb@sha256:b3bb66fdd617ba7401a709447eaf0ea696e960fcd9daef9033f6765b692b28f7
+FROM quay.io/redhat-appstudio-qe/build-e2e-lfhj-tenant/build-suite-component-update-tukv/multi-component-parent-tgvb@sha256:5f4bb7fc14dab866e126732651963bc98fc57cc543963d69656a74a724fff224
 RUN echo hello
