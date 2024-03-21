@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-mlxv-tenant/build-suite-component-update-uqpv/multi-component-parent-vxsd@sha256:5b03e2c999438fc38285d2d4ffa8a797fdfad560b85b30dea756ef45f47f1c5d
+FROM quay.io/redhat-appstudio-qe/build-e2e-mlxv-tenant/build-suite-component-update-uqpv/multi-component-parent-vxsd@sha256:4f9f4d382f7686acade192234ee8bc810f785a2c47b7edce88dffbfe123bae8c
 RUN echo hello
