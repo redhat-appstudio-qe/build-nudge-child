@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-kjni-tenant/build-suite-component-update-iqor/multi-component-parent-edoo@sha256:e10cedbff9256176ec949ffb6293b24aaa1e4f8e013cb5f0a856df913144eba5
+RUN echo hello
