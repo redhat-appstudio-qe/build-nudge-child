@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-pxkn-tenant/build-suite-component-update-mqsq/multi-component-parent-pgeq@sha256:349c3fff1f7d582d0cc7b88dac5b6c6f6a1ca7109d9604b489b905974803ca80
+FROM quay.io/redhat-appstudio-qe/build-e2e-pxkn-tenant/build-suite-component-update-mqsq/multi-component-parent-pgeq@sha256:28d01bf795e2b0e1596dfa1caa6eb06d299a448b954b497c4172e89ac5585a6b
 RUN echo hello
