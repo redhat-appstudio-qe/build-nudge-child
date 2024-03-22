@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vbyx-tenant/build-suite-component-update-tsqb/multi-component-parent-nybm@sha256:3e5e5d42c77cc8512668bee04fa0251c8a08bbe2f47cbeced9d7caa8aefd40db
+FROM quay.io/redhat-appstudio-qe/build-e2e-vbyx-tenant/build-suite-component-update-tsqb/multi-component-parent-nybm@sha256:04571dcfabedc64f729fb47530d97172d7707ac6679c27e168ebbf9092862ed2
 RUN echo hello
