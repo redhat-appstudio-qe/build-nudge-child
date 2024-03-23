@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xeym-tenant/build-suite-component-update-qung/multi-component-parent-zpxp@sha256:419d6563c7d7b0d0bc1a4a33642535b81a1f41245f654976171ac91a3837c334
+RUN echo hello
