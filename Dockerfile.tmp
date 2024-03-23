@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zgrn-tenant/build-suite-component-update-irdr/multi-component-parent-ksmm@sha256:f127fad9b855730e7c465a450e17f689dd42463140e40f5fbe2c2c3861b1e7e7
+RUN echo hello
