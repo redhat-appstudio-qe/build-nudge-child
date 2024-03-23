@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-uczd-tenant/build-suite-component-update-dskj/multi-component-parent-hevh@sha256:5cef02c015285ed505a7c1c676f3566a8ff9e94135be436d1e1a2f7f68e021c2
+RUN echo hello
