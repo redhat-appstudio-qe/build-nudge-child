@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-sqpf-tenant/build-suite-component-update-erby/multi-component-parent-rhho@sha256:da50876b50c439c7bc1a7765c86622a1fa6c8bceb0844929f070e3ad4fbe2b13
+FROM quay.io/redhat-appstudio-qe/build-e2e-sqpf-tenant/build-suite-component-update-erby/multi-component-parent-rhho@sha256:a24c51def4ce39911e930923b69f1e3fd8e465b5fef8f3069df010e1ee2d68a4
 RUN echo hello
