@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vayq-tenant/build-suite-component-update-gluj/multi-component-parent-edoz@sha256:709beeeb56fc38e6cd7d3034b51a9e465a0fb7cb39e09af2b3bba76199772060
+RUN echo hello
