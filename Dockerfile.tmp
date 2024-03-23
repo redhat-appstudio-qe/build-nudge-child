@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cnxc-tenant/build-suite-component-update-zncx/multi-component-parent-bnhc@sha256:df944c4596cbb3c0dc2f3ff34e56326d068a248640d5b195e2912e61fc2dc2a6
+FROM quay.io/redhat-appstudio-qe/build-e2e-cnxc-tenant/build-suite-component-update-zncx/multi-component-parent-bnhc@sha256:874d32c148a0b9b3e64eedb5cbd941f270661a42bacef9e353ec3c20ccf4edd3
 RUN echo hello
