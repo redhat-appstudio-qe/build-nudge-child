@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vuzk-tenant/build-suite-component-update-plgl/multi-component-parent-ggln@sha256:616766b93836e395a0286706e01164deca97e9752533b0fd9b1bbda8a120bd30
+FROM quay.io/redhat-appstudio-qe/build-e2e-vuzk-tenant/build-suite-component-update-plgl/multi-component-parent-ggln@sha256:c2984520244ff3983ac224f251f7d3c55a72ad5f388289cc9d346089c018401e
 RUN echo hello
