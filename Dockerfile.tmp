@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-szpc-tenant/build-suite-component-update-vukv/multi-component-parent-akpr@sha256:4f02a28c40ce5222338b5af19b7bce6b70a7d6833034a1946669f304fb798b8a
+RUN echo hello
