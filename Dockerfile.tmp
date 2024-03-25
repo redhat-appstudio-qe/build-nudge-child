@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rcvh-tenant/build-suite-component-update-jtnp/multi-component-parent-vxqo@sha256:c240f1ede954d09933e1c47cd726dfb382fad9f263d6f6519e817100e1e5e95b
+RUN echo hello
