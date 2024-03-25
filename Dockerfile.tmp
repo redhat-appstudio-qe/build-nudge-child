@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nfhh-tenant/build-suite-component-update-gilk/multi-component-parent-smdi@sha256:c24117a37f11977ab2f165db9463397190c84fef565726bcb7d24cab3605b147
+FROM quay.io/redhat-appstudio-qe/build-e2e-nfhh-tenant/build-suite-component-update-gilk/multi-component-parent-smdi@sha256:e2f06bbab604fedd3f4aaa6ed397ca0304a695c315fbc92692aa9994f399064d
 RUN echo hello
