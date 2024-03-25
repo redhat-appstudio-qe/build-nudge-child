@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fxdt-tenant/build-suite-component-update-wvib/multi-component-parent-mcjs@sha256:0c2b60c1b35e9495d59361c4107cfa45652f94dbf73c7e0562c7106000c4e1a9
+FROM quay.io/redhat-appstudio-qe/build-e2e-fxdt-tenant/build-suite-component-update-wvib/multi-component-parent-mcjs@sha256:8525e44ff82dc4e6f2e4953557371f03039beae536f0b5e0ea5b1aa790091d7f
 RUN echo hello
