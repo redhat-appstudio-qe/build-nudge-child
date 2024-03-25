@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pewe-tenant/build-suite-component-update-phhl/multi-component-parent-hscf@sha256:72aff2a185a91966c669657b43948bc7fc2684ea4f9704a22dfb4f340edc74db
+RUN echo hello
