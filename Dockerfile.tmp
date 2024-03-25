@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jvzn-tenant/build-suite-component-update-mcmk/multi-component-parent-jbpn@sha256:2b900989c5d5a4f301576b448108095d18751c28c1846a09f723803fbbda79c6
+FROM quay.io/redhat-appstudio-qe/build-e2e-jvzn-tenant/build-suite-component-update-mcmk/multi-component-parent-jbpn@sha256:3f2b22aba7cf05ff6418ac1ad40d422d461b7cfc946f4a1ce4b8f713ef92f564
 RUN echo hello
