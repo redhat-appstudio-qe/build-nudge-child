@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jtby-tenant/build-suite-component-update-ienm/multi-component-parent-imyg@sha256:af41b7cd9fad5cd68aea7dce26189e0c02eb13d50e14a32cb7f6c43e82f37776
+RUN echo hello
