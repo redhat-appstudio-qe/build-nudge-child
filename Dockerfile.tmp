@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mdad-tenant/build-suite-component-update-rlld/multi-component-parent-ifbl@sha256:b1eb0dfb9a1945d8c9536037202d82ef1532548c006eb9cad6b44d3235da14ec
+RUN echo hello
