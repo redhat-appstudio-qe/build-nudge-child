@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lnkq-tenant/build-suite-component-update-lqll/multi-component-parent-rncp@sha256:a695664a2259fb578a794e76712eaf17af985b1a0b9dd3e49a3fee734916ce94
+FROM quay.io/redhat-appstudio-qe/build-e2e-lnkq-tenant/build-suite-component-update-lqll/multi-component-parent-rncp@sha256:df55203527f2f69478d39ad6b65a43994df4838dcce1005b4fda9dfce8d2d292
 RUN echo hello
