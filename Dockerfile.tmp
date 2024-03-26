@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cuis-tenant/build-suite-component-update-tfsa/multi-component-parent-wgxz@sha256:0a9e06a64d0c1c00f6dddfa9dd0a3f08f6b02460101faf00ccc34b09412da323
+FROM quay.io/redhat-appstudio-qe/build-e2e-cuis-tenant/build-suite-component-update-tfsa/multi-component-parent-wgxz@sha256:f327c6a27156d7bd737aeb492fb8f2f1f230bf1227f1c60700d31d41f72afb25
 RUN echo hello
