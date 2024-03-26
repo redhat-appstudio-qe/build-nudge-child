@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-mxbn-tenant/build-suite-component-update-rtsv/multi-component-parent-iybn@sha256:77253eabf078351c3ef98281eb509b441c9a1310bb3a0ea5af958a222a4924b6
+FROM quay.io/redhat-appstudio-qe/build-e2e-mxbn-tenant/build-suite-component-update-rtsv/multi-component-parent-iybn@sha256:96756d35da4fab38a637b0e6056c8f1be53498870ff94544652ff2a883581f9b
 RUN echo hello
