@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rxhu-tenant/build-suite-component-update-nsbd/multi-component-parent-vpei@sha256:b46711f2fc02d14e44f574de20f05b89a5f8e97dbf68648eea9909b16c68f5ac
+FROM quay.io/redhat-appstudio-qe/build-e2e-rxhu-tenant/build-suite-component-update-nsbd/multi-component-parent-vpei@sha256:5583438017a0e1f8592987694bfdf116b228291b35ecee634f53fd8842a675e6
 RUN echo hello
