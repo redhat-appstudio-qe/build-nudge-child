@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-kyay-tenant/build-suite-component-update-wunf/multi-component-parent-ayrp@sha256:d71b90b76e963f75d819ae534545dc3ad9cc5141d2ea490d6dc676d830287308
+RUN echo hello
