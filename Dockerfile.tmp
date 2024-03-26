@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gdca-tenant/build-suite-component-update-xsrb/multi-component-parent-oifp@sha256:84b2a518e3f7e27290ca6ca0ca04ebffa9de9f0d9c29f2da405b424e4e147be1
+FROM quay.io/redhat-appstudio-qe/build-e2e-gdca-tenant/build-suite-component-update-xsrb/multi-component-parent-oifp@sha256:da4f0a62a891a22eb10bca8b603a792bbacb65791e7912dcf74651a204fee004
 RUN echo hello
