@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jody-tenant/build-suite-component-update-lwxd/multi-component-parent-zxle@sha256:7a413d7f951deaccf6036bf9faf2c5adc1ef17a6cfefbbca23ac50ebe6282a96
+FROM quay.io/redhat-appstudio-qe/build-e2e-jody-tenant/build-suite-component-update-lwxd/multi-component-parent-zxle@sha256:54f4bf7fa19581b574cabd0e64a245ce6a56117c47b16c37674886e5acfc070b
 RUN echo hello
