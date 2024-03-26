@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xrot-tenant/build-suite-component-update-tchc/multi-component-parent-kqkm@sha256:156f6399843579165e87e593b9dfb18d7440dfb3bc1c1acbecaf653fa65ca74e
+FROM quay.io/redhat-appstudio-qe/build-e2e-xrot-tenant/build-suite-component-update-tchc/multi-component-parent-kqkm@sha256:356a6908c3c836790e4d18818b69ad00a27a78c990fb0cf2332a56c0b8a29bff
 RUN echo hello
