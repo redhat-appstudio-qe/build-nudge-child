@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-znng-tenant/build-suite-component-update-reaz/multi-component-parent-ckap@sha256:85c1d76841a0b84b17935c7f3a29d87c0cdfb387e8bdc5b69b4acc1b2b183e3a
+FROM quay.io/redhat-appstudio-qe/build-e2e-znng-tenant/build-suite-component-update-reaz/multi-component-parent-ckap@sha256:a84c9cdd4c83c5be4322648a74c69d63e74091f0c622b9f501fd57e6343cdf2b
 RUN echo hello
