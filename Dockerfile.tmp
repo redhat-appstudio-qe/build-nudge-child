@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mubb-tenant/build-suite-component-update-reli/multi-component-parent-kzbb@sha256:01944f669129fcd51f7d672b9cac9cef4a0d0d49e0fdbd266db4d147d35ebb64
+RUN echo hello
