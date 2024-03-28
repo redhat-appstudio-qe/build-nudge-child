@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-adke-tenant/build-suite-component-update-swrm/multi-component-parent-vucl@sha256:337993fee2ecf9fde1889f7fb2ac1281803c692c49056a11da88d125ecdf9e1f
+RUN echo hello
