@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cssd-tenant/build-suite-component-update-spbi/multi-component-parent-rbzq@sha256:ec10b19aacead4e3b15dd2d887c3a2505ea26145621a7b700f65ae88c28591b7
+FROM quay.io/redhat-appstudio-qe/build-e2e-cssd-tenant/build-suite-component-update-spbi/multi-component-parent-rbzq@sha256:fa600a918f5bdc7f10c12bfd7e139b63f68e0565c641fba6aac77db3e4cf9026
 RUN echo hello
