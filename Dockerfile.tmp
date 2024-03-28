@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lffa-tenant/build-suite-component-update-aurl/multi-component-parent-dakl@sha256:39452f6146b1df7516b36572af8d1769458a89577f8ae4f0492cc3833c242961
+FROM quay.io/redhat-appstudio-qe/build-e2e-lffa-tenant/build-suite-component-update-aurl/multi-component-parent-dakl@sha256:a325e5f07fb8ef574ac1f17d23abb57303d29f32330e7df843ab291961f2f1fa
 RUN echo hello
