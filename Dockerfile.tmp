@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gzlz-tenant/build-suite-component-update-sbam/multi-component-parent-vwyz@sha256:647c6f797aa1896963ff42d517e8c9e14f5a2cf2c0ad5241ef3a121dcd235650
+RUN echo hello
