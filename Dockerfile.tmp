@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rksk-tenant/build-suite-component-update-giaw/multi-component-parent-idzp@sha256:a38fb9902106db95702db5914ba5246a8ccfd26901bfdf0eff0f7c1272f88877
+FROM quay.io/redhat-appstudio-qe/build-e2e-rksk-tenant/build-suite-component-update-giaw/multi-component-parent-idzp@sha256:07a5a6538d4cbfc8450aa8ac875d5bc483f8d9d6f0127dd80eb699303db214d2
 RUN echo hello
