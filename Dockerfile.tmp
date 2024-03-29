@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zrid-tenant/build-suite-component-update-brdz/multi-component-parent-juze@sha256:5babb8e7803816ef13d4c7cd2be86097445a23406b0d2eae6715922cb60ba8d7
+RUN echo hello
