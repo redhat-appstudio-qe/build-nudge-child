@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pbiu-tenant/build-suite-component-update-moms/multi-component-parent-wjux@sha256:16fa5f9ef09d6fbadbc698073054932d3fd3e1142448f8546033939ba7ffcb2f
+RUN echo hello
