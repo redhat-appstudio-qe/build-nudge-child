@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-pbiu-tenant/build-suite-component-update-moms/multi-component-parent-wjux@sha256:16fa5f9ef09d6fbadbc698073054932d3fd3e1142448f8546033939ba7ffcb2f
+FROM quay.io/redhat-appstudio-qe/build-e2e-pbiu-tenant/build-suite-component-update-moms/multi-component-parent-wjux@sha256:567ad6aaa43a324ba29d92d8dbd464cfc3eb3ce9d24ced2984284f4cd7420940
 RUN echo hello
