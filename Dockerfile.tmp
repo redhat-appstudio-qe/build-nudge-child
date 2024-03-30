@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-shpl-tenant/build-suite-component-update-sfwf/multi-component-parent-jdvb@sha256:e23b1a05bad0e4462aaed197ba14b4069ac2d82c2b864f608a5dd43e77ae980d
+RUN echo hello
