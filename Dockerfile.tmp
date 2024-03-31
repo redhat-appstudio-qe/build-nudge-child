@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-sizs-tenant/build-suite-component-update-ygrn/multi-component-parent-pklc@sha256:e3d7402b236c90c973ec82344ad5a8e88a6e0d290f1b67f60c9f536c0d4d7e9d
+RUN echo hello
