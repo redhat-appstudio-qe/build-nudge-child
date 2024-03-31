@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xrwg-tenant/build-suite-component-update-bmft/multi-component-parent-ctbj@sha256:9faf4d7f68a28d91fb3b93929c13cd9a55045b794e591d6076150a151eeac9ab
+FROM quay.io/redhat-appstudio-qe/build-e2e-xrwg-tenant/build-suite-component-update-bmft/multi-component-parent-ctbj@sha256:6f46a159345e46973f89ed19284f268a213b6829a8b404b1e94594d0b30d9eea
 RUN echo hello
