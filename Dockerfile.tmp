@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rkoc-tenant/build-suite-component-update-nlpo/multi-component-parent-icxd@sha256:df2f8c3b3d827d7c1f4961760826fbb33fcce6fc7f4072d9228600a866664d59
+FROM quay.io/redhat-appstudio-qe/build-e2e-rkoc-tenant/build-suite-component-update-nlpo/multi-component-parent-icxd@sha256:fa298c24296fd47daec8cec0b61581cb0d09d62e9070c2d8cb6c077cfec72063
 RUN echo hello
