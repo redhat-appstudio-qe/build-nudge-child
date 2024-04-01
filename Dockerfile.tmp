@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-htlq-tenant/build-suite-component-update-yxfp/multi-component-parent-malo@sha256:6a9ce21871c9aae919d3e9e3b4d9e9b6f467b70d7c98184693f2654d358d979e
+FROM quay.io/redhat-appstudio-qe/build-e2e-htlq-tenant/build-suite-component-update-yxfp/multi-component-parent-malo@sha256:5dac143ba946737188087c6e58577c054cd00af9d8e6d14263d3c4cf1d112fd4
 RUN echo hello
