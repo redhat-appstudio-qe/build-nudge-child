@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hlbf-tenant/build-suite-component-update-nzyl/multi-component-parent-dnit@sha256:61c7ec4c4d965ad60761a24f2278da416373ce23f90268b254e4b72bf0fc8dc5
+FROM quay.io/redhat-appstudio-qe/build-e2e-hlbf-tenant/build-suite-component-update-nzyl/multi-component-parent-dnit@sha256:7e17315928924e2fa098cb03b1d107ecb8893fca49d858b7b646d7ff3cb72888
 RUN echo hello
