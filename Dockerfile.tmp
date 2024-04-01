@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-qkej-tenant/build-suite-component-update-rmig/multi-component-parent-hjrv@sha256:602abff70b25d17ccaf9b43fd958c6cbfa9510493454f3ba8e9171e1a138aa9c
+RUN echo hello
