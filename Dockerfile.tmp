@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jnep-tenant/build-suite-component-update-kasa/multi-component-parent-went@sha256:29244210d52bbaf363a040fe1b268beed3ba01566a8fea435ea850859ba24dc3
+FROM quay.io/redhat-appstudio-qe/build-e2e-jnep-tenant/build-suite-component-update-kasa/multi-component-parent-went@sha256:dd9fcf6b0ae4cb94a11e0de41bc698ca6acab094b81c88687ce65030115fa654
 RUN echo hello
