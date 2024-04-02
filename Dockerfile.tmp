@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ddjn-tenant/build-suite-component-update-sprt/multi-component-parent-trqg@sha256:343da28a2888a2a76a9a9eacb75e8fa6de14cbc2c7b34bebca0edb59f2c6456b
+FROM quay.io/redhat-appstudio-qe/build-e2e-ddjn-tenant/build-suite-component-update-sprt/multi-component-parent-trqg@sha256:7345010ed9297cd5eb5ff5694eb6ccbec34fc9a30bb4a5e54cb309b0f8c430ca
 RUN echo hello
