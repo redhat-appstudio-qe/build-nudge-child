@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tipa-tenant/build-suite-component-update-ptnq/multi-component-parent-knoc@sha256:e03dbae444ab5517b5ecf7052e772289a931c413594a723a7f4e8e711144bbc4
+RUN echo hello
