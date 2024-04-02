@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cglq-tenant/build-suite-component-update-tfsl/multi-component-parent-wdle@sha256:044ce994e01443a142de09eb17f94d5bf56980fd4ee3653bce18beb11d108ebe
+RUN echo hello
