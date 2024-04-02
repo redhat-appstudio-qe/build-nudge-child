@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xtkv-tenant/build-suite-component-update-drfl/multi-component-parent-ubco@sha256:7972709740be51df16e9c3654b1938c7906cc7739d0bb129b886a628aa64a1cc
+FROM quay.io/redhat-appstudio-qe/build-e2e-xtkv-tenant/build-suite-component-update-drfl/multi-component-parent-ubco@sha256:35ab0e415e2b6feeaf2bc42b8c12d9fa586bbff1ac0b0e4acd566d500a9e73ec
 RUN echo hello
