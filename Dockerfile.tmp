@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fdkw-tenant/build-suite-component-update-ebmr/multi-component-parent-fxej@sha256:8531af2c6188eda4c5fe93413407e76e402ce869b21552562d25a29c9a94523b
+FROM quay.io/redhat-appstudio-qe/build-e2e-fdkw-tenant/build-suite-component-update-ebmr/multi-component-parent-fxej@sha256:e9b10664dfcb316081cf3d76678e8e7822bcfeb142dd69c23c5ca48464a504a8
 RUN echo hello
