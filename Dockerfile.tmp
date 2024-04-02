@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-znel-tenant/build-suite-component-update-hhgg/multi-component-parent-wgkk@sha256:4c437d3a8d984f91bc897daa616e483d5f546a7a214fb2f605bcfdff0835d497
+FROM quay.io/redhat-appstudio-qe/build-e2e-znel-tenant/build-suite-component-update-hhgg/multi-component-parent-wgkk@sha256:e4ba3c629fb1ee17aedec0b6599146771ec8d1c2138b1525e131a19ed4e2b5e5
 RUN echo hello
