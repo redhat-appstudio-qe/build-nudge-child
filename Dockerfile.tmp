@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gxdw-tenant/build-suite-component-update-uugz/multi-component-parent-kipf@sha256:32a0b9e3b13636a3d8a11246ac02c0fa8ce805d356282b963fc9fadfad78ff73
+FROM quay.io/redhat-appstudio-qe/build-e2e-gxdw-tenant/build-suite-component-update-uugz/multi-component-parent-kipf@sha256:c80b60f38afc9bd30fd218830604f7b3a4d63f75b06378c55231c80b03e72fa7
 RUN echo hello
