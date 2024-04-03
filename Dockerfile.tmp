@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-evld-tenant/build-suite-component-update-coir/multi-component-parent-xbop@sha256:71fe7dfb9d04e47e94992d2d012826dd72aec729fc8f9f8f3949e8c8c41ca0e2
+RUN echo hello
