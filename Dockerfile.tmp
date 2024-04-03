@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cvqn-tenant/build-suite-component-update-wvan/multi-component-parent-orix@sha256:ced14d1f3eed275947486bd122eb2ddddecf53275250bb307d94a1b9d3a21856
+FROM quay.io/redhat-appstudio-qe/build-e2e-cvqn-tenant/build-suite-component-update-wvan/multi-component-parent-orix@sha256:d4df821756745fa77704cfc3b8d3fcba5d87e45616e4cc18f88b32afe0493b58
 RUN echo hello
