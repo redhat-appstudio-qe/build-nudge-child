@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xvfu-tenant/build-suite-component-update-nixa/multi-component-parent-hndo@sha256:aee01c5bbc706f30f18048c077bf553c5de49e6d2db674f7162c34aca061a5e3
+FROM quay.io/redhat-appstudio-qe/build-e2e-xvfu-tenant/build-suite-component-update-nixa/multi-component-parent-hndo@sha256:fa6e9cf9aa8d120b650f731161638c60fa488f1cd95cd6781919f16d228c01f1
 RUN echo hello
