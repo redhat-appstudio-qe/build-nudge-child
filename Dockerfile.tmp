@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ergw-tenant/build-suite-component-update-mpyk/multi-component-parent-xlkn@sha256:9b6abea146e39ea93111bd4617f0eeae11217e9949c9b24b10ff216c2ed58193
+RUN echo hello
