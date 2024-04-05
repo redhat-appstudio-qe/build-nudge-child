@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-awdq-tenant/build-suite-component-update-ywis/multi-component-parent-dgfl@sha256:163dcbdd0efeb7a3928c0e97a51d69a85c6b1df5387ee41447653b1f54893928
+FROM quay.io/redhat-appstudio-qe/build-e2e-awdq-tenant/build-suite-component-update-ywis/multi-component-parent-dgfl@sha256:d12ad6c77d7f8bb43be74d11e945d883fa84e7d67eb5cd9b1777d65f5bfd2aa5
 RUN echo hello
