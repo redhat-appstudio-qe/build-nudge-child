@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tbxd-tenant/build-suite-component-update-ivnv/multi-component-parent-ftkl@sha256:8bb4aea647aa0e8945c7518aa7f0b10fe50dbc2e6698c25ef2aa4f9964492a35
+RUN echo hello
