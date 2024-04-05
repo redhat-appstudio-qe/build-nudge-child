@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-roko-tenant/build-suite-component-update-qeok/multi-component-parent-jbdx@sha256:964a9fe844971d3e4a57f15b6fd33210f4987f7ba59b3bdd9d1bef35628d716e
+RUN echo hello
