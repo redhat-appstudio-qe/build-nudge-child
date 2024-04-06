@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-chid-tenant/build-suite-component-update-zbby/multi-component-parent-ytth@sha256:ac5d8c2c54502bba92a60b36f663462b48b6be70628e97400506ad8435b21487
+RUN echo hello
