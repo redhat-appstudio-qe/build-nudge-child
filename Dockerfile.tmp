@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ehlq-tenant/build-suite-component-update-ukbn/multi-component-parent-vdza@sha256:392a92d0c6f9c22bdb9f5e1ab17634e98c2d6f637e8944c21c86eb8267f323ae
+FROM quay.io/redhat-appstudio-qe/build-e2e-ehlq-tenant/build-suite-component-update-ukbn/multi-component-parent-vdza@sha256:1dd49f1889148bca937052f5094b5ef7bc1e68e2a7aee93f6f2db9df23a92d8e
 RUN echo hello
