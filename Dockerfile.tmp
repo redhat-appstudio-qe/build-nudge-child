@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ftpw-tenant/build-suite-component-update-exgx/multi-component-parent-tzfz@sha256:e4fef2ca4aab7462a06e163cb505fadd57995d6cc7ba42c3f4ec5bec281325dc
+RUN echo hello
