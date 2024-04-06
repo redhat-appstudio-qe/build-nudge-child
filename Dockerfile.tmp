@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ldkh-tenant/build-suite-component-update-ddxc/multi-component-parent-lbmt@sha256:581b1fd6988e722a3c2e937bc2120414db2368ca69f9b450a6e5426525338cba
+FROM quay.io/redhat-appstudio-qe/build-e2e-ldkh-tenant/build-suite-component-update-ddxc/multi-component-parent-lbmt@sha256:49c5f31b99be4d4276e507a615bad753e6ad4990d27e49a4da2023e2103fe7d3
 RUN echo hello
