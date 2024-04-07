@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xbds-tenant/build-suite-component-update-xtau/multi-component-parent-yxlf@sha256:ec7144fe1bc88300017b2cb860d6aa6c64505f6892bbc581502ed2b9b1f3eb94
+FROM quay.io/redhat-appstudio-qe/build-e2e-xbds-tenant/build-suite-component-update-xtau/multi-component-parent-yxlf@sha256:a3308b828a34f6b034d6311bba0e89e7cdce379db7ff5fe5a4342afc4b890829
 RUN echo hello
