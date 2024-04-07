@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-uyrm-tenant/build-suite-component-update-lilp/multi-component-parent-xmvi@sha256:7d2b4b162def68a0429c5418826576a6c236117eb308982bbb8c4591fa652337
+RUN echo hello
