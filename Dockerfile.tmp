@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-sdyp-tenant/build-suite-component-update-tbqu/multi-component-parent-icfu@sha256:43c138f6d496e253162b5d2d73405a96a732a393de1b3eaecd107af368f7d982
+RUN echo hello
