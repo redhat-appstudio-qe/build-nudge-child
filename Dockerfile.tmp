@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-alyf-tenant/build-suite-component-update-idtw/multi-component-parent-jmyl@sha256:08fc4045191142fe9df2961670b3f24a79a6d915e9f85eb5cfb7439dc617f03d
+FROM quay.io/redhat-appstudio-qe/build-e2e-alyf-tenant/build-suite-component-update-idtw/multi-component-parent-jmyl@sha256:a684f33871dd0954a120ba5791013212fb9e607469044c3075f8d297609f1416
 RUN echo hello
