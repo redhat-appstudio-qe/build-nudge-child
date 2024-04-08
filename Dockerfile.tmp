@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-emor-tenant/build-suite-component-update-pfdm/multi-component-parent-jhtf@sha256:27eb2441a7e9c0a58b0ff8667b4e6cfa7bf86c2aeb85bdbde60eb9faab7569e0
+FROM quay.io/redhat-appstudio-qe/build-e2e-emor-tenant/build-suite-component-update-pfdm/multi-component-parent-jhtf@sha256:2ae073b0da08021cfb2f4766f4220f112c649a90027ef77513d9b8792a8ba204
 RUN echo hello
