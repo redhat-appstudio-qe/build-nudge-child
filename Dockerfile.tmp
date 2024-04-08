@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jgtf-tenant/build-suite-component-update-eicp/multi-component-parent-srph@sha256:ac8344dd9060e05174c6eb2a1167a67836f43832924f6230f6f5d0843d22c90c
+RUN echo hello
