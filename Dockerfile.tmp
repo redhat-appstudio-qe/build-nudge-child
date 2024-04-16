@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tgmq-tenant/build-suite-component-update-busq/multi-component-parent-fzjv@sha256:b480b3e421829a1b4a5be69f0ace48f411c155a7db3188e1cf221c38789618fa
+RUN echo hello
