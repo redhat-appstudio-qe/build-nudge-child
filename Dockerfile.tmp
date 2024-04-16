@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cktn-tenant/build-suite-component-update-beuq/multi-component-parent-urtb@sha256:c784845818b97a0f278f1728e3491cb18123b6ed40eeff0bbe7bb70033dffff3
+RUN echo hello
