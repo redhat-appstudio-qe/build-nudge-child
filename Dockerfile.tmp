@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-macd-tenant/build-suite-component-update-xlki/multi-component-parent-annl@sha256:e55240a6b9d63cefe204bbf5f688bf26b8f9f8bd42f6dbbddf04f67b97d9ff85
+RUN echo hello
