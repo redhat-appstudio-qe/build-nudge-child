@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bclj-tenant/build-suite-component-update-urep/multi-component-parent-bcee@sha256:1be2015390942562e87fb905cbce98469bddf6ea89cdd916f8c35ceba2c66cb6
+FROM quay.io/redhat-appstudio-qe/build-e2e-bclj-tenant/build-suite-component-update-urep/multi-component-parent-bcee@sha256:e889605fe9bf5bcbada721cc0c842687cff5cb35b81332c4e2eab3bb4b546011
 RUN echo hello
