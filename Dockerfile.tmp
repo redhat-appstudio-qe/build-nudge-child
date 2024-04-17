@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fbvi-tenant/build-suite-component-update-dinm/multi-component-parent-rlrj@sha256:95fba1b09e05db35ef1833cff5fbb560d3001283e2869b4adbf6b062f58d6cee
+FROM quay.io/redhat-appstudio-qe/build-e2e-fbvi-tenant/build-suite-component-update-dinm/multi-component-parent-rlrj@sha256:d55a26b133c595e440f4be6d6da1a765b7914e4f934bda0b19ef741ad2236be1
 RUN echo hello
