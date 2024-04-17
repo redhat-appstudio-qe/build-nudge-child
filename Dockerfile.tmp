@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-floh-tenant/build-suite-component-update-hxan/multi-component-parent-sxpc@sha256:ff9f27c8562316e94d3a7d904dcecec91c6accfbc1b006902ddc780fe2d1e12c
+RUN echo hello
