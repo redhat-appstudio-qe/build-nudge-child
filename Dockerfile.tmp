@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-yzsp-tenant/build-suite-component-update-qwfq/multi-component-parent-thpm@sha256:2729e7ce023451368cd4196f8a4de1a6c0bcc5f81a7a73e543dec622fdc11073
+FROM quay.io/redhat-appstudio-qe/build-e2e-yzsp-tenant/build-suite-component-update-qwfq/multi-component-parent-thpm@sha256:534bd7a475acbad05c7bb401e6c73ec4295674c5e6939a7e1facefd9a43cc1a6
 RUN echo hello
