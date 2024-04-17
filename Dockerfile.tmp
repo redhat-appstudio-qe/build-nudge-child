@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dzkh-tenant/build-suite-component-update-denz/multi-component-parent-hkzg@sha256:e6fda8eea4e28c7f74d0e36e4974007fdfa9fd53056043dba645a83287e9ce12
+FROM quay.io/redhat-appstudio-qe/build-e2e-dzkh-tenant/build-suite-component-update-denz/multi-component-parent-hkzg@sha256:4e1d96071a741adf354704f2425885467ded0b954f3539e6059249ab6a23f0c0
 RUN echo hello
