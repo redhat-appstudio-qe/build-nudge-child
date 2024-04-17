@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nfko-tenant/build-suite-component-update-vmyy/multi-component-parent-nfrm@sha256:800976320fa1663a63f490302ca86c031d11bab63d8ad93c8b8b0a2b41f5db92
+FROM quay.io/redhat-appstudio-qe/build-e2e-nfko-tenant/build-suite-component-update-vmyy/multi-component-parent-nfrm@sha256:0e8445d7d71119abc3b112f6498f3e145b49d2b4f7a33ba3ddc10a125b0ff4e7
 RUN echo hello
