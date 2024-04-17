@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-amvi-tenant/build-suite-component-update-xmas/multi-component-parent-fnvb@sha256:24c5a2cb88860b4877b64687460447cf07870a13ac676f9ebb46c309c2506e7d
+RUN echo hello
