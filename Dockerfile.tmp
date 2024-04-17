@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dhdg-tenant/build-suite-component-update-fslg/multi-component-parent-clgk@sha256:4ea85d6e76955d92bc3cd9f312fd1bb87a9106f6abf671380d62248c4e56ade9
+RUN echo hello
