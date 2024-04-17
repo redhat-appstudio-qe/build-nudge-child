@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-eeok-tenant/build-suite-component-update-racl/multi-component-parent-iszc@sha256:d7e458acfeb9f67872d3b29a8289fc121c6991fe8e4167b4a645ef30092e2de0
+RUN echo hello
