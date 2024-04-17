@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-josm-tenant/build-suite-component-update-wdaq/multi-component-parent-zbug@sha256:5790ac7e5deaaa4b77c8c6e39cb58da17e012f4fc12539dab8cdb4b1c89a7858
+FROM quay.io/redhat-appstudio-qe/build-e2e-josm-tenant/build-suite-component-update-wdaq/multi-component-parent-zbug@sha256:31305a020d7433b7fcc8f177bf4b81547299708486380739de2541b44c263ccc
 RUN echo hello
