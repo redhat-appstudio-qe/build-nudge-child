@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dxik-tenant/build-suite-component-update-pmis/multi-component-parent-sfko@sha256:1fc2fb0a9c956af30acf2255641eff714d3a492f6b1d6332fbaa742ca097eeb8
+FROM quay.io/redhat-appstudio-qe/build-e2e-dxik-tenant/build-suite-component-update-pmis/multi-component-parent-sfko@sha256:68c61b86b472217491e41beab2949147db2451739848405cdfe3a131e047dbd6
 RUN echo hello
