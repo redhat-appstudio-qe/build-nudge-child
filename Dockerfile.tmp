@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-axyt-tenant/build-suite-component-update-jfde/multi-component-parent-gkrv@sha256:e38ae2d3575105b2094beafdc5380833b3b03069250328c125268a938fca170c
+FROM quay.io/redhat-appstudio-qe/build-e2e-axyt-tenant/build-suite-component-update-jfde/multi-component-parent-gkrv@sha256:d5b3b453c7d56295319b3f209ef4e55aa9925d89be86a1796300e0b10c2d78ff
 RUN echo hello
