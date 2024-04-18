@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tvmy-tenant/build-suite-component-update-ehdm/multi-component-parent-lgap@sha256:6b356599f7f162c4f7c066721a1a870b0c51ffb11b914e682d0a575c307c4855
+FROM quay.io/redhat-appstudio-qe/build-e2e-tvmy-tenant/build-suite-component-update-ehdm/multi-component-parent-lgap@sha256:3f1cbd2ddeb29d20f857fc6b709270bef134e7cb04e44a45a7c70ce2b25d92a0
 RUN echo hello
