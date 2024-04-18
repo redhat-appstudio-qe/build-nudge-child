@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nxgn-tenant/build-suite-component-update-usvb/multi-component-parent-bkpq@sha256:4db1326f60c21e9024394646ac6048406d6b9d83e779aec6964f14ef108b28fa
+RUN echo hello
