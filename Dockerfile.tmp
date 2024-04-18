@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rfzu-tenant/build-suite-component-update-auwa/multi-component-parent-iqkm@sha256:4de4e3f5d98a316c98c6c5c1e1a5c5e68601559aae42074cffecdd54cc445c96
+RUN echo hello
