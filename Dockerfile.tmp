@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-pgxk-tenant/build-suite-component-update-fpde/multi-component-parent-keee@sha256:3ba7858ff75be93a8289777f7f6fad322b94c8d28cf5f8a9887366ad3622d3c8
+FROM quay.io/redhat-appstudio-qe/build-e2e-pgxk-tenant/build-suite-component-update-fpde/multi-component-parent-keee@sha256:69ebd928f28684a6443e24758f85f21f2eb0b4844bb4d3b4d2739f54c8b6d1ae
 RUN echo hello
