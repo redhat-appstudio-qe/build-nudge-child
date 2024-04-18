@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-okde-tenant/build-suite-component-update-metb/multi-component-parent-qndp@sha256:707d38ede4ef4963100d69173608c7acd237461159ec0b9872e1cb25aa0b7e87
+RUN echo hello
