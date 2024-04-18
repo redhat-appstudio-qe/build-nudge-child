@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lmmc-tenant/build-suite-component-update-oktz/multi-component-parent-dxyk@sha256:34b3297baea60c3f84ac5e5ba79d9e2572e417f6ab66a02379a140e4eeaa2562
+RUN echo hello
