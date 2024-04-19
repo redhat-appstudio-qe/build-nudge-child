@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bjqp-tenant/build-suite-component-update-fclp/multi-component-parent-aclr@sha256:ebc1677a66c11f76f718a451c0d629b2c717b281f04b8dd42b79089b31156874
+RUN echo hello
