@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jlpd-tenant/build-suite-component-update-gxam/multi-component-parent-eqnu@sha256:6451fbe8a50cddd086eee0082971f7e608ff9a8d739c930b2ff959ee8f7d2946
+RUN echo hello
