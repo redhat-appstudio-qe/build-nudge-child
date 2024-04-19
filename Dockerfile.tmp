@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fpdh-tenant/build-suite-component-update-hzcp/multi-component-parent-apwt@sha256:7d9807fbdd374103fcc90ef2633932bf743dac00ea12e6caf7d1ea292d42f7a8
+RUN echo hello
