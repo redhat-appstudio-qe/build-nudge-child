@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-kccf-tenant/build-suite-component-update-tpps/multi-component-parent-tyby@sha256:142eb83d13ca60696330fb3e9c9c561746d3361c3f0baa2b24abcc75ffeeaa9b
+FROM quay.io/redhat-appstudio-qe/build-e2e-kccf-tenant/build-suite-component-update-tpps/multi-component-parent-tyby@sha256:687067cd52761fcac73901cf60555487ce4859c0530f15acf4c96b10940824e7
 RUN echo hello
