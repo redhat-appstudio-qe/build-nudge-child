@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-acki-tenant/build-suite-component-update-xupp/multi-component-parent-flvn@sha256:63cda3bc2594c7033cb591623981a8ae764f01dd2274578914b4af4859766bb6
+RUN echo hello
