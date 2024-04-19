@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nuij-tenant/build-suite-component-update-ugfy/multi-component-parent-chpb@sha256:fbc5b1554ca74a4da2dc667f67baed5997d3a69b41ded8fea57496e94a471182
+FROM quay.io/redhat-appstudio-qe/build-e2e-nuij-tenant/build-suite-component-update-ugfy/multi-component-parent-chpb@sha256:9c9a2f02615abc079e9e97b20d5208928d2cc3385b9956c9d6247266c3c8919f
 RUN echo hello
