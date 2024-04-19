@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nbuk-tenant/build-suite-component-update-umof/multi-component-parent-jceq@sha256:5acbecf1179b3c1504305e3bca3ef3ee763f86cf52020e6050f7ed2c0726db51
+FROM quay.io/redhat-appstudio-qe/build-e2e-nbuk-tenant/build-suite-component-update-umof/multi-component-parent-jceq@sha256:186a62d2e891bc24cd6de69a333fde162de236881e3e0b3f16caacd2521f87a1
 RUN echo hello
