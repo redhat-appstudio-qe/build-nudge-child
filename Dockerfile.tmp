@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jcmj-tenant/build-suite-component-update-gcis/multi-component-parent-fihv@sha256:cd62b2e52111eb3c4f0ffb0f8eaccac8c38b40837975623a6cc00d5730de5dff
+RUN echo hello
