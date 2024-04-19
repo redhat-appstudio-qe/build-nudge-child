@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rysc-tenant/build-suite-component-update-saib/multi-component-parent-wjpe@sha256:5676b11fb37438f25835227420b624ead118ffbef744e45619f56a90259b9473
+FROM quay.io/redhat-appstudio-qe/build-e2e-rysc-tenant/build-suite-component-update-saib/multi-component-parent-wjpe@sha256:9bd964abf6d0ae6e75c647d843f879847091990672641b8cb193519b47959145
 RUN echo hello
