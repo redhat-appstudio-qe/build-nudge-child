@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-arei-tenant/build-suite-component-update-chmy/multi-component-parent-lzpy@sha256:66c4aad8b67ebabbc63c50a9ef9515ab10abb7bb2034f7c3c74e9f5144167a5c
+RUN echo hello
