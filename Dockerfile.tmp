@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lwax-tenant/build-suite-component-update-ixxo/multi-component-parent-jzxu@sha256:a07164f14e17e6d596f960992ed67a5146da4c579117febd4ae73d243a8b7859
+RUN echo hello
