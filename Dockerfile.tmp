@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xerk-tenant/build-suite-component-update-dpkk/multi-component-parent-eghy@sha256:4388f267db40f5fc024692e690ac7028af15754bcfa8a5a6d4d2612724379192
+FROM quay.io/redhat-appstudio-qe/build-e2e-xerk-tenant/build-suite-component-update-dpkk/multi-component-parent-eghy@sha256:edb5aec16e13fea61ac18d41df705fa8cac6ec4e87c531e2ca367c7de90e4795
 RUN echo hello
