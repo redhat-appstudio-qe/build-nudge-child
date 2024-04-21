@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-evot-tenant/build-suite-component-update-nbiz/multi-component-parent-qtib@sha256:53615f2db48a251222d721e72f3bf4960d6dec7a2bbd9165373fad42af2917ed
+RUN echo hello
