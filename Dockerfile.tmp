@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qobj-tenant/build-suite-component-update-oclm/multi-component-parent-gvut@sha256:2c5f38e34be593f9c6f7fff2e10fee3e8813ed2dacad6762eeaa1e5b489f95f4
+FROM quay.io/redhat-appstudio-qe/build-e2e-qobj-tenant/build-suite-component-update-oclm/multi-component-parent-gvut@sha256:fc10834a67230ba7885aceec55365fd0887a8b248f327acd98295f5a6b9164ea
 RUN echo hello
