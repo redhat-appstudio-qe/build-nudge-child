@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hyac-tenant/build-suite-component-update-npth/multi-component-parent-bloj@sha256:2914cc12f7d636311df65b3f63f1e068bfede2530a019cac362485c6b445d1b2
+FROM quay.io/redhat-appstudio-qe/build-e2e-hyac-tenant/build-suite-component-update-npth/multi-component-parent-bloj@sha256:13aa33f815545f765c249d98c24b449c1bee4d5d80dcd17ea95a4aeee04c450c
 RUN echo hello
