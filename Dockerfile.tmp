@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lybt-tenant/build-suite-component-update-arqh/multi-component-parent-aqzr@sha256:af49849832741048738dcfc5d0f5861c245709624843b7606922502437c9c121
+FROM quay.io/redhat-appstudio-qe/build-e2e-lybt-tenant/build-suite-component-update-arqh/multi-component-parent-aqzr@sha256:7f2b734be5c210f8d7c34f25531e5d7a417e841a5fb9a8faad6158482e3c176a
 RUN echo hello
