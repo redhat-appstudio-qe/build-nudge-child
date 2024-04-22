@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xqij-tenant/build-suite-component-update-ymxi/multi-component-parent-nygy@sha256:2ad247235af48c9c0049f7f1cac30c39b82c8de513310aeb140019fda16e87ec
+FROM quay.io/redhat-appstudio-qe/build-e2e-xqij-tenant/build-suite-component-update-ymxi/multi-component-parent-nygy@sha256:efd77f7dd1015e0e58e7f0de554769cbfe5318af209f275f273b810421f12a9c
 RUN echo hello
