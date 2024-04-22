@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nvmg-tenant/build-suite-component-update-tqon/multi-component-parent-bpeu@sha256:48680a8c3c9ff05e3d0b30497decc273a81ffcab02e6d2158ed398b96f4192ee
+RUN echo hello
