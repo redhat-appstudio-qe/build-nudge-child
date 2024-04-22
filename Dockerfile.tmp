@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nuuz-tenant/build-suite-component-update-beap/multi-component-parent-hpel@sha256:53d3dfb03b8a259cf3984598cdc649dc3646ea7d12ffb6940f91b462a56f9bb7
+FROM quay.io/redhat-appstudio-qe/build-e2e-nuuz-tenant/build-suite-component-update-beap/multi-component-parent-hpel@sha256:f54d4fda7aa284ec51767afd5826b84a77a099f38520f1a3e57b5aee24127ccb
 RUN echo hello
