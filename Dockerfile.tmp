@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bvya-tenant/build-suite-component-update-kaav/multi-component-parent-vxel@sha256:22cdd76a0cec30a325a53302941429274697f14bb4ef221a0a67d5e5c393eadc
+RUN echo hello
