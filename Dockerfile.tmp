@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nbjt-tenant/build-suite-component-update-kdja/multi-component-parent-xfac@sha256:8bc54635901a5bdedfa58da79396c91cc105ac3ed40fe54f4f32ca151d4b960e
+FROM quay.io/redhat-appstudio-qe/build-e2e-nbjt-tenant/build-suite-component-update-kdja/multi-component-parent-xfac@sha256:b37e7884f2a8c24f30b4951edaebb2fe49cedf48a283c294640e6fa5620baf21
 RUN echo hello
