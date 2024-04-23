@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-aqli-tenant/build-suite-component-update-ilic/multi-component-parent-tkjl@sha256:48275dfe04e2b08743894df97a90fe96d12d5a2c5346f61eb4918fe0632428a6
+RUN echo hello
