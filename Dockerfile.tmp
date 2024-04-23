@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gdmi-tenant/build-suite-component-update-rywe/multi-component-parent-naiw@sha256:8779514b4bae3d37d46fd90ba6d2e38a21d04091157e112781fa75521636932d
+RUN echo hello
