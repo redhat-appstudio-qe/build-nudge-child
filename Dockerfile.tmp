@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ebqi-tenant/build-suite-component-update-smgd/multi-component-parent-ldby@sha256:6e04341b6c1dbe38c83e6cb443ab8ec99d25756829d55797aa9ca38dac4e7e72
+FROM quay.io/redhat-appstudio-qe/build-e2e-ebqi-tenant/build-suite-component-update-smgd/multi-component-parent-ldby@sha256:b6f604b1ee88436d2fec14c742db81bc7ca5bc6fe585bd2e94759b742141513b
 RUN echo hello
