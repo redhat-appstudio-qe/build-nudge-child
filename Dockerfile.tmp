@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-inpu-tenant/build-suite-component-update-tpqw/multi-component-parent-jcmt@sha256:d9b198a83880a860196574954e801bbe2507f9ffc7376e94d20f61a7ee20ece0
+FROM quay.io/redhat-appstudio-qe/build-e2e-inpu-tenant/build-suite-component-update-tpqw/multi-component-parent-jcmt@sha256:30b3d154d5ae75ca7ca3457ed67697b37dd81933aa8b7925e2facdd7fd32450c
 RUN echo hello
