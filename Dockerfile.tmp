@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xsak-tenant/build-suite-component-update-pbnh/multi-component-parent-urbr@sha256:6a56a24c42e52899425f07adfff4684a66563e79db2ccc0670f09af6573ee277
+RUN echo hello
