@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-sgtc-tenant/build-suite-component-update-ldiw/multi-component-parent-dkpj@sha256:5f4a62cbfdefc4e4b7c4639a52d48c43d1c9d5c5053d8bfa1880da586a1b97ab
+RUN echo hello
