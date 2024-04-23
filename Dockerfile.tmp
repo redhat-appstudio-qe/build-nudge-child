@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-yeyp-tenant/build-suite-component-update-yqlp/multi-component-parent-dpds@sha256:2d604426010d21c874c11c8c44cf515788f532c2bae52700d888dadccdb6c1c2
+FROM quay.io/redhat-appstudio-qe/build-e2e-yeyp-tenant/build-suite-component-update-yqlp/multi-component-parent-dpds@sha256:32462cb8a078b8cf74ed72d704eb9e68e53f05263efdd9c993ee6b25986b4693
 RUN echo hello
