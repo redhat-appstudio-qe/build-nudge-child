@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wewl-tenant/build-suite-component-update-xvbm/multi-component-parent-tvze@sha256:cad280cabffd4a4a328762579abe8491a0b3d79d5c37d1ea6e6d9f46842f15cc
+FROM quay.io/redhat-appstudio-qe/build-e2e-wewl-tenant/build-suite-component-update-xvbm/multi-component-parent-tvze@sha256:d31e4791ce7667f1a9cfa26eb724d912ed7ef6704d04c9783f9ffb30a231f914
 RUN echo hello
