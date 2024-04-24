@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-goib-tenant/build-suite-component-update-ypax/multi-component-parent-pyzc@sha256:8acd32fbd2f80d09f2391ff9ae0afa9d0d9ecd391efc387c51d7cb67ac3f1278
+FROM quay.io/redhat-appstudio-qe/build-e2e-goib-tenant/build-suite-component-update-ypax/multi-component-parent-pyzc@sha256:37f72e542199b0f469a4af8942fc52413d2e83ed0a5fa165abcaa6806219eab6
 RUN echo hello
