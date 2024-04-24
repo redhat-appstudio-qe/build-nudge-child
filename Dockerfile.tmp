@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-uzra-tenant/build-suite-component-update-aoey/multi-component-parent-anjl@sha256:8b684f3f3bfba1b8be24b0c1ec448f8ded985b1ee06c1eda5c2baa9a998dbaf4
+FROM quay.io/redhat-appstudio-qe/build-e2e-uzra-tenant/build-suite-component-update-aoey/multi-component-parent-anjl@sha256:6f1a1e7cf95bdc7d4f73435d3034c925a16319bec5f3b826327d3dd190f8d086
 RUN echo hello
