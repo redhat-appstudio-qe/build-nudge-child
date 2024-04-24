@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rdoy-tenant/build-suite-component-update-sprh/multi-component-parent-rlia@sha256:878f94153b8b7da73a29046047a01d0e08609477fa7f174ef5c02b0b12dbf385
+RUN echo hello
