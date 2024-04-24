@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nffb-tenant/build-suite-component-update-zapw/multi-component-parent-suay@sha256:d4ae5a82629e04d16ad6b4a7907f8f5627e0d8fe7d17a35e2e05f255fce585dd
+FROM quay.io/redhat-appstudio-qe/build-e2e-nffb-tenant/build-suite-component-update-zapw/multi-component-parent-suay@sha256:462301d62039d22feae807cb20fb21aa3eabb2bfbbc3867a823d49868e77d85b
 RUN echo hello
