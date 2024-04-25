@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jdwj-tenant/build-suite-component-update-sovn/multi-component-parent-rbvl@sha256:80222cb1fcb368895bd1176059b9111cdd749ee16ec35890c0e67728ae86d006
+RUN echo hello
