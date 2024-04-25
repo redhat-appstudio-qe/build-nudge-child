@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-yyze-tenant/build-suite-component-update-medb/multi-component-parent-kzmo@sha256:3bc458439294a7d08cd6526998a0ca6d84287294586f4a34b0d4f2b01169cba1
+RUN echo hello
