@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zrxo-tenant/build-suite-component-update-sdry/multi-component-parent-iryz@sha256:18c643d5ce60b062ed1702055530bb912bbfb47f3b3573bde2b93d024065f69a
+RUN echo hello
