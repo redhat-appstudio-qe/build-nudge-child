@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wwci-tenant/build-suite-component-update-ariu/multi-component-parent-rhhn@sha256:a7b714c0d431b4cee5066f16c8c342dcf2d545c8eaf9e822c2adf115b1f8eb65
+RUN echo hello
