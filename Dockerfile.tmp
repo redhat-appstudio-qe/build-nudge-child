@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gpbm-tenant/build-suite-component-update-ibcy/multi-component-parent-bwor@sha256:0830b6662337eeee3fc2cbf16907914d3515d3e334d861b1864e3e7555f998ed
+FROM quay.io/redhat-appstudio-qe/build-e2e-gpbm-tenant/build-suite-component-update-ibcy/multi-component-parent-bwor@sha256:c5d9f7c2887e059cd0c341101dc5b9346aa2517535c1ed38b9f06dc8d6be1cb4
 RUN echo hello
