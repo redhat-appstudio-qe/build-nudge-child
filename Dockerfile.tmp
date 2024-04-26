@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-werq-tenant/build-suite-component-update-zegd/multi-component-parent-rywm@sha256:e517bcd9c03274bd2b0224a9af24c27ad83d43d1c9b4762267c0dadf61e9ccc4
+FROM quay.io/redhat-appstudio-qe/build-e2e-werq-tenant/build-suite-component-update-zegd/multi-component-parent-rywm@sha256:b59d802597beeb7e91f98e8727e1e44989d4dacac83a4ed4aaef3574edaf9823
 RUN echo hello
