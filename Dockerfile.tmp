@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-kemv-tenant/build-suite-component-update-henu/multi-component-parent-ymqv@sha256:2e40fba02317b17f7fe767e3e6b9e7ab1cfd473b36b3a36ef132e83581570bac
+RUN echo hello
