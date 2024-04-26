@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-iojc-tenant/build-suite-component-update-prkp/multi-component-parent-otza@sha256:3a8da38b0b6175917b72c2e54be88a92dffc8076596add1949463cde1eac870d
+FROM quay.io/redhat-appstudio-qe/build-e2e-iojc-tenant/build-suite-component-update-prkp/multi-component-parent-otza@sha256:cddbc9916712f376a7bd35045d33b8cb7ab45299aa53dd88d3209201eca06f22
 RUN echo hello
