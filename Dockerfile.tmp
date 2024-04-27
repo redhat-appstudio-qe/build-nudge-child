@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vttu-tenant/build-suite-component-update-hmou/multi-component-parent-tlgn@sha256:f69354d188843a2be4c6cc158accce5e292b036a58dacce587c352d60c99ccda
+FROM quay.io/redhat-appstudio-qe/build-e2e-vttu-tenant/build-suite-component-update-hmou/multi-component-parent-tlgn@sha256:5109e5580fa5a8a460812c5f4d5db143d2d377dbf300a57d0058e04b2b46ada2
 RUN echo hello
