@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ruha-tenant/build-suite-component-update-ufby/multi-component-parent-ayij@sha256:f4b4906755997c98cf53670d4107f2b37a0d84c53879b1bf89991a7e0b9b0eb6
+RUN echo hello
