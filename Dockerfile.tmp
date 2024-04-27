@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-kyjt-tenant/build-suite-component-update-omcb/multi-component-parent-ywec@sha256:d00219ae7d974891e24fbb18885f2a14cafa1608ec932f1c913de2a63da4b158
+FROM quay.io/redhat-appstudio-qe/build-e2e-kyjt-tenant/build-suite-component-update-omcb/multi-component-parent-ywec@sha256:646c2a7cb5f9065df3be7804c27f45ee501ed2949a7e3ca1114c1afecad7135c
 RUN echo hello
