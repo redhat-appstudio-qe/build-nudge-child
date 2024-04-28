@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-kmbg-tenant/build-suite-component-update-koni/multi-component-parent-ysit@sha256:abf26851f2effaf0c6e8b088da99c4c45ae15060809573eea8c0aa4bc5d61afb
+FROM quay.io/redhat-appstudio-qe/build-e2e-kmbg-tenant/build-suite-component-update-koni/multi-component-parent-ysit@sha256:4eb8445f988c416bcf7f7f79ceac186ad8de398a576b8fcecccce9fc5c73bcc3
 RUN echo hello
