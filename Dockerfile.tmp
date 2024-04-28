@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ydon-tenant/build-suite-component-update-asya/multi-component-parent-wwin@sha256:edb2016e6abc86b43b165aa63756f0f06f59a80eec9cf290634c2c6bb5a07872
+FROM quay.io/redhat-appstudio-qe/build-e2e-ydon-tenant/build-suite-component-update-asya/multi-component-parent-wwin@sha256:8d4c06a78a5246765eb583fd9b15783d6d74a5e2b32478a7add6e2e42951f040
 RUN echo hello
