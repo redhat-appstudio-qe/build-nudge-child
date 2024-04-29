@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-boqa-tenant/build-suite-component-update-zcka/multi-component-parent-pnwy@sha256:171b842cf9a2aa4788f456bb9c48fde59bb3b3ad8f034f0337b5eae692019fa2
+RUN echo hello
