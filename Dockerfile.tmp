@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jdsm-tenant/build-suite-component-update-fygv/multi-component-parent-sdmr@sha256:f91b5412c1a685bbc6fdef3a54081ca022e9444726a85d88fa673202dd63c7dc
+FROM quay.io/redhat-appstudio-qe/build-e2e-jdsm-tenant/build-suite-component-update-fygv/multi-component-parent-sdmr@sha256:ecc199659ed01bfeaa8c53ca4ada56eb9fcc2f45206136ec044ff30dd212ecc6
 RUN echo hello
