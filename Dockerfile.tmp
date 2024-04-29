@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pumm-tenant/build-suite-component-update-zldz/multi-component-parent-teyg@sha256:1ec85a38bf4a1cddad25abf8408dddd75c15cc5bb4480bf0cd4eda78321c081c
+RUN echo hello
