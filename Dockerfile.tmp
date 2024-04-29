@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wdnh-tenant/build-suite-component-update-roeo/multi-component-parent-iwdx@sha256:78f9a628574f9b8ec655f0e72f66baed84ae628964552bddd718ef5452e6900d
+FROM quay.io/redhat-appstudio-qe/build-e2e-wdnh-tenant/build-suite-component-update-roeo/multi-component-parent-iwdx@sha256:96b756017b74c1aae3f3229b2fc424b989ea4c728051ce7f223707c353cd0aa3
 RUN echo hello
