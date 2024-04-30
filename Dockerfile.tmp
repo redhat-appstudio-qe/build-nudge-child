@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-elgp-tenant/build-suite-component-update-wdre/multi-component-parent-srtx@sha256:70be850acc515e5181fb727e1d3646d8146cfa24196b786ef21973c3f79f8c39
+RUN echo hello
