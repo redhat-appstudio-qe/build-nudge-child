@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hkrd-tenant/build-suite-component-update-xwjw/multi-component-parent-itub@sha256:04c39e4105e2453a4e4665ad6298535549ba12d265e7830fd77279a02746c238
+FROM quay.io/redhat-appstudio-qe/build-e2e-hkrd-tenant/build-suite-component-update-xwjw/multi-component-parent-itub@sha256:145ee4496d26c6026cc20329b74b7448dab39699e2767867304b66cc95ad4fd4
 RUN echo hello
