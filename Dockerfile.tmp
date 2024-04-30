@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vywp-tenant/build-suite-component-update-wtoz/multi-component-parent-xuer@sha256:8941a132a17e046249e5d8d954b439607a68dcc607ceab73f59706907c92736f
+FROM quay.io/redhat-appstudio-qe/build-e2e-vywp-tenant/build-suite-component-update-wtoz/multi-component-parent-xuer@sha256:5c5d16748ff3736718047b5f9ab912115710e795076c40c433a8b79eb90d01eb
 RUN echo hello
