@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rfdk-tenant/build-suite-component-update-bayq/multi-component-parent-fdck@sha256:9ca397c3a59034847875ed79e1b1cbc9743f81adb11ef7951cea98f980f40c15
+RUN echo hello
