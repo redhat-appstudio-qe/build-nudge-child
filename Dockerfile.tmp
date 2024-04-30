@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-omvx-tenant/build-suite-component-update-wcxm/multi-component-parent-dcro@sha256:f21cc8138ca9f7d40452812440065406d7c76375123eb8c6f0d1dbba2b22b191
+RUN echo hello
