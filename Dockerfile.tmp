@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-osbj-tenant/build-suite-component-update-vnhr/multi-component-parent-nxde@sha256:45d37ace5f9c961a9c92ccfb817dbd39a74303178ce6fb5cadc19b5f4f97fec3
+RUN echo hello
