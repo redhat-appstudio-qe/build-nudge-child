@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ohml-tenant/build-suite-component-update-ahef/multi-component-parent-dwiy@sha256:9a219b09545895fa90d9758e9ffda37a9161daded85fba04142f83f2cf901803
+FROM quay.io/redhat-appstudio-qe/build-e2e-ohml-tenant/build-suite-component-update-ahef/multi-component-parent-dwiy@sha256:8bfa5b16ccedb9c53c8ef9f12aeb8c5b3edc27d27a1da23219288ece98b0a303
 RUN echo hello
