@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-akgf-tenant/build-suite-component-update-buyy/multi-component-parent-hetp@sha256:e390c0fbb1d67849d3ef238cd988c6b4abaaa5e3bdeaec42544937c1ad8d5146
+RUN echo hello
