@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-kcod-tenant/build-suite-component-update-lwko/multi-component-parent-vxdo@sha256:3582eab79d1284b9767870175e1120b4c8a391cd86177504127829f4537c1ddc
+RUN echo hello
