@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-osbj-tenant/build-suite-component-update-vnhr/multi-component-parent-nxde@sha256:45d37ace5f9c961a9c92ccfb817dbd39a74303178ce6fb5cadc19b5f4f97fec3
+FROM quay.io/redhat-appstudio-qe/build-e2e-osbj-tenant/build-suite-component-update-vnhr/multi-component-parent-nxde@sha256:761d844c3d501c3623a11b83e93397a42d7eca9388387b8ec2dd0a6a3abb67e8
 RUN echo hello
