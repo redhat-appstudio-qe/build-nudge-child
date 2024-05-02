@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-svib-tenant/build-suite-component-update-lwnw/multi-component-parent-rfzc@sha256:b4ff27a51ea65e949583ca2514ebb713f590a0f7f61fe278383c4259f2aacd03
+FROM quay.io/redhat-appstudio-qe/build-e2e-svib-tenant/build-suite-component-update-lwnw/multi-component-parent-rfzc@sha256:8f563620bd3474fd20f61228c664bf5aab98cdfd9ee7c9c6a2a8f993b644ab4c
 RUN echo hello
