@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ujzj-tenant/build-suite-component-update-pffr/multi-component-parent-ysoz@sha256:240c976c5128d7402e230cecc56df208ff71bd55e8bf3e4e0770086c37bf2c9f
+RUN echo hello
