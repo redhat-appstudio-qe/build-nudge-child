@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-iasp-tenant/build-suite-component-update-nupb/multi-component-parent-fpvx@sha256:e8586630f08488119defdea4a37ae5754a6e69d0f8ab2a73f49ebe2b016c218d
+FROM quay.io/redhat-appstudio-qe/build-e2e-iasp-tenant/build-suite-component-update-nupb/multi-component-parent-fpvx@sha256:534d2758399f4bbb18845b0b9bfaad9e7e1adf04129210baeb765eabf232960c
 RUN echo hello
