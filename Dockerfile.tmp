@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-axtz-tenant/build-suite-component-update-yipq/multi-component-parent-mgzg@sha256:c2b097460f8a95b37245cbb2dfc2f55a0c466e698f859ca5483c113df1820433
+FROM quay.io/redhat-appstudio-qe/build-e2e-axtz-tenant/build-suite-component-update-yipq/multi-component-parent-mgzg@sha256:3da0da6fa0f961a927143c6841a8b73aee71ff03615570c2cd4fecf1e4abdcbd
 RUN echo hello
