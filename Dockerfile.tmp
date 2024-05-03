@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mgkh-tenant/build-suite-component-update-dbqq/multi-component-parent-hhqq@sha256:e1fb49ad1f643cee93bc0e9bb0ae73fe5ef2a054dd313d61c5d5b4749a9ad59f
+RUN echo hello
