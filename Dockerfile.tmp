@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-albz-tenant/build-suite-component-update-cmtb/multi-component-parent-xocn@sha256:c6fafcb90bd7848916c01f297556b1fccb5c1fdd3984720067014be7aaf04abc
+RUN echo hello
