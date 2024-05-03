@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jyna-tenant/build-suite-component-update-abxy/multi-component-parent-qnsc@sha256:b8b3669b9b6c7c0fde5b8d30338b858ec8e13dc20d23cf8319789c69ee7919fd
+RUN echo hello
