@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ahhl-tenant/build-suite-component-update-gval/multi-component-parent-tzon@sha256:72a948311cf8dacad0cb14f7f21189ea2677d01198662009e529d2297d32a9f1
+RUN echo hello
