@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-elwf-tenant/build-suite-component-update-tefs/multi-component-parent-huqm@sha256:333765e1d5df2b83728a25b10aa7359c806e6330ac794d531831cacbcff136c8
+RUN echo hello
