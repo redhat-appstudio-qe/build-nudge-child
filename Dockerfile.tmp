@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-swkg-tenant/build-suite-component-update-ubrq/multi-component-parent-fmic@sha256:7b6e9d05dee1eee20a5c8a5913682ddaef15983b310ba3bd3a7a1fa56e8f0acc
+RUN echo hello
