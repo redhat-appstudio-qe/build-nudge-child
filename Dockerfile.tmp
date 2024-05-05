@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jbxy-tenant/build-suite-component-update-pncb/multi-component-parent-clvp@sha256:104000004bbcc2a2abf11baca39c1628175e4bf4ef01e8e1fb5b12c3bde402dd
+RUN echo hello
