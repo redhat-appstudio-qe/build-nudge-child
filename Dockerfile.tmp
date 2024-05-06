@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dfvx-tenant/build-suite-component-update-qvnj/multi-component-parent-nmiy@sha256:654831f14f6d2fcc019c77eae4a4193e3d626b1d4057e7d9593ce70d7fdcfe14
+FROM quay.io/redhat-appstudio-qe/build-e2e-dfvx-tenant/build-suite-component-update-qvnj/multi-component-parent-nmiy@sha256:2bcb398be0882644636141304edb74b6f9a6249195a2ffffe8d5c4d6dcc04e62
 RUN echo hello
