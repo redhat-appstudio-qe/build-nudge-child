@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vtwb-tenant/build-suite-component-update-orlb/multi-component-parent-aawi@sha256:a2242c89c9527db5df44b47fb95bf62f72cea8362b817550e7661de51f1d1a1f
+RUN echo hello
