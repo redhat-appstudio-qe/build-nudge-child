@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cuwe-tenant/build-suite-component-update-cfic/multi-component-parent-ynxn@sha256:187c2bca733ffb23b28a9c79e9bb9df28b118e197515b32e8a86bf547f0db6c2
+RUN echo hello
