@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dirj-tenant/build-suite-component-update-msen/multi-component-parent-ntmu@sha256:c78bc8d07b09c92128a4b8350bbd977fe0a930df6a6b8c95f6dbcde85debf6b1
+RUN echo hello
