@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-from-tenant/build-suite-component-update-lxop/multi-component-parent-cgni@sha256:bb1d810ee3181d2912ac90f8132aba753d24c2c0ef2f9a723aabf97d4fa1ffd7
+FROM quay.io/redhat-appstudio-qe/build-e2e-from-tenant/build-suite-component-update-lxop/multi-component-parent-cgni@sha256:30a981cd5a6853c798c9f046b93223a53a1b6f64cb1256a1eff70b443625f4c2
 RUN echo hello
