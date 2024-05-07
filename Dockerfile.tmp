@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xmpd-tenant/build-suite-component-update-dade/multi-component-parent-wulj@sha256:4ac97288d9a2fb838834309603a911d54ebad361220081bc2ef4253cdcc5a249
+RUN echo hello
