@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ptsu-tenant/build-suite-component-update-knrw/multi-component-parent-ygfl@sha256:f5dd41ff61743410a4bd06ce4bb8093311ba96b65cedeb3a401e36625d41b5f3
+RUN echo hello
