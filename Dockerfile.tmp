@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ddpb-tenant/build-suite-component-update-szsc/multi-component-parent-uiac@sha256:e427da1c3927a64f7b925ffedb270fce3dbdf3b45389eb31d2a1a129c75c318b
+FROM quay.io/redhat-appstudio-qe/build-e2e-ddpb-tenant/build-suite-component-update-szsc/multi-component-parent-uiac@sha256:9bbdea81efc1e2b5e894ef545a845337b35373d2ed104814a17b5a70263bcf50
 RUN echo hello
