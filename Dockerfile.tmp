@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ieqf-tenant/build-suite-component-update-yote/multi-component-parent-fapt@sha256:728bb526defbd1b59c7bf5b4e573fcbd9fa1ee6c483c7184f6bc8f31a96cad42
+RUN echo hello
