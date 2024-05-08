@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-esyx-tenant/build-suite-component-update-imjn/multi-component-parent-dmgs@sha256:35900be154cfcd0a18422d62085a341c977eb98ba509aefc2f4976c03fcfc5ee
+FROM quay.io/redhat-appstudio-qe/build-e2e-esyx-tenant/build-suite-component-update-imjn/multi-component-parent-dmgs@sha256:0a0ac82d1320a03202c3eeb435b66cf7c42ccea813186bf6ea947a67ea6c1aad
 RUN echo hello
