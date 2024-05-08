@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-drgm-tenant/build-suite-component-update-obrx/multi-component-parent-mpvz@sha256:9e3ec14f61858be2b3e0e8874f664fb9d4b6f4b9c8ff8945aad07fd931981339
+RUN echo hello
