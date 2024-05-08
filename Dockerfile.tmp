@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-yaql-tenant/build-suite-component-update-mzpc/multi-component-parent-eaiv@sha256:f1684fbb7817a7b045c0dfec18e900ae94192b33add807492b0540dba99905e5
+RUN echo hello
