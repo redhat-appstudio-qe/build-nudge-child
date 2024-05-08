@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tpqk-tenant/build-suite-component-update-psiz/multi-component-parent-kfpl@sha256:15f5deba33b169cd94ceeb0ee65adc7d2ed704ab80887b20c8e6469d51d9d70f
+RUN echo hello
