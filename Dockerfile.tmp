@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vneo-tenant/build-suite-component-update-qirs/multi-component-parent-msre@sha256:d8ae2f6f950871d84814f97526a16867f7141cfc020a877003a16dbdd77c85d9
+RUN echo hello
