@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fbfh-tenant/build-suite-component-update-jiog/multi-component-parent-mscw@sha256:1bc384545787692238d0ac51649261242368ac5f4152765e9093476214da7879
+FROM quay.io/redhat-appstudio-qe/build-e2e-fbfh-tenant/build-suite-component-update-jiog/multi-component-parent-mscw@sha256:35e40d0ee6663f236a77ef9304b6fca7eb1dc04b0c208e1a21e2a18f759418b5
 RUN echo hello
