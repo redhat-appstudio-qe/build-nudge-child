@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qgpf-tenant/build-suite-component-update-mpta/multi-component-parent-kvnc@sha256:c6020503bd1e216300e25b0d23b8d9eed0a780a61dddf4efa829cb322f7829b0
+FROM quay.io/redhat-appstudio-qe/build-e2e-qgpf-tenant/build-suite-component-update-mpta/multi-component-parent-kvnc@sha256:0cf4c5e1fd09d97dc28c1887abd93a1940e72af69a62da2d73f3161334fe3c91
 RUN echo hello
