@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-qpud-tenant/build-suite-component-update-gldb/multi-component-parent-nkgt@sha256:6b97cf630ff965880cc8cef739c8a7b67f2b64e4093c63daa4cf093d34680dcd
+RUN echo hello
