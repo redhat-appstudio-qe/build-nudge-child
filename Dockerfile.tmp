@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zdlq-tenant/build-suite-component-update-spaf/multi-component-parent-jcbt@sha256:deea7f965a92d7f181c74c1cefcc8becffd11b591e5f5e84e57837824b769d47
+RUN echo hello
