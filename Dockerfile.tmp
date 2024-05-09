@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-euya-tenant/build-suite-component-update-unon/multi-component-parent-bnka@sha256:a6722ed19a0b2e353d8343ad2b1cf22d05317e533f00d1610c4a6fedf5b234cd
+FROM quay.io/redhat-appstudio-qe/build-e2e-euya-tenant/build-suite-component-update-unon/multi-component-parent-bnka@sha256:4500cb8f2d0b101b0185474997d9dd43eed7957bc92845694b1f03a9676dacfa
 RUN echo hello
