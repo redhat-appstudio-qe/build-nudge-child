@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jctc-tenant/build-suite-component-update-kojh/multi-component-parent-opdp@sha256:0969be2645e838f123b276d5d623309d5af75b5c4b3a10f3b097f8e9625ea2f5
+FROM quay.io/redhat-appstudio-qe/build-e2e-jctc-tenant/build-suite-component-update-kojh/multi-component-parent-opdp@sha256:fc8c5d6f360489512a55cb8d3f9648d13a13121cff49be8f9bfb58f460f64842
 RUN echo hello
