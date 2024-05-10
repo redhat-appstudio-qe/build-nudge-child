@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fyeg-tenant/build-suite-component-update-bmws/multi-component-parent-anar@sha256:43b6f39ed4067ab15fd5e0ec898740992cf49305da5abde9097c31ee560a7228
+RUN echo hello
