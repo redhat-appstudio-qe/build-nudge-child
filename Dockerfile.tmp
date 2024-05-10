@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pzea-tenant/build-suite-component-update-inom/multi-component-parent-fdlm@sha256:7b5c674b944ccf24b9561d79c3fa5d747fb12185f1f1e1001081008b8c680836
+RUN echo hello
