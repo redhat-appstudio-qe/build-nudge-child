@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pscl-tenant/build-suite-component-update-symo/multi-component-parent-yrsf@sha256:cf24f2d71b43341020ccca74d3e2cd32ba5ff777cb3b4cb22da75f13c96ef423
+RUN echo hello
