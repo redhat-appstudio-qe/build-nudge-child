@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-sgww-tenant/build-suite-component-update-qilu/multi-component-parent-xapk@sha256:2cd9baa36aa346fac8d503bcbb6e70574bfad058d5bcd1db0c04f64c4b737564
+FROM quay.io/redhat-appstudio-qe/build-e2e-sgww-tenant/build-suite-component-update-qilu/multi-component-parent-xapk@sha256:93a5b81f5736a0bca3819929c5bdbbce67cd8f4bd28bb1e0606c2bb6d93f66e0
 RUN echo hello
