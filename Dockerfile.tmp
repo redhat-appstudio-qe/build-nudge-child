@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wydv-tenant/build-suite-component-update-ziez/multi-component-parent-fdsq@sha256:4ba103991d54e84bb6c35fa5fe4a7d221f7d5799b65d31d1d2d5ca2d29f26171
+FROM quay.io/redhat-appstudio-qe/build-e2e-wydv-tenant/build-suite-component-update-ziez/multi-component-parent-fdsq@sha256:3690d92569ef8ee8f6ee53c0dbf1e013a3aff838e3fe5b14c4d08f28bad8c153
 RUN echo hello
