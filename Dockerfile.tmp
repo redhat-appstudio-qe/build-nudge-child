@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ryzx-tenant/build-suite-component-update-dznu/multi-component-parent-fdpe@sha256:3605c74f8d079a170a06b8c8cc8d201d93214edb5dae82af291b4c9694e5ce3d
+RUN echo hello
