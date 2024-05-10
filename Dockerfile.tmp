@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lsat-tenant/build-suite-component-update-lcvo/multi-component-parent-laak@sha256:01e220feecb88feaa499ab45825f8b96fea4824af4aa59745a3a6099d40d697e
+RUN echo hello
