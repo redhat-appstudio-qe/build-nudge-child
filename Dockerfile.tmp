@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gzpa-tenant/build-suite-component-update-oidq/multi-component-parent-wtan@sha256:374ded635a74f8be1d85ac62991c33d3ab0f80ff69ce42f91cb4d50a089be782
+FROM quay.io/redhat-appstudio-qe/build-e2e-gzpa-tenant/build-suite-component-update-oidq/multi-component-parent-wtan@sha256:367d22bffe72e21163584bc27500c495ea3bd9f1d3f2e2121f27c2fba2fe2bd8
 RUN echo hello
