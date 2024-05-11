@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-idwe-tenant/build-suite-component-update-fzkn/multi-component-parent-nhau@sha256:065773ba5718b34887ad39918e584cc1916029b94a4e4262412f2e33572b39d2
+FROM quay.io/redhat-appstudio-qe/build-e2e-idwe-tenant/build-suite-component-update-fzkn/multi-component-parent-nhau@sha256:c711a3cf3cac73be9731f27531632114f2661714d1976c81538d6d7f0859475d
 RUN echo hello
