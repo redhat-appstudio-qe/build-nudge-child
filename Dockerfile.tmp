@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pmnz-tenant/build-suite-component-update-cmsu/multi-component-parent-lndy@sha256:9d4dd8945f77d60949c6d4a8272904f1f1d01ae2005389cef7c93b85e278136d
+RUN echo hello
