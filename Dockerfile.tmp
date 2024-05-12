@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cpls-tenant/build-suite-component-update-xtol/multi-component-parent-werl@sha256:8332bca8a00bdb63cbcbe881a16f17dd280170bada6a2750710ab70178d62ecd
+RUN echo hello
