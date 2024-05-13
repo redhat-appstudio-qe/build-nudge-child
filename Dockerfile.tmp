@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nhru-tenant/build-suite-component-update-kmst/multi-component-parent-pimt@sha256:fdfec01e2a47c418306304e03dfa146529b4419f07cb4f04793345623fc7b8fa
+RUN echo hello
