@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hduy-tenant/build-suite-component-update-buma/multi-component-parent-rsgg@sha256:93c765f69a880c7ca312b17b66a59632cad0d18c0f56fca35429d234f9cdb119
+RUN echo hello
