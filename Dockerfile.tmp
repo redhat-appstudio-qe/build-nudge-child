@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cpoc-tenant/build-suite-component-update-kbrx/multi-component-parent-ekoy@sha256:096e33d65a4357949c4feef0f69682dae097f2cc4fea92255fa191fc5c140731
+FROM quay.io/redhat-appstudio-qe/build-e2e-cpoc-tenant/build-suite-component-update-kbrx/multi-component-parent-ekoy@sha256:bc775f609f08b9ee1579b84532f347867577cdd0d7763829196f2ef214802609
 RUN echo hello
