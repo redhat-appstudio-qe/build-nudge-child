@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ulpu-tenant/build-suite-component-update-rfsl/multi-component-parent-hlsf@sha256:d1baa2807e03889366d5dd6eeae0f7f5c25a50f21663422a47c0d3b1cd28acbe
+FROM quay.io/redhat-appstudio-qe/build-e2e-ulpu-tenant/build-suite-component-update-rfsl/multi-component-parent-hlsf@sha256:566bb5c293000ffdd50a3458f2901280622d5aa0ddacc5b4973eba6599501b3e
 RUN echo hello
