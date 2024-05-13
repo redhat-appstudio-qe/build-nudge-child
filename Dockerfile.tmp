@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-qcsa-tenant/build-suite-component-update-yskv/multi-component-parent-mpde@sha256:ab00b4b3b50c4176a02dc277bebc520ab5f86a7b3ad1d6d88200a69ae66cc22a
+RUN echo hello
