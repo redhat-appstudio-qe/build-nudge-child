@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bgjl-tenant/build-suite-component-update-tsuf/multi-component-parent-dqgm@sha256:0b31e88a05f80db0384ac972b650dd6f46bfded2b370948ed8b5a6890b28f6a8
+FROM quay.io/redhat-appstudio-qe/build-e2e-bgjl-tenant/build-suite-component-update-tsuf/multi-component-parent-dqgm@sha256:fb722a0dab213037a94eabb1a8ede2c5ced100af8f0b78e6aa95814fcae0d2fe
 RUN echo hello
