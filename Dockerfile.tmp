@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ftum-tenant/build-suite-component-update-fqto/multi-component-parent-xkcr@sha256:bedb6dfdba035bc5b87901e94b57a5e9c2e42bc96bfff8a57fff42e43c1e0a0b
+RUN echo hello
