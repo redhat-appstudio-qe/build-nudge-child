@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-halu-tenant/build-suite-component-update-nhwc/multi-component-parent-osez@sha256:d157beaa0225444c7a839d7642e1eb171060a17d2bb72c66e0c4dabeac716e5a
+RUN echo hello
