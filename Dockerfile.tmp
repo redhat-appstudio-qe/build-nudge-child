@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jojh-tenant/build-suite-component-update-qpnu/multi-component-parent-dtha@sha256:3ff0cabfee00c6f15bd86d8c9351e1fe84da6af0cd9623da45228a29aee77180
+RUN echo hello
