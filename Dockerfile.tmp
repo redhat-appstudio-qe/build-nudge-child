@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-czfy-tenant/build-suite-component-update-jonw/multi-component-parent-onfn@sha256:e12cdf8607bca443fab0a9f091d3750857482b8920ab875ad1ebe067acad623c
+FROM quay.io/redhat-appstudio-qe/build-e2e-czfy-tenant/build-suite-component-update-jonw/multi-component-parent-onfn@sha256:52cd43bbb68074eba0d17ba4db75bc239e4858f9ce4c17c171bde894cab65ff9
 RUN echo hello
