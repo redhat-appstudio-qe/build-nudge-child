@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nbcq-tenant/build-suite-component-update-ajsn/multi-component-parent-fzhd@sha256:9c201e2ee9391144bb86748bf661ef762f327252ff45cb2cd67ca969fed4d3cd
+RUN echo hello
