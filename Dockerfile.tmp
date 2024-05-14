@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pnsm-tenant/build-suite-component-update-jrez/multi-component-parent-mmja@sha256:99d3ad74369ce8c2460ac924831a14cae49a9df1bef3ede3fbf1e8b44c550ab9
+RUN echo hello
