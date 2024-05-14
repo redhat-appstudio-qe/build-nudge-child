@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jlgo-tenant/build-suite-component-update-owdd/multi-component-parent-klum@sha256:28ffad509309ee585de35726f993caf7f6de535c142bfd4c617b23dae5c116aa
+FROM quay.io/redhat-appstudio-qe/build-e2e-jlgo-tenant/build-suite-component-update-owdd/multi-component-parent-klum@sha256:65eb4b859f8c009f6615501d5faa3553fa7943bbea73a784085ea8650247b8b2
 RUN echo hello
