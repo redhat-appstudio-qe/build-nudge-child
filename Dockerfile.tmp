@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bdmf-tenant/build-suite-component-update-uzwc/multi-component-parent-urlb@sha256:11002f844671a56713ae6bea3f0ced5640226383c3983c9babebb5d4f40d5539
+FROM quay.io/redhat-appstudio-qe/build-e2e-bdmf-tenant/build-suite-component-update-uzwc/multi-component-parent-urlb@sha256:8329a6c3819892284d54c84d098b34b191a56f41fac2d0f32a2b1461c8228207
 RUN echo hello
