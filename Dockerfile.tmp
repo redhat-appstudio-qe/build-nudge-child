@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qala-tenant/build-suite-component-update-nbjg/multi-component-parent-ipsu@sha256:6c4fbb3a59c792a39540fae0a872ad76492d1d30cb219fc94f922bab30d73cf2
+FROM quay.io/redhat-appstudio-qe/build-e2e-qala-tenant/build-suite-component-update-nbjg/multi-component-parent-ipsu@sha256:eb6b3993c26b3361d2df94f8891afab29b9ebf486f9aa9f2514bbc1ec36b706e
 RUN echo hello
