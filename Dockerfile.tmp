@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-qala-tenant/build-suite-component-update-nbjg/multi-component-parent-ipsu@sha256:6c4fbb3a59c792a39540fae0a872ad76492d1d30cb219fc94f922bab30d73cf2
+RUN echo hello
