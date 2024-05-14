@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bvix-tenant/build-suite-component-update-vbxd/multi-component-parent-ftnd@sha256:e69013411794f35572db4b805f15b2af5bd9ff7a1df8f2cb654037dcbe131c31
+RUN echo hello
