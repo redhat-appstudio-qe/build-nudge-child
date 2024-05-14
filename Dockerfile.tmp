@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-thsx-tenant/build-suite-component-update-vxqv/multi-component-parent-ikpi@sha256:6d90bd5ed100ec248bfcee8d7f64972af47e2db8e4096ac78899160cb23183f0
+RUN echo hello
