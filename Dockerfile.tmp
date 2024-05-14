@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-sywr-tenant/build-suite-component-update-ntus/multi-component-parent-kmkk@sha256:77d05efa9282cdcea4ba3dc89770db6a90138a7872c4dead92ee3d28d56a4d61
+RUN echo hello
