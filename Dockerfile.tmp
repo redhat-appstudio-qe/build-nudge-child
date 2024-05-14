@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hbta-tenant/build-suite-component-update-ctyr/multi-component-parent-mame@sha256:4440bc159954b964c7be7d6eb656b3809760eac94018908851d215a2791b5175
+FROM quay.io/redhat-appstudio-qe/build-e2e-hbta-tenant/build-suite-component-update-ctyr/multi-component-parent-mame@sha256:dae57c4d6468fca1692d054e47e6a5c69b4889478ed32b8fa4a911c83c9cbb6a
 RUN echo hello
