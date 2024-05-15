@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zzmv-tenant/build-suite-component-update-alpw/multi-component-parent-kaml@sha256:e96fac72e6cc6aaf891a2a772a7fd650a9c20ad84823cef87b31f191732e97f8
+RUN echo hello
