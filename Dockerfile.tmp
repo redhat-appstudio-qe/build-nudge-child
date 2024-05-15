@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cfgx-tenant/build-suite-component-update-rxlo/multi-component-parent-cdwm@sha256:b48e14b5256ef71cd715e7bb643bc84255fda0c433651b8dd5f104b30871d920
+RUN echo hello
