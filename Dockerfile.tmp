@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fcmk-tenant/build-suite-component-update-xuak/multi-component-parent-gmso@sha256:bc133812f8f77a6a722acb000594c9ef96430acbbe6c8cbce8559e135365a57d
+FROM quay.io/redhat-appstudio-qe/build-e2e-fcmk-tenant/build-suite-component-update-xuak/multi-component-parent-gmso@sha256:61eb9672585927211b1da16dc2cdba72b42891719bc33d9ccc5c24c439a45f6f
 RUN echo hello
