@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-knba-tenant/build-suite-component-update-awlb/multi-component-parent-groo@sha256:e0ca936baef48ffa1ac609a51aae23c74b6cca1cb469636a20bd66359c9334c2
+FROM quay.io/redhat-appstudio-qe/build-e2e-knba-tenant/build-suite-component-update-awlb/multi-component-parent-groo@sha256:33c22853d6068600a4a32588d8f26055231b496a053322ebfdd5c85b2bc660a5
 RUN echo hello
