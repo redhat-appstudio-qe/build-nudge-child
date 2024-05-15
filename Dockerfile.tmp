@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vyye-tenant/build-suite-component-update-xrlm/multi-component-parent-omfi@sha256:171bd78500505993213cc7e73afa7636cdd55d7f782d45dbc185cba88463fb34
+RUN echo hello
