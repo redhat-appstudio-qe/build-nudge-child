@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-sope-tenant/build-suite-component-update-pgfo/multi-component-parent-ddlm@sha256:e7d56f4348e88cca8dd54dfd6686c25fd90fb6b08848ea003e46c3c1e0886890
+FROM quay.io/redhat-appstudio-qe/build-e2e-sope-tenant/build-suite-component-update-pgfo/multi-component-parent-ddlm@sha256:a34af07b472cbde9f022331eebbc1e2b0f5e3b192f784b49b24d96f20745e220
 RUN echo hello
