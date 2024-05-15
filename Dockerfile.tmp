@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nmeu-tenant/build-suite-component-update-tgbc/multi-component-parent-igpa@sha256:6d466a85f4c839278e300843606733b59ddd3958a30a69cea04b8067eec2ad1a
+RUN echo hello
