@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-twmj-tenant/build-suite-component-update-cwgr/multi-component-parent-xhux@sha256:39308fc40820cf1703ff93a376b74d3f7d1bc78878207f263b608553f870f600
+RUN echo hello
