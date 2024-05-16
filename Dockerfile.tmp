@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ulrk-tenant/build-suite-component-update-iadc/multi-component-parent-vzhc@sha256:a88d6ed1b612dd060daead1f4a04239bb15788b7dec36f8594de58d752d001cb
+RUN echo hello
