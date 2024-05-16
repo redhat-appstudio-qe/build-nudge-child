@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-swvp-tenant/build-suite-component-update-exaz/multi-component-parent-zkdx@sha256:a598e100c8aa04508a192ed18581ff3a2e6911993dccb08f9e840d1e9ee515f7
+FROM quay.io/redhat-appstudio-qe/build-e2e-swvp-tenant/build-suite-component-update-exaz/multi-component-parent-zkdx@sha256:a52910282a9da270dd7c5bef715cecfd101de72129969c3aa510d10052244c2c
 RUN echo hello
