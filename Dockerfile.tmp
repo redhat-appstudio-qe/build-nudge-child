@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ntig-tenant/build-suite-component-update-rydv/multi-component-parent-skuz@sha256:207ad339a46750d0af98b4c10381bc321fab5af4308ca3f791c2cadb27867789
+RUN echo hello
