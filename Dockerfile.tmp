@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-odxh-tenant/build-suite-component-update-cutp/multi-component-parent-tsib@sha256:e97dba23a6a39d0a67750e00e01ad377c17ad8c4792693e84291dbc90fdb0fa6
+RUN echo hello
