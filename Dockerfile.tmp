@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lrxc-tenant/build-suite-component-update-atgu/multi-component-parent-crxr@sha256:c3c211ab7b1a260068a41fc27042082ba329700444e704931b3e3a168b539188
+FROM quay.io/redhat-appstudio-qe/build-e2e-lrxc-tenant/build-suite-component-update-atgu/multi-component-parent-crxr@sha256:070ca1c5c823edd76bc493dbeb2a6a621b9ba750b58e160e0bd5abcc61c5a41c
 RUN echo hello
