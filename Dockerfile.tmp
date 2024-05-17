@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-kcor-tenant/build-suite-component-update-enie/multi-component-parent-keuk@sha256:a819ab9baf276e7170d6557a5cf8d28bb42435504ab4d9fedbcdc883ba176540
+RUN echo hello
