@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mbpm-tenant/build-suite-component-update-gxzx/multi-component-parent-kpba@sha256:b79e037b97e142cf674ca75af1846b0efee8f56053d2b4d81cf003ff1e061aef
+RUN echo hello
