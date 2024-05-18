@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hoyo-tenant/build-suite-component-update-wdwm/multi-component-parent-vsym@sha256:21531d7130da58c9f488586b6bb61bd75e099f8f9e60a865613824b35b1e80e4
+FROM quay.io/redhat-appstudio-qe/build-e2e-hoyo-tenant/build-suite-component-update-wdwm/multi-component-parent-vsym@sha256:3f1f4c2b65b8a4039ed7c5c38771fe7885f369c82941d2f460012ebee6721666
 RUN echo hello
