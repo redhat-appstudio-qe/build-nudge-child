@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jepx-tenant/build-suite-component-update-rkok/multi-component-parent-lrus@sha256:9cf36b40cae623de9f6912671915defc6e7e71917ea086fe1b25c70ac5ef027e
+RUN echo hello
