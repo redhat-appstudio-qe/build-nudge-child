@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-snoi-tenant/build-suite-component-update-ifvg/multi-component-parent-ktig@sha256:b230069a13004db9ae924b850dd7cb77a30bd0ae787175afe2b32d745a7b9daa
+RUN echo hello
