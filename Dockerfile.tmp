@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-yeam-tenant/build-suite-component-update-lljo/multi-component-parent-nmyx@sha256:6df13145a922f1dd72c0f837298bf27650b142a7f0258f2acd99d3df1e908da4
+RUN echo hello
