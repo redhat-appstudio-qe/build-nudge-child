@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pdpc-tenant/build-suite-component-update-isvr/multi-component-parent-wymh@sha256:76f282157d68ae9d57d3955e0a75f57ce49f382446cc3f01663d0ce2cc6c4142
+RUN echo hello
