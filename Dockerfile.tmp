@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cgpq-tenant/build-suite-component-update-sfqz/multi-component-parent-gesm@sha256:b19d44233422ecbf0e1492f9aa954df35e3cc732e5df08139ee34816b57f28a5
+FROM quay.io/redhat-appstudio-qe/build-e2e-cgpq-tenant/build-suite-component-update-sfqz/multi-component-parent-gesm@sha256:59b12e962ec19955ac470c2afaba077001f9899bde408b117c2ab0ea76f064af
 RUN echo hello
