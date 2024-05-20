@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bozi-tenant/build-suite-component-update-zbiz/multi-component-parent-hscg@sha256:b307f884c24a9ae6e6e8f8ac3cca283a98a2efffdaaf0799287c15df152c136b
+FROM quay.io/redhat-appstudio-qe/build-e2e-bozi-tenant/build-suite-component-update-zbiz/multi-component-parent-hscg@sha256:e16b9b7addcb4a2bd233a1eeab43adde1f4bc5f88ef77c42f46e5d4a1def301d
 RUN echo hello
