@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lakp-tenant/build-suite-component-update-fgow/multi-component-parent-beht@sha256:d39f53626dde1a4135667af8acb50482d050e2f5754acef6428404fde46cb5da
+FROM quay.io/redhat-appstudio-qe/build-e2e-lakp-tenant/build-suite-component-update-fgow/multi-component-parent-beht@sha256:bbfa41250cc7358d7eb79468bd10e367858562996a199b1ad1f91d9b2492a2e1
 RUN echo hello
