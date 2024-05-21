@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-exos-tenant/build-suite-component-update-hzor/multi-component-parent-rmpo@sha256:699a4bcbdbaf088e952c7720e8ccf0c74e81a57308f9f3abd1a9b61a1bf1332b
+RUN echo hello
