@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-huup-tenant/build-suite-component-update-bqmp/multi-component-parent-gjho@sha256:89abc8ab97c8d8fa17656f1943c6d2043cf880456c66c55127d7e50a68713814
+FROM quay.io/redhat-appstudio-qe/build-e2e-huup-tenant/build-suite-component-update-bqmp/multi-component-parent-gjho@sha256:d75c5b6b49d1f075039decad5f9f3a0f5b1b08a3c1dd8ad21baea65f83b5c2c8
 RUN echo hello
