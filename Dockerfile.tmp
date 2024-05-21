@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ezcv-tenant/build-suite-component-update-lbug/multi-component-parent-mkxw@sha256:47ab4fbe78f301afa2606e9621d76087390f320445f7a06794efa1b507d95bb5
+RUN echo hello
