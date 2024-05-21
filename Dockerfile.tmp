@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xydf-tenant/build-suite-component-update-ixvu/multi-component-parent-cfhz@sha256:3714939f5dd90e168be4d189455dfd7ff1ea8219e5022e090e0a6ea71c2d6ea4
+FROM quay.io/redhat-appstudio-qe/build-e2e-xydf-tenant/build-suite-component-update-ixvu/multi-component-parent-cfhz@sha256:b74182c0c18339377c30411450e1942c1140834bbef8d8b76f3ace5e026d1d68
 RUN echo hello
