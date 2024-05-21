@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hjgk-tenant/build-suite-component-update-eztz/multi-component-parent-blpf@sha256:701decc13138858c337be239839d1c00e89383d89f4709c701edb310030b6d90
+FROM quay.io/redhat-appstudio-qe/build-e2e-hjgk-tenant/build-suite-component-update-eztz/multi-component-parent-blpf@sha256:44a0fc5c3749d5031a1b81fd5a148d82d56da5bdcf04b6fd797ef7f3c1fd85d3
 RUN echo hello
