@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hdtp-tenant/build-suite-component-update-yheq/multi-component-parent-rvvn@sha256:6c04820114797d1610b4200309fc3be25780756501b2d9cbda3384d9ae9b6302
+RUN echo hello
