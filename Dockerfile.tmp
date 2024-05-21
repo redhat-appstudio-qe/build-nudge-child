@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-iclo-tenant/build-suite-component-update-xmrj/multi-component-parent-aoyw@sha256:16b82c94bc0a3d5ca09e6f4fa98ad8b4c2afd403af1bfdfa704ca7b9ffd02969
+RUN echo hello
