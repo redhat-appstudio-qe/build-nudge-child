@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-izwd-tenant/build-suite-component-update-zuck/multi-component-parent-dlug@sha256:bd4e29fca8f7759f1a71d574378b0132b76285ba2a5f0542a0ea0b1b29f6fb58
+FROM quay.io/redhat-appstudio-qe/build-e2e-izwd-tenant/build-suite-component-update-zuck/multi-component-parent-dlug@sha256:d9970c50718b9b77b8330ffb1d6e742ee961a131a133ea7fd33d7d2132a93a4c
 RUN echo hello
