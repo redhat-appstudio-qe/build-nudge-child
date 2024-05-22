@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-huju-tenant/build-suite-component-update-vajf/multi-component-parent-swop@sha256:1cc9c333d577b5ea40bcf663d89a1a7ec6275348c07e3ddf04da739f6f028ea8
+RUN echo hello
