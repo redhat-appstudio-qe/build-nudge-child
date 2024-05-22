@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-yuzo-tenant/build-suite-component-update-uimh/multi-component-parent-gknl@sha256:51688b115a8977eaac5f58560088f62db09c23f610ca07a3c93d04d3692f18d2
+FROM quay.io/redhat-appstudio-qe/build-e2e-yuzo-tenant/build-suite-component-update-uimh/multi-component-parent-gknl@sha256:89938b40494b9a88da0e0938746f0ff1bc74841464b1201a7e6d5804614cf7dc
 RUN echo hello
