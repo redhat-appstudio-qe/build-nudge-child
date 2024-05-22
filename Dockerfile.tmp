@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-liul-tenant/build-suite-component-update-xmpk/multi-component-parent-gsbg@sha256:ea32d17e56f5cc40774a03615846ac64e88eac842368dfed52ddc30c42f2ed1a
+FROM quay.io/redhat-appstudio-qe/build-e2e-liul-tenant/build-suite-component-update-xmpk/multi-component-parent-gsbg@sha256:d88486c9ff0d5c9532f043823904b827874cf912a1b55bb41feba2bc0d722d10
 RUN echo hello
