@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-kyud-tenant/build-suite-component-update-qduk/multi-component-parent-yivb@sha256:22967456267cc0ed8b625415b29fd288407569a94e7cf8086dbe98389eb1ca64
+RUN echo hello
