@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-irkc-tenant/build-suite-component-update-iktf/multi-component-parent-nopb@sha256:b09f772e44eb9b7a8fa2ca512bc04da64a19ade58fd71bda59eea335391333ee
+RUN echo hello
