@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ttvv-tenant/build-suite-component-update-bdem/multi-component-parent-utbx@sha256:b9cfd84a1671c7e027c4eb51b64ded17539d07dab835d37aa51f8502377b0ec7
+RUN echo hello
