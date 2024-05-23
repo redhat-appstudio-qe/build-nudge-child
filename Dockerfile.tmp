@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nynu-tenant/build-suite-component-update-jmkr/multi-component-parent-owbx@sha256:35b3594daea702bce4473780feb9305b6d93f11e55863029ae920940f71455cb
+FROM quay.io/redhat-appstudio-qe/build-e2e-nynu-tenant/build-suite-component-update-jmkr/multi-component-parent-owbx@sha256:70532fa2259936aad1d953a2a9b99f243d8600da2246d91ab2e4823f44a7f55f
 RUN echo hello
