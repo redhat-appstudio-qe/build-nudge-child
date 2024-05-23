@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xqcc-tenant/build-suite-component-update-paui/multi-component-parent-hvur@sha256:a874532505be8ee50022dea1e762930dc7a5702983caaccf8fc213f90f885a7b
+FROM quay.io/redhat-appstudio-qe/build-e2e-xqcc-tenant/build-suite-component-update-paui/multi-component-parent-hvur@sha256:33a102ee2369e2190ffb03876ca27a9f8452d304cee0af2a90527919e872da2c
 RUN echo hello
