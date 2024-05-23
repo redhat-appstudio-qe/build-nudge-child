@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-isqi-tenant/build-suite-component-update-bfcy/multi-component-parent-avua@sha256:ca1c7372b521ce8e2cb0a85e3704d176510bf8f566a90d5d00e72424ea1757e1
+RUN echo hello
