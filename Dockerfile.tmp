@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gtvk-tenant/build-suite-component-update-emkv/multi-component-parent-drxv@sha256:c101baf0d15d103755527a7cd662da81d120b4e2335679b7bc621b233de1b6f2
+FROM quay.io/redhat-appstudio-qe/build-e2e-gtvk-tenant/build-suite-component-update-emkv/multi-component-parent-drxv@sha256:5f12f94cc7bec6693462f0ddfe92ff14c0b58925961b81661820984b165cfd92
 RUN echo hello
