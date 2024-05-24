@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wtdu-tenant/build-suite-component-update-yukj/multi-component-parent-yzpb@sha256:79fc2818467d43976de6062d12fd0b0268d861666450fa491546062e9f7a4343
+FROM quay.io/redhat-appstudio-qe/build-e2e-wtdu-tenant/build-suite-component-update-yukj/multi-component-parent-yzpb@sha256:0170bfda698c8c8816f9895377d6771f86bde4a595e9594d59e57f853dc8f92d
 RUN echo hello
