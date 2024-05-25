@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-iukf-tenant/build-suite-component-update-mbyi/multi-component-parent-vipu@sha256:0ffdfb8ce81ed7159e9ea50f40917f12c18145ab181be6a80530a00de3b6c181
+FROM quay.io/redhat-appstudio-qe/build-e2e-iukf-tenant/build-suite-component-update-mbyi/multi-component-parent-vipu@sha256:e50ad7d653fa67ca2b56e0fd3b4456fadf530a19d1f7f78029b6001dac12d7d5
 RUN echo hello
