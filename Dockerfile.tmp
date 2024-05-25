@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-urez-tenant/build-suite-component-update-pdge/multi-component-parent-eium@sha256:7dbb874c86eb074c07ced79cd531c8007829e08b67d478e184e9615b34245ba7
+RUN echo hello
