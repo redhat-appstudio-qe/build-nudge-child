@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xcom-tenant/build-suite-component-update-dtax/multi-component-parent-bgyk@sha256:dd8bf385e6a99976dabb886f184f451451da2f2dba872887201b0a2ba3ae2862
+FROM quay.io/redhat-appstudio-qe/build-e2e-xcom-tenant/build-suite-component-update-dtax/multi-component-parent-bgyk@sha256:9daf3c20ae2c7ebd5b677ee60963d7c3f2ef9b233adb18362f39547e20178186
 RUN echo hello
