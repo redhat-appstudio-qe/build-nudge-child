@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pzda-tenant/build-suite-component-update-mtty/multi-component-parent-micy@sha256:5bdafb4481c0bae4a2970fd9c54adc645603d8bd201abe3d4eb8e3e75c3bbab2
+RUN echo hello
