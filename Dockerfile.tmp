@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lzqu-tenant/build-suite-component-update-awij/multi-component-parent-tpin@sha256:765fef7ec94f8df679061285d2a55a2b33e17bf01009072ca3163ccf1c102a42
+FROM quay.io/redhat-appstudio-qe/build-e2e-lzqu-tenant/build-suite-component-update-awij/multi-component-parent-tpin@sha256:c078ce46b9506a58e805866dd9893916e998c9858cae31f17d2d9903ff108c46
 RUN echo hello
