@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rmuz-tenant/build-suite-component-update-pqvo/multi-component-parent-cxdx@sha256:fb893d69282fc36da9611eb9ba6025904bdaafde55717a88e2a0d838d6d6df6f
+RUN echo hello
