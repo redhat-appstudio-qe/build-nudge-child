@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nhcd-tenant/build-suite-component-update-idro/multi-component-parent-affc@sha256:294888379d5412c4394bbb6cc0327980d3a4be657eb1bac72d356089e497c549
+FROM quay.io/redhat-appstudio-qe/build-e2e-nhcd-tenant/build-suite-component-update-idro/multi-component-parent-affc@sha256:2518ef6bbded9d6db1bf0f2e83f3733f6d659ab9b9d308261788a4da573d3c45
 RUN echo hello
