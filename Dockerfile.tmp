@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-agdk-tenant/build-suite-component-update-vrlh/multi-component-parent-kann@sha256:9126acc522200526460380364d0450f8dfd9086d3ee5fbaf2f47672b899c1d8b
+RUN echo hello
