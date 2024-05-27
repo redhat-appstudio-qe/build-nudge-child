@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-uwxk-tenant/build-suite-component-update-nlwz/multi-component-parent-ziku@sha256:83072ea20d8b2d3a16b7e62b7a1fbce1286246780cf4d2d0eff8279120b54ea5
+FROM quay.io/redhat-appstudio-qe/build-e2e-uwxk-tenant/build-suite-component-update-nlwz/multi-component-parent-ziku@sha256:14d5a820954ce1c3ea9a0d67291a459b2263f3cdf9ed48bbf057925bbce2d7eb
 RUN echo hello
