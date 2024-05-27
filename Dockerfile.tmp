@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rsol-tenant/build-suite-component-update-xhyv/multi-component-parent-dbas@sha256:bb7bbecb819eb7ff4364c95c87e28270ebe68c578d10b3f65ba11c1bfa6b1057
+RUN echo hello
