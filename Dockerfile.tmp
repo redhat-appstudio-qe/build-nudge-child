@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mwto-tenant/build-suite-component-update-vbvl/multi-component-parent-avuc@sha256:67276001709ff456f38aac997bc196b82a0e2bfae199996d9afa7bd29e4115ab
+RUN echo hello
