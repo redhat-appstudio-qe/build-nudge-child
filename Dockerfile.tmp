@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hpmy-tenant/build-suite-component-update-bekk/multi-component-parent-tyna@sha256:0fd2cb574f7c6e871be5c64b2f2c74f9f78044fc5ee4e09dc033d6b90b212a92
+RUN echo hello
