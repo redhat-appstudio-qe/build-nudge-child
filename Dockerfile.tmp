@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vljl-tenant/build-suite-component-update-epid/multi-component-parent-pgte@sha256:a13a10f4a31e327cfacd6e24ae30ff1e804c988ca9bf368fb1aeaa98ddea444a
+RUN echo hello
