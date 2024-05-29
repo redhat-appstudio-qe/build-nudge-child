@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dmft-tenant/build-suite-component-update-kjiu/multi-component-parent-msum@sha256:8101f1c9ece1ddf3aec49102240f5615686ba9e4dd4ca31441208e88ae1b0a82
+RUN echo hello
