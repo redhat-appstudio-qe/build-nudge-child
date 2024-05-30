@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ymzl-tenant/build-suite-component-update-pamg/multi-component-parent-hkvi@sha256:ea80579c78b2de1933031e6ea7498e66a10f103dd4377b39605d4163c9e1c1c3
+RUN echo hello
