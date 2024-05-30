@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hokx-tenant/build-suite-component-update-prbs/multi-component-parent-iefq@sha256:2ed2fb56f0877f0c5e580989b010295740cee7e3ab134f521797fc21c738a920
+FROM quay.io/redhat-appstudio-qe/build-e2e-hokx-tenant/build-suite-component-update-prbs/multi-component-parent-iefq@sha256:971b8bdae63fa7f6cfd588f75608ef3bc5eca97f609b7b20f50cdb426e73d9f7
 RUN echo hello
