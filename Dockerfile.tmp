@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ibul-tenant/build-suite-component-update-pztv/multi-component-parent-udkm@sha256:f216ee8b6e7b43e3678a6e1141802b55fce33184b73e912fd3023472f843a8b6
+RUN echo hello
