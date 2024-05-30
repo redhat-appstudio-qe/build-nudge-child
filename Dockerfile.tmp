@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ejhm-tenant/build-suite-component-update-fbkn/multi-component-parent-hntf@sha256:0e205cf92ebc495d37e7870741721aa070f17cadaca3bbab09fe92f8f2b3de9e
+FROM quay.io/redhat-appstudio-qe/build-e2e-ejhm-tenant/build-suite-component-update-fbkn/multi-component-parent-hntf@sha256:9c04be21d27e4308592d1b17265463138af9c54ba58e711a407ec01c0fee79c0
 RUN echo hello
