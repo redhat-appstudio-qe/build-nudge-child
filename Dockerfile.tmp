@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jnck-tenant/build-suite-component-update-sbpf/multi-component-parent-ownl@sha256:503902003d9355e0d1cc8559dee1dbda70e091b0dde75ed6101f043f6ec0083b
+FROM quay.io/redhat-appstudio-qe/build-e2e-jnck-tenant/build-suite-component-update-sbpf/multi-component-parent-ownl@sha256:794f41b0588d41a34c332a83240a1ae1c7ccae094a1d531d6e60126018c6f261
 RUN echo hello
