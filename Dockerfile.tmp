@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fmum-tenant/build-suite-component-update-zufi/multi-component-parent-zhgc@sha256:bec7e3ee6a5342d8a88d3e8209e64bce829b7e827ca3a38b6b662a125e8b3c8f
+RUN echo hello
