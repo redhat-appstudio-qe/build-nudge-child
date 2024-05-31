@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ybhb-tenant/build-suite-component-update-kbwx/multi-component-parent-cfrg@sha256:3ae1ac26367da714aeda160ca3c4eaac42dabbe9ed77a9cc3447dcb2a9bf87f3
+FROM quay.io/redhat-appstudio-qe/build-e2e-ybhb-tenant/build-suite-component-update-kbwx/multi-component-parent-cfrg@sha256:7885952f1f0f5efbec6470f0a08a7f8642187c6e8ad2e51b4cdadd7e0fbb5853
 RUN echo hello
