@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ktzx-tenant/build-suite-component-update-ppua/multi-component-parent-rnos@sha256:fd06a19912dfec47f2b50fad5b6533ec297c9ceb85bf9c334152531233ff1fe3
+FROM quay.io/redhat-appstudio-qe/build-e2e-ktzx-tenant/build-suite-component-update-ppua/multi-component-parent-rnos@sha256:015216e32918d2615289ccebfaf37d80ce9858ad5d553dd6ed2f77ef38dce510
 RUN echo hello
