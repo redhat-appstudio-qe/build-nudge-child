@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-masc-tenant/build-suite-component-update-nmgy/multi-component-parent-xnin@sha256:16e6087b3536c4354b18c7f372f5701ab32e9681cf3bc26f6da43f0903dbc66e
+RUN echo hello
