@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bzbl-tenant/build-suite-component-update-jzma/multi-component-parent-vwqh@sha256:d48084605e11988b02c5d494c7cc5095ea89a43a55fabeb0cb832f41ae4f366f
+FROM quay.io/redhat-appstudio-qe/build-e2e-bzbl-tenant/build-suite-component-update-jzma/multi-component-parent-vwqh@sha256:70c7157f70ccc3e3d6d12307bfe95e9a202c2d402fb8dad15a99d10c83b1ba54
 RUN echo hello
