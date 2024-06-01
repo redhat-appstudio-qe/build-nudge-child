@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fgkv-tenant/build-suite-component-update-pkyo/multi-component-parent-tlfd@sha256:d07fb84598c40c3a192d54a48d33ab95bcd9ce168bc05a3f211bcdc0f71c2760
+FROM quay.io/redhat-appstudio-qe/build-e2e-fgkv-tenant/build-suite-component-update-pkyo/multi-component-parent-tlfd@sha256:7bf8675ee7a249d033abb51d5b61ff2ee83b5966eadec6f7cb7727d6c9185e16
 RUN echo hello
