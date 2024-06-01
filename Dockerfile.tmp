@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zwhv-tenant/build-suite-component-update-dvmb/multi-component-parent-qffz@sha256:dac4a3e7d225e625c22f13ade109788768c92130df1420eae10374849d5d6f04
+RUN echo hello
