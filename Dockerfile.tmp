@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-trnz-tenant/build-suite-component-update-aftu/multi-component-parent-kxel@sha256:31698b2cccf7d6e71f7ddc54556c5be9cbcc95573f25fa1cb2e7f701c42484d1
+RUN echo hello
