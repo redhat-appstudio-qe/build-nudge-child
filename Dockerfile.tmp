@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gbgm-tenant/build-suite-component-update-ahud/multi-component-parent-nggh@sha256:bd1b904bdf69b2ea3a8670db82d1510c49002910b22d323db53cc5cd34f36db6
+FROM quay.io/redhat-appstudio-qe/build-e2e-gbgm-tenant/build-suite-component-update-ahud/multi-component-parent-nggh@sha256:c6602bdf189c8d1a24d18f571eae707af190eeec7587b79a99dcde40ebe2d8d2
 RUN echo hello
