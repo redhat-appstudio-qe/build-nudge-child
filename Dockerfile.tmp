@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-uumy-tenant/build-suite-component-update-kath/multi-component-parent-ztkl@sha256:2393b416664891cb99d8bede596e78d768369fbc4b207d4ca60b0d865d2aed53
+FROM quay.io/redhat-appstudio-qe/build-e2e-uumy-tenant/build-suite-component-update-kath/multi-component-parent-ztkl@sha256:3521f36271af8e72cb6f1229cc4fb988cf95fc5bf79f7924907001160c8373a3
 RUN echo hello
