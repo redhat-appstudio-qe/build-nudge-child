@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wmgl-tenant/build-suite-component-update-jplb/multi-component-parent-ecvi@sha256:7b9e38153faad655a5f5643c5f3ffe4cd1c6e9c25e64dfe217f5414622566d48
+RUN echo hello
