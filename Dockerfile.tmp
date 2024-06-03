@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dpdw-tenant/build-suite-component-update-idjy/multi-component-parent-qomp@sha256:d0d73f98930bb5a5e19af631d1b0917ffe53679134a5ff48ca225c883659b80b
+FROM quay.io/redhat-appstudio-qe/build-e2e-dpdw-tenant/build-suite-component-update-idjy/multi-component-parent-qomp@sha256:2dc014040aef89795fdf9328c03619a4828686a740cd953eed5be6c38b404ed2
 RUN echo hello
