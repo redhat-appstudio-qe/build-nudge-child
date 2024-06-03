@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-olri-tenant/build-suite-component-update-utcd/multi-component-parent-txcw@sha256:77499aaa4bd7e2c4b6bc4db24c1c655fe98a3f49fde7e2e2afed215198ad46ec
+RUN echo hello
