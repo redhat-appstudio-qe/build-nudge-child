@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bpvf-tenant/build-suite-component-update-lupy/multi-component-parent-gama@sha256:bcff6116208b91fa037c8a92b27d971af92eafa8e9b406cbf6935e2f2ae92ca4
+FROM quay.io/redhat-appstudio-qe/build-e2e-bpvf-tenant/build-suite-component-update-lupy/multi-component-parent-gama@sha256:c8f0af9117177ab2eda19a0bd53fbbd6ca2956b3f2c556b0c12b20da52f47b00
 RUN echo hello
