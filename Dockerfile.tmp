@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vfgk-tenant/build-suite-component-update-obrd/multi-component-parent-cisu@sha256:004548c41217fd75236b0672d9fe7b5baf5b503e44ced88a591e6228f7eeccaf
+FROM quay.io/redhat-appstudio-qe/build-e2e-vfgk-tenant/build-suite-component-update-obrd/multi-component-parent-cisu@sha256:06810e50bce3174e96d30ad703b0b8dcb937d3f2d881cd8d7500a76595d10cac
 RUN echo hello
