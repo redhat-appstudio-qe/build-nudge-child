@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-sala-tenant/build-suite-component-update-zglb/multi-component-parent-pbxj@sha256:6781c5575bbf1ac328925deca5d2af14d3d29eb45bba0c57ca509f0c3e5a5188
+RUN echo hello
