@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lsqd-tenant/build-suite-component-update-eram/multi-component-parent-snsq@sha256:cac076f72066c7c84b4dd19b509b1c7e46e1b77e9573abec87ca02e43d19b428
+RUN echo hello
