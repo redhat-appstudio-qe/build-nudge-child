@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vbpu-tenant/build-suite-component-update-mfqo/multi-component-parent-yvfs@sha256:013b508e648d3c262ecae90c91e05d16616451cd3c16b14c24f10402e079e8de
+FROM quay.io/redhat-appstudio-qe/build-e2e-vbpu-tenant/build-suite-component-update-mfqo/multi-component-parent-yvfs@sha256:17e8c664ea8a48e95baaecbaa4e7cc23b2fdb0666864e3895f965641916298b7
 RUN echo hello
