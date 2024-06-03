@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fver-tenant/build-suite-component-update-lzhi/multi-component-parent-mvmr@sha256:f905bd52f4059ff463e61adfeffa8ea306af4ab0b12c5f36b5486ba0d373a7a0
+RUN echo hello
