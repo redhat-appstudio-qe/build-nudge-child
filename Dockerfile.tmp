@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nvxy-tenant/build-suite-component-update-dush/multi-component-parent-xqcr@sha256:9c3944dffedf8edb9dbf921c9ecd8ccaa9c82fc05d59def383da54c6759ab774
+FROM quay.io/redhat-appstudio-qe/build-e2e-nvxy-tenant/build-suite-component-update-dush/multi-component-parent-xqcr@sha256:59da241b7c11ecf17da789b03aeb6a20abac61e0bebbf81eddf755402dedff74
 RUN echo hello
