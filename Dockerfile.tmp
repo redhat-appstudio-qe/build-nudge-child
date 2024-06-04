@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vglf-tenant/build-suite-component-update-dpur/multi-component-parent-wdca@sha256:6d1e1066d89e79d14fda39a52fd2f15f20c738b513fdbfeb43c181fb5536ae94
+RUN echo hello
