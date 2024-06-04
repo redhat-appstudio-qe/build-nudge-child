@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tfws-tenant/build-suite-component-update-kmtu/multi-component-parent-rceh@sha256:27643a0f7b85bb1f6861f839c463ed1ccaa74cfd6b7c6d96e95d7e87a44f5a7d
+FROM quay.io/redhat-appstudio-qe/build-e2e-tfws-tenant/build-suite-component-update-kmtu/multi-component-parent-rceh@sha256:c9481954c2fa9c745bc0ef13cd832e12280084c6e632bc1c71efe59ab401e295
 RUN echo hello
