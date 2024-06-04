@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qtwd-tenant/build-suite-component-update-bubz/multi-component-parent-bmzv@sha256:5148b317728b01ef43867015909fccd746ba8f1823e1d9cbe47f3762fe41704e
+FROM quay.io/redhat-appstudio-qe/build-e2e-qtwd-tenant/build-suite-component-update-bubz/multi-component-parent-bmzv@sha256:beaa85fe920a26444bde63b2afcb09762c4041b72d018eabedeb00a4ffc7c016
 RUN echo hello
