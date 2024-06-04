@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gcqt-tenant/build-suite-component-update-dshe/multi-component-parent-xbcm@sha256:41ee0465822ca372310b809b413abd74bb853282b044b9b790777e7d5e96b73a
+FROM quay.io/redhat-appstudio-qe/build-e2e-gcqt-tenant/build-suite-component-update-dshe/multi-component-parent-xbcm@sha256:80701183c6d3d95fb1609601e92edbb3fc6634da149ab7c9a55ed1b5d9defc3d
 RUN echo hello
