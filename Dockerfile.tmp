@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-csnv-tenant/build-suite-component-update-pikh/multi-component-parent-yuvr@sha256:907a44dc96888c7a63005eb60dec2ed834ba0445f472fb0b79aca55dfa9f3a89
+FROM quay.io/redhat-appstudio-qe/build-e2e-csnv-tenant/build-suite-component-update-pikh/multi-component-parent-yuvr@sha256:098f9364be891b7eb19db8eaefa0481f7ba15ad28d80e08f9349f5b67323c381
 RUN echo hello
