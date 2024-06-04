@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wndz-tenant/build-suite-component-update-gcjg/multi-component-parent-ursc@sha256:490b0dc58a24343fd4d41214783129b7648c5c452165f2acdafc28d62a77a70a
+RUN echo hello
