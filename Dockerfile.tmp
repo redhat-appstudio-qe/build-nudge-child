@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-chet-tenant/build-suite-component-update-nolf/multi-component-parent-xrnk@sha256:60ee237417a94c62247a06931fb728a3e5de18530c609530fff7acbfbb8c8556
+RUN echo hello
