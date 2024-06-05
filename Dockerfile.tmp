@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wvvf-tenant/build-suite-component-update-vehk/multi-component-parent-tmfc@sha256:b86d3c4dec75a30aa219fa99b9640f52c016ef3ff8e5b0fee641d4102014c3ef
+FROM quay.io/redhat-appstudio-qe/build-e2e-wvvf-tenant/build-suite-component-update-vehk/multi-component-parent-tmfc@sha256:ae49979a80d813432962edf7a6ac524ce9bf0faaf461733dd97173e86c82204f
 RUN echo hello
