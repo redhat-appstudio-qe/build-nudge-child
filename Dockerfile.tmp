@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rrou-tenant/build-suite-component-update-rasr/multi-component-parent-yiay@sha256:79f15e217e759d12f0bcd578a3acdce2b06bd845821dd87cd0b813abefd2260b
+RUN echo hello
