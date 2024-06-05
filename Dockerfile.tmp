@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-smri-tenant/build-suite-component-update-pwch/multi-component-parent-vqru@sha256:338cc10f931fa7d63a5b68c0743e402e666ae26ed27ddedbfb3b6636f0c8e59e
+RUN echo hello
