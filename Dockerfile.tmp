@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-urlg-tenant/build-suite-component-update-pgys/multi-component-parent-tpfi@sha256:b1e470c21191a390ea60d25e80dac1b19bbbb284bdfddc91d89467cd6fe32fe0
+RUN echo hello
