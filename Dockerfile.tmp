@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tfpu-tenant/build-suite-component-update-ydrv/multi-component-parent-gqal@sha256:a8f8d8fb3dba1550ce40aeb4d091cc65efd29dddd7feabbe8179e7b243bcffca
+RUN echo hello
