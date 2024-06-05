@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hhyd-tenant/build-suite-component-update-cdic/multi-component-parent-iuvj@sha256:581b9f00a5af63fe708e6874aafe6aed0ef09811a9f16edf98f2ad196d96b1d8
+RUN echo hello
