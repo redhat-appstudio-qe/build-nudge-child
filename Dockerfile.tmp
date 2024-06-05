@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cops-tenant/build-suite-component-update-llxu/multi-component-parent-ffrh@sha256:78ab621a1136d21f3190a032d3c2aa3f0414b0b417000f644e516a8bccaa37bb
+RUN echo hello
