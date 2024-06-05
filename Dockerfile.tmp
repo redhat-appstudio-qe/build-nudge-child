@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fxtb-tenant/build-suite-component-update-cpfo/multi-component-parent-glci@sha256:e09a4cb395341c94410cb91c18342bf91af009dced57e088ce1ee6712174bf56
+FROM quay.io/redhat-appstudio-qe/build-e2e-fxtb-tenant/build-suite-component-update-cpfo/multi-component-parent-glci@sha256:e66dbaaf741ad8ac643c6da6edf6fb27ad88cbfb3fdec611d9a644370bbec56c
 RUN echo hello
