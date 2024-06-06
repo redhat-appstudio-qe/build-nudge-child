@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nvmq-tenant/build-suite-component-update-akns/multi-component-parent-ugye@sha256:bc6a7f60a6d78fe9f6ce95f06d836ec1998b28b59ac344bd834d3c0de66b7fd3
+FROM quay.io/redhat-appstudio-qe/build-e2e-nvmq-tenant/build-suite-component-update-akns/multi-component-parent-ugye@sha256:8597cbd945376138d821acbcc5fc5cae2ac4e99b58e3f50cf8327732e3fa6816
 RUN echo hello
