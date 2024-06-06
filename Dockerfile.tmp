@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xays-tenant/build-suite-component-update-fpdc/multi-component-parent-izoq@sha256:3eac4f09a593c2ff4441b3a363ba214f44ec6f723d66a68b23f925bc38387975
+RUN echo hello
