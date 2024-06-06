@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xavl-tenant/build-suite-component-update-ebsi/multi-component-parent-jvbw@sha256:2ae206d46aba0bcf8ff3561eac839c55a0b8254577f6c6ca1b0e0bcb78fa1e0e
+RUN echo hello
