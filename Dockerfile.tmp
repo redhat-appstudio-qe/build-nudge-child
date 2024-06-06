@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ljqj-tenant/build-suite-component-update-land/multi-component-parent-amam@sha256:f2ce25e7b48bee6b344b5782de3b76bedb61439f20f3eacc8e4ceb781567fe9a
+FROM quay.io/redhat-appstudio-qe/build-e2e-ljqj-tenant/build-suite-component-update-land/multi-component-parent-amam@sha256:a5df401f79a02b6fe0a2c8635f7303d6277c3b55d6142a930f36819d286fe19c
 RUN echo hello
