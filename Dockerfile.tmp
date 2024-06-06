@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lnug-tenant/build-suite-component-update-falm/multi-component-parent-rvcz@sha256:0a6013f7dda7ed31048e3d6654a0806d003327b2186c5fc8715acf5920481d72
+FROM quay.io/redhat-appstudio-qe/build-e2e-lnug-tenant/build-suite-component-update-falm/multi-component-parent-rvcz@sha256:c267fde4df8c382d55785ca3c9b946f1b86e2dc63d17f30b1fecd6c9ed4affec
 RUN echo hello
