@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vykf-tenant/build-suite-component-update-sdia/multi-component-parent-ltmb@sha256:2d8faa78fe70a057b5e1d7c6a0fa7290e12494a799e80d6c257a03addece9729
+FROM quay.io/redhat-appstudio-qe/build-e2e-vykf-tenant/build-suite-component-update-sdia/multi-component-parent-ltmb@sha256:2e1ee8ecff7174a3c64c5e2996d064c34b1581e536886b12a0642df23797b263
 RUN echo hello
