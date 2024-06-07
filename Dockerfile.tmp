@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-uynh-tenant/build-suite-component-update-dwmu/multi-component-parent-fldc@sha256:a0cc4ccb498461a92474a99756a0cb496ad1c4221aa569be8c929782802b9a53
+FROM quay.io/redhat-appstudio-qe/build-e2e-uynh-tenant/build-suite-component-update-dwmu/multi-component-parent-fldc@sha256:e9740b790c26d58cf4ec22034d0bd9da6f843c3a36fccca163ad93e28b05709e
 RUN echo hello
