@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tbwl-tenant/build-suite-component-update-ikoi/multi-component-parent-llrt@sha256:2a35b4184d28b326d075ffe498c65340a6edecc04131eb7ee5e4946abdab49e7
+RUN echo hello
