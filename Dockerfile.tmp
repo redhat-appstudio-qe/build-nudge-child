@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vwag-tenant/build-suite-component-update-fxnk/multi-component-parent-zeee@sha256:3b2655c5f91fec5a5a3446a4cf740b1588d9b5d91a290d453f7d7c6bc1807011
+RUN echo hello
