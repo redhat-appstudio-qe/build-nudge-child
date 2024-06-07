@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wxyr-tenant/build-suite-component-update-tfpg/multi-component-parent-jnas@sha256:7d15e7ddb74c3647635e29729df979fd2453d8460b67dec83f1cafe393f438dc
+RUN echo hello
