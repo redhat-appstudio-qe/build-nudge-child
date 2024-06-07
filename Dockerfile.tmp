@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ahds-tenant/build-suite-component-update-pine/multi-component-parent-vyvp@sha256:5ef62c067e272073f0c2d2350abca849c521ef0d633006b008949b113731b715
+FROM quay.io/redhat-appstudio-qe/build-e2e-ahds-tenant/build-suite-component-update-pine/multi-component-parent-vyvp@sha256:8729ed6c5d34e868e7b9b8b685732a34649a783d9832da9a278c540fa69fe6d0
 RUN echo hello
