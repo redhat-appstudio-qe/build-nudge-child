@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-njca-tenant/build-suite-component-update-kefg/multi-component-parent-gnxy@sha256:315cd3c550028596c1ad1f98eeb65ee79ef01f4d7999f5cac204c1cb77defc99
+FROM quay.io/redhat-appstudio-qe/build-e2e-njca-tenant/build-suite-component-update-kefg/multi-component-parent-gnxy@sha256:3c9e032d63df203ac15aeadad9015e1ddaf2ede9d25dbcbe926bbe381fa6e4d1
 RUN echo hello
