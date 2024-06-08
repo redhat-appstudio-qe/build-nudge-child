@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-sedv-tenant/build-suite-component-update-ujxx/multi-component-parent-sxwp@sha256:f2b4fe7163f9754a89a0df9decc46207cb4cf4c4ec0c4b31661cccc9d76fef12
+FROM quay.io/redhat-appstudio-qe/build-e2e-sedv-tenant/build-suite-component-update-ujxx/multi-component-parent-sxwp@sha256:fa8e09508e1775ab2b00166ec0f786efd5ae2ddd7a40e97ae4469876baaae68a
 RUN echo hello
