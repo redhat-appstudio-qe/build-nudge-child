@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-picy-tenant/build-suite-component-update-gnmw/multi-component-parent-lqyv@sha256:98899f52228c73ebe2e5772c8fa0e2b231a701c5326cef81b79244fa47e50c39
+FROM quay.io/redhat-appstudio-qe/build-e2e-picy-tenant/build-suite-component-update-gnmw/multi-component-parent-lqyv@sha256:fb16184a753082a4a03f3ba7237ed4b6031f257f86fefd3d4f4d0ae07e08b42e
 RUN echo hello
