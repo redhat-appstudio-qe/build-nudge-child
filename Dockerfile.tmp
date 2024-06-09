@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ijby-tenant/build-suite-component-update-monx/multi-component-parent-rwzp@sha256:1b8db0ac6518f6146c19335f6c6bd2aba36bc34d58012de09cdbf27d73f20f7c
+FROM quay.io/redhat-appstudio-qe/build-e2e-ijby-tenant/build-suite-component-update-monx/multi-component-parent-rwzp@sha256:68c776248b6562daca229c74e2097dd5db9cfe35b6dfd96a8939760585ccae1e
 RUN echo hello
