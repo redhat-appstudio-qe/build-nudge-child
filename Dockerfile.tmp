@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-maml-tenant/build-suite-component-update-pdrp/multi-component-parent-expp@sha256:da0b95d895730faec14f509e1c89fb44f93ce302fcd1fd9949fad788fc85ec6a
+RUN echo hello
