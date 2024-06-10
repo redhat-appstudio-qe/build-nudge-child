@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dqpd-tenant/build-suite-component-update-rapy/multi-component-parent-qvms@sha256:791479db492b886b309436c323ce0e424c47a0609b637cc38aa9f678df070c87
+RUN echo hello
