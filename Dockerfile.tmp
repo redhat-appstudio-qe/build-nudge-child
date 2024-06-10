@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fbqm-tenant/build-suite-component-update-uqvn/multi-component-parent-edrm@sha256:dd9dd87b15d9306b107383854592192b55202f559ccd30baf42f29c598d0f9dc
+RUN echo hello
