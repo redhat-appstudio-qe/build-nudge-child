@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fckh-tenant/build-suite-component-update-topm/multi-component-parent-omeb@sha256:0615b758dcc21c70b7c006f0b367b7ee3e8a0254d1f4cf3923550ca38c3d6e98
+FROM quay.io/redhat-appstudio-qe/build-e2e-fckh-tenant/build-suite-component-update-topm/multi-component-parent-omeb@sha256:5cb128d57b8a7193d5e703c559953435922157b9de7419018f34c4520e766973
 RUN echo hello
