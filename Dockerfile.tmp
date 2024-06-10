@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tdgi-tenant/build-suite-component-update-sksb/multi-component-parent-okht@sha256:2db115c15369cf592cef57f629492a28612bf84ed3c5564fd17f94690ca67a5f
+FROM quay.io/redhat-appstudio-qe/build-e2e-tdgi-tenant/build-suite-component-update-sksb/multi-component-parent-okht@sha256:170597e6e4160d889b2117358cb70c12947e445db81e5771854cbf2a666d3605
 RUN echo hello
