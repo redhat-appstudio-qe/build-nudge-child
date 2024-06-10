@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-agnt-tenant/build-suite-component-update-mgod/multi-component-parent-tpln@sha256:668d7a3cd53aa22c6d725a4bf1aa4ca8dd08bb810337a61bba68c8eca5cae222
+RUN echo hello
