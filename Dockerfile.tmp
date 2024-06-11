@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-eswo-tenant/build-suite-component-update-psex/multi-component-parent-xhfo@sha256:dae3ab06da52d79f7034a19634b96ee08600f40c53d418618c2e118403bb2240
+FROM quay.io/redhat-appstudio-qe/build-e2e-eswo-tenant/build-suite-component-update-psex/multi-component-parent-xhfo@sha256:5be40eb7dfc731dd4f9269e27bbfa75b25d872af073030e29cc7691a58a90515
 RUN echo hello
