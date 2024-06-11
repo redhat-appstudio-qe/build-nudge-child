@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jorz-tenant/build-suite-component-update-fwpt/multi-component-parent-tvsk@sha256:e137e0c9a723df96d1e8c22ddae8fcfe81e80077f38ba9778e72c0197e81e758
+FROM quay.io/redhat-appstudio-qe/build-e2e-jorz-tenant/build-suite-component-update-fwpt/multi-component-parent-tvsk@sha256:44dc3294f7c8ed4f4a124c3c3f8571087633af7d611e13e169e65f83960f2e2e
 RUN echo hello
