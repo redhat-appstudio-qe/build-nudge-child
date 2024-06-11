@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-enni-tenant/build-suite-component-update-nffo/multi-component-parent-fxkr@sha256:d16ae4a87003877a1c7f81adf5180379974f0385b6666f5bd9ad36707022207a
+FROM quay.io/redhat-appstudio-qe/build-e2e-enni-tenant/build-suite-component-update-nffo/multi-component-parent-fxkr@sha256:0cb9d8c3105938637b7980c389b9b15bb78a064a74079e00dea5be8efb240de5
 RUN echo hello
