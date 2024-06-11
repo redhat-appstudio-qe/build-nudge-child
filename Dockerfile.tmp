@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gruq-tenant/build-suite-component-update-fmjl/multi-component-parent-edij@sha256:1dbb6c60bf850496d1c4aa2f04ace986e07df5aec3eef7188d3ee9dae76b28c0
+RUN echo hello
