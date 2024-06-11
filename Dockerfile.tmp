@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tbrd-tenant/build-suite-component-update-edmi/multi-component-parent-qszw@sha256:43d56124df08c8453f5b9bb282f8f97089f1efb146686ad819e8cb3244d9aee0
+FROM quay.io/redhat-appstudio-qe/build-e2e-tbrd-tenant/build-suite-component-update-edmi/multi-component-parent-qszw@sha256:793040b9b1ed4325ac1ddc04e209761c667bb70a0bf7551b884cf9ccfda533cd
 RUN echo hello
