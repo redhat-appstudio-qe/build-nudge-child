@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fknc-tenant/build-suite-component-update-gihb/multi-component-parent-pkpj@sha256:e04f45c59c8d2d31c1d8413f395d4cb4959480c8fe1fd52cf7b89c4efbeef45f
+FROM quay.io/redhat-appstudio-qe/build-e2e-fknc-tenant/build-suite-component-update-gihb/multi-component-parent-pkpj@sha256:3227b01fbf768e8ef4ebb2df2c0b4f34865f449d5c03656aacc32eda5a5ff078
 RUN echo hello
