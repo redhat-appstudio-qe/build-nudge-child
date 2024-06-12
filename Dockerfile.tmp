@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cfxc-tenant/build-suite-component-update-idwn/multi-component-parent-tnwu@sha256:0f8788d925d450cd5c748701ae61cf900cea17d404e503c75cf3221316f4e5a1
+RUN echo hello
