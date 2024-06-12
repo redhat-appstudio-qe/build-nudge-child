@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wgqk-tenant/build-suite-component-update-kwwm/multi-component-parent-bmoc@sha256:e52533493b54148ca1a969cd4351a0be451cf1026e166e3e8c34ff640b332e32
+RUN echo hello
