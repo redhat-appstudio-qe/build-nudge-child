@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-grte-tenant/build-suite-component-update-ckni/multi-component-parent-ibzt@sha256:1a7d18b9d7cb0753e3a793dd4d8b51d623af1ac3fbabdb083ad606580038479e
+FROM quay.io/redhat-appstudio-qe/build-e2e-grte-tenant/build-suite-component-update-ckni/multi-component-parent-ibzt@sha256:5bc20cc90ebfecfe1dd02e1042092b566428295c4c521925c0e25830b5024aa2
 RUN echo hello
