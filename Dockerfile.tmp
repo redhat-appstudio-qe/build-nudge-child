@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-natk-tenant/build-suite-component-update-yomn/multi-component-parent-vcdk@sha256:2224bdd7a9cfc97296199c064dbed56d60586959700c4c5fc2cf9aabd0d086cf
+RUN echo hello
