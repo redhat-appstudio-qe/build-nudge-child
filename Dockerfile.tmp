@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-scgq-tenant/build-suite-component-update-fblk/multi-component-parent-nugj@sha256:fd6b815cdf64e5f090b4ebe744c5a9c73e481b0f669aeb654edd214190d6fea1
+RUN echo hello
