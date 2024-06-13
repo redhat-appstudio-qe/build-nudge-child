@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xctx-tenant/build-suite-component-update-iiwc/multi-component-parent-gcyb@sha256:253310dd557abadfe4c89788ace89286d4f840e30f13415f123854b06bea3fb0
+RUN echo hello
