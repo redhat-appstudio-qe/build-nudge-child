@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qkpd-tenant/build-suite-component-update-llmr/multi-component-parent-kfyt@sha256:620a9762a96319085bb2bb320c1f09573d0f51b60cb7f11575e53a166f2dc17d
+FROM quay.io/redhat-appstudio-qe/build-e2e-qkpd-tenant/build-suite-component-update-llmr/multi-component-parent-kfyt@sha256:66d47aa10924668d0181b8999daca643ccb1f50bfd49468b43caf632fe418f15
 RUN echo hello
