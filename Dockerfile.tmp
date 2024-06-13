@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bwek-tenant/build-suite-component-update-eqla/multi-component-parent-kaky@sha256:f8403427749a22510f62e9a8ab04e2c38355a4d0bb3b2ff5257a2ad48bec296d
+RUN echo hello
