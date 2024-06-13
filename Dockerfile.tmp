@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-idnn-tenant/build-suite-component-update-cefy/multi-component-parent-noci@sha256:842248a69e80f58d685628175b06826f38ad00ae00a9e5c2b8805943f95b711b
+RUN echo hello
