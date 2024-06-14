@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-msxq-tenant/build-suite-component-update-oxvh/multi-component-parent-sohu@sha256:54a6f237a07756eab5381243b12db946eabd4cc1f575233f6ba8e5f68e31b519
+RUN echo hello
