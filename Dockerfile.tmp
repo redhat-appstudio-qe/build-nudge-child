@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fivb-tenant/build-suite-component-update-lxwx/multi-component-parent-hdkl@sha256:e7d99f260875b03d3a79ddfc21bfee7fbdae532d71d67c92cfeabae72f25f819
+FROM quay.io/redhat-appstudio-qe/build-e2e-fivb-tenant/build-suite-component-update-lxwx/multi-component-parent-hdkl@sha256:bf9711aa5b580d9bca45a8e45cebca299555d915c9efd1ed09e19d2f4669b2f6
 RUN echo hello
