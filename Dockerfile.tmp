@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-douk-tenant/build-suite-component-update-htiv/multi-component-parent-mbos@sha256:6532427d41c8e13525a5145a19b4d2ba75fed109620c28665130da362715f839
+FROM quay.io/redhat-appstudio-qe/build-e2e-douk-tenant/build-suite-component-update-htiv/multi-component-parent-mbos@sha256:5d9f9b8d8c5d9895d7c7b160ebc5c760c33a3852e52bbe9f328bf42f1a4ef8a8
 RUN echo hello
