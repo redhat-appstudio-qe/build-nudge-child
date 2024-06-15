@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-idmx-tenant/build-suite-component-update-pepm/multi-component-parent-gojp@sha256:7d4443f51f5a675b2666fd1c76bd4e9c12c8b83fd24dacc474c35f2aa16b07c1
+RUN echo hello
