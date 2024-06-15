@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cfah-tenant/build-suite-component-update-pscw/multi-component-parent-cich@sha256:78359553f2a33f458a775576c80851529c0598fe45d6ddaa14579c25dfb325e7
+RUN echo hello
