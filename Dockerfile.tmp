@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-krpx-tenant/build-suite-component-update-jsta/multi-component-parent-hdfy@sha256:1b091f853e29385faa95a0fbb117cc3aff965fe0372ba84ec18892bcffbae7a2
+RUN echo hello
