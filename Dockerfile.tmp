@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xowc-tenant/build-suite-component-update-wpdx/multi-component-parent-ocxi@sha256:ef56687bf5fad7f00b10c555a1220168340f2eea86955a7bcb52297f6e80fe51
+RUN echo hello
