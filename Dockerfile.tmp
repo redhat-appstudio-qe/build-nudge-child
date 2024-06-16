@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ldgu-tenant/build-suite-component-update-jwpj/multi-component-parent-qswr@sha256:3c62c64cc834faf5945095f8bd02f65a02f64cf49f09103eb3e75ea206717e60
+RUN echo hello
