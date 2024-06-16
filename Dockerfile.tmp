@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-meds-tenant/build-suite-component-update-jofb/multi-component-parent-hygv@sha256:70973d26f845c858559490ae6f4d716a4fa6315b0277c2599687854f6ae5c272
+RUN echo hello
