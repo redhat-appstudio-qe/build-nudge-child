@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fxdo-tenant/build-suite-component-update-ovaj/multi-component-parent-piqd@sha256:699eb9048ec70483880519e07c827e0ef6176e9e0bdf16983d36ee8ea4ec73ac
+FROM quay.io/redhat-appstudio-qe/build-e2e-fxdo-tenant/build-suite-component-update-ovaj/multi-component-parent-piqd@sha256:f275f1aa8eb6f10afcea64387cfead869311d5f8f727780cf24dbed15edaae3e
 RUN echo hello
