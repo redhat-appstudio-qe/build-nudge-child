@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-kwko-tenant/build-suite-component-update-gwxi/multi-component-parent-sgpt@sha256:eccd93693461e07a02a45a65368a8fa990bc1af3eed938b20d9e7da57af0505b
+RUN echo hello
