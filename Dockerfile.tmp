@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nard-tenant/build-suite-component-update-vapm/multi-component-parent-cvmp@sha256:78de877708ea1417d9794b95939840fe7464475d0d30338beeb254393805f57a
+FROM quay.io/redhat-appstudio-qe/build-e2e-nard-tenant/build-suite-component-update-vapm/multi-component-parent-cvmp@sha256:0f1a844d664645668aa3b7a796a33c7a2a7aee5bfb3050ed8f9bc5b06d080c22
 RUN echo hello
