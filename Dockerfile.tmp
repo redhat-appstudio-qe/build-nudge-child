@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jcsp-tenant/build-suite-component-update-kzur/multi-component-parent-wzks@sha256:fa02539e7bfd55240247e524ab1276a0ed066a4a3949b1d258bc873f7ed8c05f
+FROM quay.io/redhat-appstudio-qe/build-e2e-jcsp-tenant/build-suite-component-update-kzur/multi-component-parent-wzks@sha256:98c88db331eadf8fa3eefe8f0b3dd3ee6a1d654d75c8429f0075efcadee436e3
 RUN echo hello
