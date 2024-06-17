@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dhqg-tenant/build-suite-component-update-aroj/multi-component-parent-bant@sha256:f78640c7e3159950e99f53657235df104f5b84858036abcb3fb113c8e181a83a
+RUN echo hello
