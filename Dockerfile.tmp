@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nqxe-tenant/build-suite-component-update-lnaa/multi-component-parent-hpdv@sha256:e720c612af91a0374874fb61306e456b32ff736fe5e03498c14fa1c0b5207a81
+FROM quay.io/redhat-appstudio-qe/build-e2e-nqxe-tenant/build-suite-component-update-lnaa/multi-component-parent-hpdv@sha256:2d7ba37466579a5cc85db5367fd7d49493e87144b2f680d5803dc67debae66ec
 RUN echo hello
