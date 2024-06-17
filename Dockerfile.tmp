@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ggzr-tenant/build-suite-component-update-hxdy/multi-component-parent-jxyr@sha256:cc97deb9417b1a792cdbb486b55ce24b2a981c8481da6ade599fd144a418f5a7
+FROM quay.io/redhat-appstudio-qe/build-e2e-ggzr-tenant/build-suite-component-update-hxdy/multi-component-parent-jxyr@sha256:cbea9850facbfb46d9bcd30e6d13aa8ff733e0d24b603ff455a11a7be12b4de2
 RUN echo hello
