@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-kykm-tenant/build-suite-component-update-fryl/multi-component-parent-uwpq@sha256:53cb58b88495c3f2746d4294edbe24047eeda2a22b7d2d897a35808f19f16852
+FROM quay.io/redhat-appstudio-qe/build-e2e-kykm-tenant/build-suite-component-update-fryl/multi-component-parent-uwpq@sha256:2b1601395a6794bb4f2e6f56f2bdf7d4fe4ca4a93e42f10aeb7b04a5854708af
 RUN echo hello
