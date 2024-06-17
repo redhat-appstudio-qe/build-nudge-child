@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zune-tenant/build-suite-component-update-nlui/multi-component-parent-hqxh@sha256:95c2e803b26811f2db76743824531442a73a2d7e5437d0c37577d96dfd11ede4
+RUN echo hello
