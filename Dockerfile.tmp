@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vyor-tenant/build-suite-component-update-krny/multi-component-parent-wohi@sha256:7a388f9c56f7adfabea6b371292be197648b6f7467c2282ac806cfa7454626bf
+FROM quay.io/redhat-appstudio-qe/build-e2e-vyor-tenant/build-suite-component-update-krny/multi-component-parent-wohi@sha256:755952829d05d2a1068b9012c832024fdd9dc0d8e59a1aebc5c8defb0b04ff0e
 RUN echo hello
