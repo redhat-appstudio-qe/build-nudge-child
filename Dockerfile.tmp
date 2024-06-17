@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-odmc-tenant/build-suite-component-update-xkll/multi-component-parent-tmrc@sha256:e28322dbd8808060b10bfaaf0328eb6840f1edd76fe1b70a7422ee0aae5a7191
+FROM quay.io/redhat-appstudio-qe/build-e2e-odmc-tenant/build-suite-component-update-xkll/multi-component-parent-tmrc@sha256:a5b559ff86c4fa8ecbe037e4ad2877109acff552a28f6108d6a392112ff18267
 RUN echo hello
