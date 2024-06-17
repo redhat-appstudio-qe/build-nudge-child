@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bwhi-tenant/build-suite-component-update-zphg/multi-component-parent-frii@sha256:7f2a17abcc67db1a905c01c7f15dbb456000246a0ff9c01a8fd7149db0181ff3
+RUN echo hello
