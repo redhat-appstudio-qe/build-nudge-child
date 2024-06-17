@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lvup-tenant/build-suite-component-update-lode/multi-component-parent-ddga@sha256:ef4d48c52291bd34f5bf71ea06b1ebbba2c42c8db3bd7aef1e18817bed2fa786
+RUN echo hello
