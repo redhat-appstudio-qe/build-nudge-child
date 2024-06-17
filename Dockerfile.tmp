@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dtwa-tenant/build-suite-component-update-dyee/multi-component-parent-cyhp@sha256:005f1856deefd11466fe29942696e180dd0cfbe1dac047b36f7a129c5e474e4c
+FROM quay.io/redhat-appstudio-qe/build-e2e-dtwa-tenant/build-suite-component-update-dyee/multi-component-parent-cyhp@sha256:6d4f27a8f5238ed9c4becdc6ea524d38e8d9fb0c762f9e621df8a7434112771c
 RUN echo hello
