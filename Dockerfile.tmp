@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cpvq-tenant/build-suite-component-update-qrdz/multi-component-parent-jvnm@sha256:00400a5d614a3cebfeca3639037e974d3d298341ff124be16e55283fea3f450b
+RUN echo hello
