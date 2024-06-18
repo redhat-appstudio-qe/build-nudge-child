@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qohr-tenant/build-suite-component-update-sdgd/multi-component-parent-kbqn@sha256:b1d4a1dcc067bd3b2bd2e604c36f5b2fbb3964304682d0969238df726140dadc
+FROM quay.io/redhat-appstudio-qe/build-e2e-qohr-tenant/build-suite-component-update-sdgd/multi-component-parent-kbqn@sha256:a78fa50b26431f692c746ff39e5c09e822ae4c463c0fc1602ef800370e411ae9
 RUN echo hello
