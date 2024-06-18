@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-yyde-tenant/build-suite-component-update-fina/multi-component-parent-vwot@sha256:7bc341b501e7be2a9fee39d9c7d4e6ddf28ed4c45240749eeaa046e4b86cca5f
+FROM quay.io/redhat-appstudio-qe/build-e2e-yyde-tenant/build-suite-component-update-fina/multi-component-parent-vwot@sha256:1a104629b34c26ae1982ef560b4dec878df9173357dd7813a8b23309754d5159
 RUN echo hello
