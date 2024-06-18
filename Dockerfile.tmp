@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-eqtv-tenant/build-suite-component-update-pndt/multi-component-parent-oxem@sha256:c563ee554e542694859aac697cb1bef3c90a2407611d8d754ef4695315621d5c
+FROM quay.io/redhat-appstudio-qe/build-e2e-eqtv-tenant/build-suite-component-update-pndt/multi-component-parent-oxem@sha256:a5fe5ca6b4d2e686eb0380711f21bf40da3218830c7e32ae0eeb65a27da93ebd
 RUN echo hello
