@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lfyu-tenant/build-suite-component-update-xprv/multi-component-parent-trax@sha256:0c7782c5c625fe009bc1338716fff55b5129297093f4c9a6f9cbafaecee24347
+RUN echo hello
