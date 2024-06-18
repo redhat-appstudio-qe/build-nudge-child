@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nkiw-tenant/build-suite-component-update-fjeb/multi-component-parent-tsmw@sha256:505b5557057aaeef48e4040a141d3f39ee87c2bb414c81a96c6edc0de482b487
+FROM quay.io/redhat-appstudio-qe/build-e2e-nkiw-tenant/build-suite-component-update-fjeb/multi-component-parent-tsmw@sha256:64a7c1859c2baf05e40070ca8e84d9834b0675065682515fff58c01944e37104
 RUN echo hello
