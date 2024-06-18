@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-grfa-tenant/build-suite-component-update-lhxo/multi-component-parent-dhyy@sha256:fd0716de775c280a51f4915dae2aca325225cca7ea6256928a39519a367a82ef
+RUN echo hello
