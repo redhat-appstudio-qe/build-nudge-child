@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gnqa-tenant/build-suite-component-update-tfpw/multi-component-parent-phpr@sha256:94ac005659114a1ae6647ba9036f188f8598d59aaf6766baac282661efa6ac5e
+RUN echo hello
