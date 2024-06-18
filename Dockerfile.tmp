@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ibwj-tenant/build-suite-component-update-cnll/multi-component-parent-nxdo@sha256:caa23ebc3c2856df3866f98b9a09e477f46067f57808c9b2c7d93decdb1c679b
+FROM quay.io/redhat-appstudio-qe/build-e2e-ibwj-tenant/build-suite-component-update-cnll/multi-component-parent-nxdo@sha256:1a0363d8ba4fd93c700ec74736963b23b07dbc7a706885fde4e5bd7f5013d501
 RUN echo hello
