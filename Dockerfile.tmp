@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vecr-tenant/build-suite-component-update-vdha/multi-component-parent-opug@sha256:c7eb0114b1462c47d8fbb70102a468815625ef96c1536a4c63e3a9411252ba19
+RUN echo hello
