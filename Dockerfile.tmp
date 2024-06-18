@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mmrt-tenant/build-suite-component-update-jwsx/multi-component-parent-cyop@sha256:ebef3de805e97a0696029eedacb48b7d419dbd33aa41ce7290ac546ddf5cc278
+RUN echo hello
