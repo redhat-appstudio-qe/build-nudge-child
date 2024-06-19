@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nixa-tenant/build-suite-component-update-vite/multi-component-parent-fzei@sha256:063ce920fff6929920a11e6dbe2bd4fa4405a79d7844aee6f5d54226d088b9f8
+RUN echo hello
