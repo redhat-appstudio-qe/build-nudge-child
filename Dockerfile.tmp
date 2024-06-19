@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vhhm-tenant/build-suite-component-update-xcam/multi-component-parent-gobc@sha256:cf0bfaee2bdc71f24f5fd4b36057a88555547cb4ff4f5c874b974c56e7979ad6
+FROM quay.io/redhat-appstudio-qe/build-e2e-vhhm-tenant/build-suite-component-update-xcam/multi-component-parent-gobc@sha256:00d08939ee65e97c0437da51b8ad7370418a4006384c0c81ee84096e45598b1a
 RUN echo hello
