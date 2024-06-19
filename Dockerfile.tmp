@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-muri-tenant/build-suite-component-update-arus/multi-component-parent-asnv@sha256:8cad2b9e68fd148ebbf9cfa9beff21432b40a4cb4a3655c74f661495680d024a
+FROM quay.io/redhat-appstudio-qe/build-e2e-muri-tenant/build-suite-component-update-arus/multi-component-parent-asnv@sha256:2786c5dd1b20ebc27aa4e9533928a8a2bffd69de48453920d2e6128832107150
 RUN echo hello
