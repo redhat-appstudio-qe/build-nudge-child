@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dufx-tenant/build-suite-component-update-lcgu/multi-component-parent-mqlr@sha256:841b9bb02afe85130fd10825756feda4469688dc01d7c36a30bcafa9e684b0d3
+RUN echo hello
