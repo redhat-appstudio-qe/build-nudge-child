@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bwrt-tenant/build-suite-component-update-nrch/multi-component-parent-adcs@sha256:62798c105f30e05bde6309cac1c9366dc9c56badbd6623f95862e12e3004750c
+FROM quay.io/redhat-appstudio-qe/build-e2e-bwrt-tenant/build-suite-component-update-nrch/multi-component-parent-adcs@sha256:39ac70223ea7dbd68b2bd34f92930625125444e502ee7aa35bdf7e3d98508602
 RUN echo hello
