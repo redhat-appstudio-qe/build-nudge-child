@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dfls-tenant/build-suite-component-update-juhu/multi-component-parent-bygz@sha256:e82fd8543a4a4e84b7849848c47a6685e142916cade4f44ad58ab1f53023e2d4
+FROM quay.io/redhat-appstudio-qe/build-e2e-dfls-tenant/build-suite-component-update-juhu/multi-component-parent-bygz@sha256:8704de09434b43d0a59f2620f05edaa0a8f48dbbfae06e54b01a20df67b31ba5
 RUN echo hello
