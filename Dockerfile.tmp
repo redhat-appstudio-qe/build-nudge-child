@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lvqi-tenant/build-suite-component-update-pcdc/multi-component-parent-wngt@sha256:2e1c8c4e4351fdea6e21167914afb3d058c35d34ec0a4742d3eef88b82bf9ad5
+RUN echo hello
