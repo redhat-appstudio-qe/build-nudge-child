@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-uhhe-tenant/build-suite-component-update-zmvb/multi-component-parent-glgk@sha256:3bfffa02e06dfaa14899f80b373a5f873945f97cbb459885175b46ff523e5deb
+RUN echo hello
