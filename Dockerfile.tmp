@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xywq-tenant/build-suite-component-update-wpse/multi-component-parent-ubrj@sha256:fbf973141f439b9bdf2a1b9bc4181c1d6cf3397cc7e2acda2a8e93ac427a7de5
+FROM quay.io/redhat-appstudio-qe/build-e2e-xywq-tenant/build-suite-component-update-wpse/multi-component-parent-ubrj@sha256:1d7527f6a2e2350f61e7977e3274c0b67e112011f71482ceebd4f6c55e65c806
 RUN echo hello
