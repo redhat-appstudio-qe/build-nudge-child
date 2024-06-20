@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-duli-tenant/build-suite-component-update-ldey/multi-component-parent-jpob@sha256:5c76c28f8c346deb78804c1f9303e3f19f64392b8279a133dcc43bf46e42e3f0
+RUN echo hello
