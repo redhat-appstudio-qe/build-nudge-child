@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-qmrb-tenant/build-suite-component-update-bbur/multi-component-parent-htyp@sha256:4fb931d436e66f3fb867045d89d29bfeca942ac7b9bb25d1a7c99a9d5edb831d
+RUN echo hello
