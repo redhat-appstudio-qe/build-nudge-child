@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vfda-tenant/build-suite-component-update-kmar/multi-component-parent-omar@sha256:cc410a74a71e68c4220e888e4b40d916e0ebb0825deaa2c321571be767b009f6
+FROM quay.io/redhat-appstudio-qe/build-e2e-vfda-tenant/build-suite-component-update-kmar/multi-component-parent-omar@sha256:0956b703ef82f252b2676560fe771481328b13e9a11c96031f79ca90528bad92
 RUN echo hello
