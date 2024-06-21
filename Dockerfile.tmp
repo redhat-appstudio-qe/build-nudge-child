@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vzqi-tenant/build-suite-component-update-odvu/multi-component-parent-ineh@sha256:4148ba33ed534beb519e66371d3fa63aed1e1a3fed872b2b44842f4a1272ec7e
+FROM quay.io/redhat-appstudio-qe/build-e2e-vzqi-tenant/build-suite-component-update-odvu/multi-component-parent-ineh@sha256:b006228b1e1e671f8ce45a595ef8671ffcc4e278aae3208c795b69dd2f8f7c78
 RUN echo hello
