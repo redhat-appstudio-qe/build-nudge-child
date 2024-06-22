@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-utps-tenant/build-suite-component-update-zdgn/multi-component-parent-avgc@sha256:5fd8ea271aab1049f5acdd863da205d76a123d410db0356ba8886c3a1a09a58c
+FROM quay.io/redhat-appstudio-qe/build-e2e-utps-tenant/build-suite-component-update-zdgn/multi-component-parent-avgc@sha256:d86acd712926bfdd8410c23dd76f3dbf9dd15a73667047e62fb13764f09da0af
 RUN echo hello
