@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-eogf-tenant/build-suite-component-update-ougi/multi-component-parent-luun@sha256:77e44715a403f0e0eeaa7c13019d4bde2ab09188d2d5ec577128846f2e6f2da0
+FROM quay.io/redhat-appstudio-qe/build-e2e-eogf-tenant/build-suite-component-update-ougi/multi-component-parent-luun@sha256:071faa6c54ecfa40d7e9a0b910f9d94a536e0dd5c4c1dcf94e07d09e021e0e5e
 RUN echo hello
