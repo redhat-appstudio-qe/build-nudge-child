@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mqtc-tenant/build-suite-component-update-rpsa/multi-component-parent-tbwe@sha256:84063497c4794af608bb0b557bc4f0a5479ab0d6219ee7ccd6c405a451d80f2a
+RUN echo hello
