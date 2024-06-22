@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wrfm-tenant/build-suite-component-update-pjsc/multi-component-parent-bsaf@sha256:3316c4ff82e101d31d06e55303169634cd24a47ed02a15c6dfe3016f26dcdfe7
+FROM quay.io/redhat-appstudio-qe/build-e2e-wrfm-tenant/build-suite-component-update-pjsc/multi-component-parent-bsaf@sha256:ba6046c9fd71f2cb43fdaf5ba3b219765cc104a4472b3b5614e48827dc798206
 RUN echo hello
