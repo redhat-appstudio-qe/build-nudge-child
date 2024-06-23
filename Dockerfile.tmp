@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-skfk-tenant/build-suite-component-update-ixpi/multi-component-parent-vxau@sha256:5d0d7e811055f074a771d2706ffdc7ff3262ac939ba298ede1deb50584d711ff
+RUN echo hello
