@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nztv-tenant/build-suite-component-update-tokq/multi-component-parent-ecbb@sha256:a178343ee4e0c1979741895aa69af3ff1de368c77e4876507245d87e88cfc98d
+FROM quay.io/redhat-appstudio-qe/build-e2e-nztv-tenant/build-suite-component-update-tokq/multi-component-parent-ecbb@sha256:984a4ddfe66a9e8ecb669b3a2dc3a708a87bbf973617cb18026120f4039bee98
 RUN echo hello
