@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-sigq-tenant/build-suite-component-update-lete/multi-component-parent-nyoq@sha256:38ed0c4f00e286adfe7f22d9deba90738c9f3b597bb7404f861b946df82801aa
+RUN echo hello
