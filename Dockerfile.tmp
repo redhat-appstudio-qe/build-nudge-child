@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mrxm-tenant/build-suite-component-update-vnwh/multi-component-parent-mbqc@sha256:afa90f6ccaceb240483307ea4a8c450e708b0d63694790736a38a22e7e317f6e
+RUN echo hello
