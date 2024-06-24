@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-kvea-tenant/build-suite-component-update-eluy/multi-component-parent-kanc@sha256:36c95c21a4964b71b0cf61b1a600e1abf1e0bd2c31702bf3d3cd0c52f5037d81
+FROM quay.io/redhat-appstudio-qe/build-e2e-kvea-tenant/build-suite-component-update-eluy/multi-component-parent-kanc@sha256:9ca11933156c18674c646836f910c6569408850073337c0784c51fb884c296d7
 RUN echo hello
