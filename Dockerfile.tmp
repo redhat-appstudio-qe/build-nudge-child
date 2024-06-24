@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lldo-tenant/build-suite-component-update-hqdd/multi-component-parent-hjrx@sha256:2f166b3f12fa1f878cc564b9122ebfa2f7d6ec045654e9e048568f4502ae94cf
+RUN echo hello
