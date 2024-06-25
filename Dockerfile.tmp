@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vhws-tenant/build-suite-component-update-abyr/multi-component-parent-gqsl@sha256:79aaa7e5fe14f71bbba41eae728eec22bf44e7a782a02864b55005df688ffca0
+RUN echo hello
