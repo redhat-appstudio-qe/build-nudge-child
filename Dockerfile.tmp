@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gbvw-tenant/build-suite-component-update-okho/multi-component-parent-rkex@sha256:562d655d0fc45001760b22aec0912a10465830244976f7d53d566289674274cd
+RUN echo hello
