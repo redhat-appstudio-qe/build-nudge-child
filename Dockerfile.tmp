@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-orku-tenant/build-suite-component-update-dyux/multi-component-parent-gsxl@sha256:087c26a0fdfce97e10a111a9ab629f46ff42f15b8cdb77e556318bcdc939be2d
+RUN echo hello
