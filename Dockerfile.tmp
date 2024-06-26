@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jrkb-tenant/build-suite-component-update-bhla/multi-component-parent-yvwm@sha256:1f8adb7dd43b6227d4957643e5ac7ff8aa5dbf6c20d7343c12f28d5ee9956fbc
+FROM quay.io/redhat-appstudio-qe/build-e2e-jrkb-tenant/build-suite-component-update-bhla/multi-component-parent-yvwm@sha256:47ee0e5f227bae9f30771c1c0fdefd22a934bceeced08cc5b0776e67cf78fbab
 RUN echo hello
