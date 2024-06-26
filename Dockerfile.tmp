@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rrnn-tenant/build-suite-component-update-akds/multi-component-parent-cyko@sha256:0e0f3c03d3f49e58570423790373257ba174580b34c2211ea1c6adb432e29cc9
+RUN echo hello
