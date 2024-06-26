@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gkdh-tenant/build-suite-component-update-vsow/multi-component-parent-exvu@sha256:9be713f12691e928cf09d6d2ca4e3c1c5bc8d254d295b8af5915e23716da59e6
+RUN echo hello
