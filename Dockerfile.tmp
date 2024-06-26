@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bzdm-tenant/build-suite-component-update-xovi/multi-component-parent-wbug@sha256:7e1b2a3a1dcd99bba808277502beec87a56df54cbd1bdcee2a5a75475a9c8881
+FROM quay.io/redhat-appstudio-qe/build-e2e-bzdm-tenant/build-suite-component-update-xovi/multi-component-parent-wbug@sha256:f66c4607ce306554899c98f74d289f788d5c6b7f37b0ae3a404ee9a2aa27144e
 RUN echo hello
