@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gjfr-tenant/build-suite-component-update-ceee/multi-component-parent-dwgm@sha256:5b7c20e8be7dae00d2840696e908ac27d211bf3a77de7acc0fe1c458c1b92438
+RUN echo hello
