@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ibzb-tenant/build-suite-component-update-dpow/multi-component-parent-jmos@sha256:ebc7a0c048f812b4dfb94119fe6e9c6ef9c5334e9dd528f7b81e5259a82a8a1b
+FROM quay.io/redhat-appstudio-qe/build-e2e-ibzb-tenant/build-suite-component-update-dpow/multi-component-parent-jmos@sha256:4047d8b7fc5daf1539f563ffaf562a7625877c1eb8d49e21c579e14df1a49251
 RUN echo hello
