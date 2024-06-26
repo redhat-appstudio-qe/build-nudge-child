@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-flyt-tenant/build-suite-component-update-giqd/multi-component-parent-wbji@sha256:21953a32c8ba9081e0af765625f690ddf0ffe9110d8a63f21125f7cd0f0f1c76
+FROM quay.io/redhat-appstudio-qe/build-e2e-flyt-tenant/build-suite-component-update-giqd/multi-component-parent-wbji@sha256:a910665d26d0c94a33ac34f050c6d65ced071f572dab26f273cdb319357a9de1
 RUN echo hello
