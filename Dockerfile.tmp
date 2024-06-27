@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-zoqf-tenant/build-suite-component-update-atvj/multi-component-parent-tpqx@sha256:31c39af3995be1e3ad3a731b33e4dbbd7b0f6a08703de12eead03a86e6566d1e
+FROM quay.io/redhat-appstudio-qe/build-e2e-zoqf-tenant/build-suite-component-update-atvj/multi-component-parent-tpqx@sha256:2437e8801b2374108276f15e502407503951984d09c8bae1945f8063e9f4a552
 RUN echo hello
