@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rket-tenant/build-suite-component-update-ctxv/multi-component-parent-cofe@sha256:0c78dc30c9613022c6342ec3ebde045980f9a1e2999bda4a54cc9351c85a955a
+RUN echo hello
