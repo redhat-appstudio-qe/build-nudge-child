@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-stdl-tenant/build-suite-component-update-hkje/multi-component-parent-rsgw@sha256:0a8f95c4908679cd54c64887a6433114b3c93a6f9bdc36fbb27dcda3751c9645
+FROM quay.io/redhat-appstudio-qe/build-e2e-stdl-tenant/build-suite-component-update-hkje/multi-component-parent-rsgw@sha256:17d750963fa87c7381ec6cf8af41d9912284a7d4b7bd8f6cb5639151d053c5b4
 RUN echo hello
