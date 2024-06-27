@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dgyf-tenant/build-suite-component-update-dicr/multi-component-parent-sgsp@sha256:9e72493919435e07f2c17aa366c02048bc0c3ad56d0ea62ca212cfa6b8d2dee0
+RUN echo hello
