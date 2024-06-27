@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-szji-tenant/build-suite-component-update-jlpd/multi-component-parent-iete@sha256:b13b1cf6fe739244acc4ca01fcd2a4cc64bb35a29c101e5b58c4d5438e248332
+FROM quay.io/redhat-appstudio-qe/build-e2e-szji-tenant/build-suite-component-update-jlpd/multi-component-parent-iete@sha256:ff573242be15361d5b353b3b0f5bd7f4c4ebd7f7f020e57e138480422ec55db1
 RUN echo hello
