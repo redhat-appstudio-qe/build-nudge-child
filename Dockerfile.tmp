@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ndws-tenant/build-suite-component-update-clgu/multi-component-parent-empr@sha256:c0f9f71deeadb71fd306d69716510331b00fdce27d1788c1e449f800c726445a
+FROM quay.io/redhat-appstudio-qe/build-e2e-ndws-tenant/build-suite-component-update-clgu/multi-component-parent-empr@sha256:2a8934ba879a8d4c95f3f13e86d354e7f182c0654edc91f0bd5651bd68c466ee
 RUN echo hello
