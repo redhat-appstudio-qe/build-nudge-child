@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-amcr-tenant/build-suite-component-update-fvbq/multi-component-parent-xccd@sha256:5478394c64d6575eb193c5bf02fedc17fcc9452ffe29033a8dd352e46ea41ad2
+RUN echo hello
