@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cdnp-tenant/build-suite-component-update-vtvn/multi-component-parent-ahlr@sha256:00b3a55f70dce3e662cb5885eed80e5993c5993d8e8c29e0e2a600ce9ed9b69b
+FROM quay.io/redhat-appstudio-qe/build-e2e-cdnp-tenant/build-suite-component-update-vtvn/multi-component-parent-ahlr@sha256:ccf1a04911e35d065dadcc45333ca1dc3fb1fb56dea87dd9279e4f967c165150
 RUN echo hello
