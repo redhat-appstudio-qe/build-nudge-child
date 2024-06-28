@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-iwkm-tenant/build-suite-component-update-xeas/multi-component-parent-fbdp@sha256:bfad13b0d2ab86410b881d1fec7e813ffd3b135f38ab9b5b3684930dc87cb861
+RUN echo hello
