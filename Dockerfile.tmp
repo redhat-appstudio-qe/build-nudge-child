@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ciwf-tenant/build-suite-component-update-bixw/multi-component-parent-dbrb@sha256:bb2f8d4a7459b0448f18043fdd3210d09ea82807e7cbadb9eabd67d33beaa99d
+FROM quay.io/redhat-appstudio-qe/build-e2e-ciwf-tenant/build-suite-component-update-bixw/multi-component-parent-dbrb@sha256:14436724856159e2735cbb5f36ebf982b27d679790f4b9d3544cdac067a8ec1a
 RUN echo hello
