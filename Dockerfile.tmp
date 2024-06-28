@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dyof-tenant/build-suite-component-update-lpon/multi-component-parent-itkv@sha256:7c0d5016fde1d93023d01c4ad5b82ddfc1a5b8dd83a35d0c43ab628a9330e303
+FROM quay.io/redhat-appstudio-qe/build-e2e-dyof-tenant/build-suite-component-update-lpon/multi-component-parent-itkv@sha256:55ca47cf0f4c0eff45b90a6bc29fec5101131d9d03a656fc1325fcd6c553c010
 RUN echo hello
