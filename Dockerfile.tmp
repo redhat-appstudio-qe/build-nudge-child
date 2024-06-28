@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-kmek-tenant/build-suite-component-update-cyih/multi-component-parent-eawe@sha256:49eff1fa059f9cad4af2f0bb32ed443a14fffc9d42fe4d45ebe84aefb57e8fc8
+FROM quay.io/redhat-appstudio-qe/build-e2e-kmek-tenant/build-suite-component-update-cyih/multi-component-parent-eawe@sha256:53a59780c27fe0d0056edac9e63aa28dd7ec661a2d3d99cbbd7814af40322820
 RUN echo hello
