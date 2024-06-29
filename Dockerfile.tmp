@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jcds-tenant/build-suite-component-update-qidz/multi-component-parent-ywdd@sha256:8e284dd3887eb78648fe788a46e7a29a191fa37c686029d9e5121761d31d518c
+FROM quay.io/redhat-appstudio-qe/build-e2e-jcds-tenant/build-suite-component-update-qidz/multi-component-parent-ywdd@sha256:c2f9d64eca57df54a7ad599a63e957460b79a7dd0be7cb1cc05d44d091e2a354
 RUN echo hello
