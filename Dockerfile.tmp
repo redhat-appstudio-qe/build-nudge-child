@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ytmo-tenant/build-suite-component-update-ylkk/multi-component-parent-hrdv@sha256:0e61c4c735187184d3f90a18d10778277f4b7113fd6b55941e88590a715737d1
+FROM quay.io/redhat-appstudio-qe/build-e2e-ytmo-tenant/build-suite-component-update-ylkk/multi-component-parent-hrdv@sha256:f04e05a6b1775967efda8532ad367cc7ccfdbe81c15cfc0b310083a1b2b52d4d
 RUN echo hello
