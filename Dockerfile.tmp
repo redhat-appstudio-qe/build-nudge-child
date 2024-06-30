@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ocyt-tenant/build-suite-component-update-rtvu/multi-component-parent-nfxn@sha256:c6ca9db37f78836391029619cb2f97324c22dcb29b2582b8da6c20633feb91f2
+RUN echo hello
