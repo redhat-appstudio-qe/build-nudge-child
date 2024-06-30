@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-zxex-tenant/build-suite-component-update-qpii/multi-component-parent-zwgr@sha256:fe484ac29d3f8f608bbd5197d6afd8881422d95ec5dffd4ce9ce4bbdec7ca034
+FROM quay.io/redhat-appstudio-qe/build-e2e-zxex-tenant/build-suite-component-update-qpii/multi-component-parent-zwgr@sha256:49cffbb0f3bac9b6aa7899ca5d959fb3665c839324a98abc308a2248777db77d
 RUN echo hello
