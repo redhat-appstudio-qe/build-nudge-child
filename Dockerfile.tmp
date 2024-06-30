@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xdgz-tenant/build-suite-component-update-ogms/multi-component-parent-merw@sha256:ca91c387888e771edc2d077bdeb3ceacfb4833dd745cb61212869f4f122e3bca
+RUN echo hello
