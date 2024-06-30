@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-pwfq-tenant/build-suite-component-update-agdq/multi-component-parent-nioh@sha256:7739921eed1de63a37426a1f6cdd9a6d37414553784d360e9c3731b8d1779c1d
+FROM quay.io/redhat-appstudio-qe/build-e2e-pwfq-tenant/build-suite-component-update-agdq/multi-component-parent-nioh@sha256:749e023703f11ec97b01b0bf1bd0fbe2c64dadfd67aa6ca9fb73402017f44e58
 RUN echo hello
