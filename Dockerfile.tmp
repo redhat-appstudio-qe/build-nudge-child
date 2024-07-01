@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ipki-tenant/build-suite-component-update-ufvn/multi-component-parent-vfhs@sha256:1584e3d25a2cd729d17c494443dc53d381f5b03d1bf68fd700bf8fb835b57e41
+FROM quay.io/redhat-appstudio-qe/build-e2e-ipki-tenant/build-suite-component-update-ufvn/multi-component-parent-vfhs@sha256:390004729a89d3a401f0653431c63703bfe0c9c82c6d73e6aa99ad2af463959c
 RUN echo hello
