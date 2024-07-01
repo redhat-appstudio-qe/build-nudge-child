@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xcub-tenant/build-suite-component-update-qaiu/multi-component-parent-mkpv@sha256:d19908d1d8d79febd580bc7a0e9401ec1f29708ce56e3361cbc60019a3d2f098
+RUN echo hello
