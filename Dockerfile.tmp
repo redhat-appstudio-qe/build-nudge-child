@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-onej-tenant/build-suite-component-update-ozxy/multi-component-parent-kdwf@sha256:233b06af37f9807573248c0937c79f6c537d53dc3cfa0fc82dbf64d48a759700
+RUN echo hello
