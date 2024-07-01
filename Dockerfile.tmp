@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ksub-tenant/build-suite-component-update-bzyc/multi-component-parent-woly@sha256:b5934908ca58977fd941899740d09e2622528c72588a48d50cd3b2256384f31f
+RUN echo hello
