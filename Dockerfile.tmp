@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cncr-tenant/build-suite-component-update-cipb/multi-component-parent-jmxa@sha256:364a7de49bee9633ba23c273bd1db3227bd9dcb7006c2708b452f90beafa05d8
+RUN echo hello
