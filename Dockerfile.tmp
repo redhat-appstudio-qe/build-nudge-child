@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-aivj-tenant/build-suite-component-update-gkdr/multi-component-parent-zagx@sha256:1fe4fd668f49b84aec827eca032fb64ec08dd30cdfff8967050db52d7a86da23
+FROM quay.io/redhat-appstudio-qe/build-e2e-aivj-tenant/build-suite-component-update-gkdr/multi-component-parent-zagx@sha256:6e6ecbe0b0afa8a201884a5035dd625f77ec2ac3451c79b6167501e7a687fd7e
 RUN echo hello
