@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-isgj-tenant/build-suite-component-update-xtms/multi-component-parent-fipj@sha256:5117f2c1aa46aa5fa4bc2718f479e49fbf4b1f53989e2b7dd8168861e7be8306
+RUN echo hello
