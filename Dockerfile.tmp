@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-foqf-tenant/build-suite-component-update-enth/multi-component-parent-frex@sha256:de986269e351e2fe9fb20239139405bad380154ce46920a1367edce48d92dbec
+RUN echo hello
