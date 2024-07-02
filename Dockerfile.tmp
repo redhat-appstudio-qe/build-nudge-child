@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ljvq-tenant/build-suite-component-update-gitt/multi-component-parent-trpa@sha256:59a63a829bb512f146929f91f8a60750d8cb38cd85aa4809bd99c2427396b40b
+FROM quay.io/redhat-appstudio-qe/build-e2e-ljvq-tenant/build-suite-component-update-gitt/multi-component-parent-trpa@sha256:d02a1d6027cb0f156531a03f17590492493d4cf2696b770e762f7f80600c29f7
 RUN echo hello
