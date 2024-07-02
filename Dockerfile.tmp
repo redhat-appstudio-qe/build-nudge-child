@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-pzzm-tenant/build-suite-component-update-fsea/multi-component-parent-myck@sha256:f08309e86dfee1380c7a7931bcca9de0be8de52355bc145a9bcbfab640c0873d
+FROM quay.io/redhat-appstudio-qe/build-e2e-pzzm-tenant/build-suite-component-update-fsea/multi-component-parent-myck@sha256:edbfecefd416ae001aa259b02477ebe43244ea644507d3523cbd464a8249e69b
 RUN echo hello
