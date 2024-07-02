@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pshg-tenant/build-suite-component-update-zzru/multi-component-parent-kuop@sha256:2e060f97a187753253a236770178ae5ba5a046bcb2836fa520e9250db442924a
+RUN echo hello
