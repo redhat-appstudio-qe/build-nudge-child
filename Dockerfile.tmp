@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qpcf-tenant/build-suite-component-update-ghdp/multi-component-parent-dmkn@sha256:48b6ae1f78c3a689878de3387d062e262788a552c2865be500da674415067f3e
+FROM quay.io/redhat-appstudio-qe/build-e2e-qpcf-tenant/build-suite-component-update-ghdp/multi-component-parent-dmkn@sha256:1a6f8488e53574351d06a993c1ee2246c814035737f00d26645e90c9bc57a1c5
 RUN echo hello
