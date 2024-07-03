@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lqak-tenant/build-suite-component-update-sluy/multi-component-parent-gmfo@sha256:f154ec213ee47c300ea45e9c4506089b3a3525c7372baf5abe2ccc7a5e55ec48
+FROM quay.io/redhat-appstudio-qe/build-e2e-lqak-tenant/build-suite-component-update-sluy/multi-component-parent-gmfo@sha256:8de8c6026c0fd524f5368621fcd7710333e4a59b78f002bfade466c43e327250
 RUN echo hello
