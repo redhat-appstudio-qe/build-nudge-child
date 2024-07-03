@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-mrwd-tenant/build-suite-component-update-ddtq/multi-component-parent-ylba@sha256:1eb71c274aed3f2c5e672865082c38f759849401399220921d329a11032e196e
+FROM quay.io/redhat-appstudio-qe/build-e2e-mrwd-tenant/build-suite-component-update-ddtq/multi-component-parent-ylba@sha256:29fd920282a7cdd22711d598d066bee1253aaeb1950c6d2346fdc17f30ac80fa
 RUN echo hello
