@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-iroz-tenant/build-suite-component-update-ivpm/multi-component-parent-pygd@sha256:5f146de4827596b5c288ec9e6d6970e213c5af433fbd8a5f82f161be9c0d2b9f
+RUN echo hello
