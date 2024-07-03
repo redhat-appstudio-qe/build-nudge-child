@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-azdp-tenant/build-suite-component-update-kslc/multi-component-parent-wahm@sha256:dd8673c84a1751911037f3bae6cb38134f2ce46af6f2832d36e8713c692656ec
+FROM quay.io/redhat-appstudio-qe/build-e2e-azdp-tenant/build-suite-component-update-kslc/multi-component-parent-wahm@sha256:6c2a1befb9f73a18582c81298ed069c172731cb3f7aaf5c18ca5b22e20591318
 RUN echo hello
