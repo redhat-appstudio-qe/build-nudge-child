@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vfgf-tenant/build-suite-component-update-zwnn/multi-component-parent-uflq@sha256:0f77a72a7addcc5c68693ba1d8ebc9ff8b1c9cb60726c38872980458e76ac8c4
+FROM quay.io/redhat-appstudio-qe/build-e2e-vfgf-tenant/build-suite-component-update-zwnn/multi-component-parent-uflq@sha256:a5efdfb708646817b2ab69f2f3da566df74f8ea0166470dc956827af9195dc34
 RUN echo hello
