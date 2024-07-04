@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-eoyo-tenant/build-suite-component-update-qbjd/multi-component-parent-fazl@sha256:30e49448fa1ec7ee9befa0c3e0417769b61d9bd4c3bbf618ec549d266d557904
+RUN echo hello
