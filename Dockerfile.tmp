@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-klpb-tenant/build-suite-component-update-dbnz/multi-component-parent-pasr@sha256:e3d1647d13284b62f50eaab2df62c5a61bb17892fd517a20534cb41b0257fda0
+RUN echo hello
