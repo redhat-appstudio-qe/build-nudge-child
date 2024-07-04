@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-aycu-tenant/build-suite-component-update-tvdw/multi-component-parent-sodc@sha256:8882ab571b41077a516ede0ebcddab4aa77a4702b8e5562c3633cb27960c0e6b
+RUN echo hello
