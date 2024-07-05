@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ljke-tenant/build-suite-component-update-hzfr/multi-component-parent-uewh@sha256:8a2b106a4b3b56634f6022b3c5d33f3923f01362cf75a9163d231ede3a88629c
+FROM quay.io/redhat-appstudio-qe/build-e2e-ljke-tenant/build-suite-component-update-hzfr/multi-component-parent-uewh@sha256:db8d7f3f627761a716687b849e0d021a7261e71cb59b61ef16eb077542e66152
 RUN echo hello
