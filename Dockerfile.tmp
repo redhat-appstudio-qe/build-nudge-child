@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wptb-tenant/build-suite-component-update-syhi/multi-component-parent-desy@sha256:ae51d0d91301b20a4ee5a0f4d087c10be1ebf4e264e6204addf8e4f7ac6c406d
+RUN echo hello
