@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pnkb-tenant/build-suite-component-update-ubmd/multi-component-parent-zoaw@sha256:6916ea2cdfca9a513be8d94cfafa0264c1cb9ceed6ceae0294f2ab14bd2e695b
+RUN echo hello
