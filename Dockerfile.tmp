@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nqxm-tenant/build-suite-component-update-pclh/multi-component-parent-tubt@sha256:b20b40a6a0b70ea519efed6645e0654984a30cbf39876d59831676c6e6255297
+FROM quay.io/redhat-appstudio-qe/build-e2e-nqxm-tenant/build-suite-component-update-pclh/multi-component-parent-tubt@sha256:8bd1d224b4fff2dabe452f9a6464d1b3488cac27de7cfbe747aeb65cf4adfc65
 RUN echo hello
