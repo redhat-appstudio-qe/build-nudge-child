@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jofy-tenant/build-suite-component-update-zvir/multi-component-parent-xums@sha256:f2bf7dbcf701a73d9e0f6d10e32b64aa123e46d37f72bdfe7c80180b6c8a7e98
+RUN echo hello
