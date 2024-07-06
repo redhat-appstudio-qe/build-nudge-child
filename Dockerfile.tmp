@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xwad-tenant/build-suite-component-update-ljiz/multi-component-parent-cxmq@sha256:ba79c2ab17dd58ba33253bcaf52d425fd5f3b6dfe14ffd360cb49ce9461965e3
+RUN echo hello
