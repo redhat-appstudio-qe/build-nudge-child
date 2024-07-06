@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-znpn-tenant/build-suite-component-update-vfgu/multi-component-parent-lxbz@sha256:492f43d5cf2aa1929d42a6f8ce5a81637636c386a334f21d252bb86c6d00caab
+RUN echo hello
