@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-clcb-tenant/build-suite-component-update-mzmi/multi-component-parent-mxrv@sha256:52a7e4a357c8403bb7dfdb3161cbff0ea1df6680400d2e7875fa7ce670a52284
+FROM quay.io/redhat-appstudio-qe/build-e2e-clcb-tenant/build-suite-component-update-mzmi/multi-component-parent-mxrv@sha256:1f3386ffe9aba3d239bcb42659bff29d13e7b3355830eecf48eb05ef5845c564
 RUN echo hello
