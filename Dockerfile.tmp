@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ecnh-tenant/build-suite-component-update-pbbd/multi-component-parent-bbti@sha256:296087febb73b92306bce5089c14ac016aa2395ba456c7d65b5fc1a4a725fda4
+FROM quay.io/redhat-appstudio-qe/build-e2e-ecnh-tenant/build-suite-component-update-pbbd/multi-component-parent-bbti@sha256:0a681579f01c5a7e4b06ebec06ad023548350eb408c35e5cf315f17e6b0bbf1f
 RUN echo hello
