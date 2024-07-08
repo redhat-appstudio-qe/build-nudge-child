@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-mwfs-tenant/build-suite-component-update-shin/multi-component-parent-fnho@sha256:6f97a8b8dfb70c6f0cfa99b9a599cfe19b74d827eeb4fc1a2144dd83668cfd97
+FROM quay.io/redhat-appstudio-qe/build-e2e-mwfs-tenant/build-suite-component-update-shin/multi-component-parent-fnho@sha256:d58a45c4310e01829c1c69b3f42e8a2cb5880829f8e3f5f242344175932cb2c1
 RUN echo hello
