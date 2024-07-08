@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-uety-tenant/build-suite-component-update-vyxu/multi-component-parent-mpyd@sha256:9258e97aac0a45eea593a22b16caaa1212778605d274741bc13fd8ce0f68e4b5
+FROM quay.io/redhat-appstudio-qe/build-e2e-uety-tenant/build-suite-component-update-vyxu/multi-component-parent-mpyd@sha256:e3144bb1710dd59914dbc044e41ab44a19aaac25e59376146ceb1be897e7409d
 RUN echo hello
