@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tekq-tenant/build-suite-component-update-kptr/multi-component-parent-sola@sha256:ac5d0a579c051cd1662437b10e9f69f83e3a9cd130cc5f3bc9b6e35bd4214973
+FROM quay.io/redhat-appstudio-qe/build-e2e-tekq-tenant/build-suite-component-update-kptr/multi-component-parent-sola@sha256:a81d0453c229c945916cc61fb478096329dc948f34827f0f3714841af14f2c17
 RUN echo hello
