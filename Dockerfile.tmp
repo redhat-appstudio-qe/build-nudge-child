@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bbon-tenant/build-suite-component-update-golx/multi-component-parent-wizh@sha256:8398e9cf1ea683f0772f6ea542e6aca70d4c3c5ba7db73996286cf9b7e2d00a1
+RUN echo hello
