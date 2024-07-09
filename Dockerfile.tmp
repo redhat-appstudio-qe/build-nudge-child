@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tfxv-tenant/build-suite-component-update-zduo/multi-component-parent-mdck@sha256:74269777f8f6f047613999a1dbda1ed4d7b8a81a16c18d90b1014b30f5ad526c
+FROM quay.io/redhat-appstudio-qe/build-e2e-tfxv-tenant/build-suite-component-update-zduo/multi-component-parent-mdck@sha256:4c95eaaf07fda0d2abfd755296f9532d2b10a504011c10145990f64931c4e1f5
 RUN echo hello
