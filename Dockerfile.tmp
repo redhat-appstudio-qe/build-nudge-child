@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tjlg-tenant/build-suite-component-update-ztke/multi-component-parent-nyrf@sha256:19466289e91bb07e0cdf3fa684ca3495265d6565e7a54413241ca6923cc6bb42
+FROM quay.io/redhat-appstudio-qe/build-e2e-tjlg-tenant/build-suite-component-update-ztke/multi-component-parent-nyrf@sha256:acfbfe077014446b15abd422cfb52595a0c49fe7476d1c84b34f8f5d9300bbc8
 RUN echo hello
