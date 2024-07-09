@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cdps-tenant/build-suite-component-update-fqnf/multi-component-parent-jvwt@sha256:b367a5bbf5b0ec321a19512c2e03496a6eda74355f5c5237aaecd58874d392fe
+RUN echo hello
