@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vxnm-tenant/build-suite-component-update-zikz/multi-component-parent-xrqn@sha256:2d8e065436c094380c7c06ae237b1a453c52ff7a48c9393b63e66c9a56d3acf1
+FROM quay.io/redhat-appstudio-qe/build-e2e-vxnm-tenant/build-suite-component-update-zikz/multi-component-parent-xrqn@sha256:0678ad6c4afb62e6455534de82fd89262e9a8a4ea533ea7ef9542e0a8d5bbcb9
 RUN echo hello
