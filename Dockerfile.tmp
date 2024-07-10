@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bdvi-tenant/build-suite-component-update-vlhb/multi-component-parent-uvbx@sha256:be65afa5f881861f2097e6c628137d56c60d6383a9dd3e40f63d007cc22f366f
+RUN echo hello
