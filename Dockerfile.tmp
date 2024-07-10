@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vusa-tenant/build-suite-component-update-gsit/multi-component-parent-kiwi@sha256:134e0b8da349eb1753d884623f071ebb224a5f41b55e30c1e84d064213a425e1
+RUN echo hello
