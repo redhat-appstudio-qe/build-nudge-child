@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-olij-tenant/build-suite-component-update-ireg/multi-component-parent-dawc@sha256:efc1c6bb20537ffc8db8032d06a83c971c663096c0d727a7f6817644c33a84de
+FROM quay.io/redhat-appstudio-qe/build-e2e-olij-tenant/build-suite-component-update-ireg/multi-component-parent-dawc@sha256:a14c1da900418b9682d865a4a1a718929f48c871a6f9f6e63e346dc2f7251ab2
 RUN echo hello
