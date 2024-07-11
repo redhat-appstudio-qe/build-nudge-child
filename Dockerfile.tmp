@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xddn-tenant/build-suite-component-update-bfzs/multi-component-parent-hmma@sha256:1273fe83bcfd7a630f205a86396a5c55b53581f993bbddb1aac832d4f328b002
+RUN echo hello
