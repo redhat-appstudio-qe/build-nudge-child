@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vzzq-tenant/build-suite-component-update-dafl/multi-component-parent-pkks@sha256:ed673a32071fad7ae7f2db355a778097339e280321c7e7ff43cc9b783f374161
+FROM quay.io/redhat-appstudio-qe/build-e2e-vzzq-tenant/build-suite-component-update-dafl/multi-component-parent-pkks@sha256:040b3d298384146c8f5512c8f0ada5de1428b7c98c54621f8ef5d4745ea5329e
 RUN echo hello
