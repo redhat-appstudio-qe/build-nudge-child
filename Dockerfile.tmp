@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nasa-tenant/build-suite-component-update-ixru/multi-component-parent-burk@sha256:1323aaaba1d0d76f8ab6967cbb410515849ff0ca32eabeb9be3348123299d175
+RUN echo hello
