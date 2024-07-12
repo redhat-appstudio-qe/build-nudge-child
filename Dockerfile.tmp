@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gkvj-tenant/build-suite-component-update-cjup/multi-component-parent-wbzx@sha256:a3565c72c10589cc445dd4d2defa83839b929863b88ea8fb1960b5ed189f5f2e
+FROM quay.io/redhat-appstudio-qe/build-e2e-gkvj-tenant/build-suite-component-update-cjup/multi-component-parent-wbzx@sha256:00baee0a79e9b1fc2f04a49a0dc1d26898f87f0c76d5ec59831775feebc0a283
 RUN echo hello
