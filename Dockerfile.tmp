@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-zkry-tenant/build-suite-component-update-nxdp/multi-component-parent-ydab@sha256:37bf06f81e9ae5733bd1b636aa04d8186a9690f565ce96f6ebd90e0f024d2d96
+FROM quay.io/redhat-appstudio-qe/build-e2e-zkry-tenant/build-suite-component-update-nxdp/multi-component-parent-ydab@sha256:e0c2d26d96e878ea781b72a009618724cf383e5379a2f14d25a9a40c790a4628
 RUN echo hello
