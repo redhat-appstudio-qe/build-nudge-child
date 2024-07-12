@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-drmz-tenant/build-suite-component-update-tabj/multi-component-parent-tzwv@sha256:105005598f0893fcae1d11041e4c377f58a28b103cad4dd3566e3d015258327f
+FROM quay.io/redhat-appstudio-qe/build-e2e-drmz-tenant/build-suite-component-update-tabj/multi-component-parent-tzwv@sha256:3a055220e02f29a1a2c888543ef65ef24c160253a8ba4cd80ce5f8a54cb03c1f
 RUN echo hello
