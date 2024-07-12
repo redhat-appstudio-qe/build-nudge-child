@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ajbm-tenant/build-suite-component-update-brpq/multi-component-parent-cief@sha256:740a2143c01f8ed92c845def184d457bc9818ddc6096e6452eb571b4b3665b20
+FROM quay.io/redhat-appstudio-qe/build-e2e-ajbm-tenant/build-suite-component-update-brpq/multi-component-parent-cief@sha256:5893ea380d5c26fde83e932112f6dccffbe0a9fdb0ef1d6a354442c150d04d88
 RUN echo hello
