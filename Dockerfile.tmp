@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-clqk-tenant/build-suite-component-update-fxna/multi-component-parent-fwpm@sha256:943405ca78adda98cb42261c8b3815186f551a6b1f4903d5d9a4c5db09c33fb1
+FROM quay.io/redhat-appstudio-qe/build-e2e-clqk-tenant/build-suite-component-update-fxna/multi-component-parent-fwpm@sha256:a622ea172bca39f442f982151b114a5e8c69059107ebdae9c600a93901c04787
 RUN echo hello
