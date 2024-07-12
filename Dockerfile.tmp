@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-smhe-tenant/build-suite-component-update-reod/multi-component-parent-miyy@sha256:38b890a0ff34ed9c7a3560a6dad935837987487ba7ad688fcc5a06b9dd8d71ad
+FROM quay.io/redhat-appstudio-qe/build-e2e-smhe-tenant/build-suite-component-update-reod/multi-component-parent-miyy@sha256:77b538d08943a1edd530512166b3842f2c8a9041a72c0f26c24f49d9d2ee2dc3
 RUN echo hello
