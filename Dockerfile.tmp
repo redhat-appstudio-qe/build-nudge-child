@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hcgc-tenant/build-suite-component-update-nioa/multi-component-parent-jajf@sha256:2b1c7f43beeb5af975782795ec60424cc131df025dfa548a62c2da1b4b03d479
+FROM quay.io/redhat-appstudio-qe/build-e2e-hcgc-tenant/build-suite-component-update-nioa/multi-component-parent-jajf@sha256:933a9985d3848f53e3ce8d1b161fb9e72fab4910d146fc986fe6b2bcf2f900d0
 RUN echo hello
