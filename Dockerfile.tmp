@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wbno-tenant/build-suite-component-update-vcyf/multi-component-parent-meph@sha256:1809b930f39d9941870860e8abd39db8c096ff7a31fb75b1045028450f9c4b1e
+FROM quay.io/redhat-appstudio-qe/build-e2e-wbno-tenant/build-suite-component-update-vcyf/multi-component-parent-meph@sha256:b9b76f522c44e0cd1d66992d69164040894e1d3ee63e0229b6113a833fbf3f65
 RUN echo hello
