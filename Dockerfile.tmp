@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ltdk-tenant/build-suite-component-update-gaiz/multi-component-parent-wbco@sha256:376c885901a053c75e70344c3441a91e7866d2b7287d437e6b7e64ae2804fb29
+FROM quay.io/redhat-appstudio-qe/build-e2e-ltdk-tenant/build-suite-component-update-gaiz/multi-component-parent-wbco@sha256:1a6df94448af41163e8dd9d109b17f3f01a80fd52fcf9d25e516f6a980582e98
 RUN echo hello
