@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gvvc-tenant/build-suite-component-update-ixbb/multi-component-parent-nwjh@sha256:02e5a941b19c3b6f189874d41b26fe72ad7d96612e58c10f93de382fa8e2c167
+FROM quay.io/redhat-appstudio-qe/build-e2e-gvvc-tenant/build-suite-component-update-ixbb/multi-component-parent-nwjh@sha256:1fe6820ddcb4659269d8ca3271b9b137d38a49ca1bc00d09f1451ffa1e1e78a3
 RUN echo hello
