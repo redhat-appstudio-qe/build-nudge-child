@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-emeg-tenant/build-suite-component-update-vmrs/multi-component-parent-xatu@sha256:5581f9abfd38e72b326ab163fa664d5dd1b93f6ad5efdf7671fdef5918fa0024
+FROM quay.io/redhat-appstudio-qe/build-e2e-emeg-tenant/build-suite-component-update-vmrs/multi-component-parent-xatu@sha256:0208f330430503df4abc7fffad66eb189ae4e3892e6f0b34d884d56071bddc0c
 RUN echo hello
