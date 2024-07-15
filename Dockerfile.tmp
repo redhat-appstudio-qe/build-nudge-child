@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lphc-tenant/build-suite-component-update-vllb/multi-component-parent-ftuk@sha256:693b3f5f6599c873e83ea180fa7087508631d178fcfade0fba959f86d079241d
+FROM quay.io/redhat-appstudio-qe/build-e2e-lphc-tenant/build-suite-component-update-vllb/multi-component-parent-ftuk@sha256:d4edb3077a6838df571a024a7bd3f0ccdbffb0d2e9fef4e128dc4b98a9bb4d01
 RUN echo hello
