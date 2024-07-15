@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pgoe-tenant/build-suite-component-update-scyo/multi-component-parent-xnsn@sha256:c1bf81619265d8431fe9658a91f0cb3a0abf538d272acbe64b79c9bf6cbb575c
+RUN echo hello
