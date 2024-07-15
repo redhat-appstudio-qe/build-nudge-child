@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-mscc-tenant/build-suite-component-update-fars/multi-component-parent-nqyz@sha256:d433c9c83489c11be8228d8383abccb583879d33b650f6b3d39191168eb58b3f
+FROM quay.io/redhat-appstudio-qe/build-e2e-mscc-tenant/build-suite-component-update-fars/multi-component-parent-nqyz@sha256:2d7141551d68f24a1d0c25c00006141c4a5f10e71fe07a28abad18b4123effcd
 RUN echo hello
