@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vlxb-tenant/build-suite-component-update-gult/multi-component-parent-venb@sha256:3afd3db2a40aa6e274732cbd2fcbefff9662885d0c117a55b9196c7e4bd753cb
+RUN echo hello
