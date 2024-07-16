@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vucv-tenant/build-suite-component-update-getw/multi-component-parent-pncr@sha256:c3fb025942c649034e02c459584facd42703df91543604129798b424141c180b
+FROM quay.io/redhat-appstudio-qe/build-e2e-vucv-tenant/build-suite-component-update-getw/multi-component-parent-pncr@sha256:85af70c89a454ab907040810c837142285cd8ac0a6d27ec763b23b5a3efea34e
 RUN echo hello
