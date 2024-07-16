@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fgta-tenant/build-suite-component-update-dbhv/multi-component-parent-plin@sha256:1646d14f395f257464e74a6470b1f6dbc0cb6ec59c85277c9c2fe717c54ab8ed
+FROM quay.io/redhat-appstudio-qe/build-e2e-fgta-tenant/build-suite-component-update-dbhv/multi-component-parent-plin@sha256:a8a9ac34319c49a34d742a395b7894e7a6fd41383cb8225c351e32562e54b4e3
 RUN echo hello
