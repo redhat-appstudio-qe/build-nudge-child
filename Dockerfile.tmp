@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tifq-tenant/build-suite-component-update-lqob/multi-component-parent-wjof@sha256:57d4a564af1bd7118013cad637a1a32b3d9560ff05c146f88867f9a66c9f1ae5
+FROM quay.io/redhat-appstudio-qe/build-e2e-tifq-tenant/build-suite-component-update-lqob/multi-component-parent-wjof@sha256:56e8b91dbeb625df084789889751679ca5c73fd53dc68af027f6a52db3148c3e
 RUN echo hello
