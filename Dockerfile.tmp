@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-qlrd-tenant/build-suite-component-update-srbx/multi-component-parent-badp@sha256:ddba6845916d341ac5d41af1a08222e4ba2a49a58b99b46387012507a5836e71
+RUN echo hello
