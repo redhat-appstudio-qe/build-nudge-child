@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-kkyd-tenant/build-suite-component-update-zpsb/multi-component-parent-mcme@sha256:c2801c144c31760e4d19bc0c46a49806f95b686c970e9ec634f67165f941caed
+RUN echo hello
