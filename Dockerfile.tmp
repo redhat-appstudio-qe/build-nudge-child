@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pvme-tenant/build-suite-component-update-nftf/multi-component-parent-swqd@sha256:cb926d7a898534ad4541f6a5f817d62ef3756a43b17acaa449118c0ee8089153
+RUN echo hello
