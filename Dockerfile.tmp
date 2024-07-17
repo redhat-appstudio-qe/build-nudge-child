@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vrip-tenant/build-suite-component-update-oxtx/multi-component-parent-zdrd@sha256:c45c351068439c30cf7991cf2b5b8ce3b4fb9b1c38c7f1d926999672377b5816
+FROM quay.io/redhat-appstudio-qe/build-e2e-vrip-tenant/build-suite-component-update-oxtx/multi-component-parent-zdrd@sha256:5d2bbe763b9c504856e16aa0e71e908692be908fa83ccd5089e06e981d1e1dc1
 RUN echo hello
