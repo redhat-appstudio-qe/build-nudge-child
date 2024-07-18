@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-iyph-tenant/build-suite-component-update-batk/multi-component-parent-mnxr@sha256:a27428cfb8a8b11b98ced42845743bd80d93b9d3c70dc07c90dcd484870ee175
+FROM quay.io/redhat-appstudio-qe/build-e2e-iyph-tenant/build-suite-component-update-batk/multi-component-parent-mnxr@sha256:916aa012547c28b688cd07b1f6460b04e66d5a308bb074d1b886b711bcf27d15
 RUN echo hello
