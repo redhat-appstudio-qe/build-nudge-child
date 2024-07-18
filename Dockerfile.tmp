@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rotq-tenant/build-suite-component-update-bfhv/multi-component-parent-afsg@sha256:883d0cc33ce685b0fc09139cf27510e7869809205f5a48e4fe4d41c6fcc578ff
+RUN echo hello
