@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hjkr-tenant/build-suite-component-update-xiyk/multi-component-parent-ndmi@sha256:e969efb698b97472ff1646b8b3228dc38479a1d61cc713a199cc99116855c983
+RUN echo hello
