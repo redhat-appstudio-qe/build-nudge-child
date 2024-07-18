@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xqux-tenant/build-suite-component-update-qynr/multi-component-parent-vttb@sha256:70e38f11102770f05ced77f45b09c2af68c9d695f191eb04af315e83a2bef96b
+RUN echo hello
