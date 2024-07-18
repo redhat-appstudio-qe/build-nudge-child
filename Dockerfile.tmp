@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dkxw-tenant/build-suite-component-update-bery/multi-component-parent-sttp@sha256:dc8cad2cb8f7fb460e5285ce7da8203ba2593db1776ff07f8735443dfcc68428
+FROM quay.io/redhat-appstudio-qe/build-e2e-dkxw-tenant/build-suite-component-update-bery/multi-component-parent-sttp@sha256:a71efd7691b1dd0a9687cdb8a83a36a372aecc3ec4032a2c34b8f7a61fc288ef
 RUN echo hello
