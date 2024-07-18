@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-clzj-tenant/build-suite-component-update-lcap/multi-component-parent-vcqf@sha256:8c1590e1048e26df94c91edac71a152af680b4da3bdbb7458f9f15785ffa5064
+RUN echo hello
