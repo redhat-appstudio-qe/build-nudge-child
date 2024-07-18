@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wpnl-tenant/build-suite-component-update-dylu/multi-component-parent-gudc@sha256:4a283e12d66c193721c7e29506886d6f2ce3454bc8498fabb1d870c026190d70
+RUN echo hello
