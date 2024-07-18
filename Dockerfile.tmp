@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pgbe-tenant/build-suite-component-update-kbwh/multi-component-parent-pfzd@sha256:7d2aa4a2f017d22b043a3fc68b0703a5d732248a61088a34bde7ec75ae46a718
+RUN echo hello
