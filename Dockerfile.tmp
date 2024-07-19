@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gfjq-tenant/build-suite-component-update-aklb/multi-component-parent-hypn@sha256:f2886094aa3ab230267400ae74ca60defad6b1be08c8f847c90d00da0e096b82
+FROM quay.io/redhat-appstudio-qe/build-e2e-gfjq-tenant/build-suite-component-update-aklb/multi-component-parent-hypn@sha256:52e3ebecec5b23eaf9cd491375b2714af0fca2b16f1f1f3fe8d966a1264844fc
 RUN echo hello
