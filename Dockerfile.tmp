@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rwoi-tenant/build-suite-component-update-zlws/multi-component-parent-tptr@sha256:73742738c35659edddf78945beae3c29846bb2c0aebb636a3c590e33f1137db1
+FROM quay.io/redhat-appstudio-qe/build-e2e-rwoi-tenant/build-suite-component-update-zlws/multi-component-parent-tptr@sha256:7be04935f31e538ed6419f6967298c01fb2c9e2a4c888a789ed078efd77d2ef0
 RUN echo hello
