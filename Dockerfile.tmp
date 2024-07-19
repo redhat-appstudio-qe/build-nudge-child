@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jdtp-tenant/build-suite-component-update-yrfi/multi-component-parent-frpv@sha256:f6bac4b000d890ecad36b56538456546e36ea92b83cfc9f8d5eb86afd07846d1
+RUN echo hello
