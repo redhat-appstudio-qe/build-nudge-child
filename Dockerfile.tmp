@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bnxo-tenant/build-suite-component-update-tonj/multi-component-parent-mbnv@sha256:76575b64a9dd76b05e65f458ec60614220b86c9c78e7c7d359193478876f92f3
+FROM quay.io/redhat-appstudio-qe/build-e2e-bnxo-tenant/build-suite-component-update-tonj/multi-component-parent-mbnv@sha256:dc429a19336dc59f8e126bccf7cc164d6ea2d3fe95b497db977b339a10fda7a4
 RUN echo hello
