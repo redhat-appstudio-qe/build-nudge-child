@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cfxr-tenant/build-suite-component-update-vuqu/multi-component-parent-bdpw@sha256:e356a0eaf22df1fca32a294181ee3e2ac015f6f5c9762e6e32a7397551833a9a
+FROM quay.io/redhat-appstudio-qe/build-e2e-cfxr-tenant/build-suite-component-update-vuqu/multi-component-parent-bdpw@sha256:ca0d4897bdc8eee9351ae41d54c1bf677fda36c70b8d41984664f4e0e6fb7f68
 RUN echo hello
