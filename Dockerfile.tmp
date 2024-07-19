@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-yubc-tenant/build-suite-component-update-ysrs/multi-component-parent-tweh@sha256:bb29352d396e67f19e052c65297e6dd8c3715fc3bf512e483db2385a154a97b4
+FROM quay.io/redhat-appstudio-qe/build-e2e-yubc-tenant/build-suite-component-update-ysrs/multi-component-parent-tweh@sha256:8276bd9bb3fb9a2a1e46786e0cd97313c9324f820818c81c2e81717e510b2eac
 RUN echo hello
