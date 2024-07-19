@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cmqg-tenant/build-suite-component-update-nbsu/multi-component-parent-iexi@sha256:beaaf7b9e037c67969ad6f88ad607c01e1d1ba8295772d72ec6d83f1c5e91e48
+RUN echo hello
