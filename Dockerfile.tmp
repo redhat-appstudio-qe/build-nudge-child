@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-exwo-tenant/build-suite-component-update-tigt/multi-component-parent-bzux@sha256:bb42c35160326370bab12acca7c578d9cf6e537b892731f27e386bdea26111dc
+FROM quay.io/redhat-appstudio-qe/build-e2e-exwo-tenant/build-suite-component-update-tigt/multi-component-parent-bzux@sha256:8ca9ba0c4572467842336a60ff05901cb17feeb044b6532fd7a3cffb59d48cbb
 RUN echo hello
