@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cpxn-tenant/build-suite-component-update-mycx/multi-component-parent-jhvm@sha256:2c7a46b9c8927a4697e14dc84798c16aef9e1814722614a76412621f36d3d86f
+FROM quay.io/redhat-appstudio-qe/build-e2e-cpxn-tenant/build-suite-component-update-mycx/multi-component-parent-jhvm@sha256:ba723f2ae2dda53820b45bde4cbf757ee4a2143beeae127bc8695727cec7dc7e
 RUN echo hello
