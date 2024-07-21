@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hkkx-tenant/build-suite-component-update-jhux/multi-component-parent-rxpr@sha256:ff079fcce8eb6ac49fe23adb57c9f701915e5047f1bb411979552bbe8364c997
+RUN echo hello
