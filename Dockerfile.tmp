@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-uxwh-tenant/build-suite-component-update-sdki/multi-component-parent-dbib@sha256:63b0fcf2ad307b39fe2f86e613dc031be0e29f792efb603ac664dc6019d286b0
+RUN echo hello
