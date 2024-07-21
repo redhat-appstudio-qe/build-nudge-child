@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-iane-tenant/build-suite-component-update-ijir/multi-component-parent-gusv@sha256:8c406a95758cd3b2c710df81b8799f41df7ce056c9c99c9cdf4247d83036181e
+FROM quay.io/redhat-appstudio-qe/build-e2e-iane-tenant/build-suite-component-update-ijir/multi-component-parent-gusv@sha256:60abe527a18d433a4754a77d9187b3c8b0821ef33b235abae16c3fde16244dad
 RUN echo hello
