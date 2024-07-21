@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-zjty-tenant/build-suite-component-update-lqql/multi-component-parent-dnxn@sha256:4cd03a06d8c555b2100ebdf0bd51d7301341500a40101695542dcd7e4b26b06a
+FROM quay.io/redhat-appstudio-qe/build-e2e-zjty-tenant/build-suite-component-update-lqql/multi-component-parent-dnxn@sha256:d45d62bb4ff852a5f3aa03daf65a9f8a03a6a34774de89fe6c83f0473ddfad17
 RUN echo hello
