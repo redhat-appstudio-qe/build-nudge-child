@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-htsf-tenant/build-suite-component-update-bmqd/multi-component-parent-lvoa@sha256:51858fdb22c492db58f726f0bceaeb02851cf8d88adc930bc33c9ba0eab01130
+FROM quay.io/redhat-appstudio-qe/build-e2e-htsf-tenant/build-suite-component-update-bmqd/multi-component-parent-lvoa@sha256:6e1e34030b5f55cfde5b43fa898d052a56c83c8c34d7f3b3a8811060475a118a
 RUN echo hello
