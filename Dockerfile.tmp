@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vfat-tenant/build-suite-component-update-cmmj/multi-component-parent-amaa@sha256:568b7e5b6ad61161afa5c06b309698705084d5216ee76760420ca7fe1f45cd51
+FROM quay.io/redhat-appstudio-qe/build-e2e-vfat-tenant/build-suite-component-update-cmmj/multi-component-parent-amaa@sha256:7c7cca730d2749c335e2f32ecc9da456743609fe1e7faba9f22433a731a03067
 RUN echo hello
