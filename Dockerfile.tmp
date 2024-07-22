@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rdfu-tenant/build-suite-component-update-njtw/multi-component-parent-ydre@sha256:224887a1bf64809624a0550ea596dea41426c85e8f011185ef050ca5e8eed4e6
+RUN echo hello
