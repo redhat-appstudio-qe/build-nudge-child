@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xkbe-tenant/build-suite-component-update-zacq/multi-component-parent-ldcr@sha256:dcfe0428fb018b5dbb8e8f6ea2bd6c484c9cfdbd98b683e86d369bfbe8f88071
+FROM quay.io/redhat-appstudio-qe/build-e2e-xkbe-tenant/build-suite-component-update-zacq/multi-component-parent-ldcr@sha256:7f9b1077816a61366d50c625b25aa6c4101dc15db34a96178afa812f19a129d1
 RUN echo hello
