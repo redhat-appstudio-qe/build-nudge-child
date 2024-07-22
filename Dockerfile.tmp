@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rhma-tenant/build-suite-component-update-ntyz/multi-component-parent-bsfx@sha256:85197bb1885ac610c68cb7a258f5f46ed04b5bd145d85fe4ac4c867686501e7a
+RUN echo hello
