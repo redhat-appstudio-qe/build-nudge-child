@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-kubn-tenant/build-suite-component-update-mlps/multi-component-parent-idxw@sha256:c67c09a25ba96bd4d18522c63849b669c9e6e7445a26cea8588daa860364bd31
+FROM quay.io/redhat-appstudio-qe/build-e2e-kubn-tenant/build-suite-component-update-mlps/multi-component-parent-idxw@sha256:85abe4aaf35236780b8a0ca9629cd82676b245e5f3461103b700b5e2054efd31
 RUN echo hello
