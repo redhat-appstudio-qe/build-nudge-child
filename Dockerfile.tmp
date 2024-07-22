@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vpyi-tenant/build-suite-component-update-knmm/multi-component-parent-fliu@sha256:d245219bce102e3622455d8a29e87583b7cc0cad6b99aa111f5dadfa9b6ab0ec
+RUN echo hello
