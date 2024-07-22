@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nlov-tenant/build-suite-component-update-kewf/multi-component-parent-shdm@sha256:f9c93e59b778f6a0bf6956592df495027a4625e90eceedd8382efd9f9f82642e
+RUN echo hello
