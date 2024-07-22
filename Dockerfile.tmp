@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-kqll-tenant/build-suite-component-update-pcev/multi-component-parent-yupq@sha256:c037e21e2ed233553c1382e8d79953d33c0854359e251a83800362839efc9be2
+FROM quay.io/redhat-appstudio-qe/build-e2e-kqll-tenant/build-suite-component-update-pcev/multi-component-parent-yupq@sha256:575148fc4b4ce254944de0038fc0c71c6ee46bc019e17a317e507b3fac70c40b
 RUN echo hello
