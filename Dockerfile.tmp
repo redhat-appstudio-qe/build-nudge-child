@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wgja-tenant/build-suite-component-update-ufni/multi-component-parent-cqls@sha256:2f6aad228c9d6c3ef13d5af3ea9be8c5d4f0f55dc71f2a020d8100b4581020e5
+RUN echo hello
