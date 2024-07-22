@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ilxa-tenant/build-suite-component-update-zvny/multi-component-parent-ivmr@sha256:131080fcf92a845c61f93e503b0084f6454e11b9c19ae02d474adde23dfa1600
+RUN echo hello
