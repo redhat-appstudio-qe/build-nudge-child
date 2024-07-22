@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-msvn-tenant/build-suite-component-update-ithm/multi-component-parent-phgl@sha256:15fbaa16873c88a605b796513d8cdf860bb8ba101ff87ebd88190298bcbeee9a
+RUN echo hello
