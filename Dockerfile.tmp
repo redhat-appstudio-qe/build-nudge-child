@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xihy-tenant/build-suite-component-update-xmua/multi-component-parent-dwfd@sha256:3ae48775735238f5e26170846f2738d605c012a251483ee90330dbb60dee94cf
+FROM quay.io/redhat-appstudio-qe/build-e2e-xihy-tenant/build-suite-component-update-xmua/multi-component-parent-dwfd@sha256:67ab90ef38696e6ffba0ecb9b98656ff5dcf017f4268695b3c51d39a98976c8d
 RUN echo hello
