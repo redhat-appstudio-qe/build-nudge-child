@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tpcu-tenant/build-suite-component-update-bmcy/multi-component-parent-cpnm@sha256:bbbeece560cce728a645145cde84b438546577b9c73b1de216f496adf7de0d51
+RUN echo hello
