@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-amdk-tenant/build-suite-component-update-nsgs/multi-component-parent-ohnn@sha256:06fee2df2032f755a6d6b2a381117f6e3f44f83703549b7bc308c6804b2eac8d
+FROM quay.io/redhat-appstudio-qe/build-e2e-amdk-tenant/build-suite-component-update-nsgs/multi-component-parent-ohnn@sha256:5e56fe52d246d12c971e381b25484bf7df4d84d1241b5d9fd5ef8c1c7cc1fafa
 RUN echo hello
