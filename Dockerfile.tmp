@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xuix-tenant/build-suite-component-update-mmxp/multi-component-parent-laym@sha256:4fd836240185505e34fec03dedfc813cc5a6e1907fe5dfaea69e4d1102ed9431
+FROM quay.io/redhat-appstudio-qe/build-e2e-xuix-tenant/build-suite-component-update-mmxp/multi-component-parent-laym@sha256:c18182e78cc41cc1ccd350e99d404145fa7b0debe3fcce409606225aa853683f
 RUN echo hello
