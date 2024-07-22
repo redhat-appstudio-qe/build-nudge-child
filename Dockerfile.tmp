@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-agvg-tenant/build-suite-component-update-frau/multi-component-parent-gyrj@sha256:010398c949f01a7393cea789c7613342186152d0fd1ae9db807c3624cd7f6f0a
+RUN echo hello
