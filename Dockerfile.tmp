@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tvuc-tenant/build-suite-component-update-vcjn/multi-component-parent-rzpp@sha256:cec9bb5c5af8b71ae459b6facebafd77792330b3cc909205125eb736b05a32bb
+RUN echo hello
