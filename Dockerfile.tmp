@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zfnx-tenant/build-suite-component-update-umis/multi-component-parent-jlga@sha256:46ac625f357245a841998b63f9132e1db7c254769a6ec096e88e8ae191cad0bc
+RUN echo hello
