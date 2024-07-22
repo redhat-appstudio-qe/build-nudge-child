@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fhaq-tenant/build-suite-component-update-rmcz/multi-component-parent-dlye@sha256:519e96bea5abfa0ea1442d78b1e817fc35477a7e42e2a58fa5b5d9303207db40
+FROM quay.io/redhat-appstudio-qe/build-e2e-fhaq-tenant/build-suite-component-update-rmcz/multi-component-parent-dlye@sha256:6b907237582092870737f90a5293ffb10a664362218d5ed3f978431ed1782398
 RUN echo hello
