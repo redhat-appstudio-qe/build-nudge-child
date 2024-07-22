@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hpbo-tenant/build-suite-component-update-tsct/multi-component-parent-cpty@sha256:17ecfb1c848e184137e91bce03fbea060a9580f21d4865c888213ab3f96ff7fb
+RUN echo hello
