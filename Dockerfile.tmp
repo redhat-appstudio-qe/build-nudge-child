@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-mpfh-tenant/build-suite-component-update-jmno/multi-component-parent-ikbe@sha256:0b267018f4e9d2a589c40c37c18d49d4b0dbaf14ad8b2e16b0c6ca7785d8eb96
+FROM quay.io/redhat-appstudio-qe/build-e2e-mpfh-tenant/build-suite-component-update-jmno/multi-component-parent-ikbe@sha256:60020179b03974ca08eaa3f698cd227bcd3156d9c2957adf4172f9b47def0716
 RUN echo hello
