@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xobc-tenant/build-suite-component-update-bsya/multi-component-parent-wabi@sha256:03a0396615068a352425f8d2dd17ce9255f5c24e17959ac5a31e7526c2af3092
+RUN echo hello
