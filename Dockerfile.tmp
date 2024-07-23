@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hdmm-tenant/build-suite-component-update-jnwm/multi-component-parent-mcme@sha256:4eeee1cf2d9533280a08f6487e63576b73d66ce103ba5dab5617de18ba734306
+FROM quay.io/redhat-appstudio-qe/build-e2e-hdmm-tenant/build-suite-component-update-jnwm/multi-component-parent-mcme@sha256:74a0d56000b19448af0dd877af1ca4d195af6c3d0942fbd55e4c10d53f323cae
 RUN echo hello
