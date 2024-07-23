@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vdfp-tenant/build-suite-component-update-aoyk/multi-component-parent-zijk@sha256:898c9c8e71446858cd6472a909e46fa6d2ceeb317c3a352d7ed01620fd4fc675
+RUN echo hello
