@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-sscb-tenant/build-suite-component-update-qcaz/multi-component-parent-gnvw@sha256:eccec40da1e1f6a5dc2d88687fc95e8202426d4004ee5ecd46e967c3caf3ab47
+FROM quay.io/redhat-appstudio-qe/build-e2e-sscb-tenant/build-suite-component-update-qcaz/multi-component-parent-gnvw@sha256:061fc534a2d456e0b1433a8eac98299bbeed1f1fb206480fca354c877f9006d6
 RUN echo hello
