@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lpjy-tenant/build-suite-component-update-vkfy/multi-component-parent-ivme@sha256:54f5d9395a965ba27f34d6864c89a1dcf6ef2cfbfaa95d382879e6b4d090a4ef
+FROM quay.io/redhat-appstudio-qe/build-e2e-lpjy-tenant/build-suite-component-update-vkfy/multi-component-parent-ivme@sha256:7730998d3921220f47fe25862f411a0bc8a2da934dfbeee9ad5fcd580162e7d5
 RUN echo hello
