@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tvfs-tenant/build-suite-component-update-ahnn/multi-component-parent-iszl@sha256:9d567b55b625b3d5adcd94e4604b0d2ed583c678be872a91630c453da1c9c91d
+RUN echo hello
