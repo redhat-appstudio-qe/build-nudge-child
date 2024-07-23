@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-recu-tenant/build-suite-component-update-iung/multi-component-parent-vdjp@sha256:2f4268b0e45c3212ae5096c653647ec73673ccf2033bdcab6ce51516e4da188b
+FROM quay.io/redhat-appstudio-qe/build-e2e-recu-tenant/build-suite-component-update-iung/multi-component-parent-vdjp@sha256:86193e5c6447eac8d5a2b53cc44a77d9f5be0fbe0186fffbaefa024675de6fe8
 RUN echo hello
