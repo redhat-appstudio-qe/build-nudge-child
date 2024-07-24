@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hovl-tenant/build-suite-component-update-ppbb/multi-component-parent-wasp@sha256:2de9f481f634d18c988f89eb5086511bc900151a0674115eac4b10590f17f9fa
+RUN echo hello
