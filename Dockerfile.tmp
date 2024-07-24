@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-htri-tenant/build-suite-component-update-uggj/multi-component-parent-rywa@sha256:6da71d417b5c3638e465f1a6be3881326ec2fa3880a56f620b68d47565a91e2e
+FROM quay.io/redhat-appstudio-qe/build-e2e-htri-tenant/build-suite-component-update-uggj/multi-component-parent-rywa@sha256:bad155d62f9c3b449796602cb6117fb87f71eaebbea9412b2964a7df5000adab
 RUN echo hello
