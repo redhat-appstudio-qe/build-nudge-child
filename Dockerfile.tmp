@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-kcob-tenant/build-suite-component-update-akpn/multi-component-parent-xurt@sha256:eea3535b7beabb7b1c00fd160500b2c2a2b4c93db3eadf6e6328caa4cdfdb056
+RUN echo hello
