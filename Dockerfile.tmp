@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bbol-tenant/build-suite-component-update-imgn/multi-component-parent-cujc@sha256:4023e98fc9bae1739b91f5886e5c3c5162cb6f8a95514f8ef89fbd27e7dc473e
+RUN echo hello
