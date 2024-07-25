@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dome-tenant/build-suite-component-update-cahj/multi-component-parent-pyco@sha256:35c6edf35f4a55575003d25bf1ddf19e89de941c9e270cfa95805a4636c9e145
+RUN echo hello
