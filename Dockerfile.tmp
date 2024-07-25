@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fije-tenant/build-suite-component-update-kapu/multi-component-parent-iicc@sha256:eaa93f08fc5f86aa58ca552fb77d92147d0239d5865fd567931cc0f9f054e075
+RUN echo hello
