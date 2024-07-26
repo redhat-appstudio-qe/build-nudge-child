@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-acqi-tenant/build-suite-component-update-qjyo/multi-component-parent-arcx@sha256:a26333c7d95415573092312c794284323bd8a677a0252a945458b1e7507ac8c2
+RUN echo hello
