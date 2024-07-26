@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-btrx-tenant/build-suite-component-update-ymtc/multi-component-parent-tghk@sha256:975799cec1a4e906e8ccec7095c19b9b4011fa4d4c2163392e7d4129ddcce511
+FROM quay.io/redhat-appstudio-qe/build-e2e-btrx-tenant/build-suite-component-update-ymtc/multi-component-parent-tghk@sha256:2e27a9de2fe8c09bfb3d4611f8e42cd8e06bf660448dada3967b493c07af9f7d
 RUN echo hello
