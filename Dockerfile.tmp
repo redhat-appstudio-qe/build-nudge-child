@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jswl-tenant/build-suite-component-update-vsnk/multi-component-parent-akwl@sha256:05e675d0de57abfd8ecf69bc18d5160f2bb3d275d0fdaeeae1026598182d3e7e
+RUN echo hello
