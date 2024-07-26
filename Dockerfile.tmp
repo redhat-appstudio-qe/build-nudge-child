@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tgpe-tenant/build-suite-component-update-ugon/multi-component-parent-sxiv@sha256:fb0bcb10ee5c9ebee32c12bb4d015219441137fa3781cbb8a52512c303511817
+RUN echo hello
