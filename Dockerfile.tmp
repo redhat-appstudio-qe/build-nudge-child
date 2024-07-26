@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pkiq-tenant/build-suite-component-update-tfep/multi-component-parent-xwpk@sha256:f11349b9b4325a417138df3106f21854fb71c8cd80e5109855e906c713da0a07
+RUN echo hello
