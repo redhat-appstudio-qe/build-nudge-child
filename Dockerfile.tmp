@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wndr-tenant/build-suite-component-update-qlap/multi-component-parent-cabq@sha256:f3e6c7773f5c7df67472357f2c137006fb39b0e35811734a0c44526ca50c0c38
+RUN echo hello
