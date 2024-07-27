@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ovim-tenant/build-suite-component-update-thyy/multi-component-parent-fccn@sha256:7fa75e7ecb71e0f19ce2cb270ef1b850269b4545fcf64bf711a0184d1ad29e32
+RUN echo hello
