@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-espp-tenant/build-suite-component-update-mewb/multi-component-parent-ojzj@sha256:fd7c79885d1f48f99378b473d8d2b771f03e66fb1641313f431fc27bb6cae44f
+FROM quay.io/redhat-appstudio-qe/build-e2e-espp-tenant/build-suite-component-update-mewb/multi-component-parent-ojzj@sha256:766be2823a976b68f0592afb9a780e5fa691a8c832956971977821fff9692091
 RUN echo hello
