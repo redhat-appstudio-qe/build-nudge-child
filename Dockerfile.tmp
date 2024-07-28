@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cqrb-tenant/build-suite-component-update-gjgc/multi-component-parent-xbof@sha256:0daa6934e9261219ddeed3a3b1952109e4194fb6956e7ea9d5368dc6e6aff25d
+FROM quay.io/redhat-appstudio-qe/build-e2e-cqrb-tenant/build-suite-component-update-gjgc/multi-component-parent-xbof@sha256:13a3a58c0407ec4dfdf38da9a0667408520551c7e32d0459ef0d2bf317908f8b
 RUN echo hello
