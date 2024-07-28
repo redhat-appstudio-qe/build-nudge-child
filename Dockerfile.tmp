@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-thwt-tenant/build-suite-component-update-zdxj/multi-component-parent-tteo@sha256:9fb06c194d79f28098383c6392b581b291279cf9e8cdc7ebf95603aa243bb863
+RUN echo hello
