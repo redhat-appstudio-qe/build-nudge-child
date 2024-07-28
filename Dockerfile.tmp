@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wrpr-tenant/build-suite-component-update-dozz/multi-component-parent-liik@sha256:871202eb73f58d152e3f4562f442d33d964508592a81daa36319e1ec04a2538b
+FROM quay.io/redhat-appstudio-qe/build-e2e-wrpr-tenant/build-suite-component-update-dozz/multi-component-parent-liik@sha256:b1a673f6b775711979f3dda41ff2d72cc750976140b3f45812d230c9d0aed2cb
 RUN echo hello
