@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wwye-tenant/build-suite-component-update-tapo/multi-component-parent-eunv@sha256:812e128833c211a6d6bae0da6717986cf156b311a133fe1e815a77519eea2be2
+RUN echo hello
