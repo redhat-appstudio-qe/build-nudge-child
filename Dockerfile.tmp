@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hlin-tenant/build-suite-component-update-ezlf/multi-component-parent-colf@sha256:fd41a7f056a3e1fe9b7bd07ad9405d99efd3f78c99fccbb65a79c8396e59c357
+RUN echo hello
