@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ngmi-tenant/build-suite-component-update-nafm/multi-component-parent-tdyi@sha256:d9f0bb393eaff384b087ad63b954b0ba1b6de864b42e0fe39a0590defa231df6
+FROM quay.io/redhat-appstudio-qe/build-e2e-ngmi-tenant/build-suite-component-update-nafm/multi-component-parent-tdyi@sha256:bcd35463a26ced0e8a9c464d86349cb3a824ea7dfb4b6f41a05e842ce425d627
 RUN echo hello
