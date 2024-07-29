@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ukfq-tenant/build-suite-component-update-ibdk/multi-component-parent-nkyq@sha256:57fa0329025924e4269b45f26b68f77f302f2996212abe237594ae2964d94c2e
+RUN echo hello
