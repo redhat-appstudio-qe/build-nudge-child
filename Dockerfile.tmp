@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-beqd-tenant/build-suite-component-update-dcve/multi-component-parent-vhkp@sha256:7e467ab3d8026527e8dcc4bd09a0636ba0378f544f1adc8ab401894f009e89f8
+FROM quay.io/redhat-appstudio-qe/build-e2e-beqd-tenant/build-suite-component-update-dcve/multi-component-parent-vhkp@sha256:7880651093eee82148bd22a47da8ec715ae4be8e541edff2914d7f7fce8e89a5
 RUN echo hello
