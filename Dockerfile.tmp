@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ohww-tenant/build-suite-component-update-rmal/multi-component-parent-ulzk@sha256:d8514e50f80fe0d8c04619bb0a851722e3b0ac91dab706a053b2c49ea1dc77c8
+RUN echo hello
