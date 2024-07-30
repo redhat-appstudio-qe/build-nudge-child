@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vijm-tenant/build-suite-component-update-jsfg/multi-component-parent-tbyr@sha256:d47060141346cba520b2b89ce6d9aaea1c3adc3eed011e7cc3ea9224026e0306
+RUN echo hello
