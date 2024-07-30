@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ngcu-tenant/build-suite-component-update-zbpb/multi-component-parent-ygaf@sha256:22dc82193f91165e9e383b653bad5b796839eef8a82799d1ff096a55ae09334e
+FROM quay.io/redhat-appstudio-qe/build-e2e-ngcu-tenant/build-suite-component-update-zbpb/multi-component-parent-ygaf@sha256:8768fdb2a9ace162b385e3e3b0cf6735f4f57ea7b794d4d309ffd698351f8b6e
 RUN echo hello
