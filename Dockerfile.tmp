@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gfdi-tenant/build-suite-component-update-ncnu/multi-component-parent-hyyc@sha256:eb1e1dc01ecfc9555c77cade6ff536241d7b1da48225a6f0a8debd06b33d2e75
+FROM quay.io/redhat-appstudio-qe/build-e2e-gfdi-tenant/build-suite-component-update-ncnu/multi-component-parent-hyyc@sha256:9a9be6d94a3779760dac35a1d36ac684389e92ff523baf99d803f542774ddf48
 RUN echo hello
