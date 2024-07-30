@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rlol-tenant/build-suite-component-update-amct/multi-component-parent-fjme@sha256:03e71bb972bc2ecd06930758243aa2b5a9def62213f859b8dbbf7d89f7d63c87
+RUN echo hello
