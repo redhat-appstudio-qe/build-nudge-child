@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rysl-tenant/build-suite-component-update-pbog/multi-component-parent-cdqb@sha256:af5caf80aa9cb5b8aaffe8f1bfb8ab4716cdc35c616af758ffd4a51cf42ec860
+RUN echo hello
