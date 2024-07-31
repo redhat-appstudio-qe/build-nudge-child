@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ataw-tenant/build-suite-component-update-qswp/multi-component-parent-rygx@sha256:ad219c9442a3e47926d0f6d521c489392bc00c5bb8ebe64f9f79a860d9562b23
+FROM quay.io/redhat-appstudio-qe/build-e2e-ataw-tenant/build-suite-component-update-qswp/multi-component-parent-rygx@sha256:058327b7b84d97fb99c62add9e50a0a885356a62e74e37b4ec560a3fb7ec0ac6
 RUN echo hello
