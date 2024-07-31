@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zzws-tenant/build-suite-component-update-rpoc/multi-component-parent-acwc@sha256:4f6cac12d813aaa2d7584bd24d931d18cc50e27dd6c214c0c6d2b8e8fd21d9e8
+RUN echo hello
