@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-izgb-tenant/build-suite-component-update-sbms/multi-component-parent-boni@sha256:52864be7a159ec8313386e2e180527766999b74855357e1128d688d1f5f2da07
+FROM quay.io/redhat-appstudio-qe/build-e2e-izgb-tenant/build-suite-component-update-sbms/multi-component-parent-boni@sha256:8684728271f8f0fe43fdb02dd40456e584311c2e4ab3149589d0773d9db543f3
 RUN echo hello
