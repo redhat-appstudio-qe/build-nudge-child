@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xpuf-tenant/build-suite-component-update-eoad/multi-component-parent-xtrh@sha256:a8daf57a4d74f8ac717c552316ffa0490728f8b3911d85abc7a389afb2727d95
+FROM quay.io/redhat-appstudio-qe/build-e2e-xpuf-tenant/build-suite-component-update-eoad/multi-component-parent-xtrh@sha256:3fcefa2d36839a5a9288a61f32f27fac4eee33e38f1f409eca612a929e1cf310
 RUN echo hello
