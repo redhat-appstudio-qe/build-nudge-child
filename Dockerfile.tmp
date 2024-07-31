@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-uoih-tenant/build-suite-component-update-sxmm/multi-component-parent-bsiv@sha256:f14a97292071af87f734482679798a8c9a2d08cb09e2d9f1566626eb24f81df8
+FROM quay.io/redhat-appstudio-qe/build-e2e-uoih-tenant/build-suite-component-update-sxmm/multi-component-parent-bsiv@sha256:93920e97edeae82dff723fee6fa5e7e98c1fa47a05ef2d8210b528c86bbf8cef
 RUN echo hello
