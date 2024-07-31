@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lood-tenant/build-suite-component-update-esyq/multi-component-parent-lzyk@sha256:cbd2989b17cfa9a31ffd84cf3bc81ac102a88b89901fbbbacd1851e66d84e450
+FROM quay.io/redhat-appstudio-qe/build-e2e-lood-tenant/build-suite-component-update-esyq/multi-component-parent-lzyk@sha256:55028854ee56ebea0892754e275416614d8f29c5d8c1702806bcda117f3e59f7
 RUN echo hello
