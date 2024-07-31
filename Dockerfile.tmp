@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-qawk-tenant/build-suite-component-update-wqsi/multi-component-parent-xail@sha256:80c419f37b1989383701d0cc63bbf9ed93d7ba761b9791b3803e28b455ee3f53
+RUN echo hello
