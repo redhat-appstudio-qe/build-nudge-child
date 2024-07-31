@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xnvx-tenant/build-suite-component-update-urfk/multi-component-parent-wsoh@sha256:7a0111c8f9761f0d3932f5b47c8a6349ab81f797e4bb2fd7cd9b62ac85359fd7
+RUN echo hello
