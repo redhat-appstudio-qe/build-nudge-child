@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-amol-tenant/build-suite-component-update-wwyr/multi-component-parent-jjol@sha256:85633293c5d065f3e51b108f00cfd7deb7324f954400da30855737cb14824d40
+FROM quay.io/redhat-appstudio-qe/build-e2e-amol-tenant/build-suite-component-update-wwyr/multi-component-parent-jjol@sha256:ed237b43a1da4e0eb91628543610891aa3cda9b3643f2b9e6daff58c46422337
 RUN echo hello
