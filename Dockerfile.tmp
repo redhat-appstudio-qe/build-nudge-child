@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-eqcc-tenant/build-suite-component-update-drdw/multi-component-parent-orpr@sha256:aa348e6181d2ba603e282eff6068fb7732566736cc8bc9d5614678a3a13c5a83
+RUN echo hello
