@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ctdb-tenant/build-suite-component-update-ikic/multi-component-parent-zffy@sha256:43fecfe00bf5de885888f65432c30224b0c344a3a9e861a93b995a0e5dcb1768
+FROM quay.io/redhat-appstudio-qe/build-e2e-ctdb-tenant/build-suite-component-update-ikic/multi-component-parent-zffy@sha256:82b5eca0baa1152e5425e01297584ac94f67d6ecb56206cebd4772cc3a29bd70
 RUN echo hello
