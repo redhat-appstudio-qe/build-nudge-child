@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-seak-tenant/build-suite-component-update-nirx/multi-component-parent-nulk@sha256:55e936f15f9a776eb385f0a1a91f5dee7573424fa34277829acd6e1dc5bd2be8
+FROM quay.io/redhat-appstudio-qe/build-e2e-seak-tenant/build-suite-component-update-nirx/multi-component-parent-nulk@sha256:61e1adddc5ca79d6068a510216280fd930042489606cbb0fc7c716d299c07e40
 RUN echo hello
