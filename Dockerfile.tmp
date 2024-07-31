@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lfhj-tenant/build-suite-component-update-gdtu/multi-component-parent-lvsh@sha256:01bb40fcf14242aad8066b3b534c1e1b5dcb4d9b6ea6c9fc447ac776e1128c6d
+FROM quay.io/redhat-appstudio-qe/build-e2e-lfhj-tenant/build-suite-component-update-gdtu/multi-component-parent-lvsh@sha256:1bfb0787cb155d524f7b17fe8bc860b40b61c267a535fb23596cfbfd8fb9a38c
 RUN echo hello
