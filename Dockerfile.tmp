@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lkxo-tenant/build-suite-component-update-bkbk/multi-component-parent-smfs@sha256:f22854c2c56d4da967eb42ce5467ec2e5afa6d7804429f452abec0c6faba33ec
+RUN echo hello
