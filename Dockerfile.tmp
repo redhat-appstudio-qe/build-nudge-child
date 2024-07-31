@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lqkg-tenant/build-suite-component-update-ppag/multi-component-parent-okwb@sha256:82ae3f944b3d4cef2f325414bfca53009797c99870bf704cbcae93f863b4f431
+FROM quay.io/redhat-appstudio-qe/build-e2e-lqkg-tenant/build-suite-component-update-ppag/multi-component-parent-okwb@sha256:c7ca4ff64207c060bd61db5819b2f69348d49f5fdb036058f0584919021800fb
 RUN echo hello
