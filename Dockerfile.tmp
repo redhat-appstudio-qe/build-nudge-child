@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wiur-tenant/build-suite-component-update-sdav/multi-component-parent-iwxi@sha256:34dc27d0afd7f306ad275475351074edfe482560defbd630894d2ae99e39d588
+FROM quay.io/redhat-appstudio-qe/build-e2e-wiur-tenant/build-suite-component-update-sdav/multi-component-parent-iwxi@sha256:3b3e344a0729ff12e70a85a84936faaac84d721534196b8257c8734c16115991
 RUN echo hello
