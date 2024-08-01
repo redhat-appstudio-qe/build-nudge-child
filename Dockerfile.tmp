@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-velv-tenant/build-suite-component-update-tjeh/multi-component-parent-lrod@sha256:f606ac01cc9b2da677b2762e6978f06f875200274f81c0006b17524816d09e2e
+FROM quay.io/redhat-appstudio-qe/build-e2e-velv-tenant/build-suite-component-update-tjeh/multi-component-parent-lrod@sha256:756d5362ff319f5e9fc574a2f990501917a8337717219bbc9465885dd1200bb1
 RUN echo hello
