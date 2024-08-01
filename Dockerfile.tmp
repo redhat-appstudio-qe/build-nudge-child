@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-zntz-tenant/build-suite-component-update-spsf/multi-component-parent-cges@sha256:bd908f2ae4ba302a0494e273cb9117fa480d1eb0ad8e5de1e95a21d86af07a5b
+FROM quay.io/redhat-appstudio-qe/build-e2e-zntz-tenant/build-suite-component-update-spsf/multi-component-parent-cges@sha256:c5cc96c45645abdcab3f63eb7aadd4631ebc2a989c6eaa68bf2db4c4730ab067
 RUN echo hello
