@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-woql-tenant/build-suite-component-update-vkzp/multi-component-parent-xega@sha256:8fcdc9950049b7c233a6644d6f5f1d8ecab0c52399f0626436393d0b983a43c0
+RUN echo hello
