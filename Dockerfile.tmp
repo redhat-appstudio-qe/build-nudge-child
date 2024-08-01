@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rbfu-tenant/build-suite-component-update-luon/multi-component-parent-kgye@sha256:c537cb0519b68ad246c4ae06191772d9d5c5882e14fc203b0a8ea35440ffa23e
+RUN echo hello
