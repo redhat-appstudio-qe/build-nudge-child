@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hrpd-tenant/build-suite-component-update-fovo/multi-component-parent-qpjt@sha256:4b7195961f64773c2243e95820923af6ab3f047e5bbf43b6698521a7d58c57b9
+FROM quay.io/redhat-appstudio-qe/build-e2e-hrpd-tenant/build-suite-component-update-fovo/multi-component-parent-qpjt@sha256:23e4875da9a78e7209210089964c83b4f3125e36998641617fe60de0f5336068
 RUN echo hello
