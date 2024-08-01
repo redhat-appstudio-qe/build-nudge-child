@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cldj-tenant/build-suite-component-update-ivpr/multi-component-parent-wjeg@sha256:34fd2cb8a48e7f2dfbed9bab0791f4add505982c552234f1603652b9c6dd7756
+FROM quay.io/redhat-appstudio-qe/build-e2e-cldj-tenant/build-suite-component-update-ivpr/multi-component-parent-wjeg@sha256:f27639858b4111beabfd531cdf51502d331f43e20b9cfe3232b70aea8e888106
 RUN echo hello
