@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cont-tenant/build-suite-component-update-uqvf/multi-component-parent-vigi@sha256:3c3e44c8b4daaf253f2ffbd76b0f2b0fbf77f3b84b62291707c591d93c0eac73
+FROM quay.io/redhat-appstudio-qe/build-e2e-cont-tenant/build-suite-component-update-uqvf/multi-component-parent-vigi@sha256:3c70013aaa9ab718243fb28bb6d005c636f27cc3f652a8e6d620f5b976d6987a
 RUN echo hello
