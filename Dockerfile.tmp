@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ptvf-tenant/build-suite-component-update-lkhe/multi-component-parent-njav@sha256:2456d8f516936994f0d35ffcb76c5f3d7c0a6c52ac048e773526805a04786c32
+FROM quay.io/redhat-appstudio-qe/build-e2e-ptvf-tenant/build-suite-component-update-lkhe/multi-component-parent-njav@sha256:2257f66183484baa0273e462746c649d25706a780d5245d70fd1bfb7e5e0e675
 RUN echo hello
