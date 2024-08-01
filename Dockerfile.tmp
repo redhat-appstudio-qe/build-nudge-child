@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xhqv-tenant/build-suite-component-update-ehew/multi-component-parent-drga@sha256:9955c199d0fa71efc8296e963747f5af1c1764345bcc4651e74d31220decce7f
+RUN echo hello
