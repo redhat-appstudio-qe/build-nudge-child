@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-smfc-tenant/build-suite-component-update-uifw/multi-component-parent-jhmc@sha256:3706d78b2971b4a5798e52c672b750db9ee073eae2d12c8b6451b28219e6c8a1
+FROM quay.io/redhat-appstudio-qe/build-e2e-smfc-tenant/build-suite-component-update-uifw/multi-component-parent-jhmc@sha256:4c0499145edacc0522b67e2f4f83f1d1bc946e312cc58621dc81ceced8763764
 RUN echo hello
