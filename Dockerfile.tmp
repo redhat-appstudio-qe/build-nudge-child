@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nris-tenant/build-suite-component-update-ejxc/multi-component-parent-nddx@sha256:ba0c0c96121307d0a12d6fe132c04b6b29d1ce900c215909f6d03023a17c0c90
+RUN echo hello
