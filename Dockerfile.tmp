@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mhmq-tenant/build-suite-component-update-cicg/multi-component-parent-phrl@sha256:3ec6e562ab086bd52f54426871898372bcd3d7bc04f6eed4205f2b8758ac1689
+RUN echo hello
