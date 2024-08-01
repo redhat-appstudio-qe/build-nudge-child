@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ersv-tenant/build-suite-component-update-qfns/multi-component-parent-hmon@sha256:557099f976604b5e44c660dc436ee46dd79d047cc4910db71986dcd2ceda53dd
+FROM quay.io/redhat-appstudio-qe/build-e2e-ersv-tenant/build-suite-component-update-qfns/multi-component-parent-hmon@sha256:d5627b94d347bd367168f1ea88fdf55c845d14724677182bb00a5cd590f8a6e8
 RUN echo hello
