@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mjuz-tenant/build-suite-component-update-ptip/multi-component-parent-tzwj@sha256:71727fbab3c211e0c64880cd3297559464f47194e39278ad515ef46a71328d52
+RUN echo hello
