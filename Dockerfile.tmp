@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hfft-tenant/build-suite-component-update-typm/multi-component-parent-znox@sha256:dc617834db0bfb09acc6447f791f97147f56986bf485dfe38fafa77f484809d5
+FROM quay.io/redhat-appstudio-qe/build-e2e-hfft-tenant/build-suite-component-update-typm/multi-component-parent-znox@sha256:a20801f8d54b1ff2ddc01e81a2f4e32b9c6ba2cd9b271dcd9a540f22db0bbc8c
 RUN echo hello
