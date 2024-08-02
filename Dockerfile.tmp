@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ovpb-tenant/build-suite-component-update-axzv/multi-component-parent-surz@sha256:2ef72d7a59dfa8e35e71e65d277229632298b800dd75c93a9b53d52011f04286
+FROM quay.io/redhat-appstudio-qe/build-e2e-ovpb-tenant/build-suite-component-update-axzv/multi-component-parent-surz@sha256:02e86132649c21ba8a0a82f9e6e58937362e68ac6bade2ae51b08a0e711cca14
 RUN echo hello
