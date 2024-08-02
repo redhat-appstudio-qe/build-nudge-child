@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qbcv-tenant/build-suite-component-update-tdmb/multi-component-parent-qmne@sha256:80e01d47020c753ac1e26e7c38bd0e9f2f1fb72ec6fe83dba5660f82d6b03c3f
+FROM quay.io/redhat-appstudio-qe/build-e2e-qbcv-tenant/build-suite-component-update-tdmb/multi-component-parent-qmne@sha256:c4938b2bf60d8fff7902cacf7eadc3cd179bf261f28176baa363dfbe5a225cf6
 RUN echo hello
