@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nfnz-tenant/build-suite-component-update-epib/multi-component-parent-eaka@sha256:074c173a0fdb4be26551226c8446be68252a93f59265cca51dffdccff866bba1
+RUN echo hello
