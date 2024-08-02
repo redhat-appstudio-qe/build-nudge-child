@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jqex-tenant/build-suite-component-update-zmpw/multi-component-parent-umcu@sha256:19ba73b108ae633034cf16377875f83ea4280488d32595656476c08db10c4eeb
+FROM quay.io/redhat-appstudio-qe/build-e2e-jqex-tenant/build-suite-component-update-zmpw/multi-component-parent-umcu@sha256:235f0c79bc88f55039d5cbcf17f6edf7b478e421abed7d50a92790c14f99823f
 RUN echo hello
