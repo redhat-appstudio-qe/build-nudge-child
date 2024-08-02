@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ssga-tenant/build-suite-component-update-thnp/multi-component-parent-tdfs@sha256:f43ee8fced9b639b1583076cec310a06669fc787726dcdfc4eb3b70414215076
+FROM quay.io/redhat-appstudio-qe/build-e2e-ssga-tenant/build-suite-component-update-thnp/multi-component-parent-tdfs@sha256:90cdc5fafceb35899f84206596851fb738b8fb55d17717e48eb3c894eea1588d
 RUN echo hello
