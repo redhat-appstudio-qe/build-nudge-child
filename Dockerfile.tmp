@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-aimm-tenant/build-suite-component-update-aabi/multi-component-parent-qlru@sha256:9830815b193ab84765fda45e8dec584fb6f894c59864aa6426dcf1613b18b5fe
+RUN echo hello
