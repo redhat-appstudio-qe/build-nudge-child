@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-isud-tenant/build-suite-component-update-vrco/multi-component-parent-lfmb@sha256:70288c391320507ff1cefe05469ef0a265981d1fcea1ad5439dfe44c7f947bfc
+FROM quay.io/redhat-appstudio-qe/build-e2e-isud-tenant/build-suite-component-update-vrco/multi-component-parent-lfmb@sha256:89950661275eaac9e67fa1fdf4bfb5948c97a27c6801d7bc3ffd6b04c71a9e93
 RUN echo hello
