@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tlgs-tenant/build-suite-component-update-ffig/multi-component-parent-xplt@sha256:785366070cfaeac8047aa8107e7c1a42870f1a85cfa1c06990260873abe17207
+RUN echo hello
