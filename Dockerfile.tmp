@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hobo-tenant/build-suite-component-update-seib/multi-component-parent-pyxn@sha256:b62bad591f5031ffa175b82878eef0fc6b6ecd58698b4b1f7f834f8d1b07a580
+RUN echo hello
