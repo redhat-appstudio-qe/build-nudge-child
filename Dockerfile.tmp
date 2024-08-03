@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-odns-tenant/build-suite-component-update-dmxg/multi-component-parent-ayqs@sha256:f6c5adf7e9fa1eb0839a82a2dfc5a9ac781658785c6b6f779d9defd03278b8e9
+RUN echo hello
