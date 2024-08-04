@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lhxt-tenant/build-suite-component-update-bunz/multi-component-parent-ciql@sha256:c6ae98e9333cbdbc30e6e199c68a58943363e0fb7e9931279e5ac1657de71946
+RUN echo hello
