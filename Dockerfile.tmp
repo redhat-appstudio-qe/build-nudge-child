@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-puly-tenant/build-suite-component-update-nzxq/multi-component-parent-mtqg@sha256:1227c62d0a4de3d30589b3dbcabe30f2a2f11fae4b673a3202be25734f85898b
+RUN echo hello
