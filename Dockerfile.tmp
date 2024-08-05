@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hyos-tenant/build-suite-component-update-xezo/multi-component-parent-ntzh@sha256:ef3c0a96b497e61ed02c8151b2dddb3066707b58f59c35b15bfcc73a6ae21ca5
+RUN echo hello
