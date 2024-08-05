@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qmap-tenant/build-suite-component-update-dyms/multi-component-parent-bewk@sha256:df3712427f039f81286a078abf2f04974315ec521d4f89a05cbfa158129044c8
+FROM quay.io/redhat-appstudio-qe/build-e2e-qmap-tenant/build-suite-component-update-dyms/multi-component-parent-bewk@sha256:04861b00b9d978ee76d41eb140179301cf02563d363484ba79dac82d0e8e7395
 RUN echo hello
