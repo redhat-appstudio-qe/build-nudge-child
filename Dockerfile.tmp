@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ompj-tenant/build-suite-component-update-wecf/multi-component-parent-itpe@sha256:363cf777d0a8f942cde5c08a0abfeb949361b970f10cb5611e94d028146f48a9
+RUN echo hello
