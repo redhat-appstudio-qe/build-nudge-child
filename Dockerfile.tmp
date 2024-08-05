@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-auma-tenant/build-suite-component-update-cbos/multi-component-parent-cfbs@sha256:d845b648deefaa33a2525bf082332e294f2a5614ab0538c1f8cd6582d4d9ced1
+RUN echo hello
