@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-frrk-tenant/build-suite-component-update-dkxw/multi-component-parent-vsvw@sha256:589350ced613fa8882b8278924cb5f25a942e02b5175b7c91507d392fc134aa5
+FROM quay.io/redhat-appstudio-qe/build-e2e-frrk-tenant/build-suite-component-update-dkxw/multi-component-parent-vsvw@sha256:e347d10a7e55aa0b13bf75fdb74e5dbb5b7833fbc882fea3b8e8c5513a391c05
 RUN echo hello
