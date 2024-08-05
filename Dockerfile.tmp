@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rfgt-tenant/build-suite-component-update-aumy/multi-component-parent-qnju@sha256:481fdb41eb304e335547291b99ad50674c9867eb44b784e93f1abb6025477beb
+FROM quay.io/redhat-appstudio-qe/build-e2e-rfgt-tenant/build-suite-component-update-aumy/multi-component-parent-qnju@sha256:0e00ecabae1d7655526137c9f51a34c4947ca40eb74b1b15586086cd4e6ccaff
 RUN echo hello
