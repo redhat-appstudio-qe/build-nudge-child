@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ksgh-tenant/build-suite-component-update-acsd/multi-component-parent-clvd@sha256:d0e1ff70eec39cb34153f8bb042b4dcbbed609219d3ca30c076ae05d592f9410
+RUN echo hello
