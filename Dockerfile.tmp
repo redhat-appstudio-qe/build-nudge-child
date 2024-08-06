@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xdej-tenant/build-suite-component-update-turf/multi-component-parent-xrjq@sha256:54c6e22e3a68a9be16d9c1903e06c9ed407b492e439aa79668dbf8cad8f87a4f
+FROM quay.io/redhat-appstudio-qe/build-e2e-xdej-tenant/build-suite-component-update-turf/multi-component-parent-xrjq@sha256:dc011eba841e931dfc4295e5aba47ce0b9192124e19b5a826a23bb8c0fc42a15
 RUN echo hello
