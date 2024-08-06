@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fnsq-tenant/build-suite-component-update-fenv/multi-component-parent-ldpm@sha256:6c6d6957012811c4f783878a3f2140ba802df40022a0215f755830917b9af36a
+RUN echo hello
