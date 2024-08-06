@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wnsd-tenant/build-suite-component-update-cfzp/multi-component-parent-knln@sha256:30b433971ba534a8c2f22347dedfa5a995849034dcba0abe5a74ec5c2655c926
+FROM quay.io/redhat-appstudio-qe/build-e2e-wnsd-tenant/build-suite-component-update-cfzp/multi-component-parent-knln@sha256:7965920f579ee62fd69b8bd2bdb7bd936e952d7986da3cc8156687a033c4c6d9
 RUN echo hello
