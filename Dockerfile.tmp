@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-uysj-tenant/build-suite-component-update-myjv/multi-component-parent-kdra@sha256:3c645ac63f51d71c2304c67ca89870f5f341f2c690e4196192e6ad4657f4802a
+FROM quay.io/redhat-appstudio-qe/build-e2e-uysj-tenant/build-suite-component-update-myjv/multi-component-parent-kdra@sha256:c7454d3d3cff268380d7e54be2124d7ea1cb92eb71c66c24a092b91b21d5fd1b
 RUN echo hello
