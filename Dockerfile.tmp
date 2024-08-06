@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nboa-tenant/build-suite-component-update-pdtd/multi-component-parent-hmrn@sha256:71e23e2c5238b5508416b9078761269ce955f5dd6023df090cb4d8d08c431cf7
+RUN echo hello
