@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-sgco-tenant/build-suite-component-update-jtru/multi-component-parent-vskt@sha256:22661ac0b2e20075c717c43e447f9c3d849006b362ec7dd4f98480c379054487
+FROM quay.io/redhat-appstudio-qe/build-e2e-sgco-tenant/build-suite-component-update-jtru/multi-component-parent-vskt@sha256:3546a42fa73a10a58aa17c18f1e069bcbea8624fa29a21b34fdb0f370c4639e8
 RUN echo hello
