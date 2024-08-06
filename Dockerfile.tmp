@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wnsd-tenant/build-suite-component-update-cfzp/multi-component-parent-knln@sha256:30b433971ba534a8c2f22347dedfa5a995849034dcba0abe5a74ec5c2655c926
+RUN echo hello
