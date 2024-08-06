@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ofrf-tenant/build-suite-component-update-eoew/multi-component-parent-hbmw@sha256:b61d49f3997fde0858b8ee3795ae7bb942fcc097df79d3761e58a8386dd999c9
+RUN echo hello
