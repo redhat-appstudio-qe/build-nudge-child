@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rjfk-tenant/build-suite-component-update-upnj/multi-component-parent-dvve@sha256:144508b3f083d8b9e42ca326f3c5b02f984925950b0a1e32152b6fec0b86f10c
+RUN echo hello
