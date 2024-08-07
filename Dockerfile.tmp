@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tamc-tenant/build-suite-component-update-lfiw/multi-component-parent-rgeb@sha256:cd80fb6be04e10cd1cc3951ee3e8b0710be9ecc7e3bc62ae2de59e9131e5efb4
+FROM quay.io/redhat-appstudio-qe/build-e2e-tamc-tenant/build-suite-component-update-lfiw/multi-component-parent-rgeb@sha256:2c415a6b45abc560a67591dff4f51b75765abba74d536fec7fdd06123782ca91
 RUN echo hello
