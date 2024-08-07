@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-llve-tenant/build-suite-component-update-jwzo/multi-component-parent-ewgl@sha256:0a50ab3ed2232cdf1ca640b5f04bdb25d7d071b041d03d6a9f393c0ab7e20e31
+FROM quay.io/redhat-appstudio-qe/build-e2e-llve-tenant/build-suite-component-update-jwzo/multi-component-parent-ewgl@sha256:76952efedcd7099ad7471bff12bd096e4304396663b13716a0777f2e509f2dda
 RUN echo hello
