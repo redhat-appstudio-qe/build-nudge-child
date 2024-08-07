@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hgov-tenant/build-suite-component-update-ssfj/multi-component-parent-plqd@sha256:6b654e81720373b000c15a549e6a7e7a5c473b14745009b312251877f4a62ed3
+RUN echo hello
