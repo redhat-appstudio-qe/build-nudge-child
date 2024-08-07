@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fivs-tenant/build-suite-component-update-qkqs/multi-component-parent-iifg@sha256:c0d50649c73aa389bc8cd0fd071dc2c8dd3744fa573046d48aff87d23849f77a
+FROM quay.io/redhat-appstudio-qe/build-e2e-fivs-tenant/build-suite-component-update-qkqs/multi-component-parent-iifg@sha256:873c5d1096f0508c99935743a25c291f41321ef288345f919e079a6da3a8544e
 RUN echo hello
