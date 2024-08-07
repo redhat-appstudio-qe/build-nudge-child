@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wfvf-tenant/build-suite-component-update-yoik/multi-component-parent-lriz@sha256:28ed71da1f518112dfeb353958eb2b8c65ace999cdec5b4800089bddf2763a66
+FROM quay.io/redhat-appstudio-qe/build-e2e-wfvf-tenant/build-suite-component-update-yoik/multi-component-parent-lriz@sha256:a00262da1efc2a797bdfe8b7b4bd6f5114a4769400262b427c328400024d3f62
 RUN echo hello
