@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-edbk-tenant/build-suite-component-update-jpmf/multi-component-parent-mowe@sha256:0d9e1603809b6ad30d793b311c0a8c96f24cd9cc4238e207b7bc2cc665328813
+RUN echo hello
