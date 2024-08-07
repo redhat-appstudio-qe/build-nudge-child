@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xqlt-tenant/build-suite-component-update-wlez/multi-component-parent-myiq@sha256:4be32cfbfb69aea98273c71f1eebdec0674e955fb509cfbbbce574422ae03190
+FROM quay.io/redhat-appstudio-qe/build-e2e-xqlt-tenant/build-suite-component-update-wlez/multi-component-parent-myiq@sha256:a2471957c9e24f59f96cda028e9d42d8ce40e06d35fa06ef6685dca5e176937a
 RUN echo hello
