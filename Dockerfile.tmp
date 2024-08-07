@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-zebd-tenant/build-suite-component-update-rhbx/multi-component-parent-dzdl@sha256:1d92983c40eb51f48eadb442279bedbfde6e4eb4e84dbfb18d68ba26ea546e44
+FROM quay.io/redhat-appstudio-qe/build-e2e-zebd-tenant/build-suite-component-update-rhbx/multi-component-parent-dzdl@sha256:f0b729f7b237247d5f3bd57a88b85af4ffc4cc4e45d3df407f15e3598c9bbde3
 RUN echo hello
