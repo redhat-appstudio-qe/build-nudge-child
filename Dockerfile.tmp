@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jxfx-tenant/build-suite-component-update-pnqs/multi-component-parent-ivvu@sha256:8fa1303d9109259edf67d9915ca83f802bc48bbfea9f99e1a4635189663dc277
+FROM quay.io/redhat-appstudio-qe/build-e2e-jxfx-tenant/build-suite-component-update-pnqs/multi-component-parent-ivvu@sha256:df0df513bcf22d2419ef1fb831e824bc9a487c5e4281d8611a6449f57c506a3c
 RUN echo hello
