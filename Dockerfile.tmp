@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jfxi-tenant/build-suite-component-update-abyc/multi-component-parent-daef@sha256:6e4dfab47edb4368eeaa83d25067f64c4f7c850c85f0c1f8064e7b2d29cf80bd
+FROM quay.io/redhat-appstudio-qe/build-e2e-jfxi-tenant/build-suite-component-update-abyc/multi-component-parent-daef@sha256:a282b804c5b1baca82a3f0c5e4df65f44c3343a364b77806d70fad3b0fa0776a
 RUN echo hello
