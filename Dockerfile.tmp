@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fhvl-tenant/build-suite-component-update-gssv/multi-component-parent-hjaz@sha256:390f8bcd8bc561f9af0c76aa5798d607759ca434ca763db2c343f57ed5ccdbcf
+RUN echo hello
