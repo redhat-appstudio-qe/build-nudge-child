@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-yvzu-tenant/build-suite-component-update-gpcd/multi-component-parent-kswm@sha256:779f49495e15b34561c01a485b00f406408a77eb49c7b0987783beca9667b8a5
+RUN echo hello
