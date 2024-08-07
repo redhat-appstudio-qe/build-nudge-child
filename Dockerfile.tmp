@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ifsi-tenant/build-suite-component-update-ilpl/multi-component-parent-zoyl@sha256:4a10717251f06723b7f779693bf128b9f225d815dd149b02931ae3c6953d7943
+FROM quay.io/redhat-appstudio-qe/build-e2e-ifsi-tenant/build-suite-component-update-ilpl/multi-component-parent-zoyl@sha256:76431b46fbae33a49b0d4041c22ba7fc77f9e53efa5da4ec0b042767d46bf06d
 RUN echo hello
