@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-mpkl-tenant/build-suite-component-update-dfca/multi-component-parent-gmoo@sha256:6e20f4396abb2909a6832f6a80088b3a2b19d9cf513d8e8219354ff020e95a68
+FROM quay.io/redhat-appstudio-qe/build-e2e-mpkl-tenant/build-suite-component-update-dfca/multi-component-parent-gmoo@sha256:2cbef19202863b34ba54bd78278973acbe367ec8d44190cdb4bd8926b2db0aca
 RUN echo hello
