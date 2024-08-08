@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-okju-tenant/build-suite-component-update-egvd/multi-component-parent-pxyo@sha256:7e63c780c98c0860f2b05f999cd59e6d6bc358a9203ee6d1d696c6ca2e7c5a9f
+RUN echo hello
