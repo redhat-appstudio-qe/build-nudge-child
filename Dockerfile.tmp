@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-htyz-tenant/build-suite-component-update-uzid/multi-component-parent-qgbf@sha256:54d57c7727a1b68b39be138a72b96f124c573862b041211dabee3237c64eba37
+FROM quay.io/redhat-appstudio-qe/build-e2e-htyz-tenant/build-suite-component-update-uzid/multi-component-parent-qgbf@sha256:4cd4fdd5424ce34ae5f2c3c2576a3c141adff6bf56eb4c99aa854dec3f6e7bf1
 RUN echo hello
