@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-erex-tenant/build-suite-component-update-kodk/multi-component-parent-fsjr@sha256:5e119d7a0ffa69797f2ff64d90a9b906c461c7e96ddaab81bd099ea4587d8a7a
+RUN echo hello
