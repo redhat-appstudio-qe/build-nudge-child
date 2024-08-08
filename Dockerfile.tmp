@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ylfa-tenant/build-suite-component-update-nygi/multi-component-parent-ujlh@sha256:2fcfa8fd14f69badcc29a2a31b500de7080f2721646e24b6dcaab95328412557
+RUN echo hello
