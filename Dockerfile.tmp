@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-usep-tenant/build-suite-component-update-dkpn/multi-component-parent-nnkj@sha256:52d3513b63b9396cfe504c2a64b406547e3c0a17b66fe722fd33cdeb5171f0b4
+FROM quay.io/redhat-appstudio-qe/build-e2e-usep-tenant/build-suite-component-update-dkpn/multi-component-parent-nnkj@sha256:f6a21fda7b536ecac85a9ff5013ba2ccb5a0b74036d7f5fcf03c1c32fe3cbe4e
 RUN echo hello
