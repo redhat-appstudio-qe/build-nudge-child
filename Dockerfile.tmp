@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-pscw-tenant/build-suite-component-update-vvav/multi-component-parent-neor@sha256:ca56c4d7c7b2ae6ab9dc7bc73326b336c589940f8fdfaaa0fec330f5295d70b2
+FROM quay.io/redhat-appstudio-qe/build-e2e-pscw-tenant/build-suite-component-update-vvav/multi-component-parent-neor@sha256:c7f775af2caee8345562b82df9ec24e52bbfd1f8bfa7652c44edd70c6b9ef754
 RUN echo hello
