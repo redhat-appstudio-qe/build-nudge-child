@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vauk-tenant/build-suite-component-update-mtth/multi-component-parent-duny@sha256:38aa479427084c6a351002f297401d038de818868236655d6e648372dbc991f1
+RUN echo hello
