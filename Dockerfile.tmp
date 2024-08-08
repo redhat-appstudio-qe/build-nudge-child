@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vzpc-tenant/build-suite-component-update-cbua/multi-component-parent-hige@sha256:62952b0a6f8c154c2706098ea1ef6841ea9dee183ecead36fd8837624305e613
+RUN echo hello
