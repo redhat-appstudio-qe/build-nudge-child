@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-blka-tenant/build-suite-component-update-wgmj/multi-component-parent-seis@sha256:b7ba47b45093ae3f93b4d59bd95349bd7076205d0a6fcf004f11542a24c8ac05
+FROM quay.io/redhat-appstudio-qe/build-e2e-blka-tenant/build-suite-component-update-wgmj/multi-component-parent-seis@sha256:bfbe9b0ff26bf656e20a99abb1554bc82fcf6de861209e9861345693c924aec4
 RUN echo hello
