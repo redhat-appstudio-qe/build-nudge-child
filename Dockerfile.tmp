@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tlej-tenant/build-suite-component-update-daxg/multi-component-parent-nakp@sha256:45e8e675411495c3d49ee93561760e4dcb5880e245dfcbf38e70bc273162caa8
+RUN echo hello
