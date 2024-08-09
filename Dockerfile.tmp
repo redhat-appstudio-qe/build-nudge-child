@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-isvl-tenant/build-suite-component-update-upan/multi-component-parent-dtys@sha256:77131e91a4b4e2857f42f6c43aa342ba5fa9316c8793fcaf76f55ae8352cf81b
+FROM quay.io/redhat-appstudio-qe/build-e2e-isvl-tenant/build-suite-component-update-upan/multi-component-parent-dtys@sha256:96c802c73ed82c80642b7d152b7da15b6967ee64a5ba9faafc4ea6df1ee011be
 RUN echo hello
