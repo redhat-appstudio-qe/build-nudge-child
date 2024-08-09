@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-kfox-tenant/build-suite-component-update-fiev/multi-component-parent-olqm@sha256:835f9f170aa39bf0c3497a23d76222548d3a32190383ed06469170d3a9e6dbb9
+RUN echo hello
