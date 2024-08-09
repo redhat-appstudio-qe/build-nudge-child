@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-enxb-tenant/build-suite-component-update-rkbt/multi-component-parent-xrps@sha256:81c088ed78917a0d8b5160179ebe20cc1b506e5ae33d5b7b9da59963ef815ba2
+RUN echo hello
