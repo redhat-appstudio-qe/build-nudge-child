@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-book-tenant/build-suite-component-update-ryax/multi-component-parent-tdrw@sha256:aea7a7fc87d8ba7c066dcccf76e19fea4bef0d13119881a28905cc836aa34ac9
+RUN echo hello
