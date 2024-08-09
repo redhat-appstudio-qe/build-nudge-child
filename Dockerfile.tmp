@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qwxk-tenant/build-suite-component-update-wlps/multi-component-parent-qngp@sha256:fcfb748c4bbacd8041ae7f4d4e755da385e516f63e72b0054624dac3208ab9cd
+FROM quay.io/redhat-appstudio-qe/build-e2e-qwxk-tenant/build-suite-component-update-wlps/multi-component-parent-qngp@sha256:f4a1b83b236585b5fcd1abc4338ac75c905bf84cdda254731484437d2b38bcad
 RUN echo hello
