@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rrpn-tenant/build-suite-component-update-oclr/multi-component-parent-arnf@sha256:ba4065e66ab1ac84f431c8ac0a8e00b9b5e3bdcadb856595915d7bea10b011fe
+FROM quay.io/redhat-appstudio-qe/build-e2e-rrpn-tenant/build-suite-component-update-oclr/multi-component-parent-arnf@sha256:20bf0f8ec4751380192d5a30a27fa390f793f2d9c664d11806ffe3eac88c26f0
 RUN echo hello
