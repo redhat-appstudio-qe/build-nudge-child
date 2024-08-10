@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-latb-tenant/build-suite-component-update-ibiq/multi-component-parent-tdpg@sha256:60c58caa1ad5d5c4056b682b5223f2430d139256d5dc822dea6c8fb1964121a8
+RUN echo hello
