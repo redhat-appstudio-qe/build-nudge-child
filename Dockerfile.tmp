@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-skms-tenant/build-suite-component-update-puyy/multi-component-parent-jcnc@sha256:f16212c737f00da7b4999fff5f9f2d7099ea636085ffc608172f3a8633991adb
+FROM quay.io/redhat-appstudio-qe/build-e2e-skms-tenant/build-suite-component-update-puyy/multi-component-parent-jcnc@sha256:44af114c761aa010e27cb5ddc4cba4874cd83addf2835e831405f57b6fa602a5
 RUN echo hello
