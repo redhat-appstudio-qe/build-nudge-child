@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-apcj-tenant/build-suite-component-update-dmlu/multi-component-parent-pbqc@sha256:ca7c8b3303f2a709b1023a8ce2fe4dddd7c38b3456918ce3cdfa139f73f7e5e9
+FROM quay.io/redhat-appstudio-qe/build-e2e-apcj-tenant/build-suite-component-update-dmlu/multi-component-parent-pbqc@sha256:5d924e22039e2daf9339dcaca73538e7ce23d1a34f43399e96b716f10a6dd4bd
 RUN echo hello
