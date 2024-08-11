@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-egfl-tenant/build-suite-component-update-liph/multi-component-parent-rkxk@sha256:c08fb4890e20f8770a8e9c2b86ee71c0ce33d658002dfe7a1a64d2a21007e0ab
+RUN echo hello
