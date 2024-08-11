@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-salc-tenant/build-suite-component-update-djeg/multi-component-parent-tcwi@sha256:bbc9ecb690df4f5860afce9a0b6d29d4123810c8cfea9ac30ec819448c48434e
+FROM quay.io/redhat-appstudio-qe/build-e2e-salc-tenant/build-suite-component-update-djeg/multi-component-parent-tcwi@sha256:0fafa671feb7cc14c9ab4e1b8f7467841b382af0755a7635a85dfbd07279fd49
 RUN echo hello
