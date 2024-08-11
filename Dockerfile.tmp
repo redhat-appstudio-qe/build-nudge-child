@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qhla-tenant/build-suite-component-update-obsr/multi-component-parent-ncyf@sha256:acecf54999c83f81ec0f5e593397f3cc951a4ad11d6df96f4340b0d6724a8ff4
+FROM quay.io/redhat-appstudio-qe/build-e2e-qhla-tenant/build-suite-component-update-obsr/multi-component-parent-ncyf@sha256:0fae86509e109b29eac6d38aa444005592b66fe2ab2a510f321ec73b0faa1dc2
 RUN echo hello
