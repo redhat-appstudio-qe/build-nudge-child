@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-layk-tenant/build-suite-component-update-wdck/multi-component-parent-etaa@sha256:9661bd5cc99bfa88798259728184eb3279a6721e69c29079721b644c0b81f427
+RUN echo hello
