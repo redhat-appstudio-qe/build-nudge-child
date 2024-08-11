@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nbbr-tenant/build-suite-component-update-nxey/multi-component-parent-epfj@sha256:2fa9cb574c6b1b628f5d2bdf4ff49521bc4306580ba4b53e517a1824401a9a60
+FROM quay.io/redhat-appstudio-qe/build-e2e-nbbr-tenant/build-suite-component-update-nxey/multi-component-parent-epfj@sha256:348f1905aa11c2a0b40435f3b424d515253d4b4e37d5ef3df6214d04f3e4c27e
 RUN echo hello
