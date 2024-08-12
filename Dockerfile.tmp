@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ujrf-tenant/build-suite-component-update-beep/multi-component-parent-llbh@sha256:6e3544d87c75975396b306a7f2b54079a9ebbdcd1fb8bc7492b852c454010242
+RUN echo hello
