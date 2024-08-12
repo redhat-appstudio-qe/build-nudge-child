@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tmry-tenant/build-suite-component-update-utwg/multi-component-parent-tgcx@sha256:1f18594b9f90b8302be09866a8348b41ca461ba58141470036ab34c46690334b
+RUN echo hello
