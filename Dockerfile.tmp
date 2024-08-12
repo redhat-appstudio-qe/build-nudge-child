@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-inmr-tenant/build-suite-component-update-xpta/multi-component-parent-prhu@sha256:7efb85168762287eaa11b2dbc554ba178bbb6dc58e5a9b9bdfff17b372e5cab5
+FROM quay.io/redhat-appstudio-qe/build-e2e-inmr-tenant/build-suite-component-update-xpta/multi-component-parent-prhu@sha256:1a96f794fae3c3e25c56d2f112830ae66817774d6c0a38d30a8d518c01af4e5e
 RUN echo hello
