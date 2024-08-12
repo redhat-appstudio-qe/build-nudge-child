@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-evuc-tenant/build-suite-component-update-zlxe/multi-component-parent-xgob@sha256:8314eb9054a93fee92dee0306838b2ef99ce6406391a3b08841ea4a9aa6478e2
+FROM quay.io/redhat-appstudio-qe/build-e2e-evuc-tenant/build-suite-component-update-zlxe/multi-component-parent-xgob@sha256:38eb548bba25b82c4622be480ede87ba3bcad1b17a0cd91aa4f17c1190774d3d
 RUN echo hello
