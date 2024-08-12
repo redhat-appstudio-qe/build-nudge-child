@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-iiod-tenant/build-suite-component-update-mofh/multi-component-parent-tvds@sha256:a3612b7d4e8803e07ea955eb0b4f27b38e03fd471261acd4c9a99cfef9c5e337
+FROM quay.io/redhat-appstudio-qe/build-e2e-iiod-tenant/build-suite-component-update-mofh/multi-component-parent-tvds@sha256:801692138a02ade76846ed57bb9ff8a3ce52da0334210ffe54ea60cf24d1f87a
 RUN echo hello
