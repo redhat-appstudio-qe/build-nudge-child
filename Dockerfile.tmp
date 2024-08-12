@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hpkw-tenant/build-suite-component-update-zycb/multi-component-parent-uopg@sha256:df4d51e8b9a8051ee758470f35cd580b06a22b845d45f741d799f2f36f0478cb
+RUN echo hello
