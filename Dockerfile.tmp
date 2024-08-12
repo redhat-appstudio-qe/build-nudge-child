@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rljs-tenant/build-suite-component-update-dcig/multi-component-parent-pgao@sha256:b4dd55a9fe5f85f59e2c5a96c82bcb290adba8513441b5395bd44737850c55bb
+FROM quay.io/redhat-appstudio-qe/build-e2e-rljs-tenant/build-suite-component-update-dcig/multi-component-parent-pgao@sha256:5c04ca447f24649214100c801fda3a6aa475804e98e362c1bd322a9a1a026367
 RUN echo hello
