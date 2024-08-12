@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-atcy-tenant/build-suite-component-update-hjxk/multi-component-parent-ofag@sha256:d81ed52577f2305607cb187ceedde3fa0b9e658fe466d9a62e4fe496b67e0837
+FROM quay.io/redhat-appstudio-qe/build-e2e-atcy-tenant/build-suite-component-update-hjxk/multi-component-parent-ofag@sha256:057995af67d43bd06b0872e6a853a98834eca7eecd41db5c5efaf4b6df1cfe05
 RUN echo hello
