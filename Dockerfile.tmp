@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-uisf-tenant/build-suite-component-update-xdxv/multi-component-parent-flla@sha256:370f1ea3ae25b0774357b4a2e771d27058279e37b7ef196eed05ee54cf60e00d
+FROM quay.io/redhat-appstudio-qe/build-e2e-uisf-tenant/build-suite-component-update-xdxv/multi-component-parent-flla@sha256:ac4a0a5d5b3ddb610eab8590447700a2eebbf98d307ff7e885282b75839bbd73
 RUN echo hello
