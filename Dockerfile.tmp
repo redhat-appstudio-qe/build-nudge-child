@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qcwe-tenant/build-suite-component-update-gwat/multi-component-parent-upot@sha256:496a0126bddd61cb53b5f1689a36b36879ff9b43462a323b39f6c9b4285a35c1
+FROM quay.io/redhat-appstudio-qe/build-e2e-qcwe-tenant/build-suite-component-update-gwat/multi-component-parent-upot@sha256:120e08cf6b9b24495d5e72923e801d2ea61849c9ce80165b23ee6cfbb80a8046
 RUN echo hello
