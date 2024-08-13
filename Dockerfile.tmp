@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ltac-tenant/build-suite-component-update-yrgi/multi-component-parent-qbsx@sha256:4f1afed72edac88506898c0bf6afd84db5050e094cffc6adae60413d6c52bc2d
+FROM quay.io/redhat-appstudio-qe/build-e2e-ltac-tenant/build-suite-component-update-yrgi/multi-component-parent-qbsx@sha256:44b0fb4686487fadfff8b6e6f380e1af37f6d81c32e400b9f0cace5c6cd47c15
 RUN echo hello
