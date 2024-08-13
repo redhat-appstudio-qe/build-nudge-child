@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-qumt-tenant/build-suite-component-update-edsq/multi-component-parent-lggu@sha256:de5609bf455fb530d1de65f5f2ba17a8e7a0165772624b1593c554281f4c323c
+RUN echo hello
