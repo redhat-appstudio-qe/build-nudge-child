@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-avim-tenant/build-suite-component-update-rvoj/multi-component-parent-jmxx@sha256:3fcf304a24ef4ee1b5a248e865093c35c54f496bc9f97141ab544550ad2be462
+RUN echo hello
