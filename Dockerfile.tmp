@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hccr-tenant/build-suite-component-update-iifr/multi-component-parent-sscs@sha256:c1a795be6997fc301664aa01bce84ab6cf0bc9a67b1a48645c00988ec5aaf091
+FROM quay.io/redhat-appstudio-qe/build-e2e-hccr-tenant/build-suite-component-update-iifr/multi-component-parent-sscs@sha256:614a57cbe3d4f7864585432cfc941f25a0c3459354a75364c0fa5d9387e216b0
 RUN echo hello
