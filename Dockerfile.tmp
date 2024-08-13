@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wsar-tenant/build-suite-component-update-tyol/multi-component-parent-guvn@sha256:21a91fc14f5d4e7bb1fd5057ae774fb17b13f5233c4481b72af6d22ad2035d80
+RUN echo hello
