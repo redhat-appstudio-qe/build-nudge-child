@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bdtz-tenant/build-suite-component-update-wmao/multi-component-parent-dkto@sha256:6b0c8af8da1cfc01de6d770cf7ea009470df5c85bacd65e2016664bea3452885
+FROM quay.io/redhat-appstudio-qe/build-e2e-bdtz-tenant/build-suite-component-update-wmao/multi-component-parent-dkto@sha256:a5f987544b2591ca183cbcd09f944a57297dae72a04d14f7a754d6570a497704
 RUN echo hello
