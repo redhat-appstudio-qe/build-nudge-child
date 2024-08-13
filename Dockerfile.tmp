@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vtyc-tenant/build-suite-component-update-mhpr/multi-component-parent-dbtn@sha256:f3f6cc4a7fa71f263d51201014ab5d4532366d1106bc3fd79552a355a60ee280
+RUN echo hello
