@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-uiwr-tenant/build-suite-component-update-wqut/multi-component-parent-axbt@sha256:b9bc2ea6f0c34406f52b0854a0204b828f82cfe57a6109a49c8c85523eb5ff03
+FROM quay.io/redhat-appstudio-qe/build-e2e-uiwr-tenant/build-suite-component-update-wqut/multi-component-parent-axbt@sha256:c931e6b1ac9f9a0cb181c9ee88ab557ad21c62e5aff67801ac260190eed4d6f1
 RUN echo hello
