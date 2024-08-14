@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dfrz-tenant/build-suite-component-update-pbsc/multi-component-parent-zrme@sha256:3cf55309ee8656029101ce7291ccac8bfd3f38a509022688c5621d65d1da1aae
+FROM quay.io/redhat-appstudio-qe/build-e2e-dfrz-tenant/build-suite-component-update-pbsc/multi-component-parent-zrme@sha256:70e349c40540091c20c98b2d378ed9d5e14176627cdcfa15011b11cd6ae8e380
 RUN echo hello
