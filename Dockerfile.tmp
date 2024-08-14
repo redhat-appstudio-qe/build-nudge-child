@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lbsx-tenant/build-suite-component-update-dbor/multi-component-parent-dpji@sha256:3b97552817c11061ee56bd647aed088dd2f639b038124f2d76405e0b8ec3d00a
+FROM quay.io/redhat-appstudio-qe/build-e2e-lbsx-tenant/build-suite-component-update-dbor/multi-component-parent-dpji@sha256:391ffdddc2cb3714b7fa17a0f5f424fcdc47993778696f3416ee08e44e82fc08
 RUN echo hello
