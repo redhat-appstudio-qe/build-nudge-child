@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qtzw-tenant/build-suite-component-update-bapb/multi-component-parent-xiud@sha256:2f3af68d4081f264712aabfcfb52e2bf57d6d57ee8959844d3818b9f23720224
+FROM quay.io/redhat-appstudio-qe/build-e2e-qtzw-tenant/build-suite-component-update-bapb/multi-component-parent-xiud@sha256:df0ef8ef53aaeb2e3a9e76cc2146ddee8f912e88ab7561b88ee9b0aca87c288a
 RUN echo hello
