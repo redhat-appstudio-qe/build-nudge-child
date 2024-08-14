@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vbub-tenant/build-suite-component-update-edpy/multi-component-parent-qtpi@sha256:a813c37104a8c18be130d64ecabb6d5364abb1d3a30dd3e4b57ba6a06fbb92f8
+FROM quay.io/redhat-appstudio-qe/build-e2e-vbub-tenant/build-suite-component-update-edpy/multi-component-parent-qtpi@sha256:db06dfd0b942f07a435fca763f6b3ba335440491563768de4e96541422a6c34b
 RUN echo hello
