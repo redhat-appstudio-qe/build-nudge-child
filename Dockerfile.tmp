@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-samc-tenant/build-suite-component-update-aote/multi-component-parent-afrk@sha256:7c68f613e0b0c3d0de8a9dbb355075870baa267ddd620e132535f48ffd73040b
+RUN echo hello
