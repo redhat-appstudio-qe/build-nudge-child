@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cupm-tenant/build-suite-component-update-lmoh/multi-component-parent-ukdm@sha256:90e20f55289bcf7efc663c65b23395f0e44b512f1df225ef12a074a0ff38feda
+FROM quay.io/redhat-appstudio-qe/build-e2e-cupm-tenant/build-suite-component-update-lmoh/multi-component-parent-ukdm@sha256:59a2120b1c6e7300b2a2b9da9365eff5b9b2ecd9ed73cced7ab68977751fab1b
 RUN echo hello
