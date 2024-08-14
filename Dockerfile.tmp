@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ekmc-tenant/build-suite-component-update-ooxt/multi-component-parent-chpz@sha256:8550d8eabcc73a379270f5000eaceab7cf706569d0865cfcad2c2a0d3c036f93
+FROM quay.io/redhat-appstudio-qe/build-e2e-ekmc-tenant/build-suite-component-update-ooxt/multi-component-parent-chpz@sha256:f70886900efc3d23b84b368e9cfbef5d316157434f5e16d1743d51dd42ffee87
 RUN echo hello
