@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zzku-tenant/build-suite-component-update-otnp/multi-component-parent-kgbc@sha256:fd577d215cbb5f84b74dfbc363eb2e4f4135690a4fbcd3cd08acd303b8a43604
+RUN echo hello
