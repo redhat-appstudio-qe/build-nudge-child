@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wehd-tenant/build-suite-component-update-nwvs/multi-component-parent-dunf@sha256:4a704f3e96d2022fb5396f19baa02fd868e5acd35eb56959005894ab34788a24
+FROM quay.io/redhat-appstudio-qe/build-e2e-wehd-tenant/build-suite-component-update-nwvs/multi-component-parent-dunf@sha256:e580004aa96fa2550d2eed45a8752066cd6552af1d57e14418ce5a8f2e9fa041
 RUN echo hello
