@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-whht-tenant/build-suite-component-update-rtpy/multi-component-parent-cinb@sha256:7f0fb598e420933a7dde52bbcf5da893531f2629ce11ca70c026e799777d2d0e
+RUN echo hello
