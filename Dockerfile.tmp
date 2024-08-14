@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pvoy-tenant/build-suite-component-update-leop/multi-component-parent-juxm@sha256:074421b4ce3323541d829581f27f3b7cebeac767944703ccb28a5456f21f61dc
+RUN echo hello
