@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-omkd-tenant/build-suite-component-update-kfdv/multi-component-parent-hwex@sha256:c2429748f767e8db7c9ac426079757edef7b36630802301157ceb3d1576ec706
+RUN echo hello
