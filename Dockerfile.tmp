@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-zzku-tenant/build-suite-component-update-otnp/multi-component-parent-kgbc@sha256:fd577d215cbb5f84b74dfbc363eb2e4f4135690a4fbcd3cd08acd303b8a43604
+FROM quay.io/redhat-appstudio-qe/build-e2e-zzku-tenant/build-suite-component-update-otnp/multi-component-parent-kgbc@sha256:14d798d0fff3c6b06c2767e88d4c3b9455196b6e6fc7ba6a975f61ddcdf675b1
 RUN echo hello
