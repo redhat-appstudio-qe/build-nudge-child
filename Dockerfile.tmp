@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-trie-tenant/build-suite-component-update-bvzy/multi-component-parent-bavm@sha256:b68795e62138f3325e5c44502dd39b898b0f1838a773aa87d140c9aa9f8fdff9
+FROM quay.io/redhat-appstudio-qe/build-e2e-trie-tenant/build-suite-component-update-bvzy/multi-component-parent-bavm@sha256:27970664074f23bfba088d848bcce0904055e3a87aba548bc04ddbdbfc835b87
 RUN echo hello
