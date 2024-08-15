@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gcoa-tenant/build-suite-component-update-dyoa/multi-component-parent-ubxe@sha256:cb3a6a016374cc8d8e2e50069a8f97750e27cba74a1bbd347a87ab5eaf51c405
+FROM quay.io/redhat-appstudio-qe/build-e2e-gcoa-tenant/build-suite-component-update-dyoa/multi-component-parent-ubxe@sha256:4db6faf36e94c4dc6ae6678f073a03076aaa39c8a57da6a69774adaf0af8f246
 RUN echo hello
