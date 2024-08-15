@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jvxn-tenant/build-suite-component-update-nbze/multi-component-parent-fxru@sha256:f99fd395394cffc3775ba95458c6412ca1721d9e4268f3792d2e3cda0138a6a6
+FROM quay.io/redhat-appstudio-qe/build-e2e-jvxn-tenant/build-suite-component-update-nbze/multi-component-parent-fxru@sha256:c195e3153dfde6f4d9d572908c457c6c812e1e2e1b06fb4e8dbe8b667fe8ab09
 RUN echo hello
