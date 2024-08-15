@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-iphk-tenant/build-suite-component-update-jzvq/multi-component-parent-bolh@sha256:0ae7f1de5c4d1d5795d8f3a471ce8650d41c92e5124a29e5e54b37cf091f3b05
+RUN echo hello
