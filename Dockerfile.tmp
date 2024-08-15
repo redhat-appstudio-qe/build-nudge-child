@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-sfmx-tenant/build-suite-component-update-oxvm/multi-component-parent-tslb@sha256:773f7439db88d77120e03b80003372bcc9daca1827d7bf9b7f21712ca65758a0
+RUN echo hello
