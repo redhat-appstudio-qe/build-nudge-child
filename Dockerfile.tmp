@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hfub-tenant/build-suite-component-update-liap/multi-component-parent-khes@sha256:20309e178d3030673346f56352189c2dc1a1c3ab5bd74b26e726cf18b6f91528
+RUN echo hello
