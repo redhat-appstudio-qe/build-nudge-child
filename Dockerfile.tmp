@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jprp-tenant/build-suite-component-update-kebn/multi-component-parent-upku@sha256:3af7520d60f031f6e8fd5188ef5a89eef8a4719bd312721512059ab9a3e777a0
+FROM quay.io/redhat-appstudio-qe/build-e2e-jprp-tenant/build-suite-component-update-kebn/multi-component-parent-upku@sha256:e4e7fc90c39fa120519c524ad33cc32a0dd45f37085f6d10f972386d92a0ba10
 RUN echo hello
