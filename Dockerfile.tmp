@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hoii-tenant/build-suite-component-update-oikx/multi-component-parent-nrrd@sha256:92981f53d0f2a64dc39d0bd4f1230e67d1cef4e4759ddb2f2d9c0966deb0ac37
+FROM quay.io/redhat-appstudio-qe/build-e2e-hoii-tenant/build-suite-component-update-oikx/multi-component-parent-nrrd@sha256:1bb0b7a9ce8fe941ab58ccc99168aae408d8fcec6879abe9ea492efb8f34d4f3
 RUN echo hello
