@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-aqcx-tenant/build-suite-component-update-nodj/multi-component-parent-hexo@sha256:ba836d634c567468e90ed3094cfdfdac1e8e29bff3ad13882a6b517a741d9e8c
+RUN echo hello
