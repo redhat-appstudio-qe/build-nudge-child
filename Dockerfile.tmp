@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jgms-tenant/build-suite-component-update-kvrq/multi-component-parent-ierm@sha256:72a54c7792eb1b4f0158eaac7e18bfe19689096e7617b7b253c11517584585f0
+RUN echo hello
