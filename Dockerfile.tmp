@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-krzp-tenant/build-suite-component-update-hfax/multi-component-parent-rhal@sha256:5b8016d898e8f8cb89b3d6004fe61757027daa40cb4781b898c033f0148c941c
+FROM quay.io/redhat-appstudio-qe/build-e2e-krzp-tenant/build-suite-component-update-hfax/multi-component-parent-rhal@sha256:8b3095cf2c876f39a7e4fd209794727945aebc65f3228aaf6e130ac0423dfeff
 RUN echo hello
