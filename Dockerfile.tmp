@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tppi-tenant/build-suite-component-update-fpyp/multi-component-parent-spvb@sha256:eebf024a8300388fc59c7e5df3bba375dd333bf850b134246bb151a1b6d0f990
+RUN echo hello
