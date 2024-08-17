@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-flvb-tenant/build-suite-component-update-sbim/multi-component-parent-ebff@sha256:7453057956226a7ecece2e3ec81748efaea9c0081c24a0d76d26aa23939de499
+RUN echo hello
