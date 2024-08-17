@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jbza-tenant/build-suite-component-update-otrk/multi-component-parent-xlhq@sha256:eaa9570b3ffc882e9acfd71d21e6f2bf818407b0939b1b08861468e073e090a3
+FROM quay.io/redhat-appstudio-qe/build-e2e-jbza-tenant/build-suite-component-update-otrk/multi-component-parent-xlhq@sha256:4d05d5e8dc991e378585040b9da7849e3327a299869d83ca73a7efe83e8bd69a
 RUN echo hello
