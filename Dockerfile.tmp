@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vtlf-tenant/build-suite-component-update-uovj/multi-component-parent-yfli@sha256:917660803296e0ba8bfdbad55aeaec80d62a2a13e4a3285d428ef6615b44e3c0
+FROM quay.io/redhat-appstudio-qe/build-e2e-vtlf-tenant/build-suite-component-update-uovj/multi-component-parent-yfli@sha256:fc83830a826b02559246326230b991d210a9bd5af250c105d01649e419d4c33b
 RUN echo hello
