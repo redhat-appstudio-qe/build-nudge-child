@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-amvj-tenant/build-suite-component-update-zrii/multi-component-parent-womn@sha256:96607561669fd3c5ea0bc81f164b98534010da8493f88698939ad6643bd4c657
+FROM quay.io/redhat-appstudio-qe/build-e2e-amvj-tenant/build-suite-component-update-zrii/multi-component-parent-womn@sha256:56b7598c5ab368305303b675a172aed12c8f04765121b5036ac2728db8d9d5ff
 RUN echo hello
