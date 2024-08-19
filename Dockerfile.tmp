@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-egql-tenant/build-suite-component-update-hbmu/multi-component-parent-gsyc@sha256:50c56721a12e16486b8a8556064a9be2ab3b021bd416012cc98bd2fe9d24ba51
+FROM quay.io/redhat-appstudio-qe/build-e2e-egql-tenant/build-suite-component-update-hbmu/multi-component-parent-gsyc@sha256:fa01bd7bed4c76ec113d442527a85f6a665331beac3410bb5f8ca4e25ea52c15
 RUN echo hello
