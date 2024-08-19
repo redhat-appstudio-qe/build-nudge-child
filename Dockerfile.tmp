@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ngay-tenant/build-suite-component-update-xvzl/multi-component-parent-ppmd@sha256:f6b5dd4ec7e54e7dd20ce60711ca35234383bad859f41b3f8c7a1c11340e539f
+FROM quay.io/redhat-appstudio-qe/build-e2e-ngay-tenant/build-suite-component-update-xvzl/multi-component-parent-ppmd@sha256:244d2ac80bc6406f231be593b0cf2a8edc6839efeb24fa2f5513a6fce15d1c17
 RUN echo hello
