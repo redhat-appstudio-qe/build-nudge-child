@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-acby-tenant/build-suite-component-update-huzz/multi-component-parent-ovau@sha256:36b05feaaa7685fcb61c9c4eab34988e7ea42f95698aaa3fe926b7b4b704c0da
+FROM quay.io/redhat-appstudio-qe/build-e2e-acby-tenant/build-suite-component-update-huzz/multi-component-parent-ovau@sha256:04e7087dcbde8cfc10c39a4afa2e07f9bcdc952bce98e4cacc9a55eec84dc71f
 RUN echo hello
