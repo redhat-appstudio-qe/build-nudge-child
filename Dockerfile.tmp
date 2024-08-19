@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-knll-tenant/build-suite-component-update-dudq/multi-component-parent-dvzg@sha256:b95b66f6d8189f064ddb581a295b19870752e95bd99d8623b18812991630bc00
+FROM quay.io/redhat-appstudio-qe/build-e2e-knll-tenant/build-suite-component-update-dudq/multi-component-parent-dvzg@sha256:0ccddcc9e5c4500a0331ef54c496bb3f8fa5da3626e578e65e038367c3086b75
 RUN echo hello
