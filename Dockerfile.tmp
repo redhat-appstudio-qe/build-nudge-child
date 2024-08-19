@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lukj-tenant/build-suite-component-update-zfrk/multi-component-parent-mdax@sha256:00f234adffd5edf89ae8ec1ca25fe92ca995b52d81aff2b6b7c9a7802068fcd9
+RUN echo hello
