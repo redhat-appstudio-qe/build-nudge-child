@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wgfa-tenant/build-suite-component-update-igvq/multi-component-parent-mvmt@sha256:37c79bb603101e8d4686c8e28c1555bae27fc71d0d61ee55551fbfa066ce9ff6
+RUN echo hello
