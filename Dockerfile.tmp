@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-yyen-tenant/build-suite-component-update-tawe/multi-component-parent-zbme@sha256:e7cafd06332f3465e05a34aa31d7a8669bdcf2fe167142ce4f75d64e1898da87
+RUN echo hello
