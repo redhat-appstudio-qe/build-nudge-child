@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dcjx-tenant/build-suite-component-update-ghxr/multi-component-parent-wrda@sha256:e57a8f0698bdbbb9e009fb38696a1194bd8ab19af151676adf79d2f7ec5b5f57
+FROM quay.io/redhat-appstudio-qe/build-e2e-dcjx-tenant/build-suite-component-update-ghxr/multi-component-parent-wrda@sha256:8e94c6a51c9ee7213e9a0879cad445abc66809e990041310a6ee85699e41bde1
 RUN echo hello
