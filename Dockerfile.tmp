@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nuks-tenant/build-suite-component-update-mafo/multi-component-parent-yyqk@sha256:1e96d24293a263707b53e0ff97528450d0dacc2ec1178a066e3b2fefe67543f7
+RUN echo hello
