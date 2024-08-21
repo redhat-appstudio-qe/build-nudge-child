@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lihv-tenant/build-suite-component-update-rgws/multi-component-parent-uwdf@sha256:2eb3d85e14d070d022263750a3bd0c95b32d8a9d56b3d569c220ae45bebb2fe4
+FROM quay.io/redhat-appstudio-qe/build-e2e-lihv-tenant/build-suite-component-update-rgws/multi-component-parent-uwdf@sha256:e05a8c3005d965d2e3e81d227d221f27ab6d3cf22c56fe7b33130b9c57610441
 RUN echo hello
