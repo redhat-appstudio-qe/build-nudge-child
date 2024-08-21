@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tkvi-tenant/build-suite-component-update-ufvr/multi-component-parent-hdhl@sha256:38d84bdb1ab6f488389ce841dc6e6ae8677da7d3a262ef806efa4e34186f7bbb
+RUN echo hello
