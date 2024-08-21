@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-urbc-tenant/build-suite-component-update-cbmo/multi-component-parent-ordy@sha256:c1f89627957e7ca825e2d1e0fd76244af1b1b433d17a90ae36cf51be9c7d81f2
+RUN echo hello
