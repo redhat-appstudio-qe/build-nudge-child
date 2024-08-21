@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xrjs-tenant/build-suite-component-update-pboi/multi-component-parent-errk@sha256:95b1c3b0cfb57fd8676ffaf2c902b709f95dce2858fa4fbd0ef379dcf9e00ed6
+RUN echo hello
