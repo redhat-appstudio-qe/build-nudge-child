@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-kavy-tenant/build-suite-component-update-eewc/multi-component-parent-bird@sha256:75f50637b9add570cb319409ed4965082f86cae4b410ebda4f7ff21d591976e8
+RUN echo hello
