@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-kxgp-tenant/build-suite-component-update-canr/multi-component-parent-wyif@sha256:47933fa1cc5a4ed0f94e50e4a99b0c08e89080427f1d704eb641aff22fdf95e6
+FROM quay.io/redhat-appstudio-qe/build-e2e-kxgp-tenant/build-suite-component-update-canr/multi-component-parent-wyif@sha256:6c8046020273ede760ef5b470e193fcbcfaedbc489b7f4042f9e6171e063a546
 RUN echo hello
