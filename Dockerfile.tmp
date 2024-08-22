@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-imhj-tenant/build-suite-component-update-fffr/multi-component-parent-rqmz@sha256:4a9fcf85e493136fc61cf4701568d0fed21e540835b0bd4aff6094df3ac9a6c8
+FROM quay.io/redhat-appstudio-qe/build-e2e-imhj-tenant/build-suite-component-update-fffr/multi-component-parent-rqmz@sha256:96ee33e396f840c629a0fcb41a1c29e67371d6c024306cee510a92f7f685988b
 RUN echo hello
