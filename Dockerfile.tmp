@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-kqpl-tenant/build-suite-component-update-lppl/multi-component-parent-sfmi@sha256:483e4d96a29adcaf2bf292d4b784bda27d175e92e5bc7c8418594ef8dbd62740
+RUN echo hello
