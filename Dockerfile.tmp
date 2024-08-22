@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-upyt-tenant/build-suite-component-update-kaku/multi-component-parent-kwth@sha256:dcd056aea39608711939168fdab6112f1fd1d287ca3deb99d9b5a38e9fd76c44
+RUN echo hello
