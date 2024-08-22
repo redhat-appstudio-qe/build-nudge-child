@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-qsba-tenant/build-suite-component-update-faet/multi-component-parent-oaac@sha256:46dd5d09d14c58c93d37df1d42014f8742aad96e5a4b5e645e0beaed6986950a
+RUN echo hello
