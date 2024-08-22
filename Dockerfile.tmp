@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ghap-tenant/build-suite-component-update-kvak/multi-component-parent-vcue@sha256:422045699336e9edf2349cba5ec9a204fc17465543bd9609893ab376e24dfe17
+FROM quay.io/redhat-appstudio-qe/build-e2e-ghap-tenant/build-suite-component-update-kvak/multi-component-parent-vcue@sha256:3a73f7d23ee6e6c8785d1442f5d4a3006cf7679ead4d5142f89a71a2dcc028cd
 RUN echo hello
