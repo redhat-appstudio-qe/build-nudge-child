@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-phtk-tenant/build-suite-component-update-zqng/multi-component-parent-kyln@sha256:641e179d0034e18b02970a57f20019a213941c93eb119fd27d59a75a98af9927
+RUN echo hello
