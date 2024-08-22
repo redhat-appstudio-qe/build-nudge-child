@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-aecl-tenant/build-suite-component-update-dumu/multi-component-parent-qpoe@sha256:fb4c404ea3bab63c0895022585b9ab960d5f0cfac6b11bb545f040666df869f3
+FROM quay.io/redhat-appstudio-qe/build-e2e-aecl-tenant/build-suite-component-update-dumu/multi-component-parent-qpoe@sha256:f74ff2e6e08e451872355bb1b637b2e92e195be7c4ba5cec8844f3571b065309
 RUN echo hello
