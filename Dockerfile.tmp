@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-stul-tenant/build-suite-component-update-xrbk/multi-component-parent-qgfg@sha256:5656b4aaf1850cceeb730d72ce8912e86a08bc7a66715f33bed78aed512c5199
+RUN echo hello
