@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-kthy-tenant/build-suite-component-update-mjrv/multi-component-parent-kalv@sha256:1be2da991f80ecc16b9217d0268b4cf49d976eeeb49d1912a7af188f134cdfb1
+RUN echo hello
