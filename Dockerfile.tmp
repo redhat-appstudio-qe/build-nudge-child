@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-damh-tenant/build-suite-component-update-naah/multi-component-parent-gpsk@sha256:0da27c0d4ecf57abe1495727692d769c7f26ddc3fdca67290c7c73ef7e7c9cf9
+FROM quay.io/redhat-appstudio-qe/build-e2e-damh-tenant/build-suite-component-update-naah/multi-component-parent-gpsk@sha256:2f2cb3c52854e3bab3824166db5e14b1ed3a4d3a57bbcde0654cc86872ae25b9
 RUN echo hello
