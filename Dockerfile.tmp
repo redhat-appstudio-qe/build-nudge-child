@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-prza-tenant/build-suite-component-update-ohvs/multi-component-parent-ircz@sha256:dcab7bc8193cef3916c004cce8409501add00fef522cb0b8d4a5e6f1ccac7355
+FROM quay.io/redhat-appstudio-qe/build-e2e-prza-tenant/build-suite-component-update-ohvs/multi-component-parent-ircz@sha256:692227bb96f2181cf1e38cdb7a4e906affd7d0de06217a51f4dc0aa6f865541a
 RUN echo hello
