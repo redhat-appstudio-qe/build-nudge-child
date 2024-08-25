@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cano-tenant/build-suite-component-update-nick/multi-component-parent-wfqk@sha256:baf565c903c01d81cfcd98b13f79c35dde123b16e84d6cf45ece72f439fcfe48
+RUN echo hello
