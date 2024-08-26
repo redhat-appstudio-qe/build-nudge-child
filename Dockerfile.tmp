@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bfol-tenant/build-suite-component-update-kjny/multi-component-parent-stem@sha256:2cfcc8c3c9f463a88a783f10bd28b770f36a1e63a00c3469c1a9737237e6865d
+FROM quay.io/redhat-appstudio-qe/build-e2e-bfol-tenant/build-suite-component-update-kjny/multi-component-parent-stem@sha256:e056d4bc071a93b683d6f547850c275191737b04213df9f864419174d30af529
 RUN echo hello
