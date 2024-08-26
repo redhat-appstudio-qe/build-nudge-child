@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-qqmg-tenant/build-suite-component-update-kmlw/multi-component-parent-fhvu@sha256:e8d25e95d049ce8268f9c8bd6c0a226125b2cd668df0fa0aaee9e3d0862c5c3a
+RUN echo hello
