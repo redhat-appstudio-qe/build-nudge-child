@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cygb-tenant/build-suite-component-update-zhas/multi-component-parent-rmzo@sha256:e111e4c1032f89fec2b6f249498c9057ede846e53538cc4f1cf09b7377e710fd
+RUN echo hello
