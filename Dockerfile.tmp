@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-efmn-tenant/build-suite-component-update-nuyn/multi-component-parent-mytd@sha256:415ff81318beea38f6ce6ba0e7284e501ccfc155d61f90ef3f82114785fd06bc
+RUN echo hello
