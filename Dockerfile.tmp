@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xhnp-tenant/build-suite-component-update-chaw/multi-component-parent-ipji@sha256:7aa93504c0bacd7d9410cd127553b2bcb4c2536e0dcdc6a7971eccd5cff32e82
+FROM quay.io/redhat-appstudio-qe/build-e2e-xhnp-tenant/build-suite-component-update-chaw/multi-component-parent-ipji@sha256:8e4f1df0da844d746180a7c29ec1aa2548a08456849a143ac940c15d2be05b9f
 RUN echo hello
