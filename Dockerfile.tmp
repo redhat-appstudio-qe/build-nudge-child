@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tteo-tenant/build-suite-component-update-cpoz/multi-component-parent-tqim@sha256:b035aee3878014f1ff6fe28cc917da970b49df1d857b2a0b2a40e00b91811ae9
+FROM quay.io/redhat-appstudio-qe/build-e2e-tteo-tenant/build-suite-component-update-cpoz/multi-component-parent-tqim@sha256:93591320acab08a738643d8980b87ac359f7086ce23d0e0f5198d4b58d096348
 RUN echo hello
