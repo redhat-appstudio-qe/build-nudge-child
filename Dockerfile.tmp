@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xpht-tenant/build-suite-component-update-omsx/multi-component-parent-amuq@sha256:111c8c0f3a74937abaf373135ef512e1b07af82d6983e8e1238ec14508ace288
+RUN echo hello
