@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zwgi-tenant/build-suite-component-update-uzrs/multi-component-parent-ekvd@sha256:ae1f178aed041fe3420a106b83ecbf04b7e9de10a6823d16e90f87d6d3c2e6ce
+RUN echo hello
