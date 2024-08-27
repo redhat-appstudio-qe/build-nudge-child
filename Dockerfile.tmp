@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lgsk-tenant/build-suite-component-update-cuvm/multi-component-parent-oclh@sha256:e5e71ed8ebd55306b085e52778e20c577b1275729efd8bbfd87739c0a1589266
+RUN echo hello
