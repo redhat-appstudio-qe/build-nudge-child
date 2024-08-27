@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-euxo-tenant/build-suite-component-update-bpao/multi-component-parent-hkfy@sha256:f1ba147304c683242010a7bc62aeb817bea3288d3cbfe4af45235278021b95a8
+FROM quay.io/redhat-appstudio-qe/build-e2e-euxo-tenant/build-suite-component-update-bpao/multi-component-parent-hkfy@sha256:460bc6f48f580fa5f075be893e478c82b199c02a5d68525f9ed2d26c81582bf5
 RUN echo hello
