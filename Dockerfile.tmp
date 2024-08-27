@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-yrcs-tenant/build-suite-component-update-hact/multi-component-parent-jkwp@sha256:a049d01a96d81627f54c7f493b4bc0fcde45f2ea1a7af66f4ddf9bdfde862bd2
+FROM quay.io/redhat-appstudio-qe/build-e2e-yrcs-tenant/build-suite-component-update-hact/multi-component-parent-jkwp@sha256:eaeb2d50c7c54fcbabd43932daec0c7dc6fd6cd5e4890577ebf0a56cec7f6a40
 RUN echo hello
