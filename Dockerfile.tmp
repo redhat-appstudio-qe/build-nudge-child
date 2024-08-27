@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-zwpf-tenant/build-suite-component-update-lhva/multi-component-parent-gnwz@sha256:f6bf127bf1c58b4730f2798b98c074778e01730b8bfb69f3772bf38e016ef79d
+FROM quay.io/redhat-appstudio-qe/build-e2e-zwpf-tenant/build-suite-component-update-lhva/multi-component-parent-gnwz@sha256:b0597186f882b0bac6b7c0d8f062df881709d1d52c78e89377b6e752bdcb2e56
 RUN echo hello
