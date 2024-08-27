@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dsrs-tenant/build-suite-component-update-hwlq/multi-component-parent-ouwr@sha256:ca540961a30c1145346c728594d11c1f68647fa5495ffce05242300c2bc58aed
+FROM quay.io/redhat-appstudio-qe/build-e2e-dsrs-tenant/build-suite-component-update-hwlq/multi-component-parent-ouwr@sha256:53198171565e724124e21ba37494eb9388dcf9b76062e93dee38ea578918a3ce
 RUN echo hello
