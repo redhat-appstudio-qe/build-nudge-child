@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-whbr-tenant/build-suite-component-update-usph/multi-component-parent-dxsu@sha256:1576e80ff991c0ab646aafcd5ff71d013e16691c4b4f5ba3e0199a33330b29d9
+FROM quay.io/redhat-appstudio-qe/build-e2e-whbr-tenant/build-suite-component-update-usph/multi-component-parent-dxsu@sha256:b03553228bc5a84bc316c62c6cd0405ef6c907015d5f121b1c3b3a96776c26e3
 RUN echo hello
