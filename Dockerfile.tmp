@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zcga-tenant/build-suite-component-update-jhap/multi-component-parent-ftph@sha256:02ca69e99ac19ec2cd6e1927cae0e51a1fb5df52fc838302bd761ba22355a03b
+RUN echo hello
