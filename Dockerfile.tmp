@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rage-tenant/build-suite-component-update-owls/multi-component-parent-kgin@sha256:a903100bd7fcfb660fe2f9887761b28fe39ed8775faecbad2dd3e957a6b93f24
+RUN echo hello
