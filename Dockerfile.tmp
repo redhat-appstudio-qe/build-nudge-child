@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-muhf-tenant/build-suite-component-update-asna/multi-component-parent-gdno@sha256:acad02c89b78b2625890b70b6a9b1aa69308cd4577e94d714efb24f0501c46d8
+FROM quay.io/redhat-appstudio-qe/build-e2e-muhf-tenant/build-suite-component-update-asna/multi-component-parent-gdno@sha256:3f57f9de9c07e043838ca7456553b23476400fb4d1ab95a79dd70b7d2d7c6503
 RUN echo hello
