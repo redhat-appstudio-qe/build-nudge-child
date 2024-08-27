@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bpub-tenant/build-suite-component-update-fnka/multi-component-parent-pkqz@sha256:8ae439f1ecb8c20910ba8af7480f8b6168ca037772d7534612e7b940502fc7e6
+FROM quay.io/redhat-appstudio-qe/build-e2e-bpub-tenant/build-suite-component-update-fnka/multi-component-parent-pkqz@sha256:7927332435975388d6e144a320aef41335d111b5edd05f8e3ef51a1d18289987
 RUN echo hello
