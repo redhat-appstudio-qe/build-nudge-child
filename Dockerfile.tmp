@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-sbcu-tenant/build-suite-component-update-elwy/multi-component-parent-kjkd@sha256:e124653e8ea6e634506882c0d890925443e8f1383b6f1b76ce75bbf6925a8c81
+RUN echo hello
