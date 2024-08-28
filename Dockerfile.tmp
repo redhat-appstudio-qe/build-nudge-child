@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vufr-tenant/build-suite-component-update-ahwd/multi-component-parent-nahc@sha256:4d44aedd0c4899369c3583c46c4c442c69fea0423cd723dd082bc2eab53acced
+FROM quay.io/redhat-appstudio-qe/build-e2e-vufr-tenant/build-suite-component-update-ahwd/multi-component-parent-nahc@sha256:81fc76bda324a9d10f8042ad14f23ccb32045c1326d18887ec8e979a82219489
 RUN echo hello
