@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bhus-tenant/build-suite-component-update-ebah/multi-component-parent-znno@sha256:cbcbdc173b5eecf93ebf2874ee89a5c9651608e853e036baa0d3fc6796a1e670
+FROM quay.io/redhat-appstudio-qe/build-e2e-bhus-tenant/build-suite-component-update-ebah/multi-component-parent-znno@sha256:87c2f5def30f8c3474ac2e36819000de196536defd51325ce3a24ada5a197ac2
 RUN echo hello
