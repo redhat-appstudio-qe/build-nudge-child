@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-oxdr-tenant/build-suite-component-update-wznd/multi-component-parent-uaxs@sha256:0bef858c51003dc2004274584fa1c1646f821107e6fee09550967917480591a1
+RUN echo hello
