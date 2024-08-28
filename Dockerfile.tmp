@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wrtb-tenant/build-suite-component-update-jozt/multi-component-parent-peif@sha256:cba217b566f78a5aaee301f49882123b4490df3b5fb799fb8c31ee2fd4e0f807
+FROM quay.io/redhat-appstudio-qe/build-e2e-wrtb-tenant/build-suite-component-update-jozt/multi-component-parent-peif@sha256:5da96d8f9482282d664cabcf7e6a538bb3d9039604abeb31190cf60372dd5585
 RUN echo hello
