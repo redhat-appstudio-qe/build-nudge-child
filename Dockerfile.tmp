@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-zysy-tenant/build-suite-component-update-ctup/multi-component-parent-vhwd@sha256:f14135f4e9e245a0798ffd6e270efb38da064c6d0215ef199398f077c9b2e936
+FROM quay.io/redhat-appstudio-qe/build-e2e-zysy-tenant/build-suite-component-update-ctup/multi-component-parent-vhwd@sha256:56aa5d54c17e229b2218b96b568effa059b5b461b138ee1b6f446944486d1a45
 RUN echo hello
