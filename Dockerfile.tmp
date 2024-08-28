@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xmrs-tenant/build-suite-component-update-mfas/multi-component-parent-zfqn@sha256:92d36d72c1940a31906199f0910d53fa66ff39a6898c7d1bbda84ac1974493a7
+FROM quay.io/redhat-appstudio-qe/build-e2e-xmrs-tenant/build-suite-component-update-mfas/multi-component-parent-zfqn@sha256:82860429bf9ab0a9c3e3c086f19bb51caf9616609a27aa16b24890502a3b19b3
 RUN echo hello
