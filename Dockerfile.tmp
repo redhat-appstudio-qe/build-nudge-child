@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pyhb-tenant/build-suite-component-update-zhnp/multi-component-parent-sttn@sha256:d9098e03dd7b502ab7a074590a49682c27197638cc2f04512143206ed4eb00fb
+RUN echo hello
