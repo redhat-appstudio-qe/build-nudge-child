@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-sfhc-tenant/build-suite-component-update-ijic/multi-component-parent-dvon@sha256:e287b16849ccbe352e00d9a27a84aa29f79b11a3985a4ff8e0be76abb419a22a
+FROM quay.io/redhat-appstudio-qe/build-e2e-sfhc-tenant/build-suite-component-update-ijic/multi-component-parent-dvon@sha256:d25cef66c2e66b38d5a8ba7c7f1762f9cdfd22d8857c9df54ed2eb896ebca9ae
 RUN echo hello
