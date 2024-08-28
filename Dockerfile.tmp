@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-piem-tenant/build-suite-component-update-faij/multi-component-parent-kyng@sha256:6828676d5723b591bcf9a24dfd099562c814605c3848b1acfbf1d510c72bf299
+RUN echo hello
