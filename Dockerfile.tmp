@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-pjsb-tenant/build-suite-component-update-xmsw/multi-component-parent-pgjt@sha256:83dc8ede519b61ffc649fc3ccd52a33bfffd5a1a2ae5f0ce80bdab54bce848c0
+FROM quay.io/redhat-appstudio-qe/build-e2e-pjsb-tenant/build-suite-component-update-xmsw/multi-component-parent-pgjt@sha256:007b36e10fbde2105477db5c8bec98185c9ef71c3aed477cc55a3a38369c127a
 RUN echo hello
