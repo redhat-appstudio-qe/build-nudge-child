@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ctcd-tenant/build-suite-component-update-vasq/multi-component-parent-lxts@sha256:1bae5bc6f30a6045a3c3a8bce13f9f862c0dceb91db4ccebc58352d500fd5812
+FROM quay.io/redhat-appstudio-qe/build-e2e-ctcd-tenant/build-suite-component-update-vasq/multi-component-parent-lxts@sha256:4bbcc1e5c12740a21db63f6644463c838548a91da3ccea7fe69a577504701725
 RUN echo hello
