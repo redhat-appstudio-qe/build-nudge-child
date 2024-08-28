@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pflu-tenant/build-suite-component-update-omzv/multi-component-parent-qbgz@sha256:755890d4e7d62d7234f79072ab918d3c861489d4774618f677e1315a2fd278ca
+RUN echo hello
