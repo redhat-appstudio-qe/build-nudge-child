@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gaji-tenant/build-suite-component-update-fpmy/multi-component-parent-zgrr@sha256:c62cede25ca969d56270e3d1ab53cb21bc27a7a0817d37f0e5274f85c624964b
+FROM quay.io/redhat-appstudio-qe/build-e2e-gaji-tenant/build-suite-component-update-fpmy/multi-component-parent-zgrr@sha256:588d14be4e1318c4fcd24e06b11ee9764b9bc20729552c110968c24455e4933e
 RUN echo hello
