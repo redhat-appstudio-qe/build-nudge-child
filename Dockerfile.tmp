@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-kixr-tenant/build-suite-component-update-hzuo/multi-component-parent-cvzw@sha256:30c40b19f1845a9ad2ca76409c2d7e2a478a6e06a1feed22b5f6f39b7cc21b61
+FROM quay.io/redhat-appstudio-qe/build-e2e-kixr-tenant/build-suite-component-update-hzuo/multi-component-parent-cvzw@sha256:a0ca905fa9e1ae6264cc8ff4b467f193c84b132fea91fa80a0a6681861c94620
 RUN echo hello
