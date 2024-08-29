@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mkvv-tenant/build-suite-component-update-maas/multi-component-parent-yhba@sha256:b8352aa0125eb71c12d29a1a4cdde289276827b2eb4e422b8e1cd1db86764bdc
+RUN echo hello
