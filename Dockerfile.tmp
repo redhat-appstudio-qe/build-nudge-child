@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bhis-tenant/build-suite-component-update-rwoq/multi-component-parent-kssn@sha256:b4b254d4abfec3630959544dbe3971f592d848d8cadd7da5e631eb40ef5c707f
+RUN echo hello
