@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-evnn-tenant/build-suite-component-update-gjmi/multi-component-parent-zpeq@sha256:ba2237122632f6e23267e76e8ea5e58d2a5de6a3da3ba8e85a398621b7886e5a
+FROM quay.io/redhat-appstudio-qe/build-e2e-evnn-tenant/build-suite-component-update-gjmi/multi-component-parent-zpeq@sha256:81859dca3b824be104fe411f381df1e0f4cad14884f6cce6ca516e7e99fff6df
 RUN echo hello
