@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tmhl-tenant/build-suite-component-update-coai/multi-component-parent-nyrf@sha256:cb24c6bad9cf79a65ee5329c4e662af056c6fbcd1e69c047838866350d3c802c
+FROM quay.io/redhat-appstudio-qe/build-e2e-tmhl-tenant/build-suite-component-update-coai/multi-component-parent-nyrf@sha256:0c01c835cfce421931649a4c855d8f203d2433ae69f4bb17d1bce83ef6ff216a
 RUN echo hello
