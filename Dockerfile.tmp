@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-lrsu-tenant/build-suite-component-update-ptlf/multi-component-parent-xrwd@sha256:e08b6a758fc81afbca773a006616feed8bc07c3a7f360ef920ff65e942055c7f
+FROM quay.io/redhat-appstudio-qe/build-e2e-lrsu-tenant/build-suite-component-update-ptlf/multi-component-parent-xrwd@sha256:dd99edcf9380bfaed1ff1d4f880f46b3718335662d69da5db7eccdb2d2423ab4
 RUN echo hello
