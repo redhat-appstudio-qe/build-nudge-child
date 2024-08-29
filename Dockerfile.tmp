@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tpne-tenant/build-suite-component-update-ljxq/multi-component-parent-qttw@sha256:817a4f692f1a5b9db40795d116702bcf95d4c56d5304e006cb2e7e0570f3c019
+FROM quay.io/redhat-appstudio-qe/build-e2e-tpne-tenant/build-suite-component-update-ljxq/multi-component-parent-qttw@sha256:a9394f9b26f36ce042a530f2a5d320f6766faabe691750c4d1467e8d16ea6d83
 RUN echo hello
