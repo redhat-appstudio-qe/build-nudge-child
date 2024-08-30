@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hntq-tenant/build-suite-component-update-fona/multi-component-parent-vyuo@sha256:0b7c1c517b34ccb0cfddfeb8e2fe122851da4ff02c7a9930bab1dd2e628f9159
+FROM quay.io/redhat-appstudio-qe/build-e2e-hntq-tenant/build-suite-component-update-fona/multi-component-parent-vyuo@sha256:4e1bcb53b25cd52e2d3cca3681e174a4ccdf7c65d90d50691cf21c303dcfcda9
 RUN echo hello
