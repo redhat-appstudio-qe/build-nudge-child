@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-yubx-tenant/build-suite-component-update-zvox/multi-component-parent-qdvg@sha256:897e0991d63ae55884979e4ee221ddd29c12b1bc3028834596172fb83ebc268b
+FROM quay.io/redhat-appstudio-qe/build-e2e-yubx-tenant/build-suite-component-update-zvox/multi-component-parent-qdvg@sha256:173a44da722433248b8821e7dda584db77ca8e445912ced95b275961903d3aba
 RUN echo hello
