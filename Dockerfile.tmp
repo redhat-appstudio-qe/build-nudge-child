@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-nnko-tenant/build-suite-component-update-atvv/multi-component-parent-xkma@sha256:3157ece1d4b0c144696406d6f98de0ba1797b992cee205df77fb75bd35fc77ee
+FROM quay.io/redhat-appstudio-qe/build-e2e-nnko-tenant/build-suite-component-update-atvv/multi-component-parent-xkma@sha256:278cd0f57886760db90040bd3ba98a7cea4186cb42b2335f83d146072d2c4580
 RUN echo hello
