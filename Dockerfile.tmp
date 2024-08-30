@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-kcxf-tenant/build-suite-component-update-vbps/multi-component-parent-cira@sha256:36c0a380d7bc331106e1d8657a0d11d43a2b96c71f30ffb31ec4b4e7641c1a34
+RUN echo hello
