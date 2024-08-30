@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nyto-tenant/build-suite-component-update-rmyq/multi-component-parent-dnrn@sha256:d2eb6c8fd956bda750e26e81501ad79376600b1f441f5dd303f6cb1e66ade583
+RUN echo hello
