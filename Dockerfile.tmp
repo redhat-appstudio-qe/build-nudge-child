@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vbuc-tenant/build-suite-component-update-azqz/multi-component-parent-kpmt@sha256:41e04369617b684cd268bce7c92d1bd85af89bb03ac92b57b6b1bee026535d9e
+RUN echo hello
