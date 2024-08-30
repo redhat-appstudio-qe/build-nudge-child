@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fvri-tenant/build-suite-component-update-sfel/multi-component-parent-mcik@sha256:e1bb936af14f2d71b4b602a7fc922d6e4c63717ddeb14f0a378d6dc1fe29219f
+FROM quay.io/redhat-appstudio-qe/build-e2e-fvri-tenant/build-suite-component-update-sfel/multi-component-parent-mcik@sha256:80f5f25e2560c0a627816f9aec5c3b958d119212dc10f89ee4759a9a762d5f8d
 RUN echo hello
