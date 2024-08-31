@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bcvd-tenant/build-suite-component-update-szqx/multi-component-parent-bvmm@sha256:eb29684ccb4b8e81888c03fe3a08f92d60741dfbe96abec024f721d01c77a346
+RUN echo hello
