@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-kxxm-tenant/build-suite-component-update-oxov/multi-component-parent-pfxp@sha256:2e7b54e880ae4e7f94671d1cab94207b2fa0a7fd8164af8f5e916ad897c2be9f
+FROM quay.io/redhat-appstudio-qe/build-e2e-kxxm-tenant/build-suite-component-update-oxov/multi-component-parent-pfxp@sha256:59eb27b3487aa03361c38cdff39f527e85c0b6515698a42d17dc161ccf5af351
 RUN echo hello
