@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tdvc-tenant/build-suite-component-update-xbiu/multi-component-parent-pbrd@sha256:43376f90f1a603d6c637896061b115f60b9a6de3c9598faf90bed15465689535
+FROM quay.io/redhat-appstudio-qe/build-e2e-tdvc-tenant/build-suite-component-update-xbiu/multi-component-parent-pbrd@sha256:a28434df042ed01cb0875fc6f5fc6e81e2a6b8a36173cbe254b7ecae28b9af81
 RUN echo hello
