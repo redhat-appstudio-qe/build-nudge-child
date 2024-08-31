@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-apxs-tenant/build-suite-component-update-vyqg/multi-component-parent-smod@sha256:1d6d59413525e50e0aae1781fbfd31a30bbe9253a11651bb4a6236872b4656b3
+RUN echo hello
