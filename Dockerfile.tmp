@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pqot-tenant/build-suite-component-update-lcdv/multi-component-parent-etpx@sha256:8fdf0e63a9bef7e22f2d035ad88132e223001829af25af08c1d75354638fd585
+RUN echo hello
