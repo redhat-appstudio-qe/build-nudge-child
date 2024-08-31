@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-sgrc-tenant/build-suite-component-update-weni/multi-component-parent-fmkq@sha256:670f0f34284ace75125239a821eb9b09ca4d589a4e5f0417a7a63e14f6c187f9
+FROM quay.io/redhat-appstudio-qe/build-e2e-sgrc-tenant/build-suite-component-update-weni/multi-component-parent-fmkq@sha256:cbbe163f70e05d4110b69af486d1f468efaff004a4fe933ae17472aa9d0a4ff8
 RUN echo hello
