@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-guyw-tenant/build-suite-component-update-hmur/multi-component-parent-icda@sha256:b54da666ef5c5508c563a9c402ee077cd1a0f1ebfd5ec836dbf263acad8265b1
+FROM quay.io/redhat-appstudio-qe/build-e2e-guyw-tenant/build-suite-component-update-hmur/multi-component-parent-icda@sha256:21ffeb6d3b48bbc0bf8e471b4abfbb7909e9e66b1fb336f57ba7eb626bc66ed2
 RUN echo hello
