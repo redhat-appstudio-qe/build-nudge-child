@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ebpa-tenant/build-suite-component-update-yufy/multi-component-parent-tspr@sha256:2a4a585910c23f3a4e23c9923a0f528267c2f799cc8724e54bb3c74de2411813
+RUN echo hello
