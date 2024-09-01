@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ttrf-tenant/build-suite-component-update-yiih/multi-component-parent-fcak@sha256:99773e573f019821c6644bb316078f6e0f0666c6fee467df837e01bea7286a24
+FROM quay.io/redhat-appstudio-qe/build-e2e-ttrf-tenant/build-suite-component-update-yiih/multi-component-parent-fcak@sha256:231aeb5d89ecd67a357e2fff06d826c33ff7a68a3e9210e79c1f135fe4523c0a
 RUN echo hello
