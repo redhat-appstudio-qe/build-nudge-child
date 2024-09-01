@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ecfa-tenant/build-suite-component-update-jxfu/multi-component-parent-xqkp@sha256:9bdfda4f39948eda39285b09bdf6a40322de0f6d8d2b1324b50b35ef1a087e37
+FROM quay.io/redhat-appstudio-qe/build-e2e-ecfa-tenant/build-suite-component-update-jxfu/multi-component-parent-xqkp@sha256:bafb9cbd70a2128085bca31960590feef5bfd66c23f582c30ef7e46e8a8615e4
 RUN echo hello
