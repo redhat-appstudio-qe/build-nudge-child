@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-krpo-tenant/build-suite-component-update-jcfb/multi-component-parent-qsrl@sha256:03137aebaff7cf309f92abde87eaace7bcdcfc1180eafd611068034c66fd75c3
+RUN echo hello
