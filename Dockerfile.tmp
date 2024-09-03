@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xbob-tenant/build-suite-component-update-bhca/multi-component-parent-wfkg@sha256:24966bc6689c57b32b5bb83c8ae6f3ae943cd8ad009ab3a00b783a60ee5b935c
+FROM quay.io/redhat-appstudio-qe/build-e2e-xbob-tenant/build-suite-component-update-bhca/multi-component-parent-wfkg@sha256:0b0a80f8d1f0ac57d14ade93feae9bc1f2c4a9926a0aa07751e5584c2c35f91c
 RUN echo hello
