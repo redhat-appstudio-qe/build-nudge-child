@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jjoy-tenant/build-suite-component-update-ufcn/multi-component-parent-pzgd@sha256:cc6df4331127c9a04362d90e2f9e7cf5e6e34ab270c360a9e13583dffbb68fd6
+RUN echo hello
