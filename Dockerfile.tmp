@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jsde-tenant/build-suite-component-update-gkuo/multi-component-parent-tfbu@sha256:d1237ac86d02eea7b2978f4d67b7bd4248b24611945e0ca12c1a534ce5aae265
+FROM quay.io/redhat-appstudio-qe/build-e2e-jsde-tenant/build-suite-component-update-gkuo/multi-component-parent-tfbu@sha256:4604ed5fd19e55eeae018306c96be8662a3e0aa87ecdb146240180732e2870f4
 RUN echo hello
