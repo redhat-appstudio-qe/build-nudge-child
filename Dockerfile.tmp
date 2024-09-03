@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-umyk-tenant/build-suite-component-update-sjvi/multi-component-parent-bgdr@sha256:53384ffcba1aa41c002c806a4ad523d055aa733c44ec8c8a14de8530af73ec8e
+FROM quay.io/redhat-appstudio-qe/build-e2e-umyk-tenant/build-suite-component-update-sjvi/multi-component-parent-bgdr@sha256:894704916a6dc449bbf7b095b9d919df98f7940da492eb97c9183ec894cd2abf
 RUN echo hello
