@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ksad-tenant/build-suite-component-update-zobn/multi-component-parent-emmu@sha256:6a5c6fcb6ea141ad021175c4b7e819a468f166881e0e2757d27090a5012e6343
+FROM quay.io/redhat-appstudio-qe/build-e2e-ksad-tenant/build-suite-component-update-zobn/multi-component-parent-emmu@sha256:2acbf0d51e4a095e98f1cb19cab72ca1bd1b3918bc5475cf84add815c87238fd
 RUN echo hello
