@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-inpc-tenant/build-suite-component-update-oler/multi-component-parent-tuwg@sha256:3336259ab64a6f051c449644a6e822dabdf39206ddfdcc2c00d22adc53f41be0
+FROM quay.io/redhat-appstudio-qe/build-e2e-inpc-tenant/build-suite-component-update-oler/multi-component-parent-tuwg@sha256:c73360d7a9164e1753ae7ebb719c557fc40437d4da167a8ce99e5c3713e4f62e
 RUN echo hello
