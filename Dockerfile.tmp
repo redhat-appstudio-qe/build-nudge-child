@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-qdvo-tenant/build-suite-component-update-coim/multi-component-parent-pkfc@sha256:188d2ab27cbec5d9a41d3d796ddb5fae9d9dabd7c557bf2698f982ba14589228
+RUN echo hello
