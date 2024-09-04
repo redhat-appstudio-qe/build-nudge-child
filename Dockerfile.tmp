@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-oxln-tenant/build-suite-component-update-btlt/multi-component-parent-tdbm@sha256:2df7deaf3327c437adc5fea8e25c21e38ab4aa951b5d7eeb87af3ef78ed76cca
+FROM quay.io/redhat-appstudio-qe/build-e2e-oxln-tenant/build-suite-component-update-btlt/multi-component-parent-tdbm@sha256:b6d92e8dfb4453ae569b6d612555400ab020257181a4daf43b5e9eb4dffae237
 RUN echo hello
