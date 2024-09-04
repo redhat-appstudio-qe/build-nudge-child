@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jwtt-tenant/build-suite-component-update-cfar/multi-component-parent-fqqk@sha256:023d7ede614042fdd3f98b8a66d6d148113d2afab0fc7ccbd3fd94a0f9e0a2b1
+FROM quay.io/redhat-appstudio-qe/build-e2e-jwtt-tenant/build-suite-component-update-cfar/multi-component-parent-fqqk@sha256:ea2e4ce4dadbc5d443c2b1ee62949d4fc2045b390ce0fa23ae70f596038a63f1
 RUN echo hello
