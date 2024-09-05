@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ierd-tenant/build-suite-component-update-kqak/multi-component-parent-rmxs@sha256:aa429f0ba55a24bf84457041b54e0b68a4430ba0984de55d79e81ecf15a4410d
+FROM quay.io/redhat-appstudio-qe/build-e2e-ierd-tenant/build-suite-component-update-kqak/multi-component-parent-rmxs@sha256:b7c7371db05f27e0e3cdf14c7c45c6d4c60b92bd67ff7245443bff52484be4fb
 RUN echo hello
