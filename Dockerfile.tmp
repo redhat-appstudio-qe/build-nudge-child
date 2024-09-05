@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xzek-tenant/build-suite-component-update-sdbx/multi-component-parent-alhp@sha256:c8bd7d7e6b77eb1692dc1f0acf838590ed9d5884c563bc75b6115e40e7cae6d5
+RUN echo hello
