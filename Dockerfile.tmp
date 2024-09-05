@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rygr-tenant/build-suite-component-update-svqa/multi-component-parent-xxre@sha256:0b0511e3e5ba91de938d9eddacd6a1f70f9c39792ca9efa6114d9c89e55059f1
+RUN echo hello
