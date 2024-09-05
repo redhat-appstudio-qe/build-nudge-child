@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tpct-tenant/build-suite-component-update-jgaf/multi-component-parent-arfr@sha256:4ca1e0a379474e3d73c82cc17fb7b277038c0ea292345e130a49ddc215e79946
+FROM quay.io/redhat-appstudio-qe/build-e2e-tpct-tenant/build-suite-component-update-jgaf/multi-component-parent-arfr@sha256:39ee6395773a44543a9bcfcabaf4291a175d116e4ee054e1f3fe64b7272391b2
 RUN echo hello
