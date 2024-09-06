@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tfgr-tenant/build-suite-component-update-gkvb/multi-component-parent-xdms@sha256:a8412eb309fe4133d0751ff262b05eedcc6708fe65ad580344f43137c1839cbe
+FROM quay.io/redhat-appstudio-qe/build-e2e-tfgr-tenant/build-suite-component-update-gkvb/multi-component-parent-xdms@sha256:21d33a05992443ca84084dbed733117e6e1b255839fd820588f359455d06633d
 RUN echo hello
