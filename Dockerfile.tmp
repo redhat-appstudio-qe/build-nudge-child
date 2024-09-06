@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-uwoc-tenant/build-suite-component-update-txgu/multi-component-parent-dgov@sha256:c347eca3628abd94d618ca2f3a74cae96fe5ce56492b8e57763e8018259bf52e
+FROM quay.io/redhat-appstudio-qe/build-e2e-uwoc-tenant/build-suite-component-update-txgu/multi-component-parent-dgov@sha256:a0be22869313be389f447a3c1e470323364cbe74e4e49729ab337954b8bc7c63
 RUN echo hello
