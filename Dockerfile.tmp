@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dnmd-tenant/build-suite-component-update-usxe/multi-component-parent-fwmf@sha256:669a7c09581becd73f108d444a1ed7600785ed087afa8afe93467ed1f3598164
+FROM quay.io/redhat-appstudio-qe/build-e2e-dnmd-tenant/build-suite-component-update-usxe/multi-component-parent-fwmf@sha256:1a80a8b64fbdb4b44c6d9205cdcdc9286300c516c079ac5e614dca4525d450fc
 RUN echo hello
