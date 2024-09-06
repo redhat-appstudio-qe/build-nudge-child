@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-szrk-tenant/build-suite-component-update-vbdp/multi-component-parent-ejld@sha256:e6d15f3e87884bb800e59dfc440af406b5717f4b100469c7448c8a7d840441f5
+RUN echo hello
