@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lomr-tenant/build-suite-component-update-emnb/multi-component-parent-vdol@sha256:297cff5cd245bd6bf6dfb192d1e8b4f9b4e7208d57061f1482bdca762e7b534e
+RUN echo hello
