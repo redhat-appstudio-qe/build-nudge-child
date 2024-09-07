@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cmsk-tenant/build-suite-component-update-tvbm/multi-component-parent-rteu@sha256:206fd11edbddbfc74c4d152207056dac67cd273a3716641279a5ce4dce8b175e
+FROM quay.io/redhat-appstudio-qe/build-e2e-cmsk-tenant/build-suite-component-update-tvbm/multi-component-parent-rteu@sha256:f3b6146641d7ab3873708ed3bf57007eae1a1f6b387a129299a8b664b697b83a
 RUN echo hello
