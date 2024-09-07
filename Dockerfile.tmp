@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fjzl-tenant/build-suite-component-update-tlur/multi-component-parent-qupd@sha256:818c2288638940677fd33e1224581c7dc2e55d137d505141789d6052bd5257b6
+RUN echo hello
