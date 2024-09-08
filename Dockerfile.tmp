@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-twea-tenant/build-suite-component-update-mypt/multi-component-parent-guqi@sha256:478c8c352fd3e4d5e875a75997a8b6c96cc29a89d648e0dcba64fd8fc79d433a
+RUN echo hello
