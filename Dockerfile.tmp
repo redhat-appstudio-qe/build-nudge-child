@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-btfi-tenant/build-suite-component-update-ejsp/multi-component-parent-tlrj@sha256:b6c38cef5016485edd6bbc0e8579958bf5d16ec6be6078727ae5c00a3c849f46
+RUN echo hello
