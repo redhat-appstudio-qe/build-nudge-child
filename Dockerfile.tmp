@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rint-tenant/build-suite-component-update-nrth/multi-component-parent-zlwx@sha256:d217115f816cbfff00b91a10626b840a826feddfbbbbd55e4661369f41f50636
+FROM quay.io/redhat-appstudio-qe/build-e2e-rint-tenant/build-suite-component-update-nrth/multi-component-parent-zlwx@sha256:5a0d85be95f38142564e32053af1b5bff3b52b73b4bb8b8f0fd4e0faf2297b45
 RUN echo hello
