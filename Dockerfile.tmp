@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gclt-tenant/build-suite-component-update-vzmz/multi-component-parent-ybsf@sha256:f8acd1e281088d13f9fc2bd5090e4b75eee9f4c507663b3f7fcdd088b6311ab6
+FROM quay.io/redhat-appstudio-qe/build-e2e-gclt-tenant/build-suite-component-update-vzmz/multi-component-parent-ybsf@sha256:7f486c123e3fc3f9bfb77aaf8038c25629649478f19b473885f7a302b0f13fe5
 RUN echo hello
