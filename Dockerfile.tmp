@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fgpr-tenant/build-suite-component-update-bkwe/multi-component-parent-owix@sha256:dc3b7ab274ff85f5046d8c309b67234423e74b78bf2dde199a339c694088e587
+FROM quay.io/redhat-appstudio-qe/build-e2e-fgpr-tenant/build-suite-component-update-bkwe/multi-component-parent-owix@sha256:82827b53f07a8abeba51835f9f8be3656fbb6e4bdb352e9a56b91c962e6d2eda
 RUN echo hello
