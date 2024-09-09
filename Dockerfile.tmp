@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-epcj-tenant/build-suite-component-update-bext/multi-component-parent-myge@sha256:746f8535bb2052111cc6d99a602e9c843496ea3fdc1ff227ba9cc72d8ab33a53
+RUN echo hello
