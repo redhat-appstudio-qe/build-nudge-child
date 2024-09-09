@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vsbh-tenant/build-suite-component-update-zfkh/multi-component-parent-flbc@sha256:d7cb059df0b17507053d32f5588778ab1a2302c212ab6a3564f817485365de55
+FROM quay.io/redhat-appstudio-qe/build-e2e-vsbh-tenant/build-suite-component-update-zfkh/multi-component-parent-flbc@sha256:81e87d2ab74bc3a7393b86206a4c0f0f5351190c60dcda13c462e15163401083
 RUN echo hello
