@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fjkg-tenant/build-suite-component-update-lbda/multi-component-parent-frvp@sha256:3362477336ec590ccd8e0f5274f01a158914db9593092bfd6d4afcf98fc8c9c8
+FROM quay.io/redhat-appstudio-qe/build-e2e-fjkg-tenant/build-suite-component-update-lbda/multi-component-parent-frvp@sha256:afae78c481e56d61ca446c392483bf5f18f014fd211fcde009208472c9229409
 RUN echo hello
