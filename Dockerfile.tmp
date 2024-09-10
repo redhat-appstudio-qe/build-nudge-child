@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-djll-tenant/build-suite-component-update-afpf/multi-component-parent-nvjg@sha256:a2d87604818690c410e1af00ad7bf27d88392a035d9e40810cc8b5e848f0de04
+RUN echo hello
