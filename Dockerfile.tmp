@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dfls-tenant/build-suite-component-update-mcsf/multi-component-parent-vhtc@sha256:00026cdf85bf39cf02a98c86f169f705623b3b1634f7f038407c61a45cc75219
+FROM quay.io/redhat-appstudio-qe/build-e2e-dfls-tenant/build-suite-component-update-mcsf/multi-component-parent-vhtc@sha256:137a90bb24ea9db7cdbacd090348eb205ed763567a96170cfe6b05121ea6f132
 RUN echo hello
