@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dvdv-tenant/build-suite-component-update-kzgb/multi-component-parent-bsyw@sha256:4ec796c292fcd02ded140152b68a4bfb3c6f42b34a4a711c5191f7f1c8b654b3
+FROM quay.io/redhat-appstudio-qe/build-e2e-dvdv-tenant/build-suite-component-update-kzgb/multi-component-parent-bsyw@sha256:cde4380ec8f746fa1e8ebcf03a5581b2dec5fb77cb4256e8122df60d3d760aef
 RUN echo hello
