@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-notc-tenant/build-suite-component-update-ecaz/multi-component-parent-ohdd@sha256:03d1b8cd2a4071c1c3cb074308a3f7f5794688479f3abc1235abe92539d98409
+FROM quay.io/redhat-appstudio-qe/build-e2e-notc-tenant/build-suite-component-update-ecaz/multi-component-parent-ohdd@sha256:718ad5d573e340cb638a2b0c1841b983458bf12717dbbf60c0e28801ca49b626
 RUN echo hello
