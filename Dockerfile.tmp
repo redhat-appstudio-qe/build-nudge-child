@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-oolc-tenant/build-suite-component-update-rktv/multi-component-parent-pcus@sha256:8c10a0c70800658deb90ee52090710c30aa51b7412b569cc4421aeb2df526331
+RUN echo hello
