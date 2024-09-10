@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ltsw-tenant/build-suite-component-update-umty/multi-component-parent-vrne@sha256:8f1435c6596b650b07fa5697e5ed0403142a9fa801d657ba319bfb4c27c5bf6f
+FROM quay.io/redhat-appstudio-qe/build-e2e-ltsw-tenant/build-suite-component-update-umty/multi-component-parent-vrne@sha256:d409752079083567f5b78260cc275708b5516fcd6f1a1ad442cb3e1dd3ad7bfe
 RUN echo hello
