@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wyxc-tenant/build-suite-component-update-pzoo/multi-component-parent-chbi@sha256:af0c25b479a4b2c4640d731f775fd40193c55a62404d0317714295c9d735462d
+FROM quay.io/redhat-appstudio-qe/build-e2e-wyxc-tenant/build-suite-component-update-pzoo/multi-component-parent-chbi@sha256:5b9758a7b26fd20a4c30251bb9f6ec1ca5093a2469345446e14af482b07c9db2
 RUN echo hello
