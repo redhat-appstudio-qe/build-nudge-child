@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fozh-tenant/build-suite-component-update-fvil/multi-component-parent-jytx@sha256:fead44287dc1ffd052a74041e8bbeaa5888c6f2c30cec4c316491ed0ea8459aa
+FROM quay.io/redhat-appstudio-qe/build-e2e-fozh-tenant/build-suite-component-update-fvil/multi-component-parent-jytx@sha256:89842b18cc6e9aefe261d979b985999802c1afb951134c09773ca34b0d3adc4c
 RUN echo hello
