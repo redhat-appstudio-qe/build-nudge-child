@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dlpr-tenant/build-suite-component-update-wenu/multi-component-parent-txnq@sha256:42750dc8f7edbdca9eab10288eae70a317e952d4df5690656d95b82afd75e4d8
+RUN echo hello
