@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-yeha-tenant/build-suite-component-update-pirt/multi-component-parent-nhdw@sha256:c30da329d1f607a8dd208364d138a8cebd02b0832072194eba71115cdc81509d
+FROM quay.io/redhat-appstudio-qe/build-e2e-yeha-tenant/build-suite-component-update-pirt/multi-component-parent-nhdw@sha256:ef15e742873d5eeb65ccaf8c99241391aafe3d5dc476b841f7f6d215ae8d2198
 RUN echo hello
