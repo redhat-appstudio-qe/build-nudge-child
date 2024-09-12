@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-yyuz-tenant/build-suite-component-update-wclu/multi-component-parent-lfhd@sha256:d4a12a220fb993cf212b83e5e89e6d5f104756e45a193097fb56a75bd54e8e09
+RUN echo hello
