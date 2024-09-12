@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rmdz-tenant/build-suite-component-update-jprw/multi-component-parent-azfc@sha256:dc05c079de3d7468db5e7853a60a7a0eb21c5d709d4bbbde862440b13fb948f8
+RUN echo hello
