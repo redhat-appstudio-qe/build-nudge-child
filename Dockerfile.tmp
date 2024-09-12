@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qfrr-tenant/build-suite-component-update-nbfu/multi-component-parent-bdhi@sha256:ad90292b48028ef0c20f38aef1ed332e30055d87111173f8ccec06682d10b493
+FROM quay.io/redhat-appstudio-qe/build-e2e-qfrr-tenant/build-suite-component-update-nbfu/multi-component-parent-bdhi@sha256:a6c129f5274a900f4d0c2c8eb35fc3c134ef022bb9e0dbbaaa08f871172a4088
 RUN echo hello
