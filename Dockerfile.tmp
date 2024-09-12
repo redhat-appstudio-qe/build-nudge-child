@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-uzmr-tenant/build-suite-component-update-bpwo/multi-component-parent-zqin@sha256:34f1d84ae1e91d616bbc9366025579e85de4acb13c1e8ce7aa22ac796323fbd8
+RUN echo hello
