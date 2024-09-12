@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-safv-tenant/build-suite-component-update-qdlv/multi-component-parent-uunc@sha256:b2b5ce209ea7d667940595fd630954a5be18761c4cb9a0bf4ac2a9cbeb04184e
+RUN echo hello
