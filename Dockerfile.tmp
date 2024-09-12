@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cgeu-tenant/build-suite-component-update-dlfv/multi-component-parent-gsna@sha256:387229dc84003d74bb2dcf49e3bc37a926839d70595e833687b00d9e0d3fe0a9
+FROM quay.io/redhat-appstudio-qe/build-e2e-cgeu-tenant/build-suite-component-update-dlfv/multi-component-parent-gsna@sha256:66e8119811d845844a921632daa2a1410816198c1e41a21824bd7ee103e326ac
 RUN echo hello
