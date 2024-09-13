@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-urvj-tenant/build-suite-component-update-hbwb/multi-component-parent-npez@sha256:49633fb118bd97b4021ef7f37c7cc064277415189b885a345c084ef5b4beb7f7
+FROM quay.io/redhat-appstudio-qe/build-e2e-urvj-tenant/build-suite-component-update-hbwb/multi-component-parent-npez@sha256:b679d19a7724cdfcfd4b9ccd04d81d6885062ff4bea658c7fc23fa44accf645f
 RUN echo hello
