@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ducz-tenant/build-suite-component-update-mteh/multi-component-parent-pmmp@sha256:dabde76cc51300abb780d03ebec56f221902f8997b0c2fc9161309c9cca21ff8
+RUN echo hello
