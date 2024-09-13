@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bkcs-tenant/build-suite-component-update-klgb/multi-component-parent-dreu@sha256:05ca529e32cf35506ded5094547ef7048c5fac1595d9b47c729b46f04cb30eac
+RUN echo hello
