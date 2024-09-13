@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-aipy-tenant/build-suite-component-update-ypia/multi-component-parent-jugr@sha256:19bfdd93824dad9676aebd27fb4fabc6fc9252d988711565ff6b0dc78b823114
+RUN echo hello
