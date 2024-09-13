@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qast-tenant/build-suite-component-update-ozzf/multi-component-parent-ikod@sha256:7be98606cb6a3081b5f34508e0d19b5e49facc315b096e67ace97ac2523944be
+FROM quay.io/redhat-appstudio-qe/build-e2e-qast-tenant/build-suite-component-update-ozzf/multi-component-parent-ikod@sha256:f633f67d61ce4357a0a7c6b5bdf0b40e8acb5134c0ed4870814eec99bfd66741
 RUN echo hello
