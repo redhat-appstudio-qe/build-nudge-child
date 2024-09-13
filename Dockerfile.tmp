@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fmsg-tenant/build-suite-component-update-hovo/multi-component-parent-xfyv@sha256:4eb91db7767d8967a3a4891c4171d10d475cc7800427a6eb3a7e7b57b42337b4
+FROM quay.io/redhat-appstudio-qe/build-e2e-fmsg-tenant/build-suite-component-update-hovo/multi-component-parent-xfyv@sha256:01bc226c6cacbf630d21d80b4fcb06a4770021f42fcd3f6d42f5dac34670b335
 RUN echo hello
