@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rpms-tenant/build-suite-component-update-cdgl/multi-component-parent-boyu@sha256:009abf68279df5b1741db022b5e789bafcd996c358e22b3b6e5fa786e333f78c
+RUN echo hello
