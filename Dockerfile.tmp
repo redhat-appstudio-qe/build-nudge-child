@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-aaxs-tenant/build-suite-component-update-osim/multi-component-parent-dlrh@sha256:51352fd1eeb6662c560edbc66f5f593c9548ffaa56bfd14652254cc4a2bc7d60
+RUN echo hello
