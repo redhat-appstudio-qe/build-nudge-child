@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jkwk-tenant/build-suite-component-update-qecu/multi-component-parent-ektb@sha256:d33475cfe5d496f4dbbed7108430f67f2f3262e7e0b4e010c8a8660a2b05e5b0
+RUN echo hello
