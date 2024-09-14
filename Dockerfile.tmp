@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tygm-tenant/build-suite-component-update-kteb/multi-component-parent-ugtj@sha256:6edd51a7b0de2962e6bf117982c7c5ef31b700e66643d3c596dcef4506bddc2e
+RUN echo hello
