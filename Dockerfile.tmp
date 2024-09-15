@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gcwq-tenant/build-suite-component-update-lrpj/multi-component-parent-rfmu@sha256:715049542101ae17b9cc4937440d95af9cce45923330995cd5bb222aab5aa5d0
+RUN echo hello
