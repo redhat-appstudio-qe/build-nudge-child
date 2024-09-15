@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dvxy-tenant/build-suite-component-update-vnfn/multi-component-parent-ugto@sha256:7552f67083e4923caef011766d7ccd9518bbe165393d7e5c3e49662e32662eca
+RUN echo hello
