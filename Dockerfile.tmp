@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-malp-tenant/build-suite-component-update-btiq/multi-component-parent-evti@sha256:132c2b1e8cc5131a1161437138ecb9008679caaef4c065fc133b9c2b63ed95f4
+RUN echo hello
