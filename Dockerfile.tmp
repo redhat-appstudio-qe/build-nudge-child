@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rjjd-tenant/build-suite-component-update-poza/multi-component-parent-cksj@sha256:008bb38608e04d22a940d614139dcc690bbe9a6911634d7e5b26088511aaa65c
+FROM quay.io/redhat-appstudio-qe/build-e2e-rjjd-tenant/build-suite-component-update-poza/multi-component-parent-cksj@sha256:cbe4e30c55d98e9df70186f46da10d0517bd7c80b8a01af6d88ce62879e48be0
 RUN echo hello
