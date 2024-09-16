@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vrgu-tenant/build-suite-component-update-whll/multi-component-parent-lcom@sha256:9f4bd0e7ce112f309111af2d7cbd99555e0b8a6ae8c6a8d4a7ea62460d6b465f
+RUN echo hello
