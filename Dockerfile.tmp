@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-pafl-tenant/build-suite-component-update-bins/multi-component-parent-qatl@sha256:54cecd8b7b111d7dad48d8a352a0c3c392b01a67ce7654e42e113915264404a1
+FROM quay.io/redhat-appstudio-qe/build-e2e-pafl-tenant/build-suite-component-update-bins/multi-component-parent-qatl@sha256:f109c927c2e57b365ae6936f203b970cb1a6d65db3e070b583b85755be83a01b
 RUN echo hello
