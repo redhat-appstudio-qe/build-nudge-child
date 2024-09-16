@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qase-tenant/build-suite-component-update-lamb/multi-component-parent-olib@sha256:911910d40fb245cfa78e2e5cc7bde4f228a9bdc3ae4dca5c5da0cf0f662b80fc
+FROM quay.io/redhat-appstudio-qe/build-e2e-qase-tenant/build-suite-component-update-lamb/multi-component-parent-olib@sha256:8e6b6a8cc76d982dde4b5713bc2472f187ae291b796591ba5c423bd271db0472
 RUN echo hello
