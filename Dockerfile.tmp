@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cejx-tenant/build-suite-component-update-guad/multi-component-parent-elou@sha256:1852f1a31c7b789a6fddc8d36b778e4aa842ba153138057b1e53297cfb51772b
+FROM quay.io/redhat-appstudio-qe/build-e2e-cejx-tenant/build-suite-component-update-guad/multi-component-parent-elou@sha256:a439b17bffca1eeaa32ee3fa25474a5fd922daa515a0b4d07b1089e1bcac986d
 RUN echo hello
