@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-yetk-tenant/build-suite-component-update-gfiv/multi-component-parent-apvl@sha256:f9c61cdd033bb29b1018a1f1d9334bcd662f0a40e53c36646fa4934127a5b0aa
+FROM quay.io/redhat-appstudio-qe/build-e2e-yetk-tenant/build-suite-component-update-gfiv/multi-component-parent-apvl@sha256:2fcbfdf667770b5ce744474da0880f5050553542b7c31a01a61878ec63a77bf2
 RUN echo hello
