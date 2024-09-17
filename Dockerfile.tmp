@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tbte-tenant/build-suite-component-update-hpdn/multi-component-parent-jfba@sha256:272a41f9d69ec3bcb737d1148c8f21d26c96fa79d8d591233a608f6c794a93d9
+RUN echo hello
