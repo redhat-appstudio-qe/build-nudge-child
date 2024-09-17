@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bnse-tenant/build-suite-component-update-egbl/multi-component-parent-zgot@sha256:79eaf806f84d30737da0d73347db5c645dff9b57a9d202e538145f218334f5f2
+RUN echo hello
