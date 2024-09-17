@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xsjn-tenant/build-suite-component-update-ogsp/multi-component-parent-oclo@sha256:75da3e8075ff6e2cdbdcaedc70c9ec51ca0b98e3dd3f30bf441bd104fc21d82c
+FROM quay.io/redhat-appstudio-qe/build-e2e-xsjn-tenant/build-suite-component-update-ogsp/multi-component-parent-oclo@sha256:90563b73f08c4770588ac5d76f701d73aa92418cc8237800a840da79dec302db
 RUN echo hello
