@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fvuu-tenant/build-suite-component-update-krif/multi-component-parent-jatv@sha256:3c655540ed48d8b971d30df97fbcf4a1f0fc8dd930481123be2809cf468e38e8
+FROM quay.io/redhat-appstudio-qe/build-e2e-fvuu-tenant/build-suite-component-update-krif/multi-component-parent-jatv@sha256:35781a8745359cbbea34b9561561e09dc2bc51b5bca920fc54253ae7d8eb491d
 RUN echo hello
