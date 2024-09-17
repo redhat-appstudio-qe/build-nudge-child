@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tync-tenant/build-suite-component-update-zkdz/multi-component-parent-mlcf@sha256:e003e0c4b3831e48db83b2fd25e12b7741aa339c85e60261f1377f9fbd45c02d
+FROM quay.io/redhat-appstudio-qe/build-e2e-tync-tenant/build-suite-component-update-zkdz/multi-component-parent-mlcf@sha256:50ccdb945066e5274db2f9935e66ac4fafc7e2d1c586b472da5c982f5df8673e
 RUN echo hello
