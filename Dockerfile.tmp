@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-drys-tenant/build-suite-component-update-clfq/multi-component-parent-vdcq@sha256:44e445bb736b732d8519c8884eec478a72379d8660503538417dfc6efeb03ed8
+FROM quay.io/redhat-appstudio-qe/build-e2e-drys-tenant/build-suite-component-update-clfq/multi-component-parent-vdcq@sha256:31a55035b03c67b3f9b2dc04e28f50fa4bf74fd5639d0905e08460392742a427
 RUN echo hello
