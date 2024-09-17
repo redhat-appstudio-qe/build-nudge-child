@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hwap-tenant/build-suite-component-update-akry/multi-component-parent-lpdb@sha256:e6b8f525e74553eb4889523ae30b18e5acf676de5be1b44430f43d9fc5e4624f
+RUN echo hello
