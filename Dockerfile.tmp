@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xxde-tenant/build-suite-component-update-umud/multi-component-parent-bhdc@sha256:a14aac8388d94b6a42a7e0a8f3468f3198930de9d4a1ea632f7601403b88cd6f
+FROM quay.io/redhat-appstudio-qe/build-e2e-xxde-tenant/build-suite-component-update-umud/multi-component-parent-bhdc@sha256:d0490aba794154d27bbf698db8c5728b00d740bbb01b5df86f1b18baa72873a8
 RUN echo hello
