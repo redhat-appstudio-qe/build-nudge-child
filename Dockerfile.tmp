@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tmde-tenant/build-suite-component-update-epwj/multi-component-parent-jqll@sha256:ff50aa69b454035064e7fdc51604115b1a4c4e347e62ce0087cf8ab87c8caf65
+FROM quay.io/redhat-appstudio-qe/build-e2e-tmde-tenant/build-suite-component-update-epwj/multi-component-parent-jqll@sha256:af9329f0cf3e349b82ad08de66db1272db89458d68ca5f83560f0b6b115ae5b7
 RUN echo hello
