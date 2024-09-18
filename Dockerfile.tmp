@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mqhv-tenant/build-suite-component-update-zpgi/multi-component-parent-sftb@sha256:a92c8bd46570c661679643f6df2f62111275d319296e8561397e924d5fc359e8
+RUN echo hello
