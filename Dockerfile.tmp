@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-oirb-tenant/build-suite-component-update-godt/multi-component-parent-invc@sha256:1cac86e6864343a37d91942e1346f03d160b5803d80ed6d69ee4a0343c6d0468
+FROM quay.io/redhat-appstudio-qe/build-e2e-oirb-tenant/build-suite-component-update-godt/multi-component-parent-invc@sha256:6cf26d418a3568f2b75b8611affec17cb23d4020e659621463cbdd37f0897a12
 RUN echo hello
