@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-kjhl-tenant/build-suite-component-update-dzfa/multi-component-parent-wauo@sha256:38d94bb97f21aea1bd52c6444553f6748d3a509e3f5f8dd46820a363f8ebd2d3
+FROM quay.io/redhat-appstudio-qe/build-e2e-kjhl-tenant/build-suite-component-update-dzfa/multi-component-parent-wauo@sha256:0b5bde0911d3b0b8eb79022d6f5a3ad8dd88788d2732c172ef41a4f324c36374
 RUN echo hello
