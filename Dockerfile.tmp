@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hzub-tenant/build-suite-component-update-onag/multi-component-parent-jork@sha256:4776c277bd86a7eeeba434852107d4a76a0ddcb4cd98e5a5eea070be1bdcf6c4
+FROM quay.io/redhat-appstudio-qe/build-e2e-hzub-tenant/build-suite-component-update-onag/multi-component-parent-jork@sha256:c9e10c819d69df2871ac350f1d56661263a7067a4a8fa48ad682beb8f1afc262
 RUN echo hello
