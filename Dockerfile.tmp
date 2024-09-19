@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tsfs-tenant/build-suite-component-update-lmlg/multi-component-parent-xdab@sha256:92709c2703b2fed670db5a25597318113e725b88ba2591ac65fd3c50fe639756
+FROM quay.io/redhat-appstudio-qe/build-e2e-tsfs-tenant/build-suite-component-update-lmlg/multi-component-parent-xdab@sha256:21983a0fa031f8075c759c21b8a69bcf9e42729f1b9c5637fd5845a3a1156a0c
 RUN echo hello
