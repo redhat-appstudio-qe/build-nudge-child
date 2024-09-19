@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jcsv-tenant/build-suite-component-update-dtlw/multi-component-parent-pcxp@sha256:bdcbc2d7697c27d7d416e3d7a361a22cb0342a265bcfb551d65a1678e56d68a5
+FROM quay.io/redhat-appstudio-qe/build-e2e-jcsv-tenant/build-suite-component-update-dtlw/multi-component-parent-pcxp@sha256:bfdb946c11b134b95a3f5f8385c5031a2c644405d8c04c4e1a158971da240cf3
 RUN echo hello
