@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vadi-tenant/build-suite-component-update-ypvn/multi-component-parent-agkp@sha256:9823ce3e6049f80ae89117e81dae2d70d917dce8892844a9f444086563c51152
+FROM quay.io/redhat-appstudio-qe/build-e2e-vadi-tenant/build-suite-component-update-ypvn/multi-component-parent-agkp@sha256:a7c62cb21680132171cdeec5e202ee2466d18f5eef860f217e751319f25f6f01
 RUN echo hello
