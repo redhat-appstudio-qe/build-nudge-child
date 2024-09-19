@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-knlp-tenant/build-suite-component-update-yuxa/multi-component-parent-yzxw@sha256:ca71fcf2922fb8b192ca0065e307916e9dde339c925e5f66b5d2f1aff998489f
+RUN echo hello
