@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fpaj-tenant/build-suite-component-update-avqu/multi-component-parent-vnfr@sha256:5c3284e44c8734d4bbeb1d1e835f612b4f81e5f4bcda125ab10c70d5c8254b02
+RUN echo hello
