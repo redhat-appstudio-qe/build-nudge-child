@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qpva-tenant/build-suite-component-update-nbyr/multi-component-parent-atsn@sha256:e3d2b97c085f64efde251926af34d33b81e6cbb4b5e4b53f18d80da8b516c6eb
+FROM quay.io/redhat-appstudio-qe/build-e2e-qpva-tenant/build-suite-component-update-nbyr/multi-component-parent-atsn@sha256:e3968e7157cd7fdcbb58ecdc1c5f0cf78da62da0f70d9b433713cc6902c3c806
 RUN echo hello
