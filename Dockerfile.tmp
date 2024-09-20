@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gxas-tenant/build-suite-component-update-vdyu/multi-component-parent-iaxd@sha256:c62f429df37801c842da557fc7a499e8f00e81602ebf183fca694f31ed73d1be
+RUN echo hello
