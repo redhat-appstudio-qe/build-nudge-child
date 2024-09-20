@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-kaxl-tenant/build-suite-component-update-fhzp/multi-component-parent-tlsj@sha256:a489b2ea8f84121f920beb756ae521701a050a7a5918441df32c6d98584959df
+FROM quay.io/redhat-appstudio-qe/build-e2e-kaxl-tenant/build-suite-component-update-fhzp/multi-component-parent-tlsj@sha256:cb0b4cdb1dfcdd830effe3750afbb60e0e395a09c90555f4ed294d5a84bb22d3
 RUN echo hello
