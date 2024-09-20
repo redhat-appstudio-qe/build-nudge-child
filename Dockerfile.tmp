@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-scoz-tenant/build-suite-component-update-oqnt/multi-component-parent-dwgq@sha256:5ed2274ab3121688a909c1ec480d3946d7ec1bebe1fbc717ccdd5b4ebad8e2c6
+RUN echo hello
