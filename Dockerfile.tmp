@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bban-tenant/build-suite-component-update-lpod/multi-component-parent-ikds@sha256:e8b79cceb232d2e8b8e643b5bedce3892e7315177fee12bcc514020d62eba01a
+RUN echo hello
