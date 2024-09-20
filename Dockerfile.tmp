@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-zndb-tenant/build-suite-component-update-jrns/multi-component-parent-iltw@sha256:fbe3c921b25d2f887c33b318b9c25cfe7ddeed265aa2587257a60e5184979166
+FROM quay.io/redhat-appstudio-qe/build-e2e-zndb-tenant/build-suite-component-update-jrns/multi-component-parent-iltw@sha256:e705a272408b770625ca8719544f9bcb95dfb093b36dee701a660d36c5004bad
 RUN echo hello
