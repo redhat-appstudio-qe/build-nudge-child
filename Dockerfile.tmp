@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gffl-tenant/build-suite-component-update-domc/multi-component-parent-icck@sha256:3c656f492f83f9bd8124e78d638f0b560fadc957e7eb46e0f68acb600d11c044
+FROM quay.io/redhat-appstudio-qe/build-e2e-gffl-tenant/build-suite-component-update-domc/multi-component-parent-icck@sha256:67c00ff9523fb62047c00cbf8a7faf211a7f27de44a90164163daf8c823c4607
 RUN echo hello
