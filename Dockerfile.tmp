@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-iuee-tenant/build-suite-component-update-ftmv/multi-component-parent-wwnt@sha256:17e2470fbbfcb04ec6cd038555883467b67855d6f38fbc3c67a1cfa6710b905a
+FROM quay.io/redhat-appstudio-qe/build-e2e-iuee-tenant/build-suite-component-update-ftmv/multi-component-parent-wwnt@sha256:0bec48359c0d29278c163c94ae8f14a175b17d89590c5abf35df88d5c8ce4cff
 RUN echo hello
