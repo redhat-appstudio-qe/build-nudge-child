@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hdhe-tenant/build-suite-component-update-pbiv/multi-component-parent-vncr@sha256:f613fc819890093cb9ead5dfdb63ad7f96ca4fe5bf356f8cdc0d08ad08500e2f
+FROM quay.io/redhat-appstudio-qe/build-e2e-hdhe-tenant/build-suite-component-update-pbiv/multi-component-parent-vncr@sha256:99f5feb05f2e8f3de3a8e17427162432685046ccbbd6d9d2cd535c06956c5921
 RUN echo hello
