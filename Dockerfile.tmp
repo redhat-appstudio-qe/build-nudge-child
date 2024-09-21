@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-kjmz-tenant/build-suite-component-update-dcof/multi-component-parent-ysmx@sha256:8c80874aad4d62ce4c5d7bd4331ff30e038e7096d3241730f6d9eeabc216486e
+FROM quay.io/redhat-appstudio-qe/build-e2e-kjmz-tenant/build-suite-component-update-dcof/multi-component-parent-ysmx@sha256:ccd03d6df731f86cf85f02eed23533c407fece2899b106d9fd321266020e73bc
 RUN echo hello
