@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vepl-tenant/build-suite-component-update-dgcw/multi-component-parent-ifol@sha256:871107599786d62fd7f636432b5ff3e6ff956d949aee651480f4e34680f96c54
+RUN echo hello
