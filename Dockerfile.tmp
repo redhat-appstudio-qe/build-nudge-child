@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-racn-tenant/build-suite-component-update-cgsy/multi-component-parent-dgsh@sha256:6fab09dc7593133c4a3bec8a400dd8c4155eaa8301c2c7fa967c6c6ba4897821
+FROM quay.io/redhat-appstudio-qe/build-e2e-racn-tenant/build-suite-component-update-cgsy/multi-component-parent-dgsh@sha256:f5d838870ee1bc0c592b9acbb2d14166297f5a416568094479855a6f6580aefd
 RUN echo hello
