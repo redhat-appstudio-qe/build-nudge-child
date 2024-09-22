@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nscc-tenant/build-suite-component-update-dtup/multi-component-parent-ttsk@sha256:af0cfc19a519446e205cb75430a6b240b691c96995cdd8caae11fe7895c76aa6
+RUN echo hello
