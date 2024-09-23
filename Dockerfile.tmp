@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-zvos-tenant/build-suite-component-update-yszl/multi-component-parent-ycwn@sha256:cca9f307dceb87ee84407fafa9d41385959cf085e495f65af0090ac2f15916f6
+FROM quay.io/redhat-appstudio-qe/build-e2e-zvos-tenant/build-suite-component-update-yszl/multi-component-parent-ycwn@sha256:7f11fbfc0fc62c52a5af62cf9fdda380f7c86476cdbcfa9d9b1531c84e1ba23d
 RUN echo hello
