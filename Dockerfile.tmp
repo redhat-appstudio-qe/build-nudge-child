@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ovad-tenant/build-suite-component-update-kvom/multi-component-parent-pzrr@sha256:cbaf8c4fc577ce7df7881a87a58a8d93119d9a82bb26cac840f30ebcf8032458
+FROM quay.io/redhat-appstudio-qe/build-e2e-ovad-tenant/build-suite-component-update-kvom/multi-component-parent-pzrr@sha256:841d4cddac545054a4ef850325478e1bfe1c9ebda4805b60387a1c24acacf514
 RUN echo hello
