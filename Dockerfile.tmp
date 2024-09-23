@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vqni-tenant/build-suite-component-update-myue/multi-component-parent-forp@sha256:19ea913e4679deeb26ba5b211025743e9df0f4f7a71731a3010276ed10a95be4
+FROM quay.io/redhat-appstudio-qe/build-e2e-vqni-tenant/build-suite-component-update-myue/multi-component-parent-forp@sha256:0bf1b994b0ad92692b0768d888a09e00ffe3ba60e6f0fe08e1286cdb82c8f78b
 RUN echo hello
