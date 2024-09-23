@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rble-tenant/build-suite-component-update-asuc/multi-component-parent-jlug@sha256:ce83c2c5641f5283a6c691fd03b286723a29508c031e486f62949f74dcb7f8ba
+FROM quay.io/redhat-appstudio-qe/build-e2e-rble-tenant/build-suite-component-update-asuc/multi-component-parent-jlug@sha256:e5120a351ce7235b4b93dda60df29b1b1576c2a42ba8893d1ae3358599992f4a
 RUN echo hello
