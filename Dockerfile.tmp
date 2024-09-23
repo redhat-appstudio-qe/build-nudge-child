@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-pnot-tenant/build-suite-component-update-yjgw/multi-component-parent-okzh@sha256:2d692e2a6a7f08c38832aa86d4c995101ab0873a600a51ea65a398b289f37b03
+FROM quay.io/redhat-appstudio-qe/build-e2e-pnot-tenant/build-suite-component-update-yjgw/multi-component-parent-okzh@sha256:0aed16b265c4bfcbf9712e60ec7770132448145f0b2606091365af7dd617ee16
 RUN echo hello
