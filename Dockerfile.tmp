@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-novb-tenant/build-suite-component-update-mble/multi-component-parent-satn@sha256:dace45616e1c8fa9e05ec7906d5f79972bffe4fad82a58d35cb2d2d7b18c3b6e
+RUN echo hello
