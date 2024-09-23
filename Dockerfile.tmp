@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ehph-tenant/build-suite-component-update-lyws/multi-component-parent-jkmc@sha256:4dbe852b61ac465b51db77a23d969133016dc8b316e1076befad5f06ff438391
+FROM quay.io/redhat-appstudio-qe/build-e2e-ehph-tenant/build-suite-component-update-lyws/multi-component-parent-jkmc@sha256:844011aa3172f7a01f7fc4e3d64e13095752af63bb1c496453dac2e8a223b52b
 RUN echo hello
