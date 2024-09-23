@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-pzab-tenant/build-suite-component-update-dfbz/multi-component-parent-uvyn@sha256:a065217f7bd1618f46cfe8a1775dfaa98ef5662165be7684db70959ee216a470
+FROM quay.io/redhat-appstudio-qe/build-e2e-pzab-tenant/build-suite-component-update-dfbz/multi-component-parent-uvyn@sha256:8555fa34f4f2e92eb39d27c99f8f37c4bc8032a683df244f72227f7bd107b40d
 RUN echo hello
