@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jqlo-tenant/build-suite-component-update-ernw/multi-component-parent-psvw@sha256:7bfe9ce9da8d9c84b3f2b9d872dc2edcfd9cd456ccbb67d7c0854a8f34ad4d9d
+RUN echo hello
