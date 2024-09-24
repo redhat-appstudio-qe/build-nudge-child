@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rbah-tenant/build-suite-component-update-ojiq/multi-component-parent-tpji@sha256:6c4bb218b09c63af7d7ee34095e2a4591db29db26b79d60a1f3e7d9d45ea191d
+FROM quay.io/redhat-appstudio-qe/build-e2e-rbah-tenant/build-suite-component-update-ojiq/multi-component-parent-tpji@sha256:5a9a26f4f39caa5dbcac47d577039e64b6866c3378bd3e1c4c2eaadedfbe9d24
 RUN echo hello
