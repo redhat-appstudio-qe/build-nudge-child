@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-oied-tenant/build-suite-component-update-rgds/multi-component-parent-kikk@sha256:717bbd9a8361e8dd1aa94b92fa40c5f986e34f7a07948e76f59fe8b7a58abb38
+FROM quay.io/redhat-appstudio-qe/build-e2e-oied-tenant/build-suite-component-update-rgds/multi-component-parent-kikk@sha256:6400de849f3acc7f78e0f0f8a4b0baa29ea67235e3128db45dfdeb3dd92dfbaf
 RUN echo hello
