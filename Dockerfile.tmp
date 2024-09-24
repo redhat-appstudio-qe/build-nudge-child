@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dtmo-tenant/build-suite-component-update-hmmw/multi-component-parent-glrq@sha256:89dda5189483eac0b2620983dc17bee1c986427952381f70348ee350b60831b4
+RUN echo hello
