@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gcir-tenant/build-suite-component-update-usvk/multi-component-parent-zmzs@sha256:f2ecdb2a32552ac3884af42434af4b8d5b4ab807fc5a6ec538a4c7afa885a4ac
+RUN echo hello
