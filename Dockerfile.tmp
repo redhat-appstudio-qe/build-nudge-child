@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-spck-tenant/build-suite-component-update-uxhw/multi-component-parent-pazc@sha256:e29f8a4c38785cd4283880ea7429a1666ad76e0cb391921048d037a8be921fca
+RUN echo hello
