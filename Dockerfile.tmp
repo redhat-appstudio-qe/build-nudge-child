@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zoor-tenant/build-suite-component-update-ekfj/multi-component-parent-twpm@sha256:0aa9759ab34ae45a59217ad8830621886fdf2448bf25ef9432d84313ed5b82a9
+RUN echo hello
