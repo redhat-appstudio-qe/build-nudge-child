@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ubyy-tenant/build-suite-component-update-ubjp/multi-component-parent-iakb@sha256:7943c1b77ff01b2186f5fdbd7f0be6590132b82fa79245b43a92b937ba57a0a3
+FROM quay.io/redhat-appstudio-qe/build-e2e-ubyy-tenant/build-suite-component-update-ubjp/multi-component-parent-iakb@sha256:018161e3288a390d838945f406b6a2d4005968ecacb62d72b8e65f52156d0cc3
 RUN echo hello
