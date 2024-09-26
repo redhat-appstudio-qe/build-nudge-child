@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mjye-tenant/build-suite-component-update-adwa/multi-component-parent-jrvb@sha256:2b5bfd0e5deb2834894a6f15c6a9b7a75774b081741e6cbd0b6a05eeead187aa
+RUN echo hello
