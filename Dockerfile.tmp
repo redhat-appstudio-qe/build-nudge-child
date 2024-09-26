@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gmws-tenant/build-suite-component-update-qdue/multi-component-parent-klii@sha256:6169aff197ebe0ebb6be6a8a8e6e8caf1e96c0b19df5070cc67f07705edeb5d7
+FROM quay.io/redhat-appstudio-qe/build-e2e-gmws-tenant/build-suite-component-update-qdue/multi-component-parent-klii@sha256:96e807b816c78f06d4dd09c69ac42b57445078995197f4c094d98f1966752eb5
 RUN echo hello
