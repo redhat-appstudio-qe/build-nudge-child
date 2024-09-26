@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-alga-tenant/build-suite-component-update-jqjg/multi-component-parent-rreg@sha256:13f1fea24c8a22218dd9b8c1ff7b3f90cd630df37f278d58f15154dc7d3536ce
+FROM quay.io/redhat-appstudio-qe/build-e2e-alga-tenant/build-suite-component-update-jqjg/multi-component-parent-rreg@sha256:a8094aa272d37abf52f663d082306fc64841e81e2428ffd9218efc6c08bd2565
 RUN echo hello
