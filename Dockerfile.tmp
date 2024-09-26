@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fbmw-tenant/build-suite-component-update-glhz/multi-component-parent-rscx@sha256:a209eb75a206915fd449e78fcece337ee6eb07208ce7dbcdaeb89f089f614df7
+FROM quay.io/redhat-appstudio-qe/build-e2e-fbmw-tenant/build-suite-component-update-glhz/multi-component-parent-rscx@sha256:02faccd13c4685a248c9c8ac07260ebebc680bda5807610fdc1a604396b5703b
 RUN echo hello
