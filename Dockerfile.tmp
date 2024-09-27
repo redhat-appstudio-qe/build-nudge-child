@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ibmk-tenant/build-suite-component-update-rinx/multi-component-parent-pbpe@sha256:60a0b0c5ab75770aafe50f5d6444cd294a46622b8ec8da43e288d1f0a80aa2ff
+RUN echo hello
