@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xrnh-tenant/build-suite-component-update-vakp/multi-component-parent-fhge@sha256:fe6d9bb77fa8975b537de37729052cc8d5f18076f1b1710dde9d58306911d1de
+FROM quay.io/redhat-appstudio-qe/build-e2e-xrnh-tenant/build-suite-component-update-vakp/multi-component-parent-fhge@sha256:a413b2236ab10064ff8fddd0dba5d869affd577828d6a98e910e34e915315b56
 RUN echo hello
