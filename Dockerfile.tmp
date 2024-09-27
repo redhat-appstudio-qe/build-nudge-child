@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-katu-tenant/build-suite-component-update-sivh/multi-component-parent-dxlo@sha256:9a429f6a17c4f02ee04f4caed043a9db5b854b025ad1eb4c65240cf3feb7ec9f
+RUN echo hello
