@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ldca-tenant/build-suite-component-update-cewa/multi-component-parent-eedh@sha256:6b93f639a0b8eeb3577cd4a440b03d2e73f8525fa4c7a953542c2d97a2cecf40
+RUN echo hello
