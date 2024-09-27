@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rszv-tenant/build-suite-component-update-xrjx/multi-component-parent-zvol@sha256:3a3c17f4f8627dfc33befdaac54b874b277a0bc525fe50500ef7bd2533982a41
+FROM quay.io/redhat-appstudio-qe/build-e2e-rszv-tenant/build-suite-component-update-xrjx/multi-component-parent-zvol@sha256:b6da55f5fc87e2ee96a31bd8eb5824653539cfe0c81263212e164a24fc4f4d74
 RUN echo hello
