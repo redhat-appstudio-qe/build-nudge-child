@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rsbu-tenant/build-suite-component-update-cast/multi-component-parent-optm@sha256:9188f29be427f93b3d63a76413059e600fe8f52b2e7547dda2f3cf7887941dda
+RUN echo hello
