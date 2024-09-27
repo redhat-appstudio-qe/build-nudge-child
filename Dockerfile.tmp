@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gwup-tenant/build-suite-component-update-kvrh/multi-component-parent-dssp@sha256:2724cfe044d8e79bb91d288f3ce31142e418002f67558cd72e95ff50e560f619
+FROM quay.io/redhat-appstudio-qe/build-e2e-gwup-tenant/build-suite-component-update-kvrh/multi-component-parent-dssp@sha256:d92d0491fc20999dae49edc833a185dcb5610d6e936723521066bccf45a5368e
 RUN echo hello
