@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-kpkr-tenant/build-suite-component-update-hbiy/multi-component-parent-nxiu@sha256:565384557f0bcd14a34ce8cc770f4a15a689cc1a4d6340a987a4a187b1494446
+FROM quay.io/redhat-appstudio-qe/build-e2e-kpkr-tenant/build-suite-component-update-hbiy/multi-component-parent-nxiu@sha256:598588ca8ff4a2f3c22927d68581a117425d74fbf13b269bd7db3b896c98a41c
 RUN echo hello
