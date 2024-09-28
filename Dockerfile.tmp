@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-xjwz-tenant/build-suite-component-update-qafk/multi-component-parent-llet@sha256:4f403e3b4a488fe1a8720d968da21a44b49896ddb67fdcc6f259b4753a51de25
+FROM quay.io/redhat-appstudio-qe/build-e2e-xjwz-tenant/build-suite-component-update-qafk/multi-component-parent-llet@sha256:24f5bbbe002d263304e5b781e05796d2ce14c349a70ea5f95c613a8f0a6cf512
 RUN echo hello
