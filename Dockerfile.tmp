@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ebub-tenant/build-suite-component-update-tzuo/multi-component-parent-rgro@sha256:c377a7b0a24165c37d78d6ff2ee8fbd14ce2878dc093d367ac4bc85eee8ed8ad
+FROM quay.io/redhat-appstudio-qe/build-e2e-ebub-tenant/build-suite-component-update-tzuo/multi-component-parent-rgro@sha256:1e03c092f86667caa3d24b205e0c06457f9b8b9abc1b936539c0c65ecf730abd
 RUN echo hello
