@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-askw-tenant/build-suite-component-update-ccwi/multi-component-parent-vxad@sha256:79fbc1968adf11a81a034e2614cb06537db1a2ad58f5c2c3fc74758e4c9d5b70
+FROM quay.io/redhat-appstudio-qe/build-e2e-askw-tenant/build-suite-component-update-ccwi/multi-component-parent-vxad@sha256:91986dc3498a1bb05e47b2ff02b1bacf1d28e81f6c5d3f3317320dbe34ddc41f
 RUN echo hello
