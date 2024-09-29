@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-crkp-tenant/build-suite-component-update-haat/multi-component-parent-tbme@sha256:1f8086b0fa5bb3f7c7ca9df306aca04d7dff3627b8b739be08b9acc91e66dade
+FROM quay.io/redhat-appstudio-qe/build-e2e-crkp-tenant/build-suite-component-update-haat/multi-component-parent-tbme@sha256:65592a8db881a5876ce16e6a07e1f65637345734eb8b851d9dc7f8f98f02a945
 RUN echo hello
