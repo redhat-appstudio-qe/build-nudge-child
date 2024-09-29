@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jrag-tenant/build-suite-component-update-wknv/multi-component-parent-muat@sha256:08303d898e3cbc7180b61b8ecff3d9145344693672ae1f19e1db580ab8cf4a53
+RUN echo hello
