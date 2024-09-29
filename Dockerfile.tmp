@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ktom-tenant/build-suite-component-update-dkgb/multi-component-parent-ibhm@sha256:6d125a96878997a447d5f4b10cc8f6ea02aa981633d2e33ce1a472b9858e1ab8
+RUN echo hello
