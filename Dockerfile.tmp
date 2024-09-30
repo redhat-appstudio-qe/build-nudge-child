@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-pxhv-tenant/build-suite-component-update-zdsu/multi-component-parent-eowi@sha256:3d53c5e9b3da8d34e0511809a91ec130c98260581fdd8a67c76f25c0f2936721
+FROM quay.io/redhat-appstudio-qe/build-e2e-pxhv-tenant/build-suite-component-update-zdsu/multi-component-parent-eowi@sha256:771ee4d499baaaf5565402fc683f452972e133bca1ed1ff501daf7a19dd9ff01
 RUN echo hello
