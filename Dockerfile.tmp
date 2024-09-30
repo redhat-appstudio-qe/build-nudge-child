@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mytd-tenant/build-suite-component-update-kdcp/multi-component-parent-xcyi@sha256:f92735243dbcc69aab3944aedc914aba3a7c47ae3e56a85ffd214957d6b3a87f
+RUN echo hello
