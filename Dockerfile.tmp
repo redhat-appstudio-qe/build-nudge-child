@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rxdk-tenant/build-suite-component-update-icit/multi-component-parent-hlum@sha256:24a0672130ef905d3e9f63cfbc760100882bd26027df364f940e25421e8c027a
+RUN echo hello
