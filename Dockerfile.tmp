@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-uhrx-tenant/build-suite-component-update-wiek/multi-component-parent-hgpf@sha256:d49187d1bb4ade74cb4ca73c8206cc5810f51ef55a2e0a46051ae75439606498
+FROM quay.io/redhat-appstudio-qe/build-e2e-uhrx-tenant/build-suite-component-update-wiek/multi-component-parent-hgpf@sha256:cd1dd32b1e1e53cf2056a5bd65b24d6bfdce2f72c74bf481303ec52c59f674ad
 RUN echo hello
