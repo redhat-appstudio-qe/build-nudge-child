@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-uucb-tenant/build-suite-component-update-ugpf/multi-component-parent-meky@sha256:254e2cecc743419190e183be1f40850f147f43fbbb93d913736737cba1eacad1
+RUN echo hello
