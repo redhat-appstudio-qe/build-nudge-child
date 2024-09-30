@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-elgr-tenant/build-suite-component-update-pcvq/multi-component-parent-flfn@sha256:47600c9af16b03e4e3ff7ea2d974868d56799ac1930888dbfe0814f4ea2b5a7c
+RUN echo hello
