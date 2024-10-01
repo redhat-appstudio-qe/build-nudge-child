@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vjhs-tenant/build-suite-component-update-fptx/multi-component-parent-yaid@sha256:1edadb9571cad148fa7e707355b771acc5c7a74e0cce90bde436cd3297605b49
+FROM quay.io/redhat-appstudio-qe/build-e2e-vjhs-tenant/build-suite-component-update-fptx/multi-component-parent-yaid@sha256:7843128f44356138ef5e283b83ffcada9619dadc614add4478657a0820d43ed4
 RUN echo hello
