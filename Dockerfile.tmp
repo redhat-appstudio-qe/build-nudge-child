@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cxql-tenant/build-suite-component-update-trmh/multi-component-parent-qvms@sha256:dff2c6eaa2da1381266325d4d5052a303f69fe5f4d15629c3b59e0bbc56fc46b
+FROM quay.io/redhat-appstudio-qe/build-e2e-cxql-tenant/build-suite-component-update-trmh/multi-component-parent-qvms@sha256:c08162e6030f40766ba5a26c4dbd8c4af00c702f7df5193d5de52dd1e414a29a
 RUN echo hello
