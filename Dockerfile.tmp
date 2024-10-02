@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-yrna-tenant/build-suite-component-update-cztg/multi-component-parent-jijr@sha256:5a387660e7999160c5eb931c0d30f758d3ea5737892d78e2695af20bf22eacaf
+FROM quay.io/redhat-appstudio-qe/build-e2e-yrna-tenant/build-suite-component-update-cztg/multi-component-parent-jijr@sha256:b89c33ea4440b8ba405336f15502b0ef102d0c3df3b1c7bd75432e783ea4d6bb
 RUN echo hello
