@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-okmu-tenant/build-suite-component-update-cxym/multi-component-parent-gaff@sha256:8d51dcafdb3bfa1d07cc17a28d78456d515395b6d39b35a05fe01d13c8e932f9
+FROM quay.io/redhat-appstudio-qe/build-e2e-okmu-tenant/build-suite-component-update-cxym/multi-component-parent-gaff@sha256:fc5edcd36bda1709552879837355e267df5f870eb18d8541b3b8f425b9bbf973
 RUN echo hello
