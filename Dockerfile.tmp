@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-howe-tenant/build-suite-component-update-lymk/multi-component-parent-ibnq@sha256:f60a83e4af8799d4876ee8ee5df9bf9e50545066b94a7dbe9baa5b6282540941
+FROM quay.io/redhat-appstudio-qe/build-e2e-howe-tenant/build-suite-component-update-lymk/multi-component-parent-ibnq@sha256:9bbca1e29ed9f3543829b9b53f953e3d9b1319f58c972c550cd766009d2e0948
 RUN echo hello
