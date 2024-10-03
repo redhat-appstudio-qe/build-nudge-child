@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fcdg-tenant/build-suite-component-update-cquy/multi-component-parent-kwci@sha256:14910379bf07b593b567e5d1a60b6a6c00ce8af4dcb62dc3dfe6c596db727202
+RUN echo hello
