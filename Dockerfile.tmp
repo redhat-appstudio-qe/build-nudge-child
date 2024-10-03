@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dkdz-tenant/build-suite-component-update-faih/multi-component-parent-uiir@sha256:54da09ffa9375222801b0ebbe6d4dc9ba4ccaf15879ead4e90de98b89ebbce57
+FROM quay.io/redhat-appstudio-qe/build-e2e-dkdz-tenant/build-suite-component-update-faih/multi-component-parent-uiir@sha256:752cb07cbcecec5d9a0f02fb6afd18832fcbcd0e042eb3f139326fb67555e7db
 RUN echo hello
