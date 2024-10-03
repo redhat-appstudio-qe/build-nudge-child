@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fcdg-tenant/build-suite-component-update-cquy/multi-component-parent-kwci@sha256:14910379bf07b593b567e5d1a60b6a6c00ce8af4dcb62dc3dfe6c596db727202
+FROM quay.io/redhat-appstudio-qe/build-e2e-fcdg-tenant/build-suite-component-update-cquy/multi-component-parent-kwci@sha256:16187c19d2a760d654b278a257ad6e9551f8f70eeb7a6cc62c5f35ea45bdb486
 RUN echo hello
