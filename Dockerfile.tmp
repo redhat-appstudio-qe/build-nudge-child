@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fivy-tenant/build-suite-component-update-qern/multi-component-parent-zimo@sha256:0d26a22a762053b4b85853d09f407be47b5c12c1c431f7ecabf0bec3dffd0007
+FROM quay.io/redhat-appstudio-qe/build-e2e-fivy-tenant/build-suite-component-update-qern/multi-component-parent-zimo@sha256:50d4c71017f0185f04d43f099b33e5746d2eb9326196f5c2fb8bab6a529895a2
 RUN echo hello
