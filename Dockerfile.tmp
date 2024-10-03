@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pzwi-tenant/build-suite-component-update-rulv/multi-component-parent-wujb@sha256:aa5a4c8553540075fd95ed77a5622c15c39ff5ace5e3afd9e37b4842ca12053c
+RUN echo hello
