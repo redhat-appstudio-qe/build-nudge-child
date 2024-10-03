@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lscc-tenant/build-suite-component-update-oild/multi-component-parent-dgkc@sha256:e348318a2cdee2cdbfd614440a30e4e81fc8e67145806403cffefa63c34e37fc
+RUN echo hello
