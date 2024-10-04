@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-czul-tenant/build-suite-component-update-pege/multi-component-parent-ktkq@sha256:307763715b463edcd15b644fb277b9337675b716908f51988ddd2d66f9dd749a
+FROM quay.io/redhat-appstudio-qe/build-e2e-czul-tenant/build-suite-component-update-pege/multi-component-parent-ktkq@sha256:3eaf61ade6a239205bf74001d6099110e15b8e2a063f85595237c3ee68d87e98
 RUN echo hello
