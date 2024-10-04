@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cbmp-tenant/build-suite-component-update-ljca/multi-component-parent-qlrx@sha256:1155f241370963f7fdaead7e24bcfe24a6d1b06d00c1bb45ff90e2561177256d
+RUN echo hello
