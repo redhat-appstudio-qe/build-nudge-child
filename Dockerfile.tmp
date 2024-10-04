@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-udnw-tenant/build-suite-component-update-zdhs/multi-component-parent-iplt@sha256:64341c3fcf97a06d6a2e07290c76f3de68ddd513204d8f2bef3c2fc60e9d2e28
+FROM quay.io/redhat-appstudio-qe/build-e2e-udnw-tenant/build-suite-component-update-zdhs/multi-component-parent-iplt@sha256:4908e108021e60a92e91939717d2537809f549ef4ec442ba598f3d570fc93f21
 RUN echo hello
