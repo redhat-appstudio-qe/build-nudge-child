@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-zdkb-tenant/build-suite-component-update-eymm/multi-component-parent-rrdf@sha256:01f6002b3a894fab63af56e6314c9cb92a4c3b65a13b621e228e744f8111b499
+FROM quay.io/redhat-appstudio-qe/build-e2e-zdkb-tenant/build-suite-component-update-eymm/multi-component-parent-rrdf@sha256:8bab2ea2989a20b1fd2653f3cabea15b1cdd148b1bc54b8cc8ad3b349bd1f975
 RUN echo hello
