@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-jzwb-tenant/build-suite-component-update-irka/multi-component-parent-tpst@sha256:487547d531bf6be8a0db083a7a98b5a7e44942931ed0e32a280ae5911b21f733
+FROM quay.io/redhat-appstudio-qe/build-e2e-jzwb-tenant/build-suite-component-update-irka/multi-component-parent-tpst@sha256:20f41302f01b92ab11813ae2d1f5697e53854fb15dc901d4134ae49475e77a83
 RUN echo hello
