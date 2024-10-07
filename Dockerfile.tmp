@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-aeiv-tenant/build-suite-component-update-ojls/multi-component-parent-rxos@sha256:f88b3d95c0bc435fda6d1abf6e91a69a72588fae9dbb1661684f1c9fe4d00e45
+RUN echo hello
