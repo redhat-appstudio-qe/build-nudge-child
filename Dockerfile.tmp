@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-fxwm-tenant/build-suite-component-update-fypn/multi-component-parent-lrcy@sha256:a83e280f774fe72e646ccd640a0d58742ab265a8fce66cf1d40aa3defd8b4a8b
+FROM quay.io/redhat-appstudio-qe/build-e2e-fxwm-tenant/build-suite-component-update-fypn/multi-component-parent-lrcy@sha256:db009650fbb5948e681dc078dcf36b08f437145cc767aa2fbb6f9281b8c5766a
 RUN echo hello
