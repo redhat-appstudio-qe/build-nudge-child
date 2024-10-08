@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-epoc-tenant/build-suite-component-update-hrax/multi-component-parent-zdjf@sha256:61e0270e96d661d1adbe18d2e643006a7fb9b7c4ce2e0fbd228d2a4dd1b63f6c
+RUN echo hello
