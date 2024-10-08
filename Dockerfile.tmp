@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lxch-tenant/build-suite-component-update-casu/multi-component-parent-ywns@sha256:421a25bee4ab68df74c9e85285973220731c93ffc2607cdbb40fc2c9b1b11092
+RUN echo hello
