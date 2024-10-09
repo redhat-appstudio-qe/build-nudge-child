@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ouqf-tenant/multi-component-parent-smfc@sha256:f0d84ce662be1badf4424973ef88d35f504b9770061ac665d1ead7385d2e1ba4
+RUN echo hello
