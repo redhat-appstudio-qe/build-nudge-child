@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jwsv-tenant/multi-component-parent-rcpa@sha256:85957be5b05cc857c2a3efd6276a7280072a788abb77fb640e8af9f6a41e3c7f
+RUN echo hello
