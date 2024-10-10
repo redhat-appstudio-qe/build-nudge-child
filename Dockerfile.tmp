@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fnjf-tenant/multi-component-parent-arnr@sha256:8cad29f391bf025156b43b5c96e1b66a2151b57bd94987af23f6b87b56f0af64
+RUN echo hello
