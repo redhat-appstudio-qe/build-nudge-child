@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gmry-tenant/multi-component-parent-ktuf@sha256:826f52e01bf3a08042a62da40b4337f43e870b064827dca0066997dfbd9bce98
+FROM quay.io/redhat-appstudio-qe/build-e2e-gmry-tenant/multi-component-parent-ktuf@sha256:8628539a1574d2fdf8f8c281cc3a1d9d9301c60495677aa374f7f36854f1e971
 RUN echo hello
