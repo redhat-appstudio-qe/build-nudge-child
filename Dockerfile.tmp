@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tmld-tenant/multi-component-parent-ttsh@sha256:31f1121abd98d46bdacaa302ab1ce2aea1bbbbe3959bb668f6c0a167fb6ac1ee
+RUN echo hello
