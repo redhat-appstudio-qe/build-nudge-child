@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-smiw-tenant/multi-component-parent-ojtr@sha256:8fc98d0b4c3b11390a9334627339b55e43c5d77dfc8a38cbd13391d0251fb684
+RUN echo hello
