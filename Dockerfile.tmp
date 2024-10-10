@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dikr-tenant/multi-component-parent-emjn@sha256:7fc3ef67d417fc8fef821bf7e1b4fa9ee10ee6879babab618f71afb5056a6836
+RUN echo hello
