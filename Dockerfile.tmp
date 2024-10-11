@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tylv-tenant/multi-component-parent-cplv@sha256:28c3f0bfa3692f918c169a8c92d75cc56e1dfc430516ae00e9300d5ad8ced7d5
+FROM quay.io/redhat-appstudio-qe/build-e2e-tylv-tenant/multi-component-parent-cplv@sha256:6dde25a3f71e6fad143b4d69e983a9e23202dc5048749245d926ad6b543d54bb
 RUN echo hello
