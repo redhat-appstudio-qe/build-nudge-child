@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-katc-tenant/multi-component-parent-yjkf@sha256:847cad3e172a504d11022d5509b23f91863848bab5ffa83548ca09c565c3bdbe
+RUN echo hello
