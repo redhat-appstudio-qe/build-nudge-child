@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ieky-tenant/multi-component-parent-qtlp@sha256:a55fbfd4367c5bdf149e0b22652861eaa50b98bdc046d8ab8f026cf50946313a
+RUN echo hello
