@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ndpn-tenant/multi-component-parent-lghe@sha256:9d32a58bc7d3b3d89531c157d2ce54d6813537548a7ba91521d2bd6d1a5facad
+RUN echo hello
