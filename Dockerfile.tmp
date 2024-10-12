@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wduc-tenant/multi-component-parent-rvov@sha256:c716af1ff25788a076b50db6beda87ae0de77e0c47312e382017b9b0cfcd60a4
+FROM quay.io/redhat-appstudio-qe/build-e2e-wduc-tenant/multi-component-parent-rvov@sha256:6e5e14fd1fc4f500a9d72baaa4a54103bdd3b49df9dd0b1cece343f472b14852
 RUN echo hello
