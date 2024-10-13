@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nmzo-tenant/multi-component-parent-psqa@sha256:4dbf82380ed94ecd76106c65e7ab812d8cad193e657ad33653f10bc6a51b3e28
+RUN echo hello
