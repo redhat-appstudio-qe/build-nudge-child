@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bbvi-tenant/multi-component-parent-dete@sha256:3df5fc12dd0447651c75ea62e1bce8aad8c59526861ff41b9f2194a006593211
+FROM quay.io/redhat-appstudio-qe/build-e2e-bbvi-tenant/multi-component-parent-dete@sha256:612e294189a576232a604526ce16db8c0bc2ed26617a73545b3cabe7f423537c
 RUN echo hello
