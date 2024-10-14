@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-biac-tenant/multi-component-parent-uxat@sha256:38df15c7a18e029c94c2940b4a398d6c968f2c68d48ede5194091b121d9039d5
+FROM quay.io/redhat-appstudio-qe/build-e2e-biac-tenant/multi-component-parent-uxat@sha256:e0b0684a669ec5c33b3822db451729e1a4f0ccfdce4cfe34bfffac776f35820b
 RUN echo hello
