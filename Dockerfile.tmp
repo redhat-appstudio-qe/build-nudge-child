@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wfun-tenant/multi-component-parent-qbwd@sha256:4c4919a239162e8f2e32057cdeff80c6c678799ec040c1e7865d98f9f90dfa8f
+FROM quay.io/redhat-appstudio-qe/build-e2e-wfun-tenant/multi-component-parent-qbwd@sha256:5657a8f29d23fac3d7abdb4677d0d4bc7db5abe01719674079727ed61a90dfe7
 RUN echo hello
