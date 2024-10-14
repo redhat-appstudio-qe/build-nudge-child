@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ohaq-tenant/multi-component-parent-dwtp@sha256:595bc8461be7dbddee41d6a3e33d79a29e05e354bbfcc0c6bc533c98b5dd52c6
+FROM quay.io/redhat-appstudio-qe/build-e2e-ohaq-tenant/multi-component-parent-dwtp@sha256:2fa006b52881b377a7761cbda58481d80fb60a65a107b4f62b2f2a28873abf14
 RUN echo hello
