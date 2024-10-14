@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-teik-tenant/multi-component-parent-toit@sha256:04c32c3edc9880fa746010b01f2562be24a817d76846d4e2f28cacad20644243
+RUN echo hello
