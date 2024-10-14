@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dipe-tenant/multi-component-parent-hrrc@sha256:f661cfc9c6693b2941a4791502cf8e9963363812febc100018cf2e75a6202e69
+FROM quay.io/redhat-appstudio-qe/build-e2e-dipe-tenant/multi-component-parent-hrrc@sha256:70afeb63236ceefa01a16c6a7455a866f24629a482871b255316a7ee10648843
 RUN echo hello
