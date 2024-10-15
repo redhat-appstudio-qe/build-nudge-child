@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bbop-tenant/multi-component-parent-sfok@sha256:d1622128417d0a4e5baa18e9df069505c7450e62d4c24604ecd67ff7cb629a8e
+RUN echo hello
