@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mfly-tenant/multi-component-parent-bfwb@sha256:7aac649d7100906aac43fcaa8218e513a9dd272460dbfb05cd9624de17275fb0
+RUN echo hello
