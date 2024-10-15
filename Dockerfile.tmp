@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vuda-tenant/multi-component-parent-ucpd@sha256:e0d578139c097baf6b61420944668e3a068de2376015e1308e23a143c6b60679
+FROM quay.io/redhat-appstudio-qe/build-e2e-vuda-tenant/multi-component-parent-ucpd@sha256:468962d52fe29385508d66ef661868b2154c9726e0a29c028fd153c81e0f8d92
 RUN echo hello
