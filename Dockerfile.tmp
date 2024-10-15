@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jmtz-tenant/multi-component-parent-rkvv@sha256:9b6f3e8441d7fa7f53c298dbe13129f39f08dd8bfa422dd05dd77fe816800110
+RUN echo hello
