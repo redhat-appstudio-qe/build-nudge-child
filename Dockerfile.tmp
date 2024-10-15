@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nuka-tenant/multi-component-parent-rsso@sha256:e0e179bbce4ada79023f158ed462d402e34a5c0f98aaec8d40752e5cf622f89b
+RUN echo hello
