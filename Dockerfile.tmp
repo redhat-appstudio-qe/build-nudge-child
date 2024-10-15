@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-edcg-tenant/multi-component-parent-cfxd@sha256:439d9a70c5dd43ecf85b6c218ce7894e0307a7652b5dadf4f52622985f44cb02
+RUN echo hello
