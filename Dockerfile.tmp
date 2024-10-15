@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vlrf-tenant/multi-component-parent-ektb@sha256:b5f1d23d1651ec72ca66d03c6be24f1023bfe67276f32e05aed0b5ef4806b698
+RUN echo hello
