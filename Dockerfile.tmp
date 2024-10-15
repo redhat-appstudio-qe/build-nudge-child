@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tkca-tenant/multi-component-parent-lczg@sha256:659d721c102796a0714e9854c1ead757a6383128a63270502688eaa30a556583
+FROM quay.io/redhat-appstudio-qe/build-e2e-tkca-tenant/multi-component-parent-lczg@sha256:2a8b76f89f2240b0bb993223a59fc6af3aa4ced576e8efb57feda5063f8bf3a3
 RUN echo hello
