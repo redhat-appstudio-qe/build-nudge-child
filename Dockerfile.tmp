@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ilep-tenant/multi-component-parent-ywic@sha256:cdc5a512b8a7acb6aee95b5de0500ce4a1920984d97739909316772f19e47dea
+RUN echo hello
