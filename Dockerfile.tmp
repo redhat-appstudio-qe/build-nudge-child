@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rtsa-tenant/multi-component-parent-vqks@sha256:9963b8879170ee7105f41577fe21e21cd30fdeb777be3e259fa2cea99b3bc81e
+RUN echo hello
