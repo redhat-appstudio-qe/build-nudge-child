@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lkbm-tenant/multi-component-parent-uria@sha256:3dc1fb021c9532913e972a69e2ff919d7ba64ff7d56b690a78cb9ad8129129a1
+RUN echo hello
