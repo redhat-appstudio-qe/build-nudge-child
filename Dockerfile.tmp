@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-zflf-tenant/multi-component-parent-jqtp@sha256:0cb0169dc6597a7cd762a400c2795c14dafd3e6731e3a851f3f16da3af9ba383
+FROM quay.io/redhat-appstudio-qe/build-e2e-zflf-tenant/multi-component-parent-jqtp@sha256:720a4c3c83d01927ca1e4ec8d73af63ee40328f3a4cfd7b2d59d6dd7badfd6b3
 RUN echo hello
