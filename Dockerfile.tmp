@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-unlw-tenant/multi-component-parent-wism@sha256:af8402bca231bd3c9c1a4482178e31148f1cc336e6a4f51abca85735e4772686
+FROM quay.io/redhat-appstudio-qe/build-e2e-unlw-tenant/multi-component-parent-wism@sha256:9370b5a4cb28b0098e00a2f06c31fd11b3ffad43667d2a87ed54f3f651ef1c6d
 RUN echo hello
