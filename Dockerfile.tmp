@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-odrm-tenant/gh-multi-component-parent-tboz@sha256:27107768901c517f0eb0208e7eb5408a8629a2a7dda5d439e6d395983d2cd237
+RUN echo hello
