@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bion-tenant/gh-multi-component-parent-dknc@sha256:14bcd69cc675c6c488ed0cb3d68e57e18cfceddd72c74830fac0902b5057136e
+RUN echo hello
