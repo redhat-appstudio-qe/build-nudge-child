@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-aocd-tenant/gh-multi-component-parent-lutx@sha256:a599a897fdef1612be5cbd24f302f742d2bd6906df062c43c44b5a07a68a22af
+RUN echo hello
