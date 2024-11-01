@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wslp-tenant/gh-multi-component-parent-ojns@sha256:572663a6b70cf75f4bb267640379ae6ce8cc5c0dfde99533179b6ff0892ad644
+FROM quay.io/redhat-appstudio-qe/build-e2e-wslp-tenant/gh-multi-component-parent-ojns@sha256:14f4675f78066f65fcbf1f8b8e35e9141bf54d1dcb5f66da417714c5c8bb4b46
 RUN echo hello
