@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vaje-tenant/gh-multi-component-parent-sdmr@sha256:75c53e274b948edff5092ef596c1b95b7b08ebd6c76f59faf5157382dddcbfe8
+RUN echo hello
