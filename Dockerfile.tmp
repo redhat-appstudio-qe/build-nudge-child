@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tulp-tenant/gh-multi-component-parent-mdtb@sha256:73bde17a5fc876d67b96b57fdcb8324e3941dca2e7ef09f47bf01e676536771d
+FROM quay.io/redhat-appstudio-qe/build-e2e-tulp-tenant/gh-multi-component-parent-mdtb@sha256:2b9c90a5d2024377b659a7cb0d288a524cbb0d9df03819da7bc1c24979acf952
 RUN echo hello
