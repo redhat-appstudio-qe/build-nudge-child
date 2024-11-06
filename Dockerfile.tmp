@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-sock-tenant/gh-multi-component-parent-gfka@sha256:8f4a03501d5bd6bc6e0a7f17ae44bbf279bd97094eae9c5f7c05238f44ed4dcc
+RUN echo hello
