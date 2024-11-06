@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-sxmp-tenant/gh-multi-component-parent-lfbi@sha256:2c42e8bfd92f92861eab6362995cd7acea2f412e854f3b939235725a2b13f6b3
+RUN echo hello
