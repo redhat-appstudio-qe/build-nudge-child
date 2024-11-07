@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tark-tenant/gh-multi-component-parent-lkmm@sha256:6a31fab692baad91ce6a7294c3ba0943b2039689e241736e9fad6f8006b4df8b
+RUN echo hello
