@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tgty-tenant/gh-multi-component-parent-wpxs@sha256:7c1ee9118d6a508c689c24e82c9af9f2cdf059ae839e601931fafc04ae2fee1d
+RUN echo hello
