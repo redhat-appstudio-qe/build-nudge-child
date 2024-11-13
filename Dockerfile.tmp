@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-apks-tenant/gh-multi-component-parent-zfmh@sha256:6a2086233a5216476a3d4876e943b4a7ce23a90a1e31f767030c5575a0180a9a
+RUN echo hello
