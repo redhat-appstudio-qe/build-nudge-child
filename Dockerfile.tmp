@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-slax-tenant/gh-multi-component-parent-fone@sha256:c34ab68f310290d569824a9532c891d0d6b8fbc4d108999be125fbc4bc36d5d0
+RUN echo hello
