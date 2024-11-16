@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-csga-tenant/gh-multi-component-parent-empa@sha256:8b911c5502944be24c66e70f469664221d1d1733e026a18870047aeed4c28bb5
+RUN echo hello
