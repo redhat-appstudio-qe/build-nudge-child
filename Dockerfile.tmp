@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cili-tenant/gh-multi-component-parent-glxn@sha256:165db38df9c0951d0c0ecd9438cfc4e2070cec5020a4b6eb467074a859130e49
+RUN echo hello
