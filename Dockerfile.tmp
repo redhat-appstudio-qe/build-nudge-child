@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-taom-tenant/gh-multi-component-parent-jzeg@sha256:42f96130e3f212f34647ce3556243e5837c74c57fdc12b4563e31230c165b7cb
+RUN echo hello
