@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-orfy-tenant/gh-multi-component-parent-dria@sha256:7cea63bd19b1e05132783057cadfb0cf6c0b3c979ac46a6169c184bb5263284e
+RUN echo hello
