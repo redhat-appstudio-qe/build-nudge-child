@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-goho-tenant/gh-multi-component-parent-jgfu@sha256:667c530a473eaf7e344713fdba3b89f4b323104913ba3fce5ea69cb0ea9eaf1d
+RUN echo hello
