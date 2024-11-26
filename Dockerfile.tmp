@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dyqy-tenant/gh-multi-component-parent-yvrw@sha256:8ce38e24b623e9c1f24074bd8839ac19728d8ebc137752379a19a62d8af115fd
+FROM quay.io/redhat-appstudio-qe/build-e2e-dyqy-tenant/gh-multi-component-parent-yvrw@sha256:852cc108d135f5076d72b17f44c0de1aa474a10decda15244dfaa8b23f1cd820
 RUN echo hello
