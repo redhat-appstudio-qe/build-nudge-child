@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ovut-tenant/gh-multi-component-parent-avsu@sha256:3b69f829d6f6dc0aef85d68633a536a8e169a760d0ad9f9972ef7bd2bc88f4e5
+RUN echo hello
