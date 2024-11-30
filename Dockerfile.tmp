@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-psbt-tenant/gh-multi-component-parent-leaq@sha256:262a2ce44b5ac41d7fcac0da87dfca4408b5a77af82f99462118787b3a2670db
+RUN echo hello
