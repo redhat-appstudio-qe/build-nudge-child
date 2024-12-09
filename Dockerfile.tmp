@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-anja-tenant/gh-multi-component-parent-tikn@sha256:d4895c283a11f65b6e56c59dd60fb496afdcc892ac2641f307f73ed32419a9a1
+RUN echo hello
