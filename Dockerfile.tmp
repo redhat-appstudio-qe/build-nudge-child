@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-uera-tenant/gh-multi-component-parent-ifpn@sha256:e5687ad7e4a62917276f80a6f57859d008c5f58f5da7ee87acac579b04777480
+RUN echo hello
