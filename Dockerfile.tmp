@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zacy-tenant/gh-multi-component-parent-mtvs@sha256:4cdd478814f987984110bb9b5f1870920f3617916f1b44f9aa14dc74d971c16c
+RUN echo hello
