@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wevo-tenant/gh-multi-component-parent-dumb@sha256:5cf71499fbd70987eeb7000de71ca7569b4991bb37ed3be08382c57cbce86994
+RUN echo hello
