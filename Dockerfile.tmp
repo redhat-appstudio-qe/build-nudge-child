@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fugi-tenant/gh-multi-component-parent-ecdx@sha256:1edd37f5e89b27ab02f23bd5d179f04f8fc9d9cef3a2317475f65897ab4ac5d7
+RUN echo hello
