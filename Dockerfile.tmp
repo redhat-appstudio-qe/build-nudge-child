@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hixm-tenant/gh-multi-component-parent-gxpa@sha256:4ca4f4c1e46efe3b9b0b0dd5edb1ca697905ec1e349cc8821454d9403708d6e8
+RUN echo hello
