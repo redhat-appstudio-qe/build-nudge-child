@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-yokg-tenant/gh-multi-component-parent-ipqw@sha256:9b24627a56b3e6ec89b3d3f82fa01ef383b43e458e6c347a226a4fa9d36d0435
+RUN echo hello
