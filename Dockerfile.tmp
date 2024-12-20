@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-voko-tenant/gh-multi-component-parent-gdzn@sha256:9636740fef491fd5380bca02add37ef703f2f4b659f74463990b47758f09807f
+RUN echo hello
