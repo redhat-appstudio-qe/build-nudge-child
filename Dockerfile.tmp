@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-frey-tenant/gh-multi-component-parent-pkux@sha256:c04b5276c3a0c0d02f9653528a3d9f8eb07916144036f7a257c9bd27dbfa7bb4
+RUN echo hello
