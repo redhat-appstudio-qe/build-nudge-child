@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rdfk-tenant/gh-multi-component-parent-vlmp@sha256:f092bb2dc5aba2c8a739fe04453ee59c4f303c7fae8059870a4f780eb3aec1c3
+RUN echo hello
