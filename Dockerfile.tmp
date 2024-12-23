@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hoxy-tenant/gh-multi-component-parent-upgl@sha256:9db3bc89336f5fe48db0af55aaa5c0a18a8143540cd9aa4912e007d3d8831cc5
+FROM quay.io/redhat-appstudio-qe/build-e2e-hoxy-tenant/gh-multi-component-parent-upgl@sha256:bd77bb6666cab0d4146351ab20fe6480dd958498b45fe3b49ce836f738b78ad4
 RUN echo hello
