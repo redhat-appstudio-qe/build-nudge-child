@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vnof-tenant/gh-multi-component-parent-chmv@sha256:4a8b01fee0670f16546547ffda7c55c35bff431ef02732ac24836240e27a3ee0
+RUN echo hello
