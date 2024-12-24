@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lvov-tenant/gh-multi-component-parent-almp@sha256:e549ced6ee395fcbd1a1eccf7dc957b0c99d09ae76317ec88ea516cee1f9ff07
+RUN echo hello
