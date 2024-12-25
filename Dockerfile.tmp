@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-icbh-tenant/gh-multi-component-parent-pnvr@sha256:711ede83d59ffedd1af7d1da74760247617f56ef4d5d91480da33f2a2ae105d2
+RUN echo hello
