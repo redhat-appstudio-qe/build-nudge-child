@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tiln-tenant/gh-multi-component-parent-wtmt@sha256:6fb612d5503d41549f207c3f3070de5f65b599787df4aff17c60e58a7a66c8a4
+RUN echo hello
