@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-zorc-tenant/gh-multi-component-parent-yspy@sha256:fd189e60a5d1501359e82aef656ec0065584bce1617821d3032c0330d9877cc4
+FROM quay.io/redhat-appstudio-qe/build-e2e-zorc-tenant/gh-multi-component-parent-yspy@sha256:e290f67e9e6963c21e2c8a2108d6724781a1e215830117e33472f4b3151fd4b0
 RUN echo hello
