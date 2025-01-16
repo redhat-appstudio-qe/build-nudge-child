@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-zopo-tenant/gh-multi-component-parent-knsl@sha256:58fceedea9d6cdeac2b79f6ab6f62ce725eae53f837750be45f1522f080681a1
+FROM quay.io/redhat-appstudio-qe/build-e2e-zopo-tenant/gh-multi-component-parent-knsl@sha256:31074559e0dcb7197c94bd9b42e8e1ec2b53f3018669a642cd4d77ef1e9892f6
 RUN echo hello
