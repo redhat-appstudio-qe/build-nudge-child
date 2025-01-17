@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-roms-tenant/gh-multi-component-parent-lufm@sha256:dbdff7fa80cb6ea72ce4336ecc97d942a72d78f4ac0b00cdb5b9860123e34673
+RUN echo hello
