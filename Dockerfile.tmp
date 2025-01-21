@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jcnv-tenant/gh-multi-component-parent-hvpu@sha256:4fcfb702fc420fe22094de0f8d320b22e8d0323049cd8f84e179476b9feb62ea
+RUN echo hello
