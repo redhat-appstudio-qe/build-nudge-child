@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-wrik-tenant/gh-multi-component-parent-pduk@sha256:be1960d277fffbd92103acee9f9252c9a9d72d7d4efcf0f0f0fba6cd86931035
+FROM quay.io/redhat-appstudio-qe/build-e2e-wrik-tenant/gh-multi-component-parent-pduk@sha256:4e6e7d2dd68a16175431e54903fd3d0146e22007e66f8f6c63462b42b061f67a
 RUN echo hello
