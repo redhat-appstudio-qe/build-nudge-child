@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fygy-tenant/gh-multi-component-parent-ispr@sha256:4ba2066cc6d2ed6dda769f3af3a31c33cc079c3462bb35e496fc265782ba3ddb
+RUN echo hello
