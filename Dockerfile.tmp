@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tixl-tenant/gh-multi-component-parent-meok@sha256:d2fbd14d917488fb240790f37f7a1c9482d33325124807bea0288d423c2396bf
+RUN echo hello
