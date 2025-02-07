@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-sidi-tenant/gh-multi-component-parent-wugp@sha256:7e11d38653c43f86b1417eeaf5d24df49bd0d73c11fd86439f2071374e28cdc0
+RUN echo hello
