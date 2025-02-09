@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-pyla-tenant/gh-multi-component-parent-otmz@sha256:6e8abf477993930b69368e31533596e01943ed1657abb725a72a382f1f045752
+FROM quay.io/redhat-appstudio-qe/build-e2e-pyla-tenant/gh-multi-component-parent-otmz@sha256:fb57308a793f310f58c9d83f777666840cb7ff30734e364099c11ebb7c702d83
 RUN echo hello
