@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-knun-tenant/gh-multi-component-parent-teum@sha256:1ffee265148238fb3e37c604b6be8803866a4ad1332896eb7951475cd8e4bc76
+RUN echo hello
