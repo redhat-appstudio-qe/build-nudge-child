@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zoup-tenant/gh-multi-component-parent-yoam@sha256:4ca1dfc4a26b9c2c02776aa04427b6a3c9225da6be2d7154a4e253cf413b6151
+RUN echo hello
