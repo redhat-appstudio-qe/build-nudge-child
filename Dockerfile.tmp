@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-riiq-tenant/gh-multi-component-parent-xmop@sha256:39d8ee4417b0a5b32ba08b564cca2ca996f15eb562b5cc0f7ec567d9f6cfe7f7
+RUN echo hello
