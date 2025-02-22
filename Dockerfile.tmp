@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dzim-tenant/gh-multi-component-parent-tedo@sha256:cd68131cb62f362f6231fcf456de4ed5dcfe5981a217d87f24d28534729dd669
+RUN echo hello
