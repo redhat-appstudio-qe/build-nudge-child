@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bmwm-tenant/gh-multi-component-parent-xkrn@sha256:861ee87d0b517415cdaf73028325cd323baba450781d46d535dadd2572fdfaf5
+RUN echo hello
