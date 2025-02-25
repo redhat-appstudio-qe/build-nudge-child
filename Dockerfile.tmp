@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zuns-tenant/gh-multi-component-parent-zcki@sha256:6e1e4fd3c045edf4bd204b6ce091276836a4ffe4615d93109ad840a1a7c3eb1d
+RUN echo hello
