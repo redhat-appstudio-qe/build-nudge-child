@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-luvo-tenant/gh-multi-component-parent-knfh@sha256:87620d2c06d35f8cfcc6b279474f5b6933938b102ee1adc485d8a03b06eeb873
+RUN echo hello
