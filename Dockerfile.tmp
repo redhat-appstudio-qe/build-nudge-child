@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gplv-tenant/gh-multi-component-parent-lglu@sha256:432129844aae3743739c0600513b95497e562aab881a7d828b017ebf67280ceb
+RUN echo hello
