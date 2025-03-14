@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tvbc-tenant/gh-multi-component-parent-psgr@sha256:dae82f80beb28e7d56e8da02a04364f1c21b8e3f6d1f0cf2e2eb0a53c4f7e96e
+FROM quay.io/redhat-appstudio-qe/build-e2e-tvbc-tenant/gh-multi-component-parent-psgr@sha256:c8a235f97d537c5e3a736e42e03b8ca55a194c1f647ecf0384b989e45a32bc54
 RUN echo hello
