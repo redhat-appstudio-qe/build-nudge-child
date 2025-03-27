@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tapf-tenant/gh-multi-component-parent-bkup@sha256:6513b904256b97e41ef23ef31b2657d6b6b73aaae7d7cc07d18f53f62b1160b2
+RUN echo hello
