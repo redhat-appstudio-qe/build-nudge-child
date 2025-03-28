@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wmsk-tenant/gh-multi-component-parent-veka@sha256:3e99ef24018bd6938ac24702043fe7366d70aeb1dd4ebd4da7ee31b9f221ce93
+RUN echo hello
