@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-zane-tenant/gh-multi-component-parent-fvtm@sha256:67313918dccf5f7c7dbc0e48e9e13b934ea1834f01995a825685068d3add10d1
+FROM quay.io/redhat-appstudio-qe/build-e2e-zane-tenant/gh-multi-component-parent-fvtm@sha256:79fd2e45a45ddde60f73162d38b0473342df4a8e5410dbf3dfef70d836c81fb0
 RUN echo hello
