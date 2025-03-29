@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-beor-tenant/gh-multi-component-parent-knob@sha256:c5535a18a8578cd367e1c8de89da1b73bd84f5ed1ea7637b455315a963856524
+RUN echo hello
