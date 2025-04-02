@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ssdi-tenant/gh-multi-component-parent-czyf@sha256:9e1f2cd34144a5878988560267dca9e61b44f2b3b5d79eacc8907c532b46c29d
+RUN echo hello
