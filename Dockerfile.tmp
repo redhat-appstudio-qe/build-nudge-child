@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-etkx-tenant/gh-multi-component-parent-vsus@sha256:5ba931f0f4223f29f98ec1c9f5816dc433e6dfa865187c995aac560f5f84e068
+FROM quay.io/redhat-appstudio-qe/build-e2e-etkx-tenant/gh-multi-component-parent-vsus@sha256:bcb4999380f839191da2ce2a83b2f6aa72d732fb8c97ac0ab0ab90df227b0d20
 RUN echo hello
