@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-adwa-tenant/gh-multi-component-parent-wdau@sha256:4527a793df021ac3b177aa8d9216efd7200e5f067a3e398fab7e1728cd9d424a
+RUN echo hello
