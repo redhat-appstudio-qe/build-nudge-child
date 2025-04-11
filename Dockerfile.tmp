@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jsxr-tenant/gh-multi-component-parent-fpam@sha256:9d0f4e28c7c3c9f7478c67dacd17708ebb3e6d6f10b8e51acec4d126fbe3740b
+RUN echo hello
