@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-goxi-tenant/gh-multi-component-parent-blqy@sha256:73bd6bd1b3f25e859e373b785b947baa547e28244f2b56b67ecc1e6a230bc7ce
+RUN echo hello
