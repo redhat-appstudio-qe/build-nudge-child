@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-exnc-tenant/gh-multi-component-parent-fprp@sha256:80a383a6b44acc81de7f954fd77e5c395c9291c31140ee0c310fb999855fada9
+RUN echo hello
