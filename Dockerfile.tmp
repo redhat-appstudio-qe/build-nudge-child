@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-ocgt-tenant/gh-multi-component-parent-omvr@sha256:5fec899e773ebee41b8573ad964f1f26d54b2a8fcad5977da8b1abda26257bf8
+FROM quay.io/redhat-appstudio-qe/build-e2e-ocgt-tenant/gh-multi-component-parent-omvr@sha256:60b45e4231e7e88e0c6f4f115a98a3fa499ec4fe5f1cf74cd4867066aa3198c4
 RUN echo hello
