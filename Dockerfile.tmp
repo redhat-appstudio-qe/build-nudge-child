@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-sovx-tenant/gh-multi-component-parent-opwg@sha256:e6b821aaf1c5b5f55b4d52fad849aa5183c8f60a344a44cefc1110bb2a4bbe3f
+RUN echo hello
