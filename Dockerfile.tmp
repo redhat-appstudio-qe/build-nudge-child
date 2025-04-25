@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-osav-tenant/gh-multi-component-parent-cksf@sha256:12b8478e7df394807fbe2b83d60a11c77fd9d1b753468c71674975451909cd07
+RUN echo hello
