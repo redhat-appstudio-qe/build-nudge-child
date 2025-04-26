@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-erpa-tenant/gh-multi-component-parent-zsvt@sha256:a6ff52607ec43f9464f2ae7e7f9d8742d10d967bd620e595d3458991019da36e
+FROM quay.io/redhat-appstudio-qe/build-e2e-erpa-tenant/gh-multi-component-parent-zsvt@sha256:bca3d2a3c666a3221ec06f7993c3f6bca23209c2232aa2e7427c1e0b46479379
 RUN echo hello
