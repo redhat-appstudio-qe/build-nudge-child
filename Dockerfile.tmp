@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-zfdt-tenant/gh-multi-component-parent-ropt@sha256:a39d83081d3c16bd0880c4e68fa3319494bef3e4a2969f6b7cc5e9001090a736
+RUN echo hello
