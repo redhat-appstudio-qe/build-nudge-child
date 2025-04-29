@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-eleb-tenant/gh-multi-component-parent-cbmz@sha256:61a1a1b10f641ee2868987d0c9cf017f0ebc962c3781e9460c3cee2c99e3bcd3
+RUN echo hello
