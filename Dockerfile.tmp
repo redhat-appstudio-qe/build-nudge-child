@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nnjt-tenant/gh-multi-component-parent-lpct@sha256:0fd5a0f6af476af2114e0819031a5677a04b4cdc631a026a3320c208ee4eeda6
+RUN echo hello
