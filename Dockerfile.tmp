@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rsik-tenant/gh-multi-component-parent-zbtu@sha256:bc61b86f85502d66a51840158c07ca983c478882738ec4cd9a31862666e6f0a5
+RUN echo hello
