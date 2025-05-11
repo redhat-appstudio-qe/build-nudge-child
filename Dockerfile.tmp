@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-kuyk-tenant/gh-multi-component-parent-dtpx@sha256:3af9f9b091b85844d157a0d17d8058b31f46afc5c33831f9de52c037dc0659d6
+RUN echo hello
