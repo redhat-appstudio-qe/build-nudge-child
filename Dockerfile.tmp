@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-gtik-tenant/gh-multi-component-parent-tlog@sha256:f5a7b17798c05644d6a68300e0a87085259f6ec660f2673a012fdcd81ac26898
+FROM quay.io/redhat-appstudio-qe/build-e2e-gtik-tenant/gh-multi-component-parent-tlog@sha256:39d4886752d8736b9b956c7798bfe923636a4fd66e4defa74b4b19960ecb012d
 RUN echo hello
