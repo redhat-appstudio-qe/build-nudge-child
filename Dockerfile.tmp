@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ikpi-tenant/gh-multi-component-parent-cdwv@sha256:6f61ac9d2d1f0d70f4019aece00e8e3870b420b91f574f6c3836fb1fcac16e8b
+RUN echo hello
