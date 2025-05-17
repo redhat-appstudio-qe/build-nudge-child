@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wnia-tenant/gh-multi-component-parent-gpoa@sha256:bac6dab8b25f8971a031b81fe11c44e5be01883c46798573ee5433c123d7710f
+RUN echo hello
