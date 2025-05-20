@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-buma-tenant/gh-multi-component-parent-teep@sha256:48e1f6848cd1e055161571a55eb1a1257ccec666ea7855e7d7a826823b6d5949
+FROM quay.io/redhat-appstudio-qe/build-e2e-buma-tenant/gh-multi-component-parent-teep@sha256:564ea2789aaf096abc5a17a99bf5040af870e5901b5b20cc17e7172d36264906
 RUN echo hello
