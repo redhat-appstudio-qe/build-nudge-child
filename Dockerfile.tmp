@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bspr-tenant/gh-multi-component-parent-uoep@sha256:1aa4934cf6a792d9965c1439e7b2a10db729ee30877b9564b4a416fe4cdfb30a
+RUN echo hello
