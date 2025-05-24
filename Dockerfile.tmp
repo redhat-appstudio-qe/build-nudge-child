@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-qtar-tenant/gh-multi-component-parent-ommz@sha256:f5ddfaea6ad35d5d34cfdbe7cab613ade8f6bd64e5fde9759f0fa86087167d20
+RUN echo hello
