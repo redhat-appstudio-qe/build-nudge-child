@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-sydy-tenant/gh-multi-component-parent-ozpf@sha256:aaec82d91784f0172f04275bb6c2e7831be4121f324258eef5bc57116b467c04
+RUN echo hello
