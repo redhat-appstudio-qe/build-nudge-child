@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vpnk-tenant/gh-multi-component-parent-byhb@sha256:f40648590b8dae2d9187285ea614fb61daaf3cc3c52a498c368c64eb4ad3cd31
+FROM quay.io/redhat-appstudio-qe/build-e2e-vpnk-tenant/gh-multi-component-parent-byhb@sha256:a33d6d5527a8beffc4770c08af3612d8eb578a6dd478cd1942f135f295f43255
 RUN echo hello
