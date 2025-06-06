@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-sntp-tenant/gh-multi-component-parent-enmb@sha256:bfc1d265b984c4e2a0d0253e4659277a16a2dfe10c3099f5ea4c11a7ecec7af2
+RUN echo hello
