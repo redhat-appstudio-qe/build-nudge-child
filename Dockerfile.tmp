@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gymx-tenant/gh-multi-component-parent-noxb@sha256:8673937c2a0d02991b88571f60680ce004732116f973d8c91bd2253426a20cf7
+RUN echo hello
