@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-hvol-tenant/gh-multi-component-parent-ncpr@sha256:73595c80781117f5a46f8fa25d58738ae7e2b450e3f5a607be9bd03d66a9452a
+RUN echo hello
