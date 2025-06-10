@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nnip-tenant/gh-multi-component-parent-mnsa@sha256:fcec9d6d1ceb53cadcf88f6062940121eda754b7a8c3e0ea75f5138086edcf81
+RUN echo hello
