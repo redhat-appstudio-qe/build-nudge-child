@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jksu-tenant/gh-multi-component-parent-jvlc@sha256:8c419a65e371e1a3abf53a021cb95a285c5c631457ae0b13a4f4b64f7a8fb85e
+RUN echo hello
