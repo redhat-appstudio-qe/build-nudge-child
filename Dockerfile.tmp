@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-dypa-tenant/gh-multi-component-parent-gdss@sha256:1b6313537b187ec38a4eaaef5e3fac1ab26ee055c519fa5f3dbb365fa408c58f
+FROM quay.io/redhat-appstudio-qe/build-e2e-dypa-tenant/gh-multi-component-parent-gdss@sha256:0e80a98d3ccdac2a08c8792575326caaa172f2789551a7beb2923af8b12f5118
 RUN echo hello
