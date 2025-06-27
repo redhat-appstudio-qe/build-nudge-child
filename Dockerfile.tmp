@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-sewi-tenant/gh-multi-component-parent-zbot@sha256:20da1b720f43fdd01bc373de9fbf97e556a56007bcf1255ceb2a70af249b80b8
+FROM quay.io/redhat-appstudio-qe/build-e2e-sewi-tenant/gh-multi-component-parent-zbot@sha256:085bca081c2a88e21d84adfae3a817c709ebb97b4c39ac80113ac7bc4cdfd7ad
 RUN echo hello
