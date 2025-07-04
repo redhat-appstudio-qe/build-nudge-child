@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-pynk-tenant/gh-multi-component-parent-lcns@sha256:f5fea822584052961a038cd7e637f6b0c2a67cf3573f519fdea000d93fd286f6
+FROM quay.io/redhat-appstudio-qe/build-e2e-pynk-tenant/gh-multi-component-parent-lcns@sha256:5a14bbf596b3037a01471b6130bb2933b8d42e98c12b17feda9643fc88bddcef
 RUN echo hello
