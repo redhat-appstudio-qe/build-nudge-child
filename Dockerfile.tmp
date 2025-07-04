@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ftdb-tenant/gh-multi-component-parent-rvme@sha256:12dbac66f9f3bed8b7f9d1ad56dccffd76de0de032b960e808fa21a80cd7bcf9
+RUN echo hello
