@@ -1,0 +1,2 @@
+FROM quay.io/psturc_org/build-e2e-ewcs/gh-multi-component-parent-yldh@sha256:f49fb00b3aa45a9f9347b9588edb711933d3436a2812fb5f780fd6cf85702cde
+RUN echo hello
