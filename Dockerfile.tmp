@@ -1,0 +1,2 @@
+FROM quay.io/psturc_org/build-e2e-gxnf/gh-multi-component-parent-jbar@sha256:eac13b40ccbb6c70a894c44b9cbc2f0c6c11d861910973559a73815723cfe13b
+RUN echo hello
