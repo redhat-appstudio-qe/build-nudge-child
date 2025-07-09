@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dzra-tenant/gh-multi-component-parent-jnas@sha256:85a77f2bfb4954020652141a74ea4d7774c0f6477aa9d4c049983f03a1447bc5
+RUN echo hello
