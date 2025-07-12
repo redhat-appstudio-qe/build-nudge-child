@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-mtbi-tenant/gh-multi-component-parent-glix@sha256:5bca5f916f784e1e6cbb05638d67eb7294c7dfd56f41f33051b731fd205412d4
+RUN echo hello
