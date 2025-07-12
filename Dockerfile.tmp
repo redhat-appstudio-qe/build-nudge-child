@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nfct-tenant/gh-multi-component-parent-fxsp@sha256:3d4a3baedabb9fc2bb5f706a966335a1f137f2fe9f957ab4fe0d2484f7849575
+RUN echo hello
