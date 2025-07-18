@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vulk/gh-multi-component-parent-nunh@sha256:ace0f370551bfa4b306f9fde0025892e162ea48cd8e284d01a35adda53c1c6ad
+FROM quay.io/redhat-appstudio-qe/build-e2e-vulk/gh-multi-component-parent-nunh@sha256:36f60c0c0f949cbfe231b4039cff44272f58ec9ab8103e4532b000d673ef0da2
 RUN echo hello
