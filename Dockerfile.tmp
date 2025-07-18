@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-umiw-tenant/gh-multi-component-parent-wrtn@sha256:5ec71611bd99e3fa4675f150f42e177a80ae30444c869e88b7a246dbb171a8f0
+RUN echo hello
