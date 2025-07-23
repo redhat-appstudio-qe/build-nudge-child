@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-cnor/gh-multi-component-parent-viqu@sha256:a69afaea9d6125d6419fa0a77e4f15ce8a7f66dfd0bbe880486b1bef44bd6bef
+RUN echo hello
