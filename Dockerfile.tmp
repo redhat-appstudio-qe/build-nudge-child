@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ueyc/gh-multi-component-parent-seam@sha256:b328759b5877c8f56a0b6fbb2939ac14f9bed8bf318bb828df692741b85f1e95
+RUN echo hello
