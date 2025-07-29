@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rdwl/gh-multi-component-parent-ldbn@sha256:4c93a6a575efdf36cc43a1d05c553e7dd7e519231135774e2c0672d8195016b4
+RUN echo hello
