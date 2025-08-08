@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rdog/gh-multi-component-parent-taux@sha256:ac2bfa326b4aeb31f81d905df99cf6074d4bdddfc9239afae67338efa87fe690
+FROM quay.io/redhat-appstudio-qe/build-e2e-rdog/gh-multi-component-parent-taux@sha256:8fd3ae54c056a91e1d0ab2922042099ee8a2901aaf8e48c648e356ee9d107aba
 RUN echo hello
