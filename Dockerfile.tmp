@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lshh/gh-multi-component-parent-wsno@sha256:7baec2e479b734d258e52681167932d9b86a83f6d777ed8577f46f7b55726455
+RUN echo hello
