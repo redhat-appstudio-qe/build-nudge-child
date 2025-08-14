@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-btpj/gh-multi-component-parent-pifx@sha256:c690bcd818dac88e4f86c983511e27f5256bd886991b252eda5aab0e3aadd21c
+RUN echo hello
