@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-darr/gh-multi-component-parent-nxes@sha256:264fcf701613c236ada06f875ee14f5af69d5e9b75abc5c13937d85bd609d5eb
+RUN echo hello
