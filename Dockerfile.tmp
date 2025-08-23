@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-okwa/gh-multi-component-parent-erot@sha256:ba5742c3a080f0dd1d84bfa81d2eb2d9e59d6cf412b4cb5897436fc5001b64f0
+FROM quay.io/redhat-appstudio-qe/build-e2e-okwa/gh-multi-component-parent-erot@sha256:78fe3f3e293e4914b112ec0e30cb33207bfa623af9a7d8e791873d46f9078da8
 RUN echo hello
