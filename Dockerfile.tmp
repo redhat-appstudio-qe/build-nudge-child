@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-kigp/gh-multi-component-parent-fmpv@sha256:7a6cc94b60272c1b533763e9a59d721e6a2098ed459fe6e4c5b03b5c3b47ca36
+FROM quay.io/redhat-appstudio-qe/build-e2e-kigp/gh-multi-component-parent-fmpv@sha256:2bd3dbed3558f9a917d026b96dddafff45be02e65ccc92d3bbffbc7726e1adcd
 RUN echo hello
