@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-marv/gh-multi-component-parent-sdls@sha256:983a696c85b51c8d349197d00657d639084e9e8a55691c33569f094d07a739ac
+RUN echo hello
