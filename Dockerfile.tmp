@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-vrra/gh-multi-component-parent-mlmp@sha256:de957bd7d2db9432f2a06856f80ef4af1d2a3ebd5e5f7252b27bad4cd78f1a20
+RUN echo hello
