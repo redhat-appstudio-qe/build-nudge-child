@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ixpd/gh-multi-component-parent-wepv@sha256:643abbf35172985cb39ced5e7291e72dffb20d4a33c7e8403aeb2e84dc87c367
+RUN echo hello
