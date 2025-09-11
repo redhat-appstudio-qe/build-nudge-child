@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-blao/gh-multi-component-parent-lsmm@sha256:a504d98264f0661e9594ce0e98a17da943ff9debfb22c1ec7244fdf7390628fa
+RUN echo hello
