@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-bcez/gh-multi-component-parent-beep@sha256:2028d7e5fc30e03769fcb66aae35ba7ffdd3215b419c28ff0297f45b2467fdf1
+FROM quay.io/redhat-appstudio-qe/build-e2e-bcez/gh-multi-component-parent-beep@sha256:31c28c5f1163ead56ee91f5affd06b1ee68b7bd937fa698e1d1de8fb4d183b24
 RUN echo hello
