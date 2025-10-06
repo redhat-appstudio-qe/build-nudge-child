@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ztum/gh-multi-component-parent-xttr@sha256:df9b95510c079775e9adfee3b3d1aea341adecf3b8a1325340c10158a4b92762
+RUN echo hello
