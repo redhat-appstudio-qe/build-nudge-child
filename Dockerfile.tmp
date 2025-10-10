@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-oqbp/gh-multi-component-parent-lfcu@sha256:2a5dfb000567522ad33e1363f6f4d68815bdc8c68e5ed05becfbd40491de2e75
+RUN echo hello
