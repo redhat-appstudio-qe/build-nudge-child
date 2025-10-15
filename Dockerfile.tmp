@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-cuta/gh-multi-component-parent-zcdr@sha256:84479479702ef320b772537c52e8be3da936765332f5e68dfd34eb8e99366333
+FROM quay.io/redhat-appstudio-qe/build-e2e-cuta/gh-multi-component-parent-zcdr@sha256:f92418d5dd57e35e3eaa5588398e43a456baaabf0c1458c58d6a244523ef96dd
 RUN echo hello
