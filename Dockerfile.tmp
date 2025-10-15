@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lypp/gh-multi-component-parent-gmka@sha256:5ccc41d165b02d3f78f7c1c9896f0890b7267b76a165e846b38f9c5bace378e9
+RUN echo hello
