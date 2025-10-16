@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tyns/gh-multi-component-parent-drts@sha256:2ed570d86b3daaa81e3e5ba12ea6135e9b2054374b3c39385a54a8f269eb3994
+RUN echo hello
