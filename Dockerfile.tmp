@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-msji/gh-multi-component-parent-snic@sha256:8c4f22a61b96c90407b4ac3c406f50c281c6b6882539b8eace749428693a85ae
+RUN echo hello
