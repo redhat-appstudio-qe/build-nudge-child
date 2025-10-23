@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-vekt/gh-multi-component-parent-opui@sha256:a2bfb35088ef147c3529c755d7e2fb3bbe08589dc2f36088a01e70c9ea4fd8e8
+FROM quay.io/redhat-appstudio-qe/build-e2e-vekt/gh-multi-component-parent-opui@sha256:dc8a8b4d5335634037e0cbe52e28626a3d1a6bde03560b9f7ea8e857a4cbf31b
 RUN echo hello
