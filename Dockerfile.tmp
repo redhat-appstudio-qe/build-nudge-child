@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-oovi/gh-multi-component-parent-fsbz@sha256:949786aaca6edf62f2300f9dd686a90343fe2b21162fc5c3585afa2d5d0deaa9
+RUN echo hello
