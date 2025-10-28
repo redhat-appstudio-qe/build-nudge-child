@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lvya/gh-multi-component-parent-nmpr@sha256:8ce61e97e774ad53b9b5152fe5d339b0641e7072497ea290c2a728b532a018f6
+RUN echo hello
