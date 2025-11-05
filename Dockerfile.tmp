@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ufcv/gh-multi-component-parent-spvp@sha256:5f10bce718854c13c8a2c07867827b454acbc991d2f1168dd04829382c3a8f40
+RUN echo hello
