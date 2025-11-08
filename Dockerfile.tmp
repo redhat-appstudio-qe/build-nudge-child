@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fnap/gh-multi-component-parent-zimn@sha256:495e152443c84b1cdabcfeecab4218063cd74fcf7e4bc4af7a46346788896e64
+RUN echo hello
