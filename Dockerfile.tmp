@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-tyce/gh-multi-component-parent-wddr@sha256:5610aeb5596a43de05a65d9a16d774645aef015f6ae49c09eb042556406d14f1
+FROM quay.io/redhat-appstudio-qe/build-e2e-tyce/gh-multi-component-parent-wddr@sha256:dc8601f73b2fc81e624533aa8ff6335f32aa67670f3b3134d49e03d596eb4ac2
 RUN echo hello
