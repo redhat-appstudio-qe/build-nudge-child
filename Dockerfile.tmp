@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-amkv/gh-multi-component-parent-pbpa@sha256:b9411e070a2c5dcc4f287d3ce7b0e369f252107d6afe31bc0e210977e0d38985
+FROM quay.io/redhat-appstudio-qe/build-e2e-amkv/gh-multi-component-parent-pbpa@sha256:308cbac119c16f317a17aa721c9286f2bc7cd33aa871c3da024614f0c0793ccd
 RUN echo hello
