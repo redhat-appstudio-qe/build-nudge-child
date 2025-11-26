@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wufi/gh-multi-component-parent-lzmy@sha256:74aad54ec812584b3dc556715ec094cd2fef9046f8bb8c70e2bc22c94566d31b
+RUN echo hello
