@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-wavi/gh-multi-component-parent-rpeu@sha256:2a57c53367ed1b949a473cd8f347ac88713b2e17d4f951b45b73f949e31255cb
+RUN echo hello
