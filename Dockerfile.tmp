@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gpsh/gh-multi-component-parent-ijpo@sha256:5411517353c118e19d140285b22cbf9808dfc8e04c4afaccb5be789f74fe7b88
+RUN echo hello
