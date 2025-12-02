@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-raki/gh-multi-component-parent-area@sha256:756da5763652b096c89ee527cda6536dcf70f31ead25623b048db8e312100066
+RUN echo hello
