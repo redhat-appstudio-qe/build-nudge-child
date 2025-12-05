@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-tovo/gh-multi-component-parent-zlds@sha256:29c9d7be09c1f90f76d19289a12a7ca1605c0d0d403cde11617ee0b8cb20a069
+RUN echo hello
