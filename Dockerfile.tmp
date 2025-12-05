@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-nkfs/gh-multi-component-parent-nhxl@sha256:07779787409a94550ae1c6ad8f64d4bba61af5f5048260e6c0ec8c4280c45c93
+RUN echo hello
