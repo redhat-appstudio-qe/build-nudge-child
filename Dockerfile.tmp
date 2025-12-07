@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-lfcp/gh-multi-component-parent-ramf@sha256:0cb5e30caed2a107ad37da06c27f43ab37483dfdfc4e1f3009b5b34016b8c621
+RUN echo hello
