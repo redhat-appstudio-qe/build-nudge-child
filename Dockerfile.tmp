@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-dmlh/gh-multi-component-parent-ibgi@sha256:f65636111dbad54354b06dff80a759cbabeffe1b782aa2e4430f0a79f7f8ada9
+RUN echo hello
