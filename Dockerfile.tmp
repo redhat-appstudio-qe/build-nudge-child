@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-buzo/gh-multi-component-parent-otus@sha256:227deac6e1a6d3d86316c8db8c7aa0ca2c46e60d35db512fbc2ff9f9288f6ca8
+FROM quay.io/redhat-appstudio-qe/build-e2e-buzo/gh-multi-component-parent-otus@sha256:49ce7e159df1fbe9eb7598f6c0ed21d2227896ebc4b3cefe3d61f14d466335fe
 RUN echo hello
