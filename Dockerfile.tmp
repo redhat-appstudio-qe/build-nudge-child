@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bkmi/gh-multi-component-parent-dvhd@sha256:0776eaff7854193b548c781acfa866a1ae0dfface03e7c072011ac487ec00e8c
+RUN echo hello
