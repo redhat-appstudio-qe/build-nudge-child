@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-pnib/gh-multi-component-parent-nfox@sha256:f511e4c597966516e25e679122f52f88acd269f21376ef8bd357e876792ca477
+RUN echo hello
