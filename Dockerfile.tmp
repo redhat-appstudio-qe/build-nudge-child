@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-jduc/gh-multi-component-parent-drir@sha256:e1fbbdccd17b65c15009b7cbd2fb6f47a949da51ee548e8f688513064d9bcace
+RUN echo hello
